@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Stefan Zweig an Arthur Schnitzler, 28. 7. 1923</title>
+            <title type="iso-date">1923-07-28</title>
             <author ref="pmb13212">Zweig, Stefan</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -48,10 +49,10 @@
          </seriesStmt>
          <sourceDesc>
             <correspDesc>
-               <sender full="yes">
+               <sender>
                   <persName ref="pmb13212">Zweig, Stefan</persName>
                </sender>
-               <addressee full="yes">
+               <addressee>
                   <persName ref="pmb2121">Schnitzler, Arthur</persName>
                </addressee>
                <placeSender>
@@ -102,7 +103,7 @@
                   <lb/>am <date>28. Juli 1923</date>.</dateline>
                <salute>Verehrter Herr Doktor!</salute>
             </opener>
-            <p>Ich empfange freudig Ihre Nachricht und brauche nicht zu sagen, dass ich Ihnen gern, wenn Sie mich rechtzeitig verständigen, im »<rs type="place" ref="#pmb230">österreichischen Hof</rs>« ein Zimmer reserviere. Ich hätte Sie lieber zu uns gebeten, aber wir sind durch die Gegenwart <rs type="person" ref="#pmb12543">Rollands</rs> besetzt. Das <rs type="place" ref="#pmb152">Hotel Europe</rs> ist aber momentan wirklich etwas kostspielig und Sie werden im »<rs type="place" ref="#pmb230">österreichischen Hof</rs>« ebenso zufrieden sein. Gestern und heute waren wir mit <rs type="person" ref="#pmb10815">Bahr</rs> und heute ging er in einem Zuge zur <geogName type="mountain" instant="false">Gaissbergspitze</geogName> hinauf. Es war ein rechtes Vergnügen, ihn so heiter und wohlgelaunt, wie seit Jahren nicht, zu sehen.</p>
+            <p>Ich empfange freudig Ihre Nachricht und brauche nicht zu sagen, dass ich Ihnen gern, wenn Sie mich rechtzeitig verständigen, im »<rs type="place" ref="#pmb230">österreichischen Hof</rs>« ein Zimmer reserviere. Ich hätte Sie lieber zu uns gebeten, aber wir sind durch die Gegenwart <rs type="person" ref="#pmb12543">Rollands</rs> besetzt. Das <rs type="place" ref="#pmb152">Hotel Europe</rs> ist aber momentan wirklich etwas kostspielig und Sie werden im »<rs type="place" ref="#pmb230">österreichischen Hof</rs>« ebenso zufrieden sein. Gestern und heute waren wir mit <rs type="person" ref="#pmb10815">Bahr</rs> und heute ging er in einem Zuge zur <geogName type="mountain">Gaissbergspitze</geogName> hinauf. Es war ein rechtes Vergnügen, ihn so heiter und wohlgelaunt, wie seit Jahren nicht, zu sehen.</p>
             <closer>In herzlicher Erwartung Ihnen entgegen und aufrichtig<lb/>ergeben Ihr<lb/>
                <signed>Stefan Zweig</signed>
             </closer>

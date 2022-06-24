@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Felix Salten an Hermann Bahr, 9. 2. 1904</title>
+            <title type="iso-date">1904-02-09</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -48,10 +49,10 @@
          </seriesStmt>
          <sourceDesc>
             <correspDesc>
-               <sender full="yes">
+               <sender>
                   <persName ref="pmb2167">Salten, Felix</persName>
                </sender>
-               <addressee full="yes">
+               <addressee>
                   <persName ref="pmb10815">Bahr, Hermann</persName>
                </addressee>
                <placeSender>
@@ -101,7 +102,7 @@
                   <date>9. II. 04</date>.</dateline>
             </opener>
             <p>
-               <salute>Verehrter lieber Freund, </salute> das thut mir sehr leid, dass Sie andauernd in so deprimirter Stimmung sind, denn es ist ein Zustand, der mehr als irgend eine Krankheit schmerzt. Glauben Sie nicht, dass <rs type="place" ref="#pmb219">Marbach</rs> daran schuld ist? Und der <geogName type="lake" instant="false" ref="pmb668">Bodensee</geogName>? An und für sich macht so ein Wasser nervöse Leute noch trauriger und alle Abende werden trüber und einsamer als sonstwo. Der <geogName type="lake" instant="false" ref="pmb668">Bodensee</geogName> aber hat mich wenigstens immer aufs äußerste verstimmt. Wenn Sie sich doch entschließen wollten, wo anders hinzugehen. Ich habe die ganze Zeit immer den Gedanken, dass hier eine Ihrer schönsten Eigenschaften: das Festhalten an einer Person, Ihnen vieles erschwert. Ich will damit gegen <rs type="person" ref="#pmb2216">Ortner</rs> gewiß nichts sagen, aber <hi rend="underline" n="1">gar so</hi> bedingungslos sollten Sie sich doch nicht in alles fügen, am wenigstem<!-- sic! --> in dieses über Sie verhängte <rs type="place" ref="#pmb219">Marbach</rs>. <rs type="person" ref="#pmb10955">Blei</rs> schreibt mir übrigens, er habe den <rs type="place" ref="#pmb219">Marbach</rs>er <rs type="person" subtype="implied" ref="#pmb18548">Direktor</rs> in <rs type="place" ref="#pmb45258">München</rs> gesprochen und von ihm erfahren, dass Ihre Herzsache <hi rend="underline" n="1">garnicht arg</hi> sei. Der <rs type="person" subtype="implied" ref="#pmb18548">Director</rs> hat den Eindruck, man müße mit Ihnen als Arzt den Pessimisten hervor kehren, sonst sind Sie zu einer ordentlichen Schonung nicht zu haben. Ich muß sagen, dass diese ganz gelegentliche, garnicht aufs »Wieder-sagen« berechnete Mittheilung <rs type="person" ref="#pmb10955">Blei</rs>’s mich doch in <unclear>jeder</unclear> Beziehung sehr beruhigt hat. Ich bin übrigens, was die Stimmung be<pb/>trifft, auch ziemlich unten. Jetzt plane ich eine g’schwinde Fahrt nach <rs type="place" ref="#pmb839">Cairo</rs> und hoffe mir eine Erfrischung davon. Mit meinen Arbeiten ist es nichts, langt knapp für die Feuilletons, die Einem ja im Grund doch keine Freude machen.</p>
+               <salute>Verehrter lieber Freund, </salute> das thut mir sehr leid, dass Sie andauernd in so deprimirter Stimmung sind, denn es ist ein Zustand, der mehr als irgend eine Krankheit schmerzt. Glauben Sie nicht, dass <rs type="place" ref="#pmb219">Marbach</rs> daran schuld ist? Und der <geogName type="lake" ref="pmb668">Bodensee</geogName>? An und für sich macht so ein Wasser nervöse Leute noch trauriger und alle Abende werden trüber und einsamer als sonstwo. Der <geogName type="lake" ref="pmb668">Bodensee</geogName> aber hat mich wenigstens immer aufs äußerste verstimmt. Wenn Sie sich doch entschließen wollten, wo anders hinzugehen. Ich habe die ganze Zeit immer den Gedanken, dass hier eine Ihrer schönsten Eigenschaften: das Festhalten an einer Person, Ihnen vieles erschwert. Ich will damit gegen <rs type="person" ref="#pmb2216">Ortner</rs> gewiß nichts sagen, aber <hi rend="underline" n="1">gar so</hi> bedingungslos sollten Sie sich doch nicht in alles fügen, am wenigstem<!-- sic! --> in dieses über Sie verhängte <rs type="place" ref="#pmb219">Marbach</rs>. <rs type="person" ref="#pmb10955">Blei</rs> schreibt mir übrigens, er habe den <rs type="place" ref="#pmb219">Marbach</rs>er <rs type="person" subtype="implied" ref="#pmb18548">Direktor</rs> in <rs type="place" ref="#pmb45258">München</rs> gesprochen und von ihm erfahren, dass Ihre Herzsache <hi rend="underline" n="1">garnicht arg</hi> sei. Der <rs type="person" subtype="implied" ref="#pmb18548">Director</rs> hat den Eindruck, man müße mit Ihnen als Arzt den Pessimisten hervor kehren, sonst sind Sie zu einer ordentlichen Schonung nicht zu haben. Ich muß sagen, dass diese ganz gelegentliche, garnicht aufs »Wieder-sagen« berechnete Mittheilung <rs type="person" ref="#pmb10955">Blei</rs>’s mich doch in <unclear>jeder</unclear> Beziehung sehr beruhigt hat. Ich bin übrigens, was die Stimmung be<pb/>trifft, auch ziemlich unten. Jetzt plane ich eine g’schwinde Fahrt nach <rs type="place" ref="#pmb839">Cairo</rs> und hoffe mir eine Erfrischung davon. Mit meinen Arbeiten ist es nichts, langt knapp für die Feuilletons, die Einem ja im Grund doch keine Freude machen.</p>
             <p>Der <rs type="org" ref="#pmb29767">akad. Verein</rs> will »<rs type="work" ref="#pmb31403">Wenn wir Toten erwachen<c rendition="#dots" n="2"/>
                </rs>« aufführen, was Sie ja wissen. <rs type="person" ref="#pmb10883">Berger</rs> hat ihnen die Regie abgesagt, <rs type="person" ref="#pmb2601">Jarno</rs> will nicht, und so haben sie mir die Regie angetragen. Was geschrieben sei? Ich will als nächste Vorstellung die »<rs type="work" ref="#pmb32288">Schwester Beatrix</rs>« von <rs type="person" ref="#pmb12156">Maeterlinck</rs>, mit <rs type="person" ref="#pmb2121">Schnitzler</rs>’s »<rs type="work" ref="#pmb30217">Tapferen Cassian</rs>.« Ich halte den »<rs type="work" ref="#pmb29985">Einsamen Weg</rs>« auch für das Beste, was <rs type="person" ref="#pmb2121">Arth</rs>. geschrieben hat. Auf die schönste Weise scheint mir in diesem Stück die Kunst <rs type="person" ref="#pmb11798">Ibsen</rs>s neu aufgenommen, wenn auch nicht fortgesetzt. Aber an dieser <rs type="person" ref="#pmb11798">Ibsen</rs>’schen Kunst der absolut inneren Steigerung, Spannung u. s. w. hat sich <rs type="person" ref="#pmb2121">Schnitzler</rs> selbst prächtig entfaltet. Wie sehr gibt übrigens der einsame Weg gerade meinem <rs type="work" subtype="implied" ref="#pmb31401">
                   <rs type="work" ref="#pmb29855">Reigen</rs> Feuilleton</rs> recht, und wie direct ließe sich an diesem Stück gerade – aus dem Gegensatz – der vormals in <rs type="person" ref="#pmb2121">Schnitzler</rs> thätige Trieb zur <anchor type="commentary" xml:id="KL572-2">Kleinkunst</anchor> nachweisen.</p>

@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Felix Salten an Arthur Schnitzler, 28. 3. 1906</title>
+            <title type="iso-date">1906-03-28</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -48,10 +49,10 @@
          </seriesStmt>
          <sourceDesc>
             <correspDesc>
-               <sender full="yes">
+               <sender>
                   <persName ref="pmb2167">Salten, Felix</persName>
                </sender>
-               <addressee full="yes">
+               <addressee>
                   <persName ref="pmb2121">Schnitzler, Arthur</persName>
                </addressee>
                <placeSender>
@@ -103,15 +104,15 @@
                </dateline>
             </opener>
             <p>
-               <salute>Lieber, </salute> dass wir eine Radtour machen könnten, ist mir heute wie ein absolutes Muß! Es wäre so schön 6–8 Tage irgendwo – durch die Welt zu gleiten, wo sie schön ist, und wo man wieder einmal so viel Behagen empfinden könnte, wie »einst im Mai« Denken Sie etwas Gutes aus, und ziehen Sie dabei in Betracht, ob wir nicht eine Gegend wählen wollen, die wir noch nicht kennen. <geogName type="mountain" instant="false">
-                  <unclear>Außiger</unclear> Gebirge</geogName>, <rs type="place" ref="#pmb432">Thüringen</rs>, Rhein, u. s. w. Ich bin aber auch mit <rs type="place" ref="#pmb423">Tirol</rs> oder <rs type="place" ref="#pmb43435">Schweiz</rs> (<rs type="place" ref="#pmb885">Lugano</rs> oder <geogName type="lake" instant="false" ref="pmb512">Genfer See</geogName>) einverstanden. Ihr Brief kam heute aber auch a tempo: es ist <subst>
+               <salute>Lieber, </salute> dass wir eine Radtour machen könnten, ist mir heute wie ein absolutes Muß! Es wäre so schön 6–8 Tage irgendwo – durch die Welt zu gleiten, wo sie schön ist, und wo man wieder einmal so viel Behagen empfinden könnte, wie »einst im Mai« Denken Sie etwas Gutes aus, und ziehen Sie dabei in Betracht, ob wir nicht eine Gegend wählen wollen, die wir noch nicht kennen. <geogName type="mountain">
+                  <unclear>Außiger</unclear> Gebirge</geogName>, <rs type="place" ref="#pmb432">Thüringen</rs>, Rhein, u. s. w. Ich bin aber auch mit <rs type="place" ref="#pmb423">Tirol</rs> oder <rs type="place" ref="#pmb43435">Schweiz</rs> (<rs type="place" ref="#pmb885">Lugano</rs> oder <geogName type="lake" ref="pmb512">Genfer See</geogName>) einverstanden. Ihr Brief kam heute aber auch a tempo: es ist <subst>
                   <del rend="overwritten">
                      <gap quantity="5" reason="illegible" unit="chars"/>
                   </del>
                   <add place="inline">seit</add>
                </subst> langem Winter wieder die erste Frühlingswärme, die erste Sonne wieder da, und alle Reisepläne, alles Reiseverlangen – »Wanderslust« – regt sich. An solchen Tagen hat auch <rs type="place" ref="#pmb168">Berlin</rs> seine Schönheit. An solchen Tagen würde übrigens auch <rs type="place" ref="#pmb918">Magdeburg</rs> oder <rs type="place" ref="#pmb37728">Genthinen</rs> nicht ohne Reiz sein. Ich überlege mir heute zum 20<hi rend="superscript">ten</hi> Mal, wie man es macht, sich ein ganz ein kleines Automobil zu kaufen. Geht aber leider im Moment nicht. Wenn ich die große Zeitung gegründet habe, <rs type="org" ref="#pmb29351">Neue freie Presse</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, eine Wochenschrift im <rs type="org" ref="#pmb29631">Zukunft</rs>-Stil und dann vier Blätter regiere, statt zwei (was ich armselig finde) dann werde ich, gewiss auch das langerflehte Auto haben. Inzwischen freu ich mich, wenn nur eine Radtour zustande kommt, und die übrigen Dinge, die ich für den Sommer vorhabe (<rs type="place" ref="#pmb44016">Holland</rs>, zu Wasser nach <rs type="place" ref="#pmb907">Kiel</rs>) Die Radtour könnte auch durch einige deutsche Städte gemacht werden, – <rs type="place" ref="#pmb856">Rothenburg ob. d. Tauber</rs> – <rs type="place" ref="#pmb734">Bayreuth</rs>, wozu man freilich jetzt schon die Sitze bestellen müsste. Das <anchor type="commentary" xml:id="KL373-1">
                   <rs type="place" subtype="implied" ref="#pmb959">dänische Seebad</rs>
-               </anchor>, das Sie vorhaben, verdrießt mich – wenn ich aufrichtig sein darf – immer. Weil ich <c rendition="#dots" n="2" place="center"/> aus wirthschaftlichen Gründen <c rendition="#dots" n="2" place="center"/> nicht hinkann, wenn ich schon einmal an der <geogName type="sea" instant="false">Ostsee</geogName> sitze, und weil ich mir denke, wenn uns ein mehrwöchiges Beisammensein schon beschieden sein könnte, dann ließe sich vielleicht doch auf <rs type="place" ref="#pmb43570">Dänemark</rs> verzichten. Der Unterschied ist nicht so groß, und Wälder gibt’s auch am diesseitigen Strand der <geogName type="sea" instant="false">Ostsee</geogName>.</p>
+               </anchor>, das Sie vorhaben, verdrießt mich – wenn ich aufrichtig sein darf – immer. Weil ich <c rendition="#dots" n="2" place="center"/> aus wirthschaftlichen Gründen <c rendition="#dots" n="2" place="center"/> nicht hinkann, wenn ich schon einmal an der <geogName type="sea">Ostsee</geogName> sitze, und weil ich mir denke, wenn uns ein mehrwöchiges Beisammensein schon beschieden sein könnte, dann ließe sich vielleicht doch auf <rs type="place" ref="#pmb43570">Dänemark</rs> verzichten. Der Unterschied ist nicht so groß, und Wälder gibt’s auch am diesseitigen Strand der <geogName type="sea">Ostsee</geogName>.</p>
             <p>Augenblicklich ist Wien durch M<hi rend="superscript">
                   <hi rend="underline" n="1">r</hi>
                </hi>

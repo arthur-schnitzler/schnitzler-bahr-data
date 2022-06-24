@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Tagebuch von Arthur Schnitzler, 14. 1. 1912</title>
+            <title type="iso-date">1912-01-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -81,7 +82,7 @@
                </anchor> (wegen <rs type="person" ref="#pmb11281">Hans H. Ewers</rs>
                <c rendition="#dots" n="3"/>): »Was sagen Sie zu dem <anchor type="commentary" xml:id="KD076-1">
                   <rs type="work" subtype="implied" ref="#pmb31695">Buch</rs>
-               </anchor> –?«) Mit <rs type="person" ref="#pmb10815">Bahr</rs>, während <rs type="person" ref="#pmb10986">Brahm</rs> zu Hause schläft, zur <geogName type="place" instant="false" ref="pmb94">Meiereiwiese</geogName> (Reste des Stafettenskilaufs). Über Vorlesungen und Vorlesungsprogramme. Unintimes Gespräch.– </p>
+               </anchor> –?«) Mit <rs type="person" ref="#pmb10815">Bahr</rs>, während <rs type="person" ref="#pmb10986">Brahm</rs> zu Hause schläft, zur <geogName type="place" ref="pmb94">Meiereiwiese</geogName> (Reste des Stafettenskilaufs). Über Vorlesungen und Vorlesungsprogramme. Unintimes Gespräch.– </p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs>, <rs type="person" ref="#pmb13648 #pmb13644">Bachrachs</rs>, <rs type="person" ref="#pmb23061 #pmb23062">Rappaports</rs> zurück.</p>
             <p>– <rs type="person" ref="#pmb13055">Wassermann</rs> liest in seinem Zimmer Frau <rs type="person" ref="#pmb13644">Bachrach</rs>, <rs type="person" ref="#pmb2753">Mimi</rs>, <rs type="person" ref="#pmb13653">Stephi</rs>, <rs type="person" ref="#pmb2173">Olga</rs> und mir den Anfang seines neuen kleinen Romans <rs type="work" ref="#pmb30359">Der Mann von 40 Jahren</rs> vor.– </p>
             <p>Nach dem Nachtmahl Billard mit ihm.</p>

@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Felix Salten an Arthur Schnitzler, 12. 6. 1901</title>
+            <title type="iso-date">1901-06-12</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -48,10 +49,10 @@
          </seriesStmt>
          <sourceDesc>
             <correspDesc>
-               <sender full="yes">
+               <sender>
                   <persName ref="pmb2167">Salten, Felix</persName>
                </sender>
-               <addressee full="yes">
+               <addressee>
                   <persName ref="pmb2121">Schnitzler, Arthur</persName>
                </addressee>
                <placeSender>
@@ -111,7 +112,7 @@
                   <hi rend="underline" n="1">r</hi>
                </hi>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb20902">Mandl</rs> haben Sie gehört, dass <rs type="person" ref="#pmb23918">Otti</rs> operirt wurde. Das war g<unclear>räss</unclear>lich schrecklich, obwol die ganze Sache an sich ja nichts bedeutet und glücklich verlaufen ist. Ich bleibe nun ungefähr acht Tage in <rs type="place" ref="#pmb50">Wien</rs> und fahre dann nach <rs type="place" ref="#pmb45258">München</rs>, zwei Tage, von dort nach <rs type="place" ref="#pmb484">Zürich</rs>, drei Tage, (<rs type="person" ref="#pmb3167">Felix</rs>) von da nach <rs type="place" ref="#pmb182">Paris</rs>, zwölf – 14 Tage und d’dann nach <rs type="place" ref="#pmb145">Köln</rs>, <rs type="place" ref="#pmb146">Frankfurt</rs>, <rs type="place" ref="#pmb883">Wiesbaden</rs>, <rs type="place" ref="#pmb872">Stuttgart</rs> – <rs type="place" ref="#pmb50">Wien</rs>. Im Juli werde ich im <rs type="place" ref="#pmb429">Salzkammergut</rs> und am <geogName type="lake" instant="false" ref="pmb430">Wörthersee</geogName> sein. Auch zu einer kleinen Radtour wäre ich bereit. Den größten Theil des August bin ich in <rs type="place" ref="#pmb50">Wien</rs>, mit Ausnahme einer kurzen Reise nach <rs type="place" ref="#pmb652">Prag</rs> und nach <rs type="place" ref="#pmb415">Aussee</rs>. Das ist Alles. Ich freue mich, dass Sie ein <rs type="work" subtype="implied" ref="#pmb29865">neues Stück</rs> haben, und hege künstlerisch eine ganz bestimmte Erwartung davon. Vielleicht läßt es sich machen, das <rs type="person" ref="#pmb2161">Bukovics</rs> mir die »<rs type="work" ref="#pmb29859">Marionetten</rs>« abtritt, d. h. wenn Sie mir das <rs type="work" subtype="implied" ref="#pmb29865">Stück</rs> geben wollen. Schrei<pb/>ben Sie mir darüber. <rs type="person" ref="#pmb10986">Brahm</rs> ist, wie Sie wissen, hier. Wir sahen uns im Theater, ohne uns zu grüßen. Es ist mir ja sonst ganz gleichgiltig, aber ich bereue jetzt, dass ich mich s. Z. doch habe bereden laßen, ihm <rs type="work" subtype="implied" ref="#pmb32426">mein Stück</rs> einzureichen. Nun bringt er mich durch sein Benehmen in <subst>
+               <rs type="person" ref="#pmb20902">Mandl</rs> haben Sie gehört, dass <rs type="person" ref="#pmb23918">Otti</rs> operirt wurde. Das war g<unclear>räss</unclear>lich schrecklich, obwol die ganze Sache an sich ja nichts bedeutet und glücklich verlaufen ist. Ich bleibe nun ungefähr acht Tage in <rs type="place" ref="#pmb50">Wien</rs> und fahre dann nach <rs type="place" ref="#pmb45258">München</rs>, zwei Tage, von dort nach <rs type="place" ref="#pmb484">Zürich</rs>, drei Tage, (<rs type="person" ref="#pmb3167">Felix</rs>) von da nach <rs type="place" ref="#pmb182">Paris</rs>, zwölf – 14 Tage und d’dann nach <rs type="place" ref="#pmb145">Köln</rs>, <rs type="place" ref="#pmb146">Frankfurt</rs>, <rs type="place" ref="#pmb883">Wiesbaden</rs>, <rs type="place" ref="#pmb872">Stuttgart</rs> – <rs type="place" ref="#pmb50">Wien</rs>. Im Juli werde ich im <rs type="place" ref="#pmb429">Salzkammergut</rs> und am <geogName type="lake" ref="pmb430">Wörthersee</geogName> sein. Auch zu einer kleinen Radtour wäre ich bereit. Den größten Theil des August bin ich in <rs type="place" ref="#pmb50">Wien</rs>, mit Ausnahme einer kurzen Reise nach <rs type="place" ref="#pmb652">Prag</rs> und nach <rs type="place" ref="#pmb415">Aussee</rs>. Das ist Alles. Ich freue mich, dass Sie ein <rs type="work" subtype="implied" ref="#pmb29865">neues Stück</rs> haben, und hege künstlerisch eine ganz bestimmte Erwartung davon. Vielleicht läßt es sich machen, das <rs type="person" ref="#pmb2161">Bukovics</rs> mir die »<rs type="work" ref="#pmb29859">Marionetten</rs>« abtritt, d. h. wenn Sie mir das <rs type="work" subtype="implied" ref="#pmb29865">Stück</rs> geben wollen. Schrei<pb/>ben Sie mir darüber. <rs type="person" ref="#pmb10986">Brahm</rs> ist, wie Sie wissen, hier. Wir sahen uns im Theater, ohne uns zu grüßen. Es ist mir ja sonst ganz gleichgiltig, aber ich bereue jetzt, dass ich mich s. Z. doch habe bereden laßen, ihm <rs type="work" subtype="implied" ref="#pmb32426">mein Stück</rs> einzureichen. Nun bringt er mich durch sein Benehmen in <subst>
                   <del rend="overwritten">ei</del>
                   <add place="inline">den</add>
                </subst> peinlichen Verdacht, als sei ich ihm <hi rend="underline" n="1">deshalb</hi> böse. Ich bin ihm aber garnicht böse, am wenigsten deshalb. Nur sehe ich keine Ursache, sein unfreundliches Verhalten einzustecken.</p>

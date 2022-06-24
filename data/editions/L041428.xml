@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Arthur Schnitzler an Hugo von Hofmannsthal, 2. 8. 1893</title>
+            <title type="iso-date">1893-08-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -48,10 +49,10 @@
          </seriesStmt>
          <sourceDesc>
             <correspDesc>
-               <sender full="yes">
+               <sender>
                   <persName ref="pmb2121">Schnitzler, Arthur</persName>
                </sender>
-               <addressee full="yes">
+               <addressee>
                   <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
                </addressee>
                <placeSender>
@@ -128,7 +129,7 @@
                   <hi rend="latintype">Salten</hi>
                </rs>. Sie müssen <hi rend="latintype">Bic.</hi> fahren lernen; ebenso wie <rs type="person" ref="#pmb10863">Richard</rs>; es ist wirklich ein großes Vergnügen. –</p>
             <p>
-               <rs type="place" ref="#pmb50">Wien</rs> bietet mir jetzt einiges zu thun; eine kleine <rs type="person" subtype="implied" ref="#pmb25739">Cousine</rs> von mir ist schwer krank; die besuch’ ich 1, 2, 3 mal im Tag; dann ab u zu irgend was andres ärztliches, so dass die Zeit zersplittert ist. Aben<unclear>d</unclear>s zuweilen auf dem <geogName type="mountain" instant="false" ref="pmb574">Kahlenberg</geogName>, wo <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> u <rs type="person" subtype="implied" ref="#pmb2461">Schwester</rs> wohnen oder mit dem <hi rend="latintype">Bic.</hi> da oder dorthin.<pb/>
+               <rs type="place" ref="#pmb50">Wien</rs> bietet mir jetzt einiges zu thun; eine kleine <rs type="person" subtype="implied" ref="#pmb25739">Cousine</rs> von mir ist schwer krank; die besuch’ ich 1, 2, 3 mal im Tag; dann ab u zu irgend was andres ärztliches, so dass die Zeit zersplittert ist. Aben<unclear>d</unclear>s zuweilen auf dem <geogName type="mountain" ref="pmb574">Kahlenberg</geogName>, wo <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> u <rs type="person" subtype="implied" ref="#pmb2461">Schwester</rs> wohnen oder mit dem <hi rend="latintype">Bic.</hi> da oder dorthin.<pb/>
             </p>
             <p>– Die »lustige« <rs type="work" subtype="implied" ref="#pmb31975">Novelle</rs> hab ich bis auf wenige Zeilen beendet, die ich erst schreiben kann, wenn ich Lust bekomme, das ganze Zeug wieder durchzulesen. Was ich zunächst schreiben werde, ist unklar – am liebsten eins meiner im Umriss fertigen 3aktigen Stücke; aber ich stehe der dramatischen Kunst unglaublich muthlos gegenüber; ja ich hatte in der letzten Zeit oft die Empfindung, dass ich überhaupt nie<pb/> ein gutes Stück werde schreiben können. Gestalten u Scenen, einzelne, wären da; aber mir ist, als hätt’ ich jedes strategische Talent verloren. Vielleicht hatt’ ichs auch nie – und hab nur aus meinen kleinen Schmerzen die großen <subst>
                   <del rend="overwritten">S</del>

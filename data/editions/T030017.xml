@@ -11,6 +11,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a" ref="pmb31345">Hermann Bahr, Julius Bauer, J. J. David, Robert Hirschfeld, Felix Salten, Ludwig Speidel: Erklärung, 14. 9. 1900</title>
+            <title type="iso-date">1900-09-14</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <author ref="pmb2150">Bauer, Julius</author>
             <author ref="pmb2416">David, J. J.</author>
@@ -37,8 +38,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>

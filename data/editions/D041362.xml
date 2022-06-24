@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Tagebuch von Arthur Schnitzler, 22. 3. 1914</title>
+            <title type="iso-date">1914-03-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -78,7 +79,7 @@
             <p>
                <date when="1914-03-22" n="1">22/3</date> S. Mit <rs type="person" ref="#pmb12692">Heini</rs>
                <space unit="chars" quantity="1"/>
-               <geogName type="mountain" instant="false" ref="pmb270">Wilhelminenberg</geogName>
+               <geogName type="mountain" ref="pmb270">Wilhelminenberg</geogName>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb746">Steinhof</rs>.– <rs type="place" ref="#pmb271">Hütteldorf</rs>.–</p>
             <p>Nach Tisch kam <rs type="person" ref="#pmb10765">Poldi Andrian</rs>. Ich prophezeite ihm Ministerium des Äußern für 1921.–</p>

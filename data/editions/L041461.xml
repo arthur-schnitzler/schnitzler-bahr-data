@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Arthur Schnitzler an Heinrich Schnitzler, 13. 4. 1929</title>
+            <title type="iso-date">1929-04-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -48,10 +49,10 @@
          </seriesStmt>
          <sourceDesc>
             <correspDesc>
-               <sender full="yes">
+               <sender>
                   <persName ref="pmb2121">Schnitzler, Arthur</persName>
                </sender>
-               <addressee full="yes">
+               <addressee>
                   <persName ref="pmb12692">Schnitzler, Heinrich</persName>
                </addressee>
                <placeSender>
@@ -97,7 +98,7 @@
                </dateline>
             </opener>
             <p>
-               <salute>Mein lieber Heini, </salute>um vor allem deine Reisefragen zu beantworten: <geogName type="lake" instant="false" ref="pmb605">Faakersee</geogName> kenn ich nur vom Vorbeifahren; <rs type="person" ref="#pmb12936">Thaller</rs> hat dort eine Besitzung; liebliche, nicht sehr aufregende Landschaft. <rs type="place" ref="#pmb590">Veldes</rs> etwa ebenso; dort bin ich als Knabe, Knäbchen<c rendition="#dots" n="2"/> gewesen, mit den <rs type="person" subtype="implied" ref="#pmb12701 #pmb12695">Eltern</rs>, nur ein paar Tage lang – zu längerm Aufenthalt wohl nichts. Ich glaube, dass es in <rs type="place" ref="#pmb265">Dalmatien</rs>, wenigstens an den Küstenorten nicht heißer ist als an den <geogName type="lake">Kärntnerseen</geogName>; – und ich würde unter diesen doch nur den <geogName type="lake" instant="false" ref="pmb606">Wörther See</geogName> und zwar das gegen Norden offne <rs type="place" ref="#pmb590">Veldes</rs> wählen (wo es<pb/> überdies schöne Wälder gibt). – <rs type="place" ref="#pmb49118">Vent</rs>, mir unbekannt, höchstes Dorf <rs type="place" ref="#pmb41240">Oesterreichs</rs> –?, – soll sehr schön sein; ich glaube <rs type="person" ref="#pmb13149 #pmb28595">Wohlgemuts</rs> wohnen dort gewöhnlich in den Ferien <c rendition="#dots" n="3" place="center"/>
+               <salute>Mein lieber Heini, </salute>um vor allem deine Reisefragen zu beantworten: <geogName type="lake" ref="pmb605">Faakersee</geogName> kenn ich nur vom Vorbeifahren; <rs type="person" ref="#pmb12936">Thaller</rs> hat dort eine Besitzung; liebliche, nicht sehr aufregende Landschaft. <rs type="place" ref="#pmb590">Veldes</rs> etwa ebenso; dort bin ich als Knabe, Knäbchen<c rendition="#dots" n="2"/> gewesen, mit den <rs type="person" subtype="implied" ref="#pmb12701 #pmb12695">Eltern</rs>, nur ein paar Tage lang – zu längerm Aufenthalt wohl nichts. Ich glaube, dass es in <rs type="place" ref="#pmb265">Dalmatien</rs>, wenigstens an den Küstenorten nicht heißer ist als an den <geogName type="lake">Kärntnerseen</geogName>; – und ich würde unter diesen doch nur den <geogName type="lake" ref="pmb606">Wörther See</geogName> und zwar das gegen Norden offne <rs type="place" ref="#pmb590">Veldes</rs> wählen (wo es<pb/> überdies schöne Wälder gibt). – <rs type="place" ref="#pmb49118">Vent</rs>, mir unbekannt, höchstes Dorf <rs type="place" ref="#pmb41240">Oesterreichs</rs> –?, – soll sehr schön sein; ich glaube <rs type="person" ref="#pmb13149 #pmb28595">Wohlgemuts</rs> wohnen dort gewöhnlich in den Ferien <c rendition="#dots" n="3" place="center"/>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb607">Stubaithal</rs> sehr reizvoll, wie auch andre <rs type="place" ref="#pmb607">Brenner</rs>orte, wie <rs type="place" ref="#pmb591">Matrei</rs> u. dgl (nicht <hi rend="italic">
                   <rs type="place" ref="#pmb364">Windischmatrei</rs>

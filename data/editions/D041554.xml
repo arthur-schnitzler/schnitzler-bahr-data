@@ -10,6 +10,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Tagebuch von Arthur Schnitzler, 24. 9. 1918</title>
+            <title type="iso-date">1918-09-24</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -31,8 +32,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -81,7 +82,7 @@
             <p>Zu <rs type="person" ref="#pmb12698">Julius</rs>’; brachte ihnen die Correcturbogen der »<rs type="work" ref="#pmb30819">Schwestern</rs>« und der »<rs type="work" ref="#pmb30971">Heimfahrt</rs>«;– erzählte ihm meine Gespräche mit <rs type="person" ref="#pmb10815">Bahr</rs>.</p>
             <p>Nm. <rs type="work" subtype="implied" ref="#pmb31377">Nachklg.</rs> Buch 4.– </p>
             <p>Bei <rs type="person" ref="#pmb2135">Popper</rs>, der nun in der <rs type="place" ref="#pmb613">Pens. Patak</rs>. Über die polit. Verhältnisse. Er nennt <rs type="person" ref="#pmb4016">Wilson</rs> den größten Massenmörder der Geschichte und sieht der Zukunft mit Graun entgegen.– </p>
-            <p>Träumte heut Nacht allerlei: Bergpartie mit meinem <rs type="person" subtype="implied" ref="#pmb12698">Bruder</rs> oder <rs type="person" subtype="implied" ref="#pmb12692">Sohn</rs> (die im Traum selten zu unterscheiden sind), <geogName type="mountain" instant="false" ref="pmb532">Schafberg</geogName> (welchen?) Hütte;– draußen eine Wiese, ein Bauernmädchen, bei der ich mich betreffs <rs type="person" ref="#pmb12551">Roseggers</rs> Tod erkundige;– ich schreibe (in jener Hütte?) einen Brief an <rs type="person" ref="#pmb2378">M. R.</rs>–?, die ich in einem Monat heiraten soll,– daß die Heirat nicht stattfinden wird,– zerreisse den angefangnen Brief, weil er beginnt »liebste Freundin –« was mir zu formell scheint;– auf einer Art Fortificationshöhe drei Schüsse;– in langsamen Abständen; sie bedeuten die Judification der drei Mörder <rs type="person" ref="#pmb15246">Davit</rs>, <rs type="person" ref="#pmb26308">Ulmer</rs> und –?. (Es waren nur zwei: <rs type="person" ref="#pmb15246">Davit</rs> und <rs type="person" ref="#pmb4045">Franke</rs>;– <rs type="person" ref="#pmb26308">Ulmer</rs> ist der Name eines schlechten <rs type="place" ref="#pmb45258">Münchner</rs> Schauspielers.).</p>
+            <p>Träumte heut Nacht allerlei: Bergpartie mit meinem <rs type="person" subtype="implied" ref="#pmb12698">Bruder</rs> oder <rs type="person" subtype="implied" ref="#pmb12692">Sohn</rs> (die im Traum selten zu unterscheiden sind), <geogName type="mountain" ref="pmb532">Schafberg</geogName> (welchen?) Hütte;– draußen eine Wiese, ein Bauernmädchen, bei der ich mich betreffs <rs type="person" ref="#pmb12551">Roseggers</rs> Tod erkundige;– ich schreibe (in jener Hütte?) einen Brief an <rs type="person" ref="#pmb2378">M. R.</rs>–?, die ich in einem Monat heiraten soll,– daß die Heirat nicht stattfinden wird,– zerreisse den angefangnen Brief, weil er beginnt »liebste Freundin –« was mir zu formell scheint;– auf einer Art Fortificationshöhe drei Schüsse;– in langsamen Abständen; sie bedeuten die Judification der drei Mörder <rs type="person" ref="#pmb15246">Davit</rs>, <rs type="person" ref="#pmb26308">Ulmer</rs> und –?. (Es waren nur zwei: <rs type="person" ref="#pmb15246">Davit</rs> und <rs type="person" ref="#pmb4045">Franke</rs>;– <rs type="person" ref="#pmb26308">Ulmer</rs> ist der Name eines schlechten <rs type="place" ref="#pmb45258">Münchner</rs> Schauspielers.).</p>
             <p>– Wie lange schrieb ich schon keine Träume ein!</p>
          </div>
       </body>

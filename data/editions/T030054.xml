@@ -11,6 +11,7 @@
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a" ref="pmb30261">Hermann Bahr: Moderne Kunst in Österreich, Dezember 1891</title>
+            <title type="iso-date">1891-12-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
                <name full="yes" instant="false">Ifkovits, Kurt</name>
@@ -32,8 +33,8 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name full="yes" instant="false">Kurt Ifkovits</name>
-               <name full="yes" instant="false">Martin Anton Müller</name>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -80,7 +81,7 @@
          <div>
             <head>Moderne Kunst in Oesterreich.</head>
             <head rend="sub">Von Hermann Bahr.</head>
-            <p part="N">Ich bin letzten Sommer und Herbst wieder einmal quer durch mein <rs type="place" ref="#pmb41240">Oesterreich</rs> gewandert, von den <rs type="place" ref="#pmb644">galizischen</rs> Sümpfen nach dem herzigen <rs type="place" subtype="implied" ref="#pmb50">Grossstädtchen an der Donau</rs> und dann die hellen <geogName type="mountain" instant="false" ref="pmb117">Alpen</geogName> hinauf, wo sie am steilsten sind, ein bischen überall herum schauend, lauschend und geniessend. Es ist ein unvergleichliches Land von köstlichen Reizen, und es ist, wenn man in <rs type="place" ref="#pmb651">Kärnthen</rs> die Lieder hört oder die zierlichen Holz-Sculpturen der <rs type="place" ref="#pmb697">Salzburg</rs>er sieht oder die Anmuth fühlt, mit welcher das Gemüth der <rs type="place" ref="#pmb50">Wien</rs>er wie eine gute Fee jede Verrichtung des täglichen Lebens immer in selige Walzer verwandelt – es ist ein Volk von frohen Künstlern. Ich glaube, dass unter allen Staaten, welche Deutsche begründet haben, keiner mehr künstlerische Begabung und sicherlich keiner soviel künstlerische Empfänglichkeit enthält. Aber ich weiss schon auch, dass keiner für die moderne Kunst weniger bedeutet und so geringes gewirkt hat. Ueber diesen seltsamen Zwiespalt zerbreche ich mir oft rathlos den Kopf.</p>
+            <p part="N">Ich bin letzten Sommer und Herbst wieder einmal quer durch mein <rs type="place" ref="#pmb41240">Oesterreich</rs> gewandert, von den <rs type="place" ref="#pmb644">galizischen</rs> Sümpfen nach dem herzigen <rs type="place" subtype="implied" ref="#pmb50">Grossstädtchen an der Donau</rs> und dann die hellen <geogName type="mountain" ref="pmb117">Alpen</geogName> hinauf, wo sie am steilsten sind, ein bischen überall herum schauend, lauschend und geniessend. Es ist ein unvergleichliches Land von köstlichen Reizen, und es ist, wenn man in <rs type="place" ref="#pmb651">Kärnthen</rs> die Lieder hört oder die zierlichen Holz-Sculpturen der <rs type="place" ref="#pmb697">Salzburg</rs>er sieht oder die Anmuth fühlt, mit welcher das Gemüth der <rs type="place" ref="#pmb50">Wien</rs>er wie eine gute Fee jede Verrichtung des täglichen Lebens immer in selige Walzer verwandelt – es ist ein Volk von frohen Künstlern. Ich glaube, dass unter allen Staaten, welche Deutsche begründet haben, keiner mehr künstlerische Begabung und sicherlich keiner soviel künstlerische Empfänglichkeit enthält. Aber ich weiss schon auch, dass keiner für die moderne Kunst weniger bedeutet und so geringes gewirkt hat. Ueber diesen seltsamen Zwiespalt zerbreche ich mir oft rathlos den Kopf.</p>
             <p part="N">Es mag daran ihre Neigung schuld sein, alle Talente im Leben zur eigenen Freude zu verzetteln, statt dass sie sie aus dem Genusse sonderten, strenge zusammenhielten und zu festen, reifen Gestalten verdichteten: sie verschmähen die Arbeit der Kunst, sie wollen lieber Kunstleben. Oder es mag auch das Talent zu gleichmässig auf alle vertheilt sein, so dass Jeder ein hübsches Stück für den Hausbedarf, aber doch keiner genug zu einer besonderen That hat; vielleicht braucht es, um den grossen Künstler zu schaffen, gerade die Vereinsamung in einer gleichgiltigen, stumpfen Menge und die Entrüstung gegen rohen höhnischen Unverstand. Oder es mag auch an dem <rs type="place" ref="#pmb41240">österreichischen</rs> Misstrauen gegen alles <rs type="place" ref="#pmb41240">Oesterreichische</rs> liegen, das geduldig zu ertragen und zu bezwingen schon eine ungemein gesunde und kräftige Natur verlangt: die guten Leute, allzu demüthig und bescheiden, wollen es durchaus nicht glauben, dass auch aus ihrer Mitte einmal was Gutes kommen könnte, und da sei einer das wirksamste Talent, wenn es bekannt wird, dass er aus <rs type="place" ref="#pmb36545">Krems</rs> oder von <rs type="place" ref="#pmb271">Hütteldorf</rs> ist, ist er bei ihnen schon verloren.</p>
             <p part="N">Es ist das Land der vielen kleinen Talente. Grösse und Tiefe fehlen. Und sonderbar: wenn sie einmal wo erscheinen, dann werden alle ganz böse, wollen davon durchaus nichts wissen und verbünden sich, sie auf alle Weise zu verdrängen.</p>
             <p part="N">Wie lange hat nicht der ehrwürdige <anchor type="textConst" xml:id="TT054-1">
