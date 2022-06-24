@@ -111,7 +111,7 @@
             <p>Ich werde dick, dumm, faul gefrässig. Kind – ich möcht Dich bald seh’n. Am 5 <del rend="strikethrough">Au</del> Ojust komme ich auf zwei Minuten nach <rs type="place" ref="#pmb50">Wien</rs> – dann werd ich Dich aufsuchen. Spitzest Du schon das Federchen für das <anchor type="commentary" xml:id="KL602-1"/>
                <rs type="org" subtype="implied" ref="#pmb29209">Blättchen</rs>
                <note type="commentary" xml:id="KL602-1h">
-                  <p>Die ab <date >Oktober 1894</date> erscheinende Wochenschrift <rs type="org" ref="#pmb29209">Die Zeit</rs>.</p>
+                  <p>Die ab <date>Oktober 1894</date> erscheinende Wochenschrift <rs type="org" ref="#pmb29209">Die Zeit</rs>.</p>
                </note>? – hi hi hi hi – die Leutchen werden nicht lachen. – Kind <rs type="person" subtype="implied" ref="#pmb2589">Mama</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2591">Kristel</rs> und Dein geliebtes <rs type="person" ref="#pmb12621">Wiltsch</rs> grüßen Dich herzlich</p>
@@ -134,7 +134,7 @@
             <persName type="rufname">Dilly</persName>
             <birth>
                <date when="1863-08-19">19.08.1863</date>
-               <settlement ref="#pmb44303">
+               <settlement ref="pmb44303">
                   <placeName type="pref">Rotterdam</placeName>
                   <location>
                      <geo>51,9225 4,47917</geo>
@@ -143,7 +143,7 @@
             </birth>
             <death>
                <date when="1937-08-30">30.08.1937</date>
-               <settlement ref="#pmb168">
+               <settlement ref="pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -151,7 +151,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19564</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118605429</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12618</idno>
@@ -165,7 +165,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="#pmb332">
+               <settlement ref="pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -174,7 +174,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="#pmb45258">
+               <settlement ref="pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -182,8 +182,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -198,7 +198,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -207,7 +207,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -215,8 +215,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -231,7 +231,7 @@
             <persName type="rufname">Willy</persName>
             <birth>
                <date when="1861-02-05">05.02.1861</date>
-               <settlement ref="#pmb44303">
+               <settlement ref="pmb44303">
                   <placeName type="pref">Rotterdam</placeName>
                   <location>
                      <geo>51,9225 4,47917</geo>
@@ -240,7 +240,7 @@
             </birth>
             <death>
                <date when="1948-11-29">29.11.1948</date>
-               <settlement ref="#pmb168">
+               <settlement ref="pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -248,7 +248,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19568</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116801468</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12621</idno>
@@ -267,7 +267,7 @@
             <persName type="geschiedene_r">Boeijé</persName>
             <birth>
                <date when="1833-06-27">27.6.1833</date>
-               <settlement ref="#pmb40709">
+               <settlement ref="pmb40709">
                   <placeName type="pref">Amsterdam</placeName>
                   <location>
                      <geo>52,37403 4,88969</geo>
@@ -276,7 +276,7 @@
             </birth>
             <death>
                <date when="1917-04-06">6.4.1917</date>
-               <settlement ref="#pmb168">
+               <settlement ref="pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -284,7 +284,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/139483802</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2589</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2589</idno>
@@ -300,7 +300,7 @@
             <persName type="uri_gnd">https://d-nb.info/gnd/116801514</persName>
             <birth>
                <date when="1865-01-23">23.1.1865</date>
-               <settlement ref="#pmb44303">
+               <settlement ref="pmb44303">
                   <placeName type="pref">Rotterdam</placeName>
                   <location>
                      <geo>51,9225 4,47917</geo>
@@ -309,7 +309,7 @@
             </birth>
             <death>
                <date when="1924-01-01">1924</date>
-               <settlement ref="#pmb53826">
+               <settlement ref="pmb53826">
                   <placeName type="pref">Bad Kissingen</placeName>
                   <location>
                      <geo>50,20228 10,07784</geo>
@@ -317,8 +317,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb110">Bildender Künstler/Bildende Künstlerin &gt;&gt; Maler/Malerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb110">Bildender Künstler/Bildende Künstlerin &gt;&gt; Maler/Malerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116801514</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2591</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2591</idno>
@@ -326,7 +326,18 @@
          </person>
       </listPerson>
       <listBibl>
-         <error type="bibl">32472</error>
+         <bibl xml:id="pmb31181">
+            <title>Die Verschwörung des Fiesko zu Genua</title>
+            <title type="legacy-name-merge">Die Verschwörung des Fiesco zu Genua</title>
+            <author ref="pmbperson__12654" role="hat-geschaffen">Schiller, Friedrich von</author>
+            <date notBefore="1783-01-01" when="1783-07-02">1783</date>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31181</idno>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32472</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31181</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32472</idno>
+            <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb31181.html</idno>
+            <note type="work_kind">Drama &gt;&gt; Mehraktiges Drama</note>
+         </bibl>
       </listBibl>
       <listPlace>
          <place xml:id="pmb50">
@@ -348,7 +359,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb41240">Österreich</placeName>
+               <placeName ref="pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -371,7 +382,7 @@
                <geo>49,97797988040162 12,706719816559819</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb772">Marienbad</placeName>
+               <placeName ref="pmb772">Marienbad</placeName>
                <geo>49,96115 12,72872</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb708</idno>
@@ -384,7 +395,7 @@
             <desc type="entity_type">Zeitschriftenredaktion</desc>
             <desc type="entity_type_id">973</desc>
             <location type="located_in_place">
-               <placeName ref="#pmb50">Wien</placeName>
+               <placeName ref="pmb50">Wien</placeName>
                <geo>48,2066 16,37341</geo>
                <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
                <idno type="URL" subtype="">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
@@ -399,7 +410,7 @@
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb296">Günthergasse</placeName>
+               <placeName ref="pmb296">Günthergasse</placeName>
                <geo>48,216599877109 16,358330000258</geo>
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:G%C3%BCnthergasse</idno>
                <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb296</idno>

@@ -14,11 +14,11 @@
             <title type="iso-date">1922-12-01</title>
             <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
-               <name>Ifkovits, Kurt</name>
-               <name>Müller, Martin Anton</name>
+               <name full="yes" instant="false">Ifkovits, Kurt</name>
+               <name full="yes" instant="false">Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name>FWF – Fonds für Wissenschaft und Forschung</name>
+               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -33,15 +33,15 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
+               <name full="yes" instant="false">Kurt Ifkovits</name>
+               <name full="yes" instant="false">Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="038"/>
             <availability status="free">
-               <p>Copyright © 2017</p>
+               <p part="N">Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A94-F</idno>
          </publicationStmt>
@@ -80,80 +80,80 @@
       <body>
          <div>
             <head>A LETTER FROM GERMANY</head>
-            <p rend="right">
+            <p rend="right" part="N">
                <hi rend="italic">
                   <rs type="place" ref="#pmb45258">Munich</rs>
                </hi>.</p>
-            <p>
+            <p part="N">
                <rs type="person" ref="#pmb2121">ARTHUR SCHNITZLER</rs>’S sixtieth birthday was celebrated in <rs type="place" ref="#pmb151">German</rs> theatres by performances of his plays and in the newspapers by friendly appreciations. Admiration was almost always mingled with a sort of sadness–almost as though obituary notices were written rather than congratulations. The <hi rend="italic">
                   <rs type="org" ref="#pmb29212">Neue Rundschau</rs>
                </hi> in <rs type="place" ref="#pmb168">Berlin</rs>, the organ of his loyal publisher, <rs type="person" ref="#pmb11324">S. Fischer</rs>, and the <hi rend="italic">
                   <rs type="org" ref="#pmb29404">Moderne Welt</rs>
                </hi> of <rs type="place" ref="#pmb50">Vienna</rs> issued »<rs type="person" ref="#pmb2121">Schnitzler</rs> numbers.« They opened their pages to his friends and fellow-workers, that on this anniversary they might express their appreciation. Hardly a single one of the famous German names was lacking, but among these good wishes too, a melancholy note was characteristic. Everyone was sincere and glad, and yet there was a funereal air about the entire <rs type="person" ref="#pmb2121">Schnitzler</rs> Festival. All of us hoped that he would remain working in our midst for many years to come in the best of health, but we also felt that <rs type="person" ref="#pmb2121">Schnitzler</rs>’s works are the expression of an epoch that is gone, irrevocably gone. For that very reason his works are so significant to us, even more so than when they were written. Then the world whose melancholy reflection they were was still in existence; few of us would have dreamed that we would survive it. But <rs type="person" ref="#pmb2121">Schnitzler</rs> in some mysterious way anticipated the end even then. He, the physician by profession, saw the Hippocratic lines in the soft face of our amiable <rs type="place" ref="#pmb41240">Austrian</rs> heedlessness. The charm of his plays as well as of his stories lies in their unforced gaiety. The <rs type="place" ref="#pmb41240">Austrians</rs> retained this characteristic even when the other <rs type="place" ref="#pmb151">German</rs> tribes, one after another were becoming self-complacent in a stiff, really quite <rs type="place" ref="#pmb151">un-German</rs> dignity. <rs type="place" ref="#pmb50">Vienna</rs> seemed the last German city which had not forgotten how to smile. And at that time the only complaint <rs type="place" ref="#pmb50">Vienna</rs> had to make of <rs type="person" ref="#pmb2121">Schnitzler</rs> was that suddenly secret tears always mingled with his smile. For many years the critics of <rs type="place" ref="#pmb50">Vienna</rs> incessantly admonished him. His talent, they maintained, lay fundamentally in his lightheartedness, and yet in all his plays he suddenly allowed himself to be led astray by a serious or even a tragic note which was not his <hi rend="italic">forte</hi> at all. For years <rs type="place" ref="#pmb50">Viennese</rs> criticism incessantly called upon him to write »the German comedy.« This cry for »the <rs type="place" ref="#pmb151">German</rs> comedy« has long been one of the <hi rend="italic">bravura</hi> »stunts« of German criticism. No matter how many comedies one may write, still it is never <hi rend="italic">the</hi> mythical German comedy. How many a time after a <hi rend="italic">première</hi> didn’t <rs type="person" ref="#pmb2121">Schnitzler</rs> complain of this! I recommended:</p>
-            <p>»Why not do them the favour? For once put aside your melancholy inclinations; it is usully in the third act that you can’t resist them any longer!«</p>
-            <p>And to be sure, he came along after a couple of months when we met again, beaming:</p>
-            <p>»This time I am doing it. I am writing the piece for which you have been crying for years. There won’t be a melancholy note in it; this time it will be the long desired German comedy!«</p>
-            <p>I wished him »good luck,« and when we saw each other again after a few weeks my first question was:</p>
-            <p>»How is the German comedy getting on?«<pb/>
+            <p part="N">»Why not do them the favour? For once put aside your melancholy inclinations; it is usully in the third act that you can’t resist them any longer!«</p>
+            <p part="N">And to be sure, he came along after a couple of months when we met again, beaming:</p>
+            <p part="N">»This time I am doing it. I am writing the piece for which you have been crying for years. There won’t be a melancholy note in it; this time it will be the long desired German comedy!«</p>
+            <p part="N">I wished him »good luck,« and when we saw each other again after a few weeks my first question was:</p>
+            <p part="N">»How is the German comedy getting on?«<pb/>
             </p>
-            <p>He looked at at me hesitatingly and said:</p>
-            <p>»I’ve been very busily at it; I am already down at the <anchor type="commentary" xml:id="KT038-1"/>last act, only, you know, unfortunately in the preceding act one of the characters committed suicide<note type="commentary" xml:id="KT038-1h">
-                  <p>Möglicherweise eine Reminiszenz aus der Entstehungszeit von »Die Entrüsteten«, das
-               zuerst als Lustspiel geplant war und später als Roman zu <rs type="work" ref="#pmb29923">Der Weg ins Freie</rs> ausgearbeitet wurde. Vgl. Schnitzler an <rs type="person" ref="#pmb10986">Brahm</rs>, <date when="1897-05-23" >23. 5.
+            <p part="N">He looked at at me hesitatingly and said:</p>
+            <p part="N">»I’ve been very busily at it; I am already down at the <anchor type="commentary" xml:id="KT038-1"/>last act, only, you know, unfortunately in the preceding act one of the characters committed suicide<note type="commentary" xml:id="KT038-1h">
+                  <p part="N">Möglicherweise eine Reminiszenz aus der Entstehungszeit von »Die Entrüsteten«, das
+               zuerst als Lustspiel geplant war und später als Roman zu <rs type="work" ref="#pmb29923">Der Weg ins Freie</rs> ausgearbeitet wurde. Vgl. Schnitzler an <rs type="person" ref="#pmb10986">Brahm</rs>, <date when="1897-05-23">23. 5.
                   1897</date>: »<quote>ob es eine Komödie wird, weiß ich noch nicht sicher; denn mit
                   meinen lustigen Ideen geht es mir gewöhnlich so wie mit einem ungeheuer fidelen
                   Stoff, den ich einmal meinen Freunden erzählte und wo es mir mitten im Erzählen
                   passierte, daß die Sache immer ernster wurde, bis schließlich, zu meinem eigenen
                   Erstaunen, der Held den grausamen Tod des Erstochenwerdens erlitt. (Wobei es
-                  wenigstens nicht knallt.)</quote>« <bibl >(A. S. <rs type="work">B</rs> I,324 oder
+                  wenigstens nicht knallt.)</quote>« <bibl>(A. S. <rs type="work">B</rs> I,324 oder
                      <rs type="work">Bw</rs> Schnitzler/Brahm 34)</bibl>. Vgl. auch das Interview
-               mit Schnitzler, in dem er nicht namentlich genannt wird: <bibl >
-                        <rs type="person" ref="#pmb2570">Th. Thomas</rs> [= <rs type="person" ref="#pmb2570">Rudolph Lothar</rs>:] <rs type="work" ref="#pmb32900">Das Drama
+               mit Schnitzler, in dem er nicht namentlich genannt wird: <bibl>
+                        <rs type="person" ref="#pmb2570">Th. Thomas</rs> [= <rs type="person" ref="#pmb2570">Rudolph Lothar</rs>:] <rs type="work" ref="#pmb32919">Das Drama
                      in Rosa</rs>. In: <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>,
-                  Nr. 13799, <date >25. 1. 1903</date>, S. 8–9, hier S. 8</bibl>, und <ptr target="KT028-3"/>.</p>
+                  Nr. 13799, <date>25. 1. 1903</date>, S. 8–9, hier S. 8</bibl>, und <ptr target="KT028-3"/>.</p>
                </note>. There was no other way out.« </p>
-            <p>And so it happened that up to the present day he has not yet written the much-wanted <rs type="place" ref="#pmb151">German</rs> comedy. But to-day we know that the dark shadows surrounding the <rs type="place" ref="#pmb41240">Austrian</rs> lightheartedness of his characters were the most genuine part. Deep down <rs type="person" ref="#pmb2121">Schnitzler</rs> knew, without admitting it to himself, that <rs type="place" ref="#pmb50">Vienna</rs> during the years from 1890 to the War already bore the kiss of death upon its brow. <rs type="place" ref="#pmb50">Vienna</rs> is still standing, the houses are still standing, but the Empire whose capital it was is gone. <rs type="place" ref="#pmb50">Vienna</rs> has become a fairy-tale without a country. <rs type="person" ref="#pmb2121">Schnitzler</rs> always felt <rs type="place" ref="#pmb50">Vienna</rs> as a fairy-tale, even when we others were still thinking it was reality. This lends a charm to his works which will not fade, as long as any remembrance remains anywhere in the world of the old Imperial city on the <geogName type="river">Danube</geogName>. After all, it always has been <rs type="place" ref="#pmb41240">Austria</rs>’s destiny to find its fulfilment only in art. In <rs type="person" ref="#pmb12303">Mozart</rs>, <rs type="person" ref="#pmb12729">Schubert</rs>, <anchor type="textConst" xml:id="TT038-1"/>
+            <p part="N">And so it happened that up to the present day he has not yet written the much-wanted <rs type="place" ref="#pmb151">German</rs> comedy. But to-day we know that the dark shadows surrounding the <rs type="place" ref="#pmb41240">Austrian</rs> lightheartedness of his characters were the most genuine part. Deep down <rs type="person" ref="#pmb2121">Schnitzler</rs> knew, without admitting it to himself, that <rs type="place" ref="#pmb50">Vienna</rs> during the years from 1890 to the War already bore the kiss of death upon its brow. <rs type="place" ref="#pmb50">Vienna</rs> is still standing, the houses are still standing, but the Empire whose capital it was is gone. <rs type="place" ref="#pmb50">Vienna</rs> has become a fairy-tale without a country. <rs type="person" ref="#pmb2121">Schnitzler</rs> always felt <rs type="place" ref="#pmb50">Vienna</rs> as a fairy-tale, even when we others were still thinking it was reality. This lends a charm to his works which will not fade, as long as any remembrance remains anywhere in the world of the old Imperial city on the <geogName type="river" instant="false">Danube</geogName>. After all, it always has been <rs type="place" ref="#pmb41240">Austria</rs>’s destiny to find its fulfilment only in art. In <rs type="person" ref="#pmb12303">Mozart</rs>, <rs type="person" ref="#pmb12729">Schubert</rs>, <anchor type="textConst" xml:id="TT038-1"/>
                <rs type="person" ref="#pmb11024">Bruckner</rs>
                <note type="textConst" xml:id="TT038-1h">
-                  <p>Satzfehler: »Brückner«.</p>
+                  <p part="N">Satzfehler: »Brückner«.</p>
                </note>, <rs type="person" ref="#pmb13152">Hugo Wolf</rs>, and <rs type="person" ref="#pmb12163">Mahler</rs> is represented a reality beside which even the historical reality of <rs type="place" ref="#pmb41240">Austria</rs> grows pale and sketchy. The life of <rs type="place" ref="#pmb41240">Austria</rs> was perhaps always only a rehearsal for its works of art. It is thus that we few remaining <rs type="place" ref="#pmb41240">Austrians</rs> whose Fatherland disappeared beneath our feet seek to comfort ourselves.</p>
-            <p>
+            <p part="N">
                <anchor type="commentary" xml:id="KT038-2"/>A very curious work<note type="commentary" xml:id="KT038-2h">
-                  <p>Ab hier folgt der Text weitgehend <rs type="work" ref="#pmb32618">Die
-                  Chromatische</rs> (<bibl >
-                        <rs type="org" ref="#pmb29351">Neue Freien Presse</rs>, Nr. 20641, <date >14. 2.
-                     1922</date>, Morgenblatt, S. 1–3</bibl>; <bibl >paralleler Abdruck in: <rs type="org" ref="#pmb29406">Berliner Börsen-Courier</rs>, Jg. 54, Nr. 77,
-                     <date >15. 2. 1922</date>, Morgen-Ausgabe, S. 5</bibl>).</p>
+                  <p part="N">Ab hier folgt der Text weitgehend <rs type="work" ref="#pmb32618">Die
+                  Chromatische</rs> (<bibl>
+                        <rs type="org" ref="#pmb29351">Neue Freien Presse</rs>, Nr. 20641, <date>14. 2.
+                     1922</date>, Morgenblatt, S. 1–3</bibl>; <bibl>paralleler Abdruck in: <rs type="org" ref="#pmb29406">Berliner Börsen-Courier</rs>, Jg. 54, Nr. 77,
+                     <date>15. 2. 1922</date>, Morgen-Ausgabe, S. 5</bibl>).</p>
                </note> on <rs type="person" ref="#pmb10806">Johann Sebastian Bach</rs>’s <rs type="work" ref="#pmb31825">
                   <hi rend="italic">Chromatic Fantasy and Fugue</hi>
                </rs> which appeared first in <anchor type="commentary" xml:id="KT038-3"/>
                <rs type="work" subtype="implied" ref="#pmb32792">extracts</rs>
                <note type="commentary" xml:id="KT038-3h">
-                  <p>
-                     <bibl >
-                        <rs type="person" ref="#pmb3715">Heinrich Sitte</rs>: <rs type="work" ref="#pmb32792">Bachs »Chromatische«</rs>. In: <rs type="org" ref="#pmb29704">Preußische Jahrbücher</rs>, Bd. 186, H. 1, <date >Oktober 1921</date>,
+                  <p part="N">
+                     <bibl>
+                        <rs type="person" ref="#pmb3715">Heinrich Sitte</rs>: <rs type="work" ref="#pmb32792">Bachs »Chromatische«</rs>. In: <rs type="org" ref="#pmb29704">Preußische Jahrbücher</rs>, Bd. 186, H. 1, <date>Oktober 1921</date>,
                   S. 76–86</bibl>.</p>
                </note> in the <rs type="org" ref="#pmb29704">
                   <hi rend="italic">Preussische Jahrbücher</hi>
                </rs>, has now been published in its <anchor type="commentary" xml:id="KT038-4"/>entirety<note type="commentary" xml:id="KT038-4h">
-                  <p>
-                     <bibl >
+                  <p part="N">
+                     <bibl>
                         <rs type="work" ref="#pmb31825">Bachs »Chromatische«</rs>. Eingeleitet und erklärt
                   von <rs type="person" ref="#pmb3715">Heinrich Sitte</rs>. Berlin: <rs type="org" ref="#pmb29709">Georg Stilke</rs>
                         <space unit="chars" quantity="1"/>
-                        <date >1921</date>
+                        <date>1921</date>
                      </bibl> (Schriftenreihe der Preußischen Jahrbücher, 5).</p>
                </note> under the imprint of <rs type="org" ref="#pmb29709">Georg Stilke</rs> of <rs type="place" ref="#pmb168">Berlin</rs>. It is arousing much attention, and on the one hand is praised quite as much as it is attacked on the other. Its author is <rs type="person" ref="#pmb3715">Heinrich Sitte</rs>, the archæologist, of the <rs type="place" ref="#pmb617">University of Innsbruck</rs>. There has been much shaking of heads among the »experts.« The professional musicians ask what title has an archæologist to enter a discussion about <rs type="person" ref="#pmb10806">Bach</rs>, and the professional archæologists take the view that it is unseemly that one of their colleagues should be coquetting with Dame Music. Both sides had to be reminded that the famous <rs type="person" ref="#pmb12303">Mozart</rs> authority, <rs type="person" ref="#pmb4203">Otto Jahn</rs>, was also an archæologist by profession. <rs type="person" ref="#pmb12793">Camillo Sitte</rs>, <rs type="person" ref="#pmb3715">Heinrich</rs>’s father, was both architect and teacher of art; he organised the <rs type="place" ref="#pmb693">
                   <hi rend="italic">Staatsgewerbeschule</hi>
                </rs> of <rs type="place" ref="#pmb50">Vienna</rs>, and wrote the famous book on »<anchor type="commentary" xml:id="KT038-5"/>
                <rs type="work" ref="#pmb31823">City Building</rs>
                <note type="commentary" xml:id="KT038-5h">
-                  <p>
-                     <bibl >
+                  <p part="N">
+                     <bibl>
                         <rs type="person" ref="#pmb12793">Camillo Sitte</rs>: <rs type="work" ref="#pmb31823">Der Städte-Bau nach seinen künstlerischen Grundsätzen</rs>.
                   Wien: <rs type="org">Carl Graeser</rs>
                         <space unit="chars" quantity="1"/>
-                        <date >1889</date>
+                        <date>1889</date>
                      </bibl>.</p>
                </note>,« which made an entire generation realise again that every proper square in a city, even every street corner, must be arranged according to definite laws, though, of course, unconsciously. <rs type="person" ref="#pmb12793">Camillo Sitte</rs>’s most intimate friend was <rs type="person" ref="#pmb12521">Hans Richter</rs>, the <rs type="person" ref="#pmb13024">Wagner</rs> conductor, and so young <rs type="person" ref="#pmb3715">Heinrich</rs> grew up in the midst of both the plastic and musical arts. He was a thoroughly trained pianist, just about ready to appear in public for the first time, when finally he unexpectedly decided in favour of science. If <rs type="person" ref="#pmb10806">Bach</rs> was the last word to him in music, so in archæology all his efforts were directed towards the <rs type="work" ref="#pmb31819">frieze of the Parthenon</rs>. <rs type="person" ref="#pmb28465">Phidias</rs> to him is for the eye what <rs type="person" ref="#pmb10806">Bach</rs> is for the ear. He, as it were, regards the <rs type="work" ref="#pmb31819">frieze of the Parthenon</rs> as a visible <rs type="work" ref="#pmb31827">
                   <hi rend="italic">Chromatic Fantasy and Fugue</hi>
@@ -170,12 +170,12 @@
                </rs>,<pb/> the composer’s name. <rs type="person" ref="#pmb10806">Bach</rs> himself, as we know from an eighteenth-century <anchor type="commentary" xml:id="KT038-6"/>
                <rs type="work" subtype="implied" ref="#pmb30949">musical lexicon</rs>
                <note type="commentary" xml:id="KT038-6h">
-                  <p>
-                     <bibl >
+                  <p part="N">
+                     <bibl>
                         <rs type="person" ref="#pmb4169">Johann Gottfried Walther</rs>: <rs type="work" ref="#pmb30949">Musicalisches Lexicon oder Musicalische Bibliothec</rs>.
                   Leipzig: <rs type="org">Deer</rs>
                         <space unit="chars" quantity="1"/>
-                        <date >1732</date>
+                        <date>1732</date>
                      </bibl>.</p>
                </note>, was proud of his purely musical name. He introduces it in the <rs type="work" ref="#pmb31831">
                   <hi rend="italic">C sharp minor fugue</hi>
@@ -187,8 +187,8 @@
                </rs>, however, that he first gives his name a triumphant transformation. He now makes the name with which he was born consciously his own in that he transposes the letters. He no longer merely accepts what he received at his birth, but out of <hi rend="italic">b a c h</hi> he now makes <hi rend="italic">a b h c</hi>. This means that what he passively received he is now making a free and intense activity of his own. This results in the creation of a symbol–namely, that freedom can only consist in that we not only suffer what is necessary but also do what is necessary; that we let the will of God not only act <hi rend="italic">upon</hi> us but also <hi rend="italic">through</hi> us. »<anchor type="commentary" xml:id="KT038-7"/>
                <rs type="work" subtype="implied" ref="#pmb31571">Make use of whatever experience comes to you!</rs>
                <note type="commentary" xml:id="KT038-7h">
-                  <p>
-                     <bibl >
+                  <p part="N">
+                     <bibl>
                         <rs type="work" ref="#pmb31571">Zahme Xenien</rs>, V,2</bibl>: »<quote>Benutze,
                   was dir widerfahren.</quote>«</p>
                </note>« said <rs type="person" ref="#pmb11461">Goethe</rs>; and always this has been the ultimate secret of all wisdom. It lies within ourselves alone to learn to master our destiny, in that we obey it. Suffering, no matter how great, will burst forth in a cry of rejoicing as soon as we courageously say »Yea« to it. Only he who resists the gods eternally remains bound. <rs type="person" ref="#pmb12793">Sitte’s</rs> work is the result of profound experience. It leads us to the ultimate problems where the highest art always intermingles with ethics, but it also is rich in technical knowledge. He shows us that <rs type="person" ref="#pmb10806">Bach</rs> to-day is almost universally misunderstood by pianists. They romanticise him, and have grown accustomed to treating the piano like an organ. <rs type="person" ref="#pmb10806">Bach</rs> must be cleansed of the romantic accretions: he must not be played like an organ; he must be »fingered,« that is to say, played »with the weight and force of the fingers alone, without any special co-operation of the arm-muscles.« During recent years it seems as if the spirit of imperialism had likewise passed into the piano. Among pianists, too, pride of muscle was everywhere in the ascendancy. The <rs type="work" subtype="implied" ref="#pmb31825">book</rs> should be welcomed as a sign that the good old German tradition is not forgotten, for through it alone can we regain our health. The real success of the book bears testimony to the vitality of the <rs type="place" ref="#pmb151">German</rs> spirit. <signed>HERMANN BAHR</signed>
@@ -205,7 +205,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="#pmb332">
+               <settlement ref="pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -214,7 +214,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="#pmb45258">
+               <settlement ref="pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -222,8 +222,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -238,7 +238,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -247,7 +247,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -255,8 +255,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -270,7 +270,7 @@
             </persName>
             <birth>
                <date when="1859-12-24">24.12.1859</date>
-               <settlement ref="#pmb55962">
+               <settlement ref="pmb55962">
                   <placeName type="pref">Liptovský Mikuláš</placeName>
                   <location>
                      <geo>49,08061 19,62218</geo>
@@ -279,7 +279,7 @@
             </birth>
             <death>
                <date when="1934-10-15">15.10.1934</date>
-               <settlement ref="#pmb168">
+               <settlement ref="pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -287,12 +287,82 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb144">Verleger/Verlegerin</occupation>
+            <occupation ref="pmb144">Verleger/Verlegerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15009</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118691406</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11324</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11324</idno>
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11324</idno>
+         </person>
+         <person xml:id="pmb10986">
+            <persName>
+               <forename>Otto</forename>
+               <surname>Brahm</surname>
+            </persName>
+            <persName type="geburtsname_nachname">Abrahamson</persName>
+            <birth>
+               <date when="1856-02-05">05.02.1856</date>
+               <settlement ref="pmb506">
+                  <placeName type="pref">Hamburg</placeName>
+                  <location>
+                     <geo>53,57532 10,01534</geo>
+                  </location>
+               </settlement>
+            </birth>
+            <death>
+               <date when="1912-11-28">28.11.1912</date>
+               <settlement ref="pmb168">
+                  <placeName type="pref">Berlin</placeName>
+                  <location>
+                     <geo>52,52437 13,41053</geo>
+                  </location>
+               </settlement>
+            </death>
+            <sex value="male"/>
+            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="pmb104">Regisseur/Regisseurin</occupation>
+            <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13913</idno>
+            <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118514245</idno>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10986</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10986</idno>
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10986</idno>
+            <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb10986.html</idno>
+         </person>
+         <person xml:id="pmb2570">
+            <persName>
+               <forename>Rudolf</forename>
+               <surname>Lothar</surname>
+            </persName>
+            <persName type="geburtsname_vorname">Rudolph Lothar</persName>
+            <persName type="geburtsname_nachname">Spitzer</persName>
+            <birth>
+               <date when="1865-02-23">23.2.1865</date>
+               <settlement ref="pmb43471">
+                  <placeName type="pref">Budapest</placeName>
+                  <location>
+                     <geo>47,49835 19,04045</geo>
+                  </location>
+               </settlement>
+            </birth>
+            <death>
+               <date when="1943-10-02">2.10.1943</date>
+               <settlement ref="pmb43471">
+                  <placeName type="pref">Budapest</placeName>
+                  <location>
+                     <geo>47,49835 19,04045</geo>
+                  </location>
+               </settlement>
+            </death>
+            <sex value="male"/>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb99">Journalist/Journalistin</occupation>
+            <occupation ref="pmb715">Theaterdirektor/Theaterdirektorin</occupation>
+            <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/119545063</idno>
+            <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17696</idno>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2570</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2570</idno>
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2570</idno>
+            <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2570.html</idno>
          </person>
          <person xml:id="pmb12303">
             <persName>
@@ -301,7 +371,7 @@
             </persName>
             <birth>
                <date when="1756-01-27">27.01.1756</date>
-               <settlement ref="#pmb30">
+               <settlement ref="pmb30">
                   <placeName type="pref">Salzburg</placeName>
                   <location>
                      <geo>47,80067 13,04532</geo>
@@ -310,7 +380,7 @@
             </birth>
             <death>
                <date when="1791-12-05">05.12.1791</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -318,7 +388,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18282</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118584596</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12303</idno>
@@ -332,7 +402,7 @@
             </persName>
             <birth>
                <date when="1797-01-31">31.01.1797</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -341,7 +411,7 @@
             </birth>
             <death>
                <date when="1828-11-19">19.11.1828</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -349,7 +419,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19902</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118610961</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12729</idno>
@@ -363,7 +433,7 @@
             </persName>
             <birth>
                <date when="1824-09-04">04.09.1824</date>
-               <settlement ref="#pmb61008">
+               <settlement ref="pmb61008">
                   <placeName type="pref">Ansfelden</placeName>
                   <location>
                      <geo>48,20969 14,29004</geo>
@@ -372,7 +442,7 @@
             </birth>
             <death>
                <date when="1896-10-11">11.10.1896</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -380,7 +450,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14008</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118515799</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11024</idno>
@@ -393,7 +463,7 @@
             </persName>
             <birth>
                <date when="1860-03-13">13.03.1860</date>
-               <settlement ref="#pmb64458">
+               <settlement ref="pmb64458">
                   <placeName type="pref">Slovenj Gradec</placeName>
                   <location>
                      <geo>46,51028 15,08056</geo>
@@ -402,7 +472,7 @@
             </birth>
             <death>
                <date when="1903-02-22">22.02.1903</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -410,7 +480,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21432</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118634712</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13152</idno>
@@ -424,7 +494,7 @@
             </persName>
             <birth>
                <date when="1860-07-07">07.07.1860</date>
-               <settlement ref="#pmb58623">
+               <settlement ref="pmb58623">
                   <placeName type="pref">Kaliště</placeName>
                   <location>
                      <geo>49,24125 15,30133</geo>
@@ -433,7 +503,7 @@
             </birth>
             <death>
                <date when="1911-05-18">18.05.1911</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -441,9 +511,9 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
-            <occupation ref="#pmb131">Dirigent/Dirigentin</occupation>
+            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb131">Dirigent/Dirigentin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17786</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118576291</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12163</idno>
@@ -457,7 +527,7 @@
             </persName>
             <birth>
                <date when="1685-03-21">21.03.1685</date>
-               <settlement ref="#pmb44240">
+               <settlement ref="pmb44240">
                   <placeName type="pref">Eisenach</placeName>
                   <location>
                      <geo>50,9807 10,31522</geo>
@@ -466,7 +536,7 @@
             </birth>
             <death>
                <date when="1750-07-28">28.07.1750</date>
-               <settlement ref="#pmb864">
+               <settlement ref="pmb864">
                   <placeName type="pref">Leipzig</placeName>
                   <location>
                      <geo>51,33962 12,37129</geo>
@@ -474,7 +544,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13344</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11850553X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10806</idno>
@@ -487,7 +557,7 @@
             </persName>
             <birth>
                <date when="1879-01-01">1879</date>
-               <settlement ref="#pmb30">
+               <settlement ref="pmb30">
                   <placeName type="pref">Salzburg</placeName>
                   <location>
                      <geo>47,80067 13,04532</geo>
@@ -496,7 +566,7 @@
             </birth>
             <death>
                <date when="1951-01-01">1951</date>
-               <settlement ref="#pmb867">
+               <settlement ref="pmb867">
                   <placeName type="pref">Innsbruck</placeName>
                   <location>
                      <geo>47,28433 11,37706</geo>
@@ -504,7 +574,7 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="#pmb266">Archäologe/Archäologin</occupation>
+            <occupation ref="pmb266">Archäologe/Archäologin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11741848X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3715</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3715</idno>
@@ -516,7 +586,7 @@
             </persName>
             <birth>
                <date when="1813-01-01">1813</date>
-               <settlement ref="#pmb907">
+               <settlement ref="pmb907">
                   <placeName type="pref">Kiel</placeName>
                   <location>
                      <geo>54,32133 10,13489</geo>
@@ -525,7 +595,7 @@
             </birth>
             <death>
                <date when="1869-01-01">1869</date>
-               <settlement ref="#pmb42325">
+               <settlement ref="pmb42325">
                   <placeName type="pref">Göttingen</placeName>
                   <location>
                      <geo>51,53443 9,93228</geo>
@@ -533,9 +603,9 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb158">Wissenschaftler/Wissenschaftlerin &gt;&gt; Musikwissenschaftler/Musikwissenschaftlerin</occupation>
-            <occupation ref="#pmb204">Philologe/Philologin</occupation>
-            <occupation ref="#pmb266">Archäologe/Archäologin</occupation>
+            <occupation ref="pmb158">Wissenschaftler/Wissenschaftlerin &gt;&gt; Musikwissenschaftler/Musikwissenschaftlerin</occupation>
+            <occupation ref="pmb204">Philologe/Philologin</occupation>
+            <occupation ref="pmb266">Archäologe/Archäologin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118556657</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4203</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4203</idno>
@@ -548,7 +618,7 @@
             </persName>
             <birth>
                <date when="1843-04-17">17.04.1843</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -557,7 +627,7 @@
             </birth>
             <death>
                <date when="1903-11-16">16.11.1903</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -565,7 +635,7 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="#pmb185">Architekt/Architektin</occupation>
+            <occupation ref="pmb185">Architekt/Architektin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20145</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118797441</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12793</idno>
@@ -579,7 +649,7 @@
             <persName type="geburtsname_vorname">János</persName>
             <birth>
                <date when="1843-04-04">04.04.1843</date>
-               <settlement ref="#pmb54934">
+               <settlement ref="pmb54934">
                   <placeName type="pref">Győr</placeName>
                   <location>
                      <geo>47,68333 17,63512</geo>
@@ -588,7 +658,7 @@
             </birth>
             <death>
                <date when="1916-12-05">05.12.1916</date>
-               <settlement ref="#pmb734">
+               <settlement ref="pmb734">
                   <placeName type="pref">Bayreuth</placeName>
                   <location>
                      <geo>49,94782 11,57893</geo>
@@ -596,7 +666,7 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="#pmb131">Dirigent/Dirigentin</occupation>
+            <occupation ref="pmb131">Dirigent/Dirigentin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19240</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118744984</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12521</idno>
@@ -609,7 +679,7 @@
             </persName>
             <birth>
                <date when="1813-05-22">22.05.1813</date>
-               <settlement ref="#pmb864">
+               <settlement ref="pmb864">
                   <placeName type="pref">Leipzig</placeName>
                   <location>
                      <geo>51,33962 12,37129</geo>
@@ -618,7 +688,7 @@
             </birth>
             <death>
                <date when="1883-02-13">13.02.1883</date>
-               <settlement ref="#pmb462">
+               <settlement ref="pmb462">
                   <placeName type="pref">Venedig</placeName>
                   <location>
                      <geo>45,43713 12,33265</geo>
@@ -626,7 +696,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21034</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118594117</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13024</idno>
@@ -641,9 +711,39 @@
                <date>5. Jh. v. u. Z.</date>
             </birth>
             <sex value="not-set"/>
-            <occupation ref="#pmb150">Bildender Künstler/Bildende Künstlerin &gt;&gt; Bildhauer/Bildhauerin</occupation>
+            <occupation ref="pmb150">Bildender Künstler/Bildende Künstlerin &gt;&gt; Bildhauer/Bildhauerin</occupation>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28465</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28465</idno>
+         </person>
+         <person xml:id="pmb4169">
+            <persName>
+               <forename>Johann Gottfried</forename>
+               <surname>Walther</surname>
+            </persName>
+            <birth>
+               <date when="1684-01-01">1684</date>
+               <settlement ref="pmb48759">
+                  <placeName type="pref">Erfurt</placeName>
+                  <location>
+                     <geo>50,9787 11,03283</geo>
+                  </location>
+               </settlement>
+            </birth>
+            <death>
+               <date when="1748-01-01">1748</date>
+               <settlement ref="pmb197">
+                  <placeName type="pref">Weimar</placeName>
+                  <location>
+                     <geo>50,97361 11,33806</geo>
+                  </location>
+               </settlement>
+            </death>
+            <sex value="male"/>
+            <occupation ref="pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="pmb158">Wissenschaftler/Wissenschaftlerin &gt;&gt; Musikwissenschaftler/Musikwissenschaftlerin</occupation>
+            <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11882581X</idno>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4169</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4169</idno>
          </person>
          <person xml:id="pmb11461">
             <persName>
@@ -652,7 +752,7 @@
             </persName>
             <birth>
                <date when="1749-08-28">28.08.1749</date>
-               <settlement ref="#pmb146">
+               <settlement ref="pmb146">
                   <placeName type="pref">Frankfurt am Main</placeName>
                   <location>
                      <geo>50,11552 8,68417</geo>
@@ -661,7 +761,7 @@
             </birth>
             <death>
                <date when="1832-03-22">22.03.1832</date>
-               <settlement ref="#pmb197">
+               <settlement ref="pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -669,7 +769,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118540238</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11461</idno>
@@ -679,9 +779,47 @@
          </person>
       </listPerson>
       <listBibl>
+         <bibl xml:id="pmb29923">
+            <title>Der Weg ins Freie. Roman</title>
+            <note type="bibliografische_angabe">Die neue Rundschau, Jg. 19, H. 1–6, Januar–Juni 1908</note>
+            <title type="arbeitstitel">Die Entrüsteten</title>
+            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <date>1.1.1908  – 1.6.1908</date>
+            <idno type="URL" subtype="asaf">https://asaf.com/S.04.02.18</idno>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q700479</idno>
+            <idno type="URL" subtype="archive">https://archive.org/details/neuerundschau11908franuoft/page/30</idno>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29923</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29923</idno>
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29923</idno>
+            <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb29923.html</idno>
+            <note type="work_kind">Roman</note>
+         </bibl>
+         <bibl xml:id="pmb32919">
+            <title>Das Drama in Rosa</title>
+            <note type="bibliografische_angabe">Neue Freie Presse, 25. 1. 1903</note>
+            <note type="bibliografische_angabe">Neue Freie Presse, 25. 1. 1903</note>
+            <note type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19030125&amp;seite=8&amp;zoom=33</note>
+            <title type="pseudonym">Th. Thomas</title>
+            <title type="legacy-name-merge">Das Drama in Rosa</title>
+            <author ref="pmbperson__2570" role="hat-unter-pseudonym-geschrieben">Lothar, Rudolf</author>
+            <date when="1903-01-25">25.01.1903</date>
+            <idno type="URL" subtype="">http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19030125&amp;seite=8&amp;zoom=33</idno>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32900</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32919</idno>
+            <note type="work_kind">Epik &gt;&gt; Aufsatz</note>
+         </bibl>
+         <bibl xml:id="pmb32618">
+            <title>Die Chromatische</title>
+            <note type="bibliografische_angabe">Neue Freie Presse, 14. 2. 1922</note>
+            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <date when="1922-02-14">14.02.1922</date>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32618</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32618</idno>
+            <note type="work_kind">Text</note>
+         </bibl>
          <bibl xml:id="pmb31825">
             <title>Bachs »Chromatische«. Eingeleitet und erklärt</title>
-            <author ref="#pmbperson__3715" role="hat-geschaffen">Sitte, Heinrich</author>
+            <author ref="pmbperson__3715" role="hat-geschaffen">Sitte, Heinrich</author>
             <date when="1921-01-01">1921</date>
             <idno type="URL" subtype="archive">http://www.archive.org/stream/bachschromatisch00sitt#page/n3/mode/2up</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31825</idno>
@@ -691,7 +829,7 @@
          <bibl xml:id="pmb32792">
             <title>Bachs »Chromatische« [Vorabdruck]</title>
             <note type="bibliografische_angabe">Preussische Jahrbücher, Bd. 186, H. 1, Oktober 1921</note>
-            <author ref="#pmbperson__3715" role="hat-geschaffen">Sitte, Heinrich</author>
+            <author ref="pmbperson__3715" role="hat-geschaffen">Sitte, Heinrich</author>
             <date>1921.10</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32792</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32792</idno>
@@ -699,7 +837,7 @@
          </bibl>
          <bibl xml:id="pmb31823">
             <title>Der Städte-Bau nach seinen künstlerischen Grundsätzen</title>
-            <author ref="#pmbperson__12793" role="hat-geschaffen">Sitte, Camillo</author>
+            <author ref="pmbperson__12793" role="hat-geschaffen">Sitte, Camillo</author>
             <date when="1889-01-01">1889</date>
             <idno type="URL" subtype="archive">https://archive.org/details/diestadtebaunach00sitt</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31823</idno>
@@ -708,14 +846,14 @@
          </bibl>
          <bibl xml:id="pmb31819">
             <title>Parthenonfries</title>
-            <author ref="#pmbperson__28465" role="hat-geschaffen">Phidias</author>
+            <author ref="pmbperson__28465" role="hat-geschaffen">Phidias</author>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31819</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31819</idno>
             <note type="work_kind">Text</note>
          </bibl>
          <bibl xml:id="pmb31827">
             <title>Chromatische Fantasie und Fuge in D-Moll, BWV 903</title>
-            <author ref="#pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
+            <author ref="pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
             <date>1717/1723</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31827</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31827</idno>
@@ -723,7 +861,7 @@
          </bibl>
          <bibl xml:id="pmb30949">
             <title>Musicalisches Lexicon oder Musicalische Bibliothec</title>
-            <author ref="#pmbperson__4169" role="hat-geschaffen">Walther, Johann Gottfried</author>
+            <author ref="pmbperson__4169" role="hat-geschaffen">Walther, Johann Gottfried</author>
             <date when="1732-01-01">1732</date>
             <idno type="URL" subtype="archive">https://archive.org/details/JohannGottfriedWalther-MusicalischesLexiconOderMusicalischeBibliothec</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30949</idno>
@@ -732,7 +870,7 @@
          </bibl>
          <bibl xml:id="pmb31831">
             <title>Präludium und Fuge cis-Moll, BWV 849 (Das Wohltemperierte Klavier, I. Teil)</title>
-            <author ref="#pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
+            <author ref="pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
             <date notBefore="1722-01-01" when="1722-07-02">1722</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31831</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31831</idno>
@@ -740,7 +878,7 @@
          </bibl>
          <bibl xml:id="pmb31821">
             <title>Das wohltemperierte Klavier, BWV 846-893</title>
-            <author ref="#pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
+            <author ref="pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
             <date>1722/1742</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31821</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31821</idno>
@@ -748,7 +886,7 @@
          </bibl>
          <bibl xml:id="pmb31829">
             <title>Sinfonia 9, F-Moll c, BWV 795</title>
-            <author ref="#pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
+            <author ref="pmbperson__10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
             <date when="1720-01-01">1720</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31829</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31829</idno>
@@ -756,7 +894,7 @@
          </bibl>
          <bibl xml:id="pmb31571">
             <title>Zahme Xenien</title>
-            <author ref="#pmbperson__11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
+            <author ref="pmbperson__11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
             <date>1820/1842</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31571</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31571</idno>
@@ -765,13 +903,17 @@
          <bibl xml:id="pmb30339">
             <title>A Letter From Germany [Munich]</title>
             <note type="bibliografische_angabe">The London Mercury, Jg. 7, H. 38, Dezember 1922</note>
-            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1922-12-01">Dezember 1922</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30339</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30339</idno>
             <note type="work_kind">Epik &gt;&gt; Aufsatz</note>
          </bibl>
-         <error type="bibl">29705</error>
+         <bibl xml:id="pmb89478">
+            <title>The London Mercury</title>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89478/</idno>
+            <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+         </bibl>
       </listBibl>
       <listPlace>
          <place xml:id="pmb45258">
@@ -791,11 +933,11 @@
                <geo>48,13743 11,57549</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb314">Bayern</placeName>
+               <placeName ref="pmb314">Bayern</placeName>
                <geo>49,0 11,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb151">Deutschland</placeName>
+               <placeName ref="pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/4127793-4</idno>
@@ -817,7 +959,7 @@
                <geo>51,5 10,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb468">Europa</placeName>
+               <placeName ref="pmb468">Europa</placeName>
                <geo>48,69096 9,14062</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q183</idno>
@@ -845,7 +987,7 @@
                <geo>52,52437 13,41053</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb151">Deutschland</placeName>
+               <placeName ref="pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
@@ -873,7 +1015,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb41240">Österreich</placeName>
+               <placeName ref="pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -901,7 +1043,7 @@
                <geo>47,33333 13,33333</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb687">Österreich-Ungarn</placeName>
+               <placeName ref="pmb687">Österreich-Ungarn</placeName>
                <geo>48,4054 16,4887</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2782113/</idno>
@@ -919,7 +1061,7 @@
                <geo>47,263056 11,383889</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb867">Innsbruck</placeName>
+               <placeName ref="pmb867">Innsbruck</placeName>
                <geo>47,28433 11,37706</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb617</idno>
@@ -936,7 +1078,7 @@
                <geo>48,2031289 16,3740695</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb51">I., Innere Stadt</placeName>
+               <placeName ref="pmb51">I., Innere Stadt</placeName>
                <geo>48,20769 16,37049</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb693</idno>
@@ -953,7 +1095,7 @@
             <desc type="entity_type">Zeitschriftenredaktion</desc>
             <desc type="entity_type_id">973</desc>
             <location type="located_in_place">
-               <placeName ref="#pmb168">Berlin</placeName>
+               <placeName ref="pmb168">Berlin</placeName>
                <geo>52,52437 13,41053</geo>
                <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
                <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb168</idno>
@@ -974,6 +1116,63 @@
             <desc type="entity_type_id">973</desc>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29404</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29404</idno>
+         </org>
+         <org xml:id="pmb29351">
+            <orgName>Neue Freie Presse</orgName>
+            <idno type="URL" subtype="">http://anno.onb.ac.at/info/nfp_info.htm</idno>
+            <desc type="entity_type">Tageszeitungsredaktion</desc>
+            <desc type="entity_type_id">972</desc>
+            <location type="located_in_place">
+               <placeName ref="pmb50">Wien</placeName>
+               <geo>48,2066 16,37341</geo>
+               <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
+               <idno type="URL" subtype="">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
+               <idno type="URL" subtype="">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</idno>
+               <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/4066009-6</idno>
+               <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954</idno>
+               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
+            </location>
+            <location type="located_in_place">
+               <placeName ref="pmb716">Fichtegasse</placeName>
+               <geo>48,203009170069 16,375663258442</geo>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Fichtegasse</idno>
+               <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb716</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/716</idno>
+            </location>
+            <location type="located_in_place">
+               <placeName ref="pmb63189">Schubertring</placeName>
+               <geo>48,20281 16,37602</geo>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63189/</idno>
+            </location>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29351</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29351</idno>
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29351</idno>
+            <note type="apis_dates">
+               <date>1864-09-01  – 1939-02-01</date>
+            </note>
+         </org>
+         <org xml:id="pmb29406">
+            <orgName>Berliner Börsen-Courier</orgName>
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Berliner_Börsen-Courier</idno>
+            <desc type="entity_type">Tageszeitungsredaktion</desc>
+            <desc type="entity_type_id">972</desc>
+            <location type="located_in_place">
+               <placeName ref="pmb168">Berlin</placeName>
+               <geo>52,52437 13,41053</geo>
+               <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
+               <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb168</idno>
+               <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/4005728-8</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168</idno>
+               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</idno>
+            </location>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29406</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29406</idno>
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29406</idno>
          </org>
          <org xml:id="pmb29704">
             <orgName>Preussische Jahrbücher</orgName>

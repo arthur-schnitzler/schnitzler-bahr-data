@@ -10,6 +10,146 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>data/editions/Neuer%20Ordner%20mit%20Objekten/T030038.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/Neuer%20Ordner%20mit%20Objekten/T030017.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/Neuer%20Ordner%20mit%20Objekten/D041367.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/Neuer%20Ordner%20mit%20Objekten/T030048.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/Neuer%20Ordner%20mit%20Objekten/T030089.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/Neuer%20Ordner%20mit%20Objekten/T030009.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/D041345.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>data/editions/L041581.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -931,26 +1071,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>data/editions/D041000.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>back-element</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>data/editions/D041345.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

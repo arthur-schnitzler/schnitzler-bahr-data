@@ -14,11 +14,11 @@
             <title type="iso-date">1908-11-12</title>
             <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
-               <name>Ifkovits, Kurt</name>
-               <name>Müller, Martin Anton</name>
+               <name full="yes" instant="false">Ifkovits, Kurt</name>
+               <name full="yes" instant="false">Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name>FWF – Fonds für Wissenschaft und Forschung</name>
+               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -33,15 +33,15 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
+               <name full="yes" instant="false">Kurt Ifkovits</name>
+               <name full="yes" instant="false">Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="026"/>
             <availability status="free">
-               <p>Copyright © 2017</p>
+               <p part="N">Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A88-D</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>The Schnitzler Press-Cuttings Archive, Box 3/2</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p>Zeitungsausschnitt. Von Schnitzler hs. mit Bleistift beschriftet: »<quote>
+                        <p part="N">Zeitungsausschnitt. Von Schnitzler hs. mit Bleistift beschriftet: »<quote>
                               <orgName ref="#pmb29398">Morgen</orgName>
                               <space unit="chars" quantity="1"/>
                               <date>6/11 908</date>
@@ -115,53 +115,53 @@
       <body>
          <div>
             <head>Tagebuch / Von Hermann Bahr</head>
-            <p>
+            <p part="N">
                <hi rend="spaced_out">10. Juni.</hi>
                <space unit="chars" quantity="1"/>
                <anchor type="commentary" xml:id="KT026-1"/>Sehr schön ist die ruhig kreisende Bewegung<note type="commentary" xml:id="KT026-1h">
-                  <p>
+                  <p part="N">
                      <ptr target="KT039-1"/>.</p>
                </note>, die <rs type="person" ref="#pmb2121">Schnitzlers</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb29923">Roman</rs> hat. Langsam steigt er auf und scheint dann in der Luft zu liegen, auf großen Flügeln. Ich könnte das nicht. Ich möchte das vielleicht auch gar nicht. Aber es ist sehr gut, daß es einer kann und will, und wird mir selbst durch das Sentimentalische seiner Art nicht gestört. Dieses kommt wohl daher, daß ihm um <rs type="place" ref="#pmb41240">Oesterreich</rs> leid ist. Während ich finde, daß um dieses <rs type="place" ref="#pmb41240">Oesterreich</rs>, das einem leid tun kann, nicht schade ist; jenes <rs type="place" ref="#pmb41240">Oesterreich</rs> aber, das wir lieben, haben wir in uns selbst, und es wird nur unsere Schuld sein, wenn es nicht erscheint. Wir alle spüren die starke Zukunft, welcher die Menschen hier fähig sind. Sie brauchen nur den Mut, die Vergangenheit abzutun, um aus ihr zu sich zu kommen. Da sind wir nun aber dort, wo ich die Juden nicht verstehe. Sie hätten es so leicht. Ich beneide sie. Sie haben keine verfallenen Schlösser und keine Basalte. Sie stört nicht, zu lebendiger Zeit, unnützes Erinnern. Diese ganze rostige Kultur, mit der wir uns schleppen, in der wir, von den Vätern her, ersticken, ist ihnen fremd. Sie hätten es so leicht: Benutzt die Gegenwart mit Glück! Sie könnten uns dabei die besten Helfer sein. Uns sitzt jedem, von den Großeltern her, noch irgendeine liebe dumme <rs type="person" ref="#pmb4255">Theresianische</rs> Zärtlichkeit im Gemüt und macht uns das Blut dick. Darin sind wir gute <rs type="place" ref="#pmb151">Deutsche</rs>, denn deutsch ist es, an nichts tiefer zu leiden als an seiner Vergangenheit. Der Ruf des Todes ist es, der uns alles Leben hemmt. Da hätten nun die Juden vor uns dies voraus, daß sie nicht unsere Vergangenheit haben. Wie lang ist’s denn her, daß sie erst eingelassen wurden? Warum nützen sie das nicht aus? Warum helfen sie uns nicht, wenn uns Erinnerung feig und kläglich macht? Wie oft muß ich mit dem elenden <rs type="person" subtype="implied" ref="#pmb27680">Großvater</rs> hadern, der durch mein Blut spukt und mir mit seinem Dunst des <rs type="person" subtype="implied" ref="#pmb27680">Statthaltereirats</rs> plötzlich den Verstand betäubt! Wie oft werde ich von mir wieder auf der albernsten Rührung ertappt, bis ich mich selber am Ohr nehme: Wach auf, das bist ja gar nicht Du, das ist schon wieder eine von den frommen Großmamas, die in Dir flennt! Daher das verfluchte Biedermeiern, in Gedanken und Gefühlen. Wir biedermeiern ja gar nicht, es biedermeiert in uns. Was aber biedermeiert in den Juden denn? <anchor type="textConst" xml:id="TT026-1"/>Wie<note type="textConst" xml:id="TT026-1h">
-                  <p>Satzfehler: »Wir«.</p>
+                  <p part="N">Satzfehler: »Wir«.</p>
                </note> können sie <hi rend="underline" n="1" hand="pmb2121">an einer Vergangenheit leiden, die sie gar nicht</hi> haben? Statt aber eben darin ihren Stolz und den Mut zu sich selbst zu finden, züchten sie sich jetzt unsere Vergangenheit an, was natürlich gar nicht möglich ist und sie nur lächerlich und verächtlich macht. Alle leiden<pb/> wir an jenem unnützen Erinnern. Wir erkennen, daß wir genau so viel leisten und vor der Zukunft einst gelten werden, als es uns gelingt, Vergangenheit zu vergessen und Vergangenheit vergessen zu machen. Eben das aber, was wir vergessen wollen, daran spritzen sich die Juden jetzt ein künstliches Erinnern ein. Das lustigste Beispiel ist mir immer die Geschichte mit dem Vaterunser, die ich so gern erzähle. Ein Jude sagte einmal, irgend etwas sei ihm unvergeßlich. Und um den Grad der Unvergeßlichkeit recht zu beteuern, sagte er: Unvergeßlich wie das Vaterunser! Ich stutzte. Ich versuchte das Vaterunser aufzusagen. Es gelang mir nicht. Ich bin ganz fromm erzogen, meine <rs type="person" subtype="implied" ref="#pmb27667">Mutter</rs> war fast, was man eine Betschwester nennt, und in <rs type="place" ref="#pmb30">Salzburg</rs>, wohin ich dann ins <rs type="place" subtype="implied" ref="#pmb558">Gymnasium</rs> kam, wurden wir sehr kirchlich gehalten. Es gelang mir aber nicht, ich fand schon den dritten Satz nicht mehr. Nun war ich neugierig, ich fing meine Freunde zu prüfen an. Zunächst die, welche in katholischen Klöstern erzogen sind, in <rs type="place" ref="#pmb556">Kremsmünster</rs> oder bei den <rs type="place" ref="#pmb557">Schotten</rs>. Siehe da, sie wußten alle das Vaterunser nicht mehr. Wenn ich aber an einen Juden kam, der wußte es. Ich habe das Experiment zuletzt noch in <rs type="place" ref="#pmb168">Berlin</rs> an unserm Tisch im <rs type="place" ref="#pmb545">Savoy</rs> gemacht. Da ist ein <anchor type="commentary" xml:id="KT026-2"/>
                <rs type="person" subtype="implied" ref="#pmb10765">Baron</rs>, den die <rs type="org" ref="#pmb29297">Jesuiten</rs> in <rs type="place" ref="#pmb555">Kalksburg</rs>
                <note type="commentary" xml:id="KT026-2h">
-                  <p>
+                  <p part="N">
                      <rs type="person" ref="#pmb10765">Leopold von Andrian</rs>? (Katholisch erzogen, doch
                über seine Mutter <rs type="person" ref="#pmb29012">Cäcilia von Andrian-Werburg, geb.
                   Meyerbeer</rs>, jüdisch.)</p>
                </note> erzogen. Dann ist ein <anchor type="commentary" xml:id="KT026-3"/>
                <rs type="person" subtype="implied" ref="#pmb12640">Elsässer</rs>
                <note type="commentary" xml:id="KT026-3h">
-                  <p>
+                  <p part="N">
                      <rs type="person" ref="#pmb12640">Rene Schickele</rs>?</p>
                </note> da, der einmal zu den großen Hoffnungen der katholischen Literatur gehörte. Wir drei versuchten nun, zusammen das Vaterunser zu buchstabieren. Es gelang uns nicht. Aber da kam lachend <rs type="person" ref="#pmb13522">Schalom Asch</rs> und half uns aus, der wußte es. Ich habe jetzt wenigstens ein Mittel, Juden zu erkennen. Ich frage einen bloß, ob er das Vaterunser weiß.</p>
-            <p>In <rs type="person" ref="#pmb2121">Schnitzlers</rs>
+            <p part="N">In <rs type="person" ref="#pmb2121">Schnitzlers</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb29923">Roman</rs> ist auch manches Beispiel dafür. Er selbst, dies spürt man überall, er will ja mit aller Kraft heraus: von der angelogenen Vergangenheit weg und aufs Leben los, auf unser eigenes Leben! Jene jüdische Rührung über alles, was die <anchor type="textConst" xml:id="TT026-2"/>
                <hi rend="underline" n="1" hand="pmb2121">Juden nicht angeht</hi>
                <note type="textConst" xml:id="TT026-2h">
-                  <p>Von Schnitzler seitlich mit einem Fragezeichen versehen.</p>
+                  <p part="N">Von Schnitzler seitlich mit einem Fragezeichen versehen.</p>
                </note>, hat er zu einer Stille, Weiche, Güte der Darstellung gezügelt, die einen künstlerischen Reiz aus ihr macht. Freilich fühlt man ihr bisweilen seine Neigung an, wegzutreten, beiseite zu stehen, nicht mitzutun, wozu Gerechtigkeit so viele von uns verführt. Er hat eine Neigung, gekränkt zu sein, wo es vielleicht nützlicher wäre, wütend zu werden (er kann mir allerdings antworten, daß sich Gefühle nicht kommandieren lassen). Ins Freie kommt man freilich, wenn man weggeht. Aber ist es die Freiheit von Flüchtlingen, die wir wollen? Wird <rs type="place" ref="#pmb41240">Oesterreich</rs> frei, wenn man sich von ihm frei macht? Und an die Kraft der stillen Arbeit, von der ihr immer sprecht, kann ich nicht mehr glauben. Still gearbeitet wird in <rs type="place" ref="#pmb41240">Oesterreich</rs> seit hundert Jahren; und es ist noch immer still.</p>
-            <p>Und noch etwas kann ich an <rs type="person" ref="#pmb2121">Schnitzler</rs> nicht verstehen. Erstens teilt er den Irrtum der Juden in <rs type="place" ref="#pmb41240">Oesterreich</rs>, als ob ihr Fall ein besonderer wäre. Das ist er nicht. Sie werden unterdrückt, gewiß. Aber es werden auch <hi rend="underline" n="1" hand="pmb2121">die <rs type="place" ref="#pmb38444">Tschechen</rs>
+            <p part="N">Und noch etwas kann ich an <rs type="person" ref="#pmb2121">Schnitzler</rs> nicht verstehen. Erstens teilt er den Irrtum der Juden in <rs type="place" ref="#pmb41240">Oesterreich</rs>, als ob ihr Fall ein besonderer wäre. Das ist er nicht. Sie werden unterdrückt, gewiß. Aber es werden auch <hi rend="underline" n="1" hand="pmb2121">die <rs type="place" ref="#pmb38444">Tschechen</rs>
                </hi>, die <hi rend="underline" n="1" hand="pmb2121">Ruthenen, die</hi>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb34494">Kroaten</rs>, die <rs type="place" ref="#pmb378">Rumänen</rs>, die <rs type="place" ref="#pmb544">Slovenen</rs> und die <rs type="place" ref="#pmb40306">Italiener</rs> und so weiter unterdrückt. <anchor type="textConst" xml:id="TT026-3"/>Der Jude hat bei uns nicht dasselbe Recht wie irgendein deutscher Christ der herrschenden Klassen. Aber der Arbeiter hat es auch nicht. Gar nicht zu reden davon, daß auch der Protestant, oder wer keine Konfession hat, hinter den Rechten der Katholiken zurücksteht.<note type="textConst" xml:id="TT026-3h">
-                  <p>Seitlicher Vermerk von Schnitzler: »<quote>Dies ist ja was ich
+                  <p part="N">Seitlicher Vermerk von Schnitzler: »<quote>Dies ist ja was ich
                verurtheil</quote>«.</p>
                </note> Statt sich nun aber zu den anderen Unterdrückten zu schlagen, biedern sich die Juden entweder den Mächtigen an oder isolieren sich, ich weiß nicht, was dümmer ist. Und zweitens (was mich auch in diesem Roman zuweilen befremdet) schädigen sich die Juden durch eine Forderung, die man ihnen nie bewilligen wird: <anchor type="textConst" xml:id="TT026-4"/>
                <hi rend="underline" n="1" hand="pmb2121">sie fordern Liebe</hi>
                <note type="textConst" xml:id="TT026-4h">
-                  <p>Seitlicher Vermerk von Schnitzler: »<quote>– Wer?</quote>«</p>
+                  <p part="N">Seitlicher Vermerk von Schnitzler: »<quote>– Wer?</quote>«</p>
                </note>. Das spüre ich in diesem Roman wieder so stark. <anchor type="textConst" xml:id="TT026-5"/>Die Juden sitzen da und denken traurig nach, warum man sie nicht gern hat.<note type="textConst" xml:id="TT026-5h">
-                  <p>Unterhalb des gedruckten Textes Vermerk von Schnitzler: »<quote>Über die mach ich
+                  <p part="N">Unterhalb des gedruckten Textes Vermerk von Schnitzler: »<quote>Über die mach ich
                   mich ja lustig!–</quote>«</p>
                </note> Aber<pb/> ich glaube nicht, daß sich das durch ein Gesetz ändern läßt. Ich muß auch gestehen, daß es mir durchaus unbegreiflich ist, wie man <anchor type="textConst" xml:id="TT026-6"/>
                <hi rend="underline" n="1" hand="pmb2121">darunter leiden kann</hi>
                <note type="textConst" xml:id="TT026-6h">
-                  <p>Seitlicher Vermerk von Schnitzler: »<quote>Nicht weil <unclear >man</unclear> mich
+                  <p part="N">Seitlicher Vermerk von Schnitzler: »<quote>Nicht weil <unclear>man</unclear> mich
                   ›nicht liebt‹ sondern weil man <hi rend="underline" n="1">frech</hi>
                ist</quote>«.</p>
                </note>. Mich haben gewiß viele tausend Menschen gern, aber ich habe in meinem ganzen Leben noch keine Minute darüber nachgedacht, es hat mich immer gefreut. Was ist das für ein Wunsch, von aller Welt geliebt zu sein? Ich stelle mir das gar nicht so schön vor.</p>
@@ -177,7 +177,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="#pmb332">
+               <settlement ref="pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -186,7 +186,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="#pmb45258">
+               <settlement ref="pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -194,8 +194,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -210,7 +210,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -219,7 +219,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -227,8 +227,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -242,7 +242,7 @@
             <persName type="legacy-name-merge">Maria Theresia</persName>
             <birth>
                <date when="1717-05-13">13.05.1717</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -251,7 +251,7 @@
             </birth>
             <death>
                <date when="1780-11-29">29.11.1780</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -259,8 +259,8 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="#pmb109">Regent/Regentin &gt;&gt; König/Königin</occupation>
-            <occupation ref="#pmb167">Regent/Regentin &gt;&gt; Kaiser/Kaiserin</occupation>
+            <occupation ref="pmb109">Regent/Regentin &gt;&gt; König/Königin</occupation>
+            <occupation ref="pmb167">Regent/Regentin &gt;&gt; Kaiser/Kaiserin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118577867</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17880</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4255</idno>
@@ -274,13 +274,13 @@
             </persName>
             <birth>
                <date when="1804-09-11">11.09.1804</date>
-               <settlement ref="#pmb27681">
+               <settlement ref="pmb27681">
                   <placeName type="pref">Nieder-Lindewiese</placeName>
                </settlement>
             </birth>
             <death>
                <date when="1868-05-29">29.05.1868</date>
-               <settlement ref="#pmb36539">
+               <settlement ref="pmb36539">
                   <placeName type="pref">Opava</placeName>
                   <location>
                      <geo>49,93866 17,90257</geo>
@@ -300,13 +300,13 @@
             <persName type="geburtsname_nachname">Weidlich</persName>
             <birth>
                <date when="1835-06-06">06.06.1835</date>
-               <settlement ref="#pmb27668">
+               <settlement ref="pmb27668">
                   <placeName type="pref">Jauernig</placeName>
                </settlement>
             </birth>
             <death>
                <date when="1902-05-16">16.05.1902</date>
-               <settlement ref="#pmb30">
+               <settlement ref="pmb30">
                   <placeName type="pref">Salzburg</placeName>
                   <location>
                      <geo>47,80067 13,04532</geo>
@@ -325,7 +325,7 @@
             </persName>
             <birth>
                <date when="1875-05-09">09.05.1875</date>
-               <settlement ref="#pmb168">
+               <settlement ref="pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -334,7 +334,7 @@
             </birth>
             <death>
                <date when="1951-11-19">19.11.1951</date>
-               <settlement ref="#pmb60994">
+               <settlement ref="pmb60994">
                   <placeName type="pref">Fribourg</placeName>
                   <location>
                      <geo>46,80237 7,15128</geo>
@@ -342,13 +342,41 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb267">Diplomat/Diplomatin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb267">Diplomat/Diplomatin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13202</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118503006</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10765</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10765</idno>
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10765</idno>
+         </person>
+         <person xml:id="pmb29012">
+            <persName>
+               <forename>Cäcilia von</forename>
+               <surname>Andrian-Werburg</surname>
+            </persName>
+            <persName type="geburtsname_nachname">Meyerbeer</persName>
+            <birth>
+               <date when="1839-03-10">10.3.1839</date>
+               <settlement ref="pmb182">
+                  <placeName type="pref">Paris</placeName>
+                  <location>
+                     <geo>48,85341 2,3488</geo>
+                  </location>
+               </settlement>
+            </birth>
+            <death>
+               <date when="1931-02-08">8.2.1931</date>
+               <settlement ref="pmb30">
+                  <placeName type="pref">Salzburg</placeName>
+                  <location>
+                     <geo>47,80067 13,04532</geo>
+                  </location>
+               </settlement>
+            </death>
+            <sex value="female"/>
+            <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29012</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29012</idno>
          </person>
          <person xml:id="pmb12640">
             <persName>
@@ -360,7 +388,7 @@
             <persName type="legacy-name-merge">Schickele, René</persName>
             <birth>
                <date when="1883-08-04">04.08.1883</date>
-               <settlement ref="#pmb55839">
+               <settlement ref="pmb55839">
                   <placeName type="pref">Obernai</placeName>
                   <location>
                      <geo>48,46313 7,481</geo>
@@ -369,7 +397,7 @@
             </birth>
             <death>
                <date when="1940-01-31">31.01.1940</date>
-               <settlement ref="#pmb49600">
+               <settlement ref="pmb49600">
                   <placeName type="pref">Vence</placeName>
                   <location>
                      <geo>43,72254 7,11183</geo>
@@ -377,9 +405,9 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb116">Übersetzer/Übersetzerin</occupation>
-            <occupation ref="#pmb385">Pazifist/Pazifistin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb116">Übersetzer/Übersetzerin</occupation>
+            <occupation ref="pmb385">Pazifist/Pazifistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19676</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11860743X</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38923/</idno>
@@ -395,7 +423,7 @@
             </persName>
             <birth>
                <date when="1880-01-01">01.01.1880</date>
-               <settlement ref="#pmb56478">
+               <settlement ref="pmb56478">
                   <placeName type="pref">Kutno</placeName>
                   <location>
                      <geo>52,23064 19,36409</geo>
@@ -404,7 +432,7 @@
             </birth>
             <death>
                <date when="1957-07-10">10.07.1957</date>
-               <settlement ref="#pmb224">
+               <settlement ref="pmb224">
                   <placeName type="pref">London</placeName>
                   <location>
                      <geo>51,50853 -0,12574</geo>
@@ -423,7 +451,7 @@
             <title>Der Weg ins Freie. Roman</title>
             <note type="bibliografische_angabe">Die neue Rundschau, Jg. 19, H. 1–6, Januar–Juni 1908</note>
             <title type="arbeitstitel">Die Entrüsteten</title>
-            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1.1.1908  – 1.6.1908</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.02.18</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q700479</idno>
@@ -437,17 +465,32 @@
          <bibl xml:id="pmb30089">
             <title>Tagebuch. 10. Juni [1908]</title>
             <note type="bibliografische_angabe">Der Morgen, Jg. 2, Nr. 45, 6. 11. 1908</note>
-            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1908-11-06">06.11.1908</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30089</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30089</idno>
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30089</idno>
             <note type="work_kind">Kolumne</note>
          </bibl>
-         <error type="bibl">29398</error>
+         <bibl xml:id="pmb41630">
+            <title>Morgen. Wochenschrift für deutsche Kultur</title>
+            <title type="legacy-name-merge">Der Morgen</title>
+            <title type="legacy-uri-merge">http://https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41631/</title>
+            <note type="uri_worklink">https://babel.hathitrust.org/cgi/pt?id=osu.32435059891663&amp;view=1up&amp;seq=5&amp;skin=2021&amp;q1=schnitzler</note>
+            <author ref="pmbperson__9931" role="hat-herausgegeben">Sombart, Werner</author>
+            <author ref="pmbperson__12870" role="hat-herausgegeben">Strauss, Richard</author>
+            <author ref="pmbperson__11740" role="hat-herausgegeben">Hofmannsthal, Hugo von</author>
+            <author ref="pmbperson__10992" role="hat-herausgegeben">Brandes, Georg</author>
+            <author ref="pmbperson__12319" role="hat-herausgegeben">Muther, Richard</author>
+            <date from="1907-01-01" to="1907-12-31">1907  – 1908</date>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41630/</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41630</idno>
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41630</idno>
+            <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift</note>
+         </bibl>
          <bibl xml:id="pmb29929">
             <title>Tagebuch [Berlin: Paul Cassirer]</title>
-            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date notBefore="1909-01-01" when="1909-07-02">1909</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29929</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29929</idno>
@@ -470,7 +513,7 @@
                <geo>47,33333 13,33333</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb687">Österreich-Ungarn</placeName>
+               <placeName ref="pmb687">Österreich-Ungarn</placeName>
                <geo>48,4054 16,4887</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2782113/</idno>
@@ -492,7 +535,7 @@
                <geo>51,5 10,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb468">Europa</placeName>
+               <placeName ref="pmb468">Europa</placeName>
                <geo>48,69096 9,14062</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q183</idno>
@@ -516,7 +559,7 @@
                <geo>47,80067 13,04532</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb697">Salzburg (Land)</placeName>
+               <placeName ref="pmb697">Salzburg (Land)</placeName>
                <geo>47,41667 13,25</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2766818/</idno>
@@ -533,7 +576,7 @@
                <geo>47,794417 13,034139</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb30">Salzburg</placeName>
+               <placeName ref="pmb30">Salzburg</placeName>
                <geo>47,80067 13,04532</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb558</idno>
@@ -548,7 +591,7 @@
                <geo>48,0556 14,131</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb48393">Kremsmünster</placeName>
+               <placeName ref="pmb48393">Kremsmünster</placeName>
                <geo>48,05301 14,12842</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb556</idno>
@@ -565,7 +608,7 @@
                <geo>48,212123158574 16,36442083334</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb51">I., Innere Stadt</placeName>
+               <placeName ref="pmb51">I., Innere Stadt</placeName>
                <geo>48,20769 16,37049</geo>
             </location>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Schottengymnasium</idno>
@@ -586,7 +629,7 @@
                <geo>52,52437 13,41053</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb151">Deutschland</placeName>
+               <placeName ref="pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
@@ -603,7 +646,7 @@
                <geo>52,521572 13,388194</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb168">Berlin</placeName>
+               <placeName ref="pmb168">Berlin</placeName>
                <geo>52,52437 13,41053</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb545</idno>
@@ -618,7 +661,7 @@
                <geo>48,142780596146 16,245159724901</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb73">XXIII., Liesing</placeName>
+               <placeName ref="pmb73">XXIII., Liesing</placeName>
                <geo>48,13333 16,3</geo>
             </location>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Kalksburg</idno>
@@ -707,7 +750,7 @@
                <geo>42,83333 12,83333</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="#pmb468">Europa</placeName>
+               <placeName ref="pmb468">Europa</placeName>
                <geo>48,69096 9,14062</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/3175395/</idno>
@@ -725,7 +768,7 @@
             <desc type="entity_type">Zeitschriftenredaktion</desc>
             <desc type="entity_type_id">973</desc>
             <location type="located_in_place">
-               <placeName ref="#pmb50">Wien</placeName>
+               <placeName ref="pmb50">Wien</placeName>
                <geo>48,2066 16,37341</geo>
                <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
                <idno type="URL" subtype="">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>

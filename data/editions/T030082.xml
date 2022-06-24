@@ -14,11 +14,11 @@
             <title type="iso-date">1905-10-28</title>
             <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
-               <name>Ifkovits, Kurt</name>
-               <name>Müller, Martin Anton</name>
+               <name full="yes" instant="false">Ifkovits, Kurt</name>
+               <name full="yes" instant="false">Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name>FWF – Fonds für Wissenschaft und Forschung</name>
+               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -33,15 +33,15 @@
             <edition>HBAS</edition>
             <respStmt>
                <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
+               <name full="yes" instant="false">Kurt Ifkovits</name>
+               <name full="yes" instant="false">Martin Anton Müller</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="082"/>
             <availability status="free">
-               <p>Copyright © 2017</p>
+               <p part="N">Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8ABF-0</idno>
          </publicationStmt>
@@ -94,8 +94,8 @@
    <text type="article">
       <body>
          <div>
-            <p>13. Oktober. Gestern, im »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«, halb amüsiert und doch wütend über die hochachtungsvolle Freude, die die Juden im Parkett und in den Logen, gerade sie, an <rs type="person" ref="#pmb2121">Schnitzlers</rs> jungem Fürsten haben, vor Wonne wedelnd und nass. Merkwürdig. Gerade sie, die doch unseren Adel kennen. Hier diese Frau, die einmal, aus Snobismus, mit einem Grafen geschlafen hat und doch wissen muss, wenn sie mit sich allein und halbwegs ehrlich gegen sich ist, dass jeder »<anchor type="commentary" xml:id="KT082-1"/>Bocher<note type="commentary" xml:id="KT082-1h">
-                  <p>Jüdischer Jüngling.</p>
+            <p part="N">13. Oktober. Gestern, im »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«, halb amüsiert und doch wütend über die hochachtungsvolle Freude, die die Juden im Parkett und in den Logen, gerade sie, an <rs type="person" ref="#pmb2121">Schnitzlers</rs> jungem Fürsten haben, vor Wonne wedelnd und nass. Merkwürdig. Gerade sie, die doch unseren Adel kennen. Hier diese Frau, die einmal, aus Snobismus, mit einem Grafen geschlafen hat und doch wissen muss, wenn sie mit sich allein und halbwegs ehrlich gegen sich ist, dass jeder »<anchor type="commentary" xml:id="KT082-1"/>Bocher<note type="commentary" xml:id="KT082-1h">
+                  <p part="N">Jüdischer Jüngling.</p>
                </note>« im Erotischen delikater, oder sagen wir: weniger primitiv ist. Und daneben ihr Mann, der mit Fürsten in einer Verwaltung sitzt, wo man sie ja für anrüchige Geschäfte braucht, und daher doch wissen muss, wie moralisch ahnungslos sie sind. Warum fröstelt sie also vor Ehrfurcht, wenn ein Aristokrat auf die Bühne kommt? Warum verachten sie sich so? – Mir fällt da wieder jene Geschichte ein. Ein Dichter, der Jude ist, schreibt ein Stück. Es missfällt einem Kritiker, der Jude ist; er verreisst es. Das erbittert einen anderen Dichter, der Jude ist. Und er tröstet den ersten, indem er an ihn über den Kritiker<pb/> schreibt, es sei von diesem nichts anderes zu erwarten gewesen: denn »Ihr so herrliches Werk wird kein Jude je verstehen«. – Mir ist nur um die Kinder dieser durch Reichtum verdorbenen Juden bang. Bang und leid. Und <rs type="person" ref="#pmb11673">Herzl</rs> ist tot. </p>
          </div>
       </body>
@@ -109,7 +109,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="#pmb332">
+               <settlement ref="pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -118,7 +118,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="#pmb45258">
+               <settlement ref="pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -126,8 +126,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -142,7 +142,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -151,7 +151,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="#pmb50">
+               <settlement ref="pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -159,8 +159,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -174,7 +174,7 @@
             </persName>
             <birth>
                <date when="1860-05-02">02.05.1860</date>
-               <settlement ref="#pmb43471">
+               <settlement ref="pmb43471">
                   <placeName type="pref">Budapest</placeName>
                   <location>
                      <geo>47,49835 19,04045</geo>
@@ -183,7 +183,7 @@
             </birth>
             <death>
                <date when="1904-07-03">03.07.1904</date>
-               <settlement ref="#pmb470">
+               <settlement ref="pmb470">
                   <placeName type="pref">Edlach</placeName>
                   <location>
                      <geo>47,69255 15,80915</geo>
@@ -191,8 +191,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="#pmb99">Journalist/Journalistin</occupation>
+            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="pmb99">Journalist/Journalistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16165</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118550241</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11673</idno>
@@ -209,7 +209,7 @@
             <title type="arbeitstitel">Cäcilie Adams</title>
             <title type="arbeitstitel">„Nicht mehr zu dir zu gehn …“</title>
             <title type="arbeitstitel">Adagio</title>
-            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1905-10-12  – 1905-10-12</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.35</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q245055</idno>
@@ -224,16 +224,24 @@
          <bibl xml:id="pmb32680">
             <title>Tagebuch. 13. Oktober [1905]</title>
             <note type="bibliografische_angabe">Der Weg, Jg. 1, H. 5, 28. 10. 1905</note>
-            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1905-10-28">28.10.1905</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32680</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32680</idno>
             <note type="work_kind">Kolumne</note>
          </bibl>
-         <error type="bibl">29699</error>
+         <bibl xml:id="pmb43849">
+            <title>Der Weg. Wochenschrift für Politik und Kultur</title>
+            <author ref="pmbperson__6623" role="hat-herausgegeben">Charmatz, Richard</author>
+            <author ref="pmbperson__7805" role="hat-herausgegeben">Hertz, Friedrich Otto</author>
+            <date>1905-10-01  – 1906</date>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43849/</idno>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43849</idno>
+            <note type="work_kind">Publikationsorgan &gt;&gt; Zeitschrift &gt;&gt; Wochenschrift</note>
+         </bibl>
          <bibl xml:id="pmb29929">
             <title>Tagebuch [Berlin: Paul Cassirer]</title>
-            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date notBefore="1909-01-01" when="1909-07-02">1909</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29929</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29929</idno>
