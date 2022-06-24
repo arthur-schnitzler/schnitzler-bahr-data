@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/editions/T030032.xml</String>
+                                    <String>data/editions/T030041.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -31,6 +31,26 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>data/editions/T030011.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>back-element</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/T030032.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
