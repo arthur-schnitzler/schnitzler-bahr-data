@@ -11,7 +11,7 @@
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Arthur Schnitzler an Hermann Bahr, 1[4?]. 11. 1897</title>
             <title type="iso-date">1897-11-14</title>
-            <author ref="pmb2121">Schnitzler, Arthur</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,16 +50,16 @@
          <sourceDesc>
             <correspDesc>
                <sender>
-                  <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                  <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                </sender>
                <addressee>
-                  <persName ref="pmb10815">Bahr, Hermann</persName>
+                  <persName ref="#pmb10815">Bahr, Hermann</persName>
                </addressee>
                <placeSender>
-                  <placeName ref="pmb50">[Wien]</placeName>
+                  <placeName ref="#pmb50">[Wien]</placeName>
                </placeSender>
                <placeAddressee>
-                  <placeName ref="pmb50">Wien</placeName>
+                  <placeName ref="#pmb50">Wien</placeName>
                </placeAddressee>
                <dateSender>
                   <date when="1897-11-14" n="1">1[4?]. 11. 1897</date>
@@ -87,7 +87,7 @@
                      <date when="1897-11-18">18. 11. 1897</date>
                   </analytic>
                   <monogr>
-                     <author ref="pmb2121">Schnitzler, Arthur</author>
+                     <author ref="#pmb2121">Schnitzler, Arthur</author>
                      <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
                      <editor>Edited, annotated, and with an introduction, by Donald G. Daviau</editor>
                      <imprint>
@@ -104,7 +104,7 @@
                </biblStruct>
                <biblStruct>
                   <monogr>
-                     <author ref="pmb2121">Schnitzler, Arthur</author>
+                     <author ref="#pmb2121">Schnitzler, Arthur</author>
                      <title level="m">Briefe 1875–1912</title>
                      <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
                      <imprint>
@@ -152,7 +152,7 @@
                   Mitarbeit von Ingo Börner, Anna Lindner und Isabella Schwentner. Berlin, Boston:
                      <rs type="org">de Gruyter</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">2015</date> (Werke in historisch-kritischen Ausgaben, hg. Konstanze Fliedl),
+                        <date >2015</date> (Werke in historisch-kritischen Ausgaben, hg. Konstanze Fliedl),
                   H 24,5–6 und H 100,4</bibl>.</p>
                </note> stehen geblieben sind.) Auf der 16. Seite, Zeile 14, steht einmal Wohnzimmerthür statt »Wohnungsthür«. –</p>
             <p>– Dass ich nicht dabei sein kann, wenn Du die Geschichte liest, bedaure ich wirklich. Du wirst sie gewiss zu starker Wirkung bringen.</p>
@@ -163,11 +163,11 @@
                <p>
                   <rs type="place" ref="#pmb50">Wien</rs>, <date>
                      <anchor type="textConst" xml:id="TL016-1"/>1<unclear>4</unclear>. 11.<note type="textConst" xml:id="TL016-1h">
-                        <p>Bislang wurde der Brief auf <date instant="false">18. 11.</date> datiert. Das diesbezügliche Zeichen
+                        <p>Bislang wurde der Brief auf <date >18. 11.</date> datiert. Das diesbezügliche Zeichen
                setzt sich aus einem geschwungenen Teil, bei dem die Tinte zerronnen ist, und einem
                leicht schrägen Strich zusammen. Mehrere inhaltliche Gründe sprechen gegen die Lesart
                mit »8«, vor allem die (nicht thematisierte) lange Dauer der Antwort, obwohl <rs type="person" ref="#pmb2121">Schnitzler</rs> sich – ohne besondere Vorkommnisse –
-               in <rs type="place" ref="#pmb50">Wien</rs> aufhält, und dass <rs type="person" ref="#pmb10815">Bahrs</rs> Schreiben vom <date instant="false">16.</date> übergangen wird.</p>
+               in <rs type="place" ref="#pmb50">Wien</rs> aufhält, und dass <rs type="person" ref="#pmb10815">Bahrs</rs> Schreiben vom <date >16.</date> übergangen wird.</p>
                      </note> 97</date>
                </p>
             </postscript>
@@ -183,7 +183,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -192,7 +192,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -200,8 +200,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -215,7 +215,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -224,7 +224,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -232,8 +232,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -246,7 +246,7 @@
          <bibl xml:id="pmb29833">
             <title>Die Toten schweigen</title>
             <note type="bibliografische_angabe">Cosmopolis, Bd. 8, H. 22, Oktober 1897, S. 193–211</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1897-10-01">01.10.1897</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.02.29</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1216835</idno>
@@ -278,7 +278,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>

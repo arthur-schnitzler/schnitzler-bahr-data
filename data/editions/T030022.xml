@@ -10,9 +10,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
-            <title level="a" ref="pmb31185">Hermann Bahr: [»Der zerbrochene Krug« und »Der grüne Kakadu«], 15. 10. 1905</title>
+            <title level="a" ref="#pmb31185">Hermann Bahr: [»Der zerbrochene Krug« und »Der grüne Kakadu«], 15. 10. 1905</title>
             <title type="iso-date">1905-10-15</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,11 +50,11 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="a" ref="pmb31185">Deutsches Volkstheater. (»Der zerbrochene Krug« von Kleist. »Der grüne Kakadu« von Arthur Schnitzler. Am 14. Oktober 1905)</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="a" ref="#pmb31185">Deutsches Volkstheater. (»Der zerbrochene Krug« von Kleist. »Der grüne Kakadu« von Arthur Schnitzler. Am 14. Oktober 1905)</title>
                   </analytic>
                   <monogr>
-                     <title level="j" ref="pmb29414">Neues Wiener Tagblatt</title>
+                     <title level="j" ref="#pmb29414">Neues Wiener Tagblatt</title>
                      <imprint>
                         <date when="1905-10-15" n="1">15. 10. 1905</date>
                      </imprint>
@@ -65,11 +65,11 @@
                </biblStruct>
                <biblStruct corresp="HBGL">
                   <analytic>
-                     <title level="a" ref="pmb31185">Deutsches Volkstheater (»Der zerbrochene Krug« von Kleist. »Der grüne Kakadu« von Arthur Schnitzler. Am 14. Oktober 1905)</title>
+                     <title level="a" ref="#pmb31185">Deutsches Volkstheater (»Der zerbrochene Krug« von Kleist. »Der grüne Kakadu« von Arthur Schnitzler. Am 14. Oktober 1905)</title>
                   </analytic>
                   <monogr>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis 1906)</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="m" ref="#pmb30685">Glossen. Zum Wiener Theater (1903 bis 1906)</title>
                      <imprint>
                         <pubPlace>Berlin</pubPlace>
                         <publisher>S. Fischer</publisher>
@@ -103,7 +103,7 @@
                      <bibl >
                         <rs type="person" ref="#pmb28422">Eduard Genast</rs>: <rs type="work" ref="#pmb32153">Aus dem Tagebuche eines alten Schauspielers</rs>. Leipzig: <rs type="org">Voigt <c rendition="#kaufmannsund"/> Günther</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1862</date>, I, S. 169</bibl>.</p>
+                        <date >1862</date>, I, S. 169</bibl>.</p>
                </note> vom »<rs type="work" ref="#pmb30675">Zerbrochenen Krug</rs>« in <rs type="place" ref="#pmb197">Weimar</rs>, am 2. März 1808: »<rs type="work" subtype="implied" ref="#pmb32153">Bei der Aufführung dieses Stückes ereignete sich ein Vorfall, der in dem kleinen <rs type="place" ref="#pmb861">Weimarschen Hoftheater</rs> noch nie dagewesen und als etwas Unerhörtes bezeichnet werden konnte: ein herzoglicher Beamter hatte die Frechheit, das Stück auszupfeifen. <rs type="person" ref="#pmb23867">Karl August</rs>, der seinen Platz <c rendition="#dots" n="3" place="center"/> auf dem sogenannten bürgerlichen Balkon hatte, bog sich über die Brüstung heraus und rief: ›Wer ist der freche Mensch, der sich untersteht, in Gegenwart meiner <rs type="person" subtype="implied" ref="#pmb28430">Gemahlin</rs> zu pfeifen? Husaren, nehmt den Kerl fest.‹ Dies geschah <c rendition="#dots" n="3" place="center"/> und er wurde drei Tage auf die Hauptwache gesetzt. Den anderen Tag soll <rs type="person" ref="#pmb11461">Goethe</rs> gegen <rs type="person" ref="#pmb4138">Riemer</rs>, der es mir mitteilte, bemerkt haben: Der Mensch hat gar nicht so unrecht gehabt; ich wäre auch dabei gewesen, wenn es der Anstand und meine Stellung erlaubt hätten. Des Anstandes wegen hätte er eben warten sollen, bis er außerhalb des Zuschauerraumes war.</rs>« Man weiß auch sonst, daß <rs type="person" ref="#pmb11461">Goethe</rs> in kein Verhältnis zu <rs type="person" ref="#pmb11933">Kleist</rs> kommen konnte, an dem ihm »<anchor type="commentary" xml:id="KT022-5"/>
                <rs type="work" subtype="implied" ref="#pmb32640">die nordische Schärfe des Hypochonders und die Gewaltsamkeit der Motive</rs>
                <note type="commentary" xml:id="KT022-5h">
@@ -112,13 +112,13 @@
                         <rs type="work" ref="#pmb32640">Goethe aus näherm persönlichen Umgange
                      dargestellt</rs>. Ein nachgelassenes Werk von <rs type="person" ref="#pmb28904">Johannes Falk</rs>. Leipzig: <rs type="org">Brockhaus</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1832</date>, S. 120–121</bibl>.</p>
+                        <date >1832</date>, S. 120–121</bibl>.</p>
                </note>« unerträglich war. »<rs type="work" subtype="implied" ref="#pmb32640">Ich habe ein Recht,« hat er einmal gesagt, »<rs type="person" ref="#pmb11933">Kleist</rs> zu tadeln, weil ich ihn geliebt und gehoben habe; aber sei es nun, daß seine Ausbildung, wie es jetzt bei vielen der Fall ist, durch die Zeit gestört wurde, oder was sonst für eine Ursache zum Grunde liege; genug, er hält nicht, was er zugesagt. Sein Hypochonder ist gar zu arg; er richtet ihn als Menschen und Dichter zugrunde. Sie wissen, welche Mühe und Proben ich es mir kosten ließ, seinen ›<rs type="work" ref="#pmb30675">Wasserkrug</rs>‹ aufs hiesige Theater zu bringen. Daß es dennoch nicht glückte, lag einzig in dem Umstande, daß es dem übrigens geistreichen und humoristischen Stoffe an einer rasch durchgeführten Handlung fehlt.</rs>« Und ähnlich ein anderes Mal zu <rs type="person" ref="#pmb4138">Riemer</rs>, sich über die eigensinnigen und eigenwilligen Neuen von <rs type="person" ref="#pmb11933">Kleist</rs>s Art beklagend: »<anchor type="commentary" xml:id="KT022-2"/>
                <rs type="work" subtype="implied" ref="#pmb31249">Sie meinen, außer dem Rechten gäbe es noch ein Rechtes, ein anderes Rechtes, das hätten sie. Wie wenn es außer dem Schwarzen in der Scheibe noch eins gäbe, und da schießen sie denn ins Blaue.</rs>
                <note type="commentary" xml:id="KT022-2h">
-                  <p>Am <date when="1810-12-04" instant="false">4. 12. 1810</date>.</p>
+                  <p>Am <date when="1810-12-04" >4. 12. 1810</date>.</p>
                </note>« Womit er übrigens nur das allgemeine Gefühl seines ganzen Kreises aussprach. So schrieb Fräulein <rs type="person" ref="#pmb4153">v. Knebel</rs> an ihren <rs type="person" subtype="implied" ref="#pmb4158">Bruder</rs>: »<anchor type="commentary" xml:id="KT022-1"/>Ein fürchterliches Lustspiel, was wir eben haben aufführen seh’n und was einen unverlöschbaren unangenehmen Eindruck auf mich gemacht hat, und auf uns alle, ist der ›<rs type="work" ref="#pmb30675">Zerbrochene Krug</rs>‹ von Herrn <rs type="person" ref="#pmb11933">von Kleist</rs> in <rs type="place" ref="#pmb866">Dresden</rs>, Mitarbeiter des charmanten ›<rs type="org" ref="#pmb29700">Phöbus</rs>‹. Wirklich hätte ich nicht geglaubt, daß es möglich wäre, so was Langweiliges und Abgeschmacktes hinzuschreiben. Die <rs type="person" subtype="implied" ref="#pmb4273">Princeß</rs> meint, daß die Herrens von <rs type="person" ref="#pmb11933">Kleist</rs> gerechte Ansprüche auf den <rs type="org" ref="#pmb29818">Lazarus-Orden</rs> hätten. Der moralische Aussatz ist doch auch ein böses Uebel.<note type="commentary" xml:id="KT022-1h">
-                  <p>Im Brief vom <date when="1808-03-05" instant="false">5. 3. 1808</date>.</p>
+                  <p>Im Brief vom <date when="1808-03-05" >5. 3. 1808</date>.</p>
                </note>« <rs type="person" ref="#pmb11933">Kleist</rs> gab das Mißgeschick selbst zu, als er in den »<rs type="org" ref="#pmb29700">Phöbus</rs>« ein Fragment aus dem Stücke setzen ließ, mit der resoluten Bemerkung: »Da dieses kleine, vor mehreren Jahren zusammengesetzte Lustspiel eben jetzt auf der Bühne von <rs type="place" ref="#pmb197">Weimar</rs> verunglückt ist <c rendition="#dots" n="3"/>« Er konnte nur freilich nicht ahnen, daß es dabei bleiben sollte: indem sich das Stück allmählich im stillen immer dankbarere Leser gewann, fuhr es im Theater bei den Zuschauern zu »verunglücken« fort. Eigentlich bis heute. <rs type="person" ref="#pmb2702">Laube</rs> erzählt in seinem <rs type="work" ref="#pmb32310">Burgtheater</rs>: »<anchor type="commentary" xml:id="KT022-6"/>
                <rs type="work" subtype="implied" ref="#pmb32310">Noch in einer anderen komischen Richtung versuchte ich das Repertoire zu erweitern. In der Richtung nach Norden, möchte ich sagen. <rs type="person" ref="#pmb11933">Heinrich v. Kleists</rs> ›<rs type="work" ref="#pmb30675">Zerbrochener Krug</rs>‹ gehört ganz zur nordischen Komik. – <rs type="person" ref="#pmb11933">Heinrich v. Kleist</rs> stand lange auf der Senatorliste unserer großen Poeten. Man meinte, es müsse alles dafür getan werden, dem Publikum begreiflich zu machen, daß ihm einer der nächsten Sessel nach <rs type="person" ref="#pmb12654">Schiller</rs> und <rs type="person" ref="#pmb11461">Goethe</rs> eingeräumt werde. Ich war selbst dieser Meinung und hatte vor, all seine Dramen in Szene zu setzen. Zuerst brachte ich den ›<rs type="work" ref="#pmb30675">Zerbrochenen Krug</rs>‹, der hier nie gegeben worden; eigentlich ohne Erfolg. Er erschien zu nordisch, zu kalt, zu gedacht, zu abstrakt. Mehr Komik für den Denker, als für den Zuschauer. Der Unterschied unserer <rs type="place" ref="#pmb151">deutschen</rs> Landsmannschaften zeigt sich da sehr deutlich. Die <rs type="place" ref="#pmb646">märkische</rs> Landsmannschaft, zu welcher <rs type="person" ref="#pmb11933">Kleist</rs> gehörte, findet das Stückchen ihrem Geschmacke zusagend, sie folgt ihm mit Behagen. <rs type="person" ref="#pmb4135">Döring</rs> gibt auch den Dorfrichter Adam viel cynischer, schärfer und frecher als <rs type="person" ref="#pmb28440">La Roche</rs>, und die <rs type="person" ref="#pmb4135">Döringsche</rs> Charakteristik entspricht dem <rs type="place" ref="#pmb646">märkischen</rs> Grundtone. Die <rs type="place" ref="#pmb151">norddeutsche</rs> Komik steht eben der Kaustik viel näher, als die <rs type="place" ref="#pmb151">süddeutsche</rs>. Aber auch im Norden mußte dieser durch die Romantiker berühmt gewordene ›<rs type="work" ref="#pmb30675">Krug</rs>‹ gestrichen werden bis auf die Knochen. Er ist viel zu breit für die Szene. Und dem <rs type="place" ref="#pmb151">Süddeutschen</rs> ist ein Körper ohne Fleisch ein mißlich Ding.</rs>
                <note type="commentary" xml:id="KT022-6h">
@@ -127,15 +127,15 @@
                         <rs type="person" ref="#pmb2702">Heinrich Laube</rs>: <rs type="work" ref="#pmb32310">Das Burgtheater. Ein Beitrag zur Deutschen
                      Theater-Geschichte</rs>. Leipzig: <rs type="org">J. J. Weber</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1868</date>, S. 176–177</bibl>.</p>
+                        <date >1868</date>, S. 176–177</bibl>.</p>
                </note>« In <rs type="place" ref="#pmb50">Wien</rs> hat er in der Tat eigentlich niemals gewirkt. Auch in <rs type="place" ref="#pmb45258">München</rs> nicht, sogar bei <rs type="person" ref="#pmb4142">Dingelstedts</rs> Mustervorstellungen von 1854 mit <rs type="person" ref="#pmb4135">Döring</rs> kaum. Eigentlich also nur in <rs type="place" ref="#pmb168">Berlin</rs>, so lange <rs type="person" ref="#pmb4135">Döring</rs> den Dorfrichter gab. Dann auch nicht mehr. Erst <anchor type="commentary" xml:id="KT022-3"/>neulich<note type="commentary" xml:id="KT022-3h">
-                  <p>Am <date when="1905-09-15" instant="false">15. 9. 1905</date>.</p>
+                  <p>Am <date when="1905-09-15" >15. 9. 1905</date>.</p>
                </note> noch, als er im <rs type="place" ref="#pmb208">Kleinen Theater</rs> wieder versagte, hat <rs type="person" ref="#pmb11813">Siegfried Jacobsohn</rs> verzeichnet, es habe sich »<anchor type="commentary" xml:id="KT022-8"/>
                <rs type="work" subtype="implied" ref="#pmb32642">die über alle Begriffe herrliche Komödie seit <rs type="person" ref="#pmb4135">Dörings</rs> Tode auf keiner Bühne behaupten können</rs>
                <note type="commentary" xml:id="KT022-8h">
                   <p>
                      <bibl >
-                        <rs type="person" ref="#pmb11813">Siegfried Jacobsohn</rs>: <rs type="work" ref="#pmb32642">Neues Kleines Theater</rs>. In: <rs type="org" ref="#pmb29348">Die Schaubühne</rs>, Jg. 1, H. 3, <date instant="false">21. 9. 1905</date>, S. 63–66, hier:
+                        <rs type="person" ref="#pmb11813">Siegfried Jacobsohn</rs>: <rs type="work" ref="#pmb32642">Neues Kleines Theater</rs>. In: <rs type="org" ref="#pmb29348">Die Schaubühne</rs>, Jg. 1, H. 3, <date >21. 9. 1905</date>, S. 63–66, hier:
                   S. 64</bibl>.</p>
                </note>«. Warum? Ein von allen bewundertes Stück, das überall durchfällt. Es muß doch einen Grund haben. <rs type="person" ref="#pmb2702">Laube</rs> spricht auch in seinem <rs type="work" ref="#pmb30095">Stadttheater</rs> einmal über das Stück. Und da sagt er einen sehr merkwürdigen Satz: »<anchor type="commentary" xml:id="KT022-7"/>
                <rs type="work" subtype="implied" ref="#pmb30095">Selbst der ›<rs type="work" ref="#pmb30675">Zerbrochene Krug</rs>‹, in der <rs type="person" ref="#pmb4146">Schmidt</rs>schen Verkürzung von <rs type="person" ref="#pmb4135">Döring</rs> meisterhaft dargestellt in der Figur des Richter Adam, ist ganz selten geworden im Repertoire. Anderswo hat er nie festen Fuß fassen können, weil man seine Komik, die Komik der Voraussetzungen, zu spitz fand für die Bühne. Diese Komik bringt es mit sich, daß man nachträglich lacht, im Theater aber will man auf der Stelle lachen.</rs>
@@ -145,7 +145,7 @@
                         <rs type="person" ref="#pmb2702">Heinrich Laube</rs>: <rs type="work" ref="#pmb30095">Das Wiener Stadt-Theater</rs>. Leipzig: <rs type="org">J. J.
                      Weber</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1875</date>, S. 144</bibl>.</p>
+                        <date >1875</date>, S. 144</bibl>.</p>
                </note>« Dies scheint mir das Wesen der <rs type="person" ref="#pmb11933">Kleist</rs>schen Charakteristik zu enthalten, welcher sich der Zuschauer, auch im Tragischen, immer erst nachher durch Reflexion bemächtigen kann, während es dramatisch ist, sie uns unmittelbar aufzudrängen. Er braucht also Schauspieler, die dem Zuschauer sogleich bringen, was ihm dieser Dichter immer erst am Ende, erst bei einer inneren Revision zu Hause gibt, indem sie vorweg aus Eigenem spielen, was er erst zuletzt durch einen langwierigen Prozeß als Resultat gewinnt. Wir haben im »<rs type="work" ref="#pmb30675">Krug</rs>« immer am Ende das Gefühl: würde er uns jetzt gleich noch einmal vorgespielt, so könnten wir erst lachen. Er braucht also Schauspieler, die fähig sind, uns durch irgend eine geheime Macht, was der Dichter versäumt, gleich schon vorempfinden zu lassen, noch bevor es sich aus der Handlung ergibt, die so dramatisch ist als die Darstellung ihrer Menschen undramatisch. <rs type="person" ref="#pmb4132">Tieck</rs> muß dies schon gemerkt haben. Er sagt in den <rs type="work" ref="#pmb31699">dramaturgischen Blättern</rs> einmal: »<anchor type="commentary" xml:id="KT022-9"/>
                <rs type="work" subtype="implied" ref="#pmb31699">
                   <rs type="person" ref="#pmb11933">Kleists</rs> Dramen geben dem Schauspieler große Veranlassung, seine Kunst zu zeigen, aber zugleich gehört es zu den allerschwierigsten Aufgaben, sie befriedigend oder auch nur so aufzuführen, daß die Absichten des Dichters nicht ganz verloren gehen. Alle diese Charaktere müssen sehr scharf umrissen werden, das Kolorit ist grell und beides, Umriß und Farbe, verschwindet zu Zeiten beinah wieder ganz, und dem Schauspieler ist die Ergänzung, gewissermaßen die Schöpfung, unbedingt anvertraut.</rs>
@@ -155,7 +155,7 @@
                         <rs type="person" ref="#pmb4132">Ludwig Tieck</rs>: <rs type="work" ref="#pmb31699">Dramaturgische Blätter.</rs> Zum ersten Male vollständig
                   gesammelt. Leipzig: <rs type="org">Brockhaus</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1852</date>, II, S. 27</bibl>.</p>
+                        <date >1852</date>, II, S. 27</bibl>.</p>
                </note>« Deutlicher ausgedrückt: man hat bei <rs type="person" ref="#pmb11933">Kleists</rs> Gestalten immer das Gefühl, daß der Dichter ihren »Charakter« eben durch den dramatischen Verlauf nur erst sucht; und wir müssen mit ihm suchen, und wenn er ihn endlich gefunden hat, ist das Stück schon aus, es endet mit seiner Entdeckung. Bei <rs type="person" ref="#pmb2412">Shakespeare</rs> auch, wird man vielleicht sagen. Ja, aber anders: <rs type="person" ref="#pmb2412">Shakespeare</rs> deckt im letzten Akt auf, als jetzt für den Verstand bewiesen, was wir mit dem Gefühl schon in der ersten Szene geheimnisvoll antizipiert haben. (Worin <rs type="person" ref="#pmb2412">Shakespeare</rs> wie das Leben ist, unser Leben selbst, das auch nichts anderes mit uns tut.) Und eben dies, was <rs type="person" ref="#pmb2412">Shakespeare</rs> vor <rs type="person" ref="#pmb11933">Kleist</rs> voraus hat, diese magische Macht, uns sogleich fühlen zu lassen, was uns die dramatische Begebenheit dann erst an den Gestalten erkennen läßt, muß diesem, wenn er wirken soll, der Schauspieler geben. Ich weiß freilich heute nur drei, welchen ich es für den »<rs type="work" ref="#pmb30675">Krug</rs>« zutrauen kann: <rs type="person" ref="#pmb2189">Novelli</rs>, <rs type="person" ref="#pmb11851">Kainz</rs> und <rs type="person" ref="#pmb11441">Girardi</rs>.</p>
             <p>Was ich am »<rs type="work" ref="#pmb29843">Grünen Kakadu</rs>« immer wieder bewundere, ist, daß er ganz unmittelbar auf uns und doch keinen Augenblick als Kostüm wirkt. Sonst sagt man sich bei »historischen« Stücken entweder: Aha, er meint uns, er hat uns nur verkleidet, aber wir sind’s, uns geht es an, unser Fall wird verhandelt. (Bei <rs type="person" ref="#pmb2412">Shakespeare</rs>, <rs type="person" ref="#pmb11461">Goethe</rs>, <rs type="person" ref="#pmb12654">Schiller</rs> immer.) Oder man weiß gleich, daß eine Vergangenheit gezeigt werden soll, mit Gedanken, die wir nicht mehr denken, Gefühlen, die uns fremd geworden sind, Menschen, die wir nicht mehr haben. <rs type="person" ref="#pmb2121">Schnitzler</rs> trifft es wunderbar, beides zu verbinden: das »Echte« mit unserem neuen Gefühl. Niemals empfinden wir das als »Kostüm«, wir sind sogleich in jene große Zeit entrückt. Wir spüren: Diese waren anders, keiner ist heute so, unser Leben hat diese Form nicht mehr. Und spüren doch ihre Leidenschaft als unsere und spüren zugleich fast einen geheimen Wunsch, ihre Vergangenheit zu unserer Zukunft zu machen. Es ist Geschichte, ja, aber lebendige, aus der noch Funken in unsere Wünsche springen.</p>
             <p>Herr <rs type="person" ref="#pmb11788">
@@ -192,7 +192,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -201,7 +201,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -209,8 +209,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -225,7 +225,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -234,7 +234,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -242,8 +242,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -258,13 +258,13 @@
             <persName type="geburtsname_nachname">Kynast</persName>
             <birth>
                <date when="1763-01-01">1763</date>
-               <settlement ref="pmb28423">
+               <settlement ref="#pmb28423">
                   <placeName type="pref">Trachtenberg</placeName>
                </settlement>
             </birth>
             <death>
                <date when="1831-01-01">1831</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -272,7 +272,7 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28422</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28422</idno>
          </person>
@@ -285,7 +285,7 @@
             <persName type="legacy-uri-merge">https://schnitzler-briefe.acdh.oeaw.ac.at/A003730</persName>
             <birth>
                <date when="1757-09-03">03.09.1757</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -294,7 +294,7 @@
             </birth>
             <death>
                <date when="1828-06-14">14.06.1828</date>
-               <settlement ref="pmb39912">
+               <settlement ref="#pmb39912">
                   <placeName type="pref">Graditz</placeName>
                   <location>
                      <geo>51,54458 13,06118</geo>
@@ -313,7 +313,7 @@
             <persName type="geburtsname_nachname">von Hessen-Darmstadt</persName>
             <birth>
                <date when="1757-01-30">1757-01-30</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -322,7 +322,7 @@
             </birth>
             <death>
                <date when="1830-02-14">1830-02-14</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -330,7 +330,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb726">Herzog/Herzogin</occupation>
+            <occupation ref="#pmb726">Herzog/Herzogin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/115363688</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28430</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28430</idno>
@@ -342,7 +342,7 @@
             </persName>
             <birth>
                <date when="1749-08-28">28.08.1749</date>
-               <settlement ref="pmb146">
+               <settlement ref="#pmb146">
                   <placeName type="pref">Frankfurt am Main</placeName>
                   <location>
                      <geo>50,11552 8,68417</geo>
@@ -351,7 +351,7 @@
             </birth>
             <death>
                <date when="1832-03-22">22.03.1832</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -359,7 +359,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118540238</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11461</idno>
@@ -374,13 +374,13 @@
             </persName>
             <birth>
                <date when="1774-01-01">1774</date>
-               <settlement ref="pmb4139">
+               <settlement ref="#pmb4139">
                   <placeName type="pref">Glatz</placeName>
                </settlement>
             </birth>
             <death>
                <date when="1845-01-01">1845</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -388,9 +388,9 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb204">Philologe/Philologin</occupation>
-            <occupation ref="pmb247">Bibliothekar/Bibliothekarin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb204">Philologe/Philologin</occupation>
+            <occupation ref="#pmb247">Bibliothekar/Bibliothekarin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116543671</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4138</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4138</idno>
@@ -402,7 +402,7 @@
             </persName>
             <birth>
                <date when="1777-10-18">18.10.1777</date>
-               <settlement ref="pmb35518">
+               <settlement ref="#pmb35518">
                   <placeName type="pref">Frankfurt (Oder)</placeName>
                   <location>
                      <geo>52,34714 14,55062</geo>
@@ -411,7 +411,7 @@
             </birth>
             <death>
                <date when="1811-11-21">21.11.1811</date>
-               <settlement ref="pmb61073">
+               <settlement ref="#pmb61073">
                   <placeName type="pref">Kleiner Wannsee</placeName>
                   <location>
                      <geo>52,41576 13,15943</geo>
@@ -419,7 +419,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16900</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118563076</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11933</idno>
@@ -434,7 +434,7 @@
             </persName>
             <birth>
                <date when="1755-01-01">1755</date>
-               <settlement ref="pmb58684">
+               <settlement ref="#pmb58684">
                   <placeName type="pref">Regensburg</placeName>
                   <location>
                      <geo>49,01513 12,10161</geo>
@@ -443,13 +443,13 @@
             </birth>
             <death>
                <date when="1813-01-01">1813</date>
-               <settlement ref="pmb4156">
+               <settlement ref="#pmb4156">
                   <placeName type="pref">Ludwigslust</placeName>
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb296">Erzieher/Erzieherin</occupation>
-            <occupation ref="pmb297">männliche Hofdame/Hofdame</occupation>
+            <occupation ref="#pmb296">Erzieher/Erzieherin</occupation>
+            <occupation ref="#pmb297">männliche Hofdame/Hofdame</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116250933</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4153</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4153</idno>
@@ -461,7 +461,7 @@
             </persName>
             <birth>
                <date when="1744-01-01">1744</date>
-               <settlement ref="pmb45096">
+               <settlement ref="#pmb45096">
                   <placeName type="pref">Nördlingen</placeName>
                   <location>
                      <geo>48,85122 10,48868</geo>
@@ -470,7 +470,7 @@
             </birth>
             <death>
                <date when="1834-01-01">1834</date>
-               <settlement ref="pmb876">
+               <settlement ref="#pmb876">
                   <placeName type="pref">Jena</placeName>
                   <location>
                      <geo>50,93194 11,59056</geo>
@@ -478,7 +478,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118777505</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4158</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4158</idno>
@@ -490,7 +490,7 @@
             </persName>
             <birth>
                <date when="1786-07-18">1786-07-18</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -499,7 +499,7 @@
             </birth>
             <death>
                <date when="1816-01-20">1816-01-20</date>
-               <settlement ref="pmb4156">
+               <settlement ref="#pmb4156">
                   <placeName type="pref">Ludwigslust</placeName>
                </settlement>
             </death>
@@ -515,13 +515,13 @@
             </persName>
             <birth>
                <date when="1806-09-18">1806-09-18</date>
-               <settlement ref="pmb1004">
+               <settlement ref="#pmb1004">
                   <placeName type="pref">Sprottau</placeName>
                   <location>
                      <geo>51,56563 15,53664</geo>
                   </location>
                </settlement>
-               <settlement ref="pmb1004">
+               <settlement ref="#pmb1004">
                   <placeName type="pref">Sprottau</placeName>
                   <location>
                      <geo>51,56563 15,53664</geo>
@@ -530,13 +530,13 @@
             </birth>
             <death>
                <date when="1884-08-01">1884-08-01</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
                   </location>
                </settlement>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -544,8 +544,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118570080</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2702</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2702</idno>
@@ -560,7 +560,7 @@
             </persName>
             <birth>
                <date when="1759-11-10">10.11.1759</date>
-               <settlement ref="pmb39585">
+               <settlement ref="#pmb39585">
                   <placeName type="pref">Marbach am Neckar</placeName>
                   <location>
                      <geo>48,93964 9,25995</geo>
@@ -569,7 +569,7 @@
             </birth>
             <death>
                <date when="1805-05-09">09.05.1805</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -577,9 +577,9 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb134">Historiker/Historikerin</occupation>
-            <occupation ref="pmb154">Philosoph/Philosophin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb134">Historiker/Historikerin</occupation>
+            <occupation ref="#pmb154">Philosoph/Philosophin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19694</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118607626</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12654</idno>
@@ -595,7 +595,7 @@
             <persName type="geburtsname_nachname">Hering</persName>
             <birth>
                <date when="1803-01-01">1803</date>
-               <settlement ref="pmb888">
+               <settlement ref="#pmb888">
                   <placeName type="pref">Warschau</placeName>
                   <location>
                      <geo>52,22977 21,01178</geo>
@@ -604,7 +604,7 @@
             </birth>
             <death>
                <date when="1878-01-01">1878</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -612,7 +612,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116168773</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4135</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4135</idno>
@@ -624,7 +624,7 @@
             </persName>
             <birth>
                <date when="1794-01-01">1794</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -633,7 +633,7 @@
             </birth>
             <death>
                <date when="1884-01-01">1884</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -641,7 +641,7 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28440</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28440</idno>
          </person>
@@ -652,13 +652,13 @@
             </persName>
             <birth>
                <date when="1814-06-30">1814-06-30</date>
-               <settlement ref="pmb4143">
+               <settlement ref="#pmb4143">
                   <placeName type="pref">Wohratal</placeName>
                </settlement>
             </birth>
             <death>
                <date when="1881-05-15">1881-05-15</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -666,8 +666,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb99">Journalist/Journalistin</occupation>
-            <occupation ref="pmb295">Bühnenleiter/Bühnenleiterin</occupation>
+            <occupation ref="#pmb99">Journalist/Journalistin</occupation>
+            <occupation ref="#pmb295">Bühnenleiter/Bühnenleiterin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118525751</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4142</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4142</idno>
@@ -681,7 +681,7 @@
             <persName type="uri_wikipedia">https://de.wikipedia.org/wiki/Siegfried_Jacobsohn</persName>
             <birth>
                <date when="1881-01-28">28.01.1881</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -690,7 +690,7 @@
             </birth>
             <death>
                <date when="1926-12-03">03.12.1926</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -698,9 +698,9 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb99">Journalist/Journalistin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
-            <occupation ref="pmb237">Publizist/Publizistin</occupation>
+            <occupation ref="#pmb99">Journalist/Journalistin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb237">Publizist/Publizistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16477</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118556371</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11813</idno>
@@ -714,7 +714,7 @@
             </persName>
             <birth>
                <date when="1772-01-01">1772</date>
-               <settlement ref="pmb890">
+               <settlement ref="#pmb890">
                   <placeName type="pref">Hannover</placeName>
                   <location>
                      <geo>52,37052 9,73322</geo>
@@ -723,7 +723,7 @@
             </birth>
             <death>
                <date when="1841-01-01">1841</date>
-               <settlement ref="pmb506">
+               <settlement ref="#pmb506">
                   <placeName type="pref">Hamburg</placeName>
                   <location>
                      <geo>53,57532 10,01534</geo>
@@ -731,8 +731,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/104325011</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4146</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4146</idno>
@@ -744,7 +744,7 @@
             </persName>
             <birth>
                <date notBefore="1773-01-01" when="1773-07-02" notAfter="1773-12-31">1773</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -753,7 +753,7 @@
             </birth>
             <death>
                <date when="1853-07-02" notAfter="1853-12-31">1853</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -761,7 +761,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/12989432X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4132</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4132</idno>
@@ -773,7 +773,7 @@
             </persName>
             <birth>
                <date when="1564-04-23">23.4.1564?</date>
-               <settlement ref="pmb49870">
+               <settlement ref="#pmb49870">
                   <placeName type="pref">Stratford-upon-Avon</placeName>
                   <location>
                      <geo>52,19166 -1,70734</geo>
@@ -782,7 +782,7 @@
             </birth>
             <death>
                <date when="1616-05-03">03.05.1616</date>
-               <settlement ref="pmb49870">
+               <settlement ref="#pmb49870">
                   <placeName type="pref">Stratford-upon-Avon</placeName>
                   <location>
                      <geo>52,19166 -1,70734</geo>
@@ -790,8 +790,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
-            <occupation ref="pmb727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118613723</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2412</idno>
@@ -806,7 +806,7 @@
             </persName>
             <birth>
                <date when="1851-03-05">05.03.1851</date>
-               <settlement ref="pmb49191">
+               <settlement ref="#pmb49191">
                   <placeName type="pref">Lucca</placeName>
                   <location>
                      <geo>43,84369 10,50447</geo>
@@ -815,7 +815,7 @@
             </birth>
             <death>
                <date when="1919-01-29">29.01.1919</date>
-               <settlement ref="pmb595">
+               <settlement ref="#pmb595">
                   <placeName type="pref">Neapel</placeName>
                   <location>
                      <geo>40,85216 14,26811</geo>
@@ -823,7 +823,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/117068500</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18490</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2189</idno>
@@ -837,7 +837,7 @@
             </persName>
             <birth>
                <date when="1858-01-02">02.01.1858</date>
-               <settlement ref="pmb43475">
+               <settlement ref="#pmb43475">
                   <placeName type="pref">Mosonmagyaróvár</placeName>
                   <location>
                      <geo>47,86789 17,26994</geo>
@@ -846,7 +846,7 @@
             </birth>
             <death>
                <date when="1910-09-20">20.09.1910</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -854,7 +854,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16646</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118559389</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11851</idno>
@@ -868,7 +868,7 @@
             </persName>
             <birth>
                <date when="1850-12-05">05.12.1850</date>
-               <settlement ref="pmb860">
+               <settlement ref="#pmb860">
                   <placeName type="pref">Graz</placeName>
                   <location>
                      <geo>47,06667 15,43333</geo>
@@ -877,7 +877,7 @@
             </birth>
             <death>
                <date when="1918-04-20">20.04.1918</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -885,7 +885,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15442</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11869510X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11441</idno>
@@ -898,7 +898,7 @@
             </persName>
             <birth>
                <date when="1864-05-14">14.05.1864</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -907,7 +907,7 @@
             </birth>
             <death>
                <date when="1940-05-01">01.05.1940</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -915,7 +915,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16252</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116924187</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11788</idno>
@@ -932,7 +932,7 @@
             <persName type="legacy-name-merge">Thaller, Katharine</persName>
             <birth>
                <date when="1856-06-02">1856-06-02</date>
-               <settlement ref="pmb860">
+               <settlement ref="#pmb860">
                   <placeName type="pref">Graz</placeName>
                   <location>
                      <geo>47,06667 15,43333</geo>
@@ -941,7 +941,7 @@
             </birth>
             <death>
                <date when="1925-07-15">1925-07-15</date>
-               <settlement ref="pmb46447">
+               <settlement ref="#pmb46447">
                   <placeName type="pref">Bad Hall</placeName>
                   <location>
                      <geo>48,03832 14,20773</geo>
@@ -949,7 +949,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/117227269</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20689</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3341</idno>
@@ -964,7 +964,7 @@
             <persName type="geburtsname_nachname">Bleeke</persName>
             <birth>
                <date when="1878-01-01">01.01.1878</date>
-               <settlement ref="pmb49974">
+               <settlement ref="#pmb49974">
                   <placeName type="pref">Barmen</placeName>
                   <location>
                      <geo>50,94381 6,30508</geo>
@@ -973,7 +973,7 @@
             </birth>
             <death>
                <date when="1952-11-18">18.11.1952</date>
-               <settlement ref="pmb56027">
+               <settlement ref="#pmb56027">
                   <placeName type="pref">Potsdam</placeName>
                   <location>
                      <geo>52,39886 13,06566</geo>
@@ -981,8 +981,8 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13744</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11619295X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10940</idno>
@@ -995,7 +995,7 @@
             </persName>
             <birth>
                <date when="1874-02-03">03.02.1874</date>
-               <settlement ref="pmb967">
+               <settlement ref="#pmb967">
                   <placeName type="pref">Luzern</placeName>
                   <location>
                      <geo>47,05048 8,30635</geo>
@@ -1004,7 +1004,7 @@
             </birth>
             <death>
                <date when="1908-01-14">14.01.1908</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -1012,8 +1012,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb104">Regisseur/Regisseurin</occupation>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb104">Regisseur/Regisseurin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/117341622</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20914</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2235</idno>
@@ -1027,7 +1027,7 @@
             </persName>
             <birth>
                <date when="1870-06-05">05.06.1870</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -1036,7 +1036,7 @@
             </birth>
             <death>
                <date>um 1940</date>
-               <settlement ref="pmb30">
+               <settlement ref="#pmb30">
                   <placeName type="pref">Salzburg</placeName>
                   <location>
                      <geo>47,80067 13,04532</geo>
@@ -1044,7 +1044,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/1127163329</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17589</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4176</idno>
@@ -1059,7 +1059,7 @@
             <persName type="ehename">Scharff</persName>
             <birth>
                <date notBefore="1888-01-01" when="1888-07-01" notAfter="1888-12-31">1888</date>
-               <settlement ref="pmb49163">
+               <settlement ref="#pmb49163">
                   <placeName type="pref">Eisenstadt</placeName>
                   <location>
                      <geo>47,84565 16,52327</geo>
@@ -1068,7 +1068,7 @@
             </birth>
             <death>
                <date when="1964-11-27">1964-11-27</date>
-               <settlement ref="pmb506">
+               <settlement ref="#pmb506">
                   <placeName type="pref">Hamburg</placeName>
                   <location>
                      <geo>53,57532 10,01534</geo>
@@ -1076,7 +1076,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/1025099605</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2303</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2303</idno>
@@ -1091,7 +1091,7 @@
             <persName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Leopold_Kramer</persName>
             <birth>
                <date when="1869-09-29">29.09.1869</date>
-               <settlement ref="pmb652">
+               <settlement ref="#pmb652">
                   <placeName type="pref">Prag</placeName>
                   <location>
                      <geo>50,08333 14,46667</geo>
@@ -1100,7 +1100,7 @@
             </birth>
             <death>
                <date when="1942-10-29">29.10.1942</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -1108,8 +1108,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17087</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116376309</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11981</idno>
@@ -1125,7 +1125,7 @@
             <persName type="legacy-name-merge">Jensen, Eugen</persName>
             <birth>
                <date when="1871-01-26">26.1.1871</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -1134,7 +1134,7 @@
             </birth>
             <death>
                <date when="1957-11-23">23.11.1957</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -1142,7 +1142,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/137455666</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4179</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4179</idno>
@@ -1152,7 +1152,7 @@
       <listBibl>
          <bibl xml:id="pmb30675">
             <title>Der zerbrochene Krug</title>
-            <author ref="pmbperson__11933" role="hat-geschaffen">Kleist, Heinrich von</author>
+            <author ref="#pmbperson__11933" role="hat-geschaffen">Kleist, Heinrich von</author>
             <date when="1808-01-01">1808</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30675</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30675</idno>
@@ -1162,7 +1162,7 @@
          </bibl>
          <bibl xml:id="pmb32153">
             <title>Aus dem Tagebuche eines alten Schauspielers, 1. Band</title>
-            <author ref="pmbperson__4965" role="hat-geschaffen">Genast, Eduard</author>
+            <author ref="#pmbperson__4965" role="hat-geschaffen">Genast, Eduard</author>
             <date when="1862-01-01">1862</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32153</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32153</idno>
@@ -1170,7 +1170,7 @@
          </bibl>
          <bibl xml:id="pmb32640">
             <title>Goethe aus näherm persönlichen Umgange dargestellt</title>
-            <author ref="pmbperson__28904" role="hat-geschaffen">Falk, Johannes</author>
+            <author ref="#pmbperson__28904" role="hat-geschaffen">Falk, Johannes</author>
             <date when="1832-01-01">1832</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32640</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32640</idno>
@@ -1178,7 +1178,7 @@
          </bibl>
          <bibl xml:id="pmb31249">
             <title>Gespräche</title>
-            <author ref="pmbperson__11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
+            <author ref="#pmbperson__11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31249</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31249</idno>
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb31249</idno>
@@ -1187,7 +1187,7 @@
          </bibl>
          <bibl xml:id="pmb32310">
             <title>Das Burgtheater. Ein Beitrag zur Deutschen Theater-Geschichte</title>
-            <author ref="pmbperson__2702" role="hat-geschaffen">Laube, Heinrich</author>
+            <author ref="#pmbperson__2702" role="hat-geschaffen">Laube, Heinrich</author>
             <date when="1868-01-01">1868</date>
             <idno type="URL" subtype="archive">https://archive.org/stream/bub_gb_7Y1RAAAAcAAJ_2/bub_gb_7Y1RAAAAcAAJ#page/n187/mode/2up/search/krug</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32310</idno>
@@ -1199,7 +1199,7 @@
          <bibl xml:id="pmb32642">
             <title>Neues Kleines Theater</title>
             <note type="bibliografische_angabe">Die Schaubühne, Jg. 1, H. 3, 21. 9. 1905</note>
-            <author ref="pmbperson__11813" role="hat-geschaffen">Jacobsohn, Siegfried</author>
+            <author ref="#pmbperson__11813" role="hat-geschaffen">Jacobsohn, Siegfried</author>
             <date when="1905-09-21">21.09.1905</date>
             <idno type="URL" subtype="archive">https://archive.org/stream/DieSchaubuehne1-1905#page/n75</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32642</idno>
@@ -1208,7 +1208,7 @@
          </bibl>
          <bibl xml:id="pmb30095">
             <title>Das Wiener Stadt-Theater</title>
-            <author ref="pmbperson__2702" role="hat-geschaffen">Laube, Heinrich</author>
+            <author ref="#pmbperson__2702" role="hat-geschaffen">Laube, Heinrich</author>
             <date when="1875-01-01">1875</date>
             <idno type="URL" subtype="books">https://books.google.com/books?id=WsTzwDnwfAAC&amp;printsec=frontcover&amp;dq=%22heinrich+laube%22+%22stadt-theater%22&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjB14DyiODUAhWCPj4KHegsAvQQ6AEIJTAA#v=onepage&amp;q=%22heinrich%20laube%22%20%22stadt-theater%22&amp;f=false</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30095</idno>
@@ -1218,7 +1218,7 @@
          </bibl>
          <bibl xml:id="pmb31699">
             <title>Dramaturgische Blätter</title>
-            <author ref="pmbperson__4132" role="hat-geschaffen">Tieck, Ludwig</author>
+            <author ref="#pmbperson__4132" role="hat-geschaffen">Tieck, Ludwig</author>
             <date>1826/1852</date>
             <idno type="URL" subtype="">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10574779_00005.html</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31699</idno>
@@ -1228,7 +1228,7 @@
          <bibl xml:id="pmb29843">
             <title>Der grüne Kakadu. Groteske in einem Akt</title>
             <note type="bibliografische_angabe">Neue Deutsche Rundschau, Jg. 10, H. 3, März 1899</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1.3.1899  – 1.3.1899</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.10</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2675124</idno>
@@ -1243,7 +1243,7 @@
          <bibl xml:id="pmb31185">
             <title>Deutsches Volkstheater. (»Der zerbrochene Krug« von Kleist. »Der grüne Kakadu« von Arthur Schnitzler)</title>
             <note type="bibliografische_angabe">Neues Wiener Tagblatt, 15. 10. 1905</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1905-10-15">15.10.1905</date>
             <idno type="URL" subtype="">http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19051015&amp;seite=11&amp;zoom=33</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31185</idno>
@@ -1253,7 +1253,7 @@
          <error type="bibl">29414</error>
          <bibl xml:id="pmb30685">
             <title>Glossen. Zum Wiener Theater (1903 bis 1906)</title>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date notBefore="1906-01-01" when="1906-07-02">1906</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30685</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30685</idno>
@@ -1272,7 +1272,7 @@
                <geo>48,205142 16,3566</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb57">VII., Neubau</placeName>
+               <placeName ref="#pmb57">VII., Neubau</placeName>
                <geo>48,2 16,35</geo>
             </location>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Volkstheater</idno>
@@ -1302,7 +1302,7 @@
                <geo>50,979561 11,324683</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb197">Weimar</placeName>
+               <placeName ref="#pmb197">Weimar</placeName>
                <geo>50,97361 11,33806</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb861</idno>
@@ -1337,7 +1337,7 @@
                <geo>51,5 10,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb468">Europa</placeName>
+               <placeName ref="#pmb468">Europa</placeName>
                <geo>48,69096 9,14062</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q183</idno>
@@ -1360,7 +1360,7 @@
                <geo>52,459028 13,015833</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q148499</idno>
@@ -1389,7 +1389,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -1421,11 +1421,11 @@
                <geo>48,13743 11,57549</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb314">Bayern</placeName>
+               <placeName ref="#pmb314">Bayern</placeName>
                <geo>49,0 11,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/4127793-4</idno>
@@ -1448,7 +1448,7 @@
                <geo>52,52437 13,41053</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
@@ -1465,7 +1465,7 @@
                <geo>52,517222 13,389167</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb168">Berlin</placeName>
+               <placeName ref="#pmb168">Berlin</placeName>
                <geo>52,52437 13,41053</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb208</idno>

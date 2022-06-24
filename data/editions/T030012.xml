@@ -10,9 +10,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
-            <title level="a" ref="pmb30997">Hermann Bahr: Der Schleier der Beatrice, 5. 12. 1900</title>
+            <title level="a" ref="#pmb30997">Hermann Bahr: Der Schleier der Beatrice, 5. 12. 1900</title>
             <title type="iso-date">1900-12-05</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,11 +50,11 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="a" ref="pmb30997">Der Schleier der Beatrice (Schauspiel in fünf Acten von Arthur Schnitzler. Zum ersten Male aufgeführt am Breslauer Lobe-Theater am 1. December 1900)</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="a" ref="#pmb30997">Der Schleier der Beatrice (Schauspiel in fünf Acten von Arthur Schnitzler. Zum ersten Male aufgeführt am Breslauer Lobe-Theater am 1. December 1900)</title>
                   </analytic>
                   <monogr>
-                     <title level="j" ref="pmb29414">Neues Wiener Tagblatt</title>
+                     <title level="j" ref="#pmb29414">Neues Wiener Tagblatt</title>
                      <imprint>
                         <date when="1900-12-05">5. 12. 1900</date>
                      </imprint>
@@ -65,11 +65,11 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <title level="a" ref="pmb30997">Der Schleier der Beatrice (Schauspiel in fünf Akten von Arthur Schnitzler. Zum ersten Male aufgeführt am Breslauer Lobe-Theater am 1. Dez. 1900)</title>
+                     <title level="a" ref="#pmb30997">Der Schleier der Beatrice (Schauspiel in fünf Akten von Arthur Schnitzler. Zum ersten Male aufgeführt am Breslauer Lobe-Theater am 1. Dez. 1900)</title>
                   </analytic>
                   <monogr>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="m" ref="pmb30991">Premièren. Winter 1900 bis Sommer 1901</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="m" ref="#pmb30991">Premièren. Winter 1900 bis Sommer 1901</title>
                      <imprint>
                         <pubPlace>München</pubPlace>
                         <publisher>Albert Langen</publisher>
@@ -101,7 +101,7 @@
             <p>
                <rs type="person" ref="#pmb2121">Schnitzler</rs> ist einige Zeit in sein <anchor type="label" xml:id="LT012-1">Thema vom <rs type="work" ref="#pmb29935">Anatol</rs> und vom süßen Mädel so verliebt gewesen, daß man schon fast befürchten mußte, er werde gar nicht mehr loskommen können und bald in Manier gerathen</anchor>. Für einen jungen Autor ist es immer eine Gefahr, wenn er durch einen glücklichen Griff ins Leben das Publicum rasch gewinnt. Der junge Autor tritt auf, sieht sich neugierig um, erblickt Gestalten, erblickt Verhältnisse, die noch nicht dargestellt worden sind, ergreift sie, weiß ihnen ihre Form zu geben – und der große Erfolg ist da. Das Publicum beeilt sich, ihn in eine Rubrik zu bringen: es weiß jetzt, was es von ihm zu erwarten hat – er hat das sehr hübsch gemacht, wir wollen also bei ihm bleiben, er soll sozusagen der Lieferant sein, von dem wir die süßen Mädeln beziehen. Für ihn ist das natürlich eine starke Verlockung, denn er könnte ohne Mühe, ohne eigentlich productiv zu sein, indem er nur jene Gestalt oder jenes Verhältniß wieder von einer anderen Seite oder in einem anderen Lichte zeigt, jedes Jahr mit einem neuen Werke erscheinen und darf der Wirkung, die er ja schon erprobt hat, gewiß sein. Dabei wird ihm die Behandlung immer leichter werden, er wird sich rasch einer ganz sicheren Technik bemächtigen, und bloß durch Verstand und Energie, ohne sich schöpferisch aufzuregen, weil er ja eigentlich immer nur sein erstes Werk reproducirt; wie ein Schauspieler, der eine einmal im heiligen Rausche gefühlte, mit der wildesten Erregung erfaßte Rolle nun jeden Abend gelassen wiederholt, kann er sich den Anschein einer unermüdlichen Begabung geben. Dabei begibt es sich nur freilich, daß seine innere Kraft allmählich versiegt, und bevor er es noch selbst merkt, ist sein Talent zur Routine geworden. Das hat <rs type="person" ref="#pmb2121">Schnitzler</rs> noch zur rechten Zeit gefühlt und, inneren Warnungen gehorsam, die Krise mit einem Muthe bestanden, der unter unseren, leicht vom Erfolg bethörten Autoren selten ist. Man sollte nun meinen, schon ein solches Streben allein müßte auf die Theilnahme, ja Bewunderung des Publicums rechnen können. Das Publicum hat doch schließlich das größte Interesse daran, daß jeder bei uns wirkende Autor zur höchsten Entfaltung seiner Kräfte gelange. Jeder Autor ist ja ein Capital, das das Publicum glücklich anlegen oder schlecht verwalten kann. Was es trägt, kommt dem Publicum zu, und wenn es vergeudet wird, ist die Stadt, ist das ganze Land dadurch ärmer geworden. Es ist seltsam, daß bei uns die Behörden, welche den geistigen Reichthum, die öffentliche Kraft der Nation zu verwalten hätten, dies nicht zu bemerken scheinen, und daß das Publicum, welches doch am Gedeihen oder Verderben der Talente unmittelbar betheiligt ist, eher eine gewisse Schadenfreude hat, jede Kraft abzuschwächen. Ich habe <anchor type="commentary" xml:id="KT012-1"/>neulich erzählt<note type="commentary" xml:id="KT012-1h">
                   <p>In der Kurzbesprechung zu <rs type="person" ref="#pmb4958">Theodor Ferdinand
-                  Bock</rs>: <rs type="work" ref="#pmb32626">Der Übermensch</rs> im <rs type="place" ref="#pmb77">Raimund-Theater</rs>, <bibl >H. B.: <rs type="work" ref="#pmb32626">Theater, Kunst und Literatur. Raimund-Theater</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 35, Nr. 295, <date instant="false">27. 10.
+                  Bock</rs>: <rs type="work" ref="#pmb32626">Der Übermensch</rs> im <rs type="place" ref="#pmb77">Raimund-Theater</rs>, <bibl >H. B.: <rs type="work" ref="#pmb32626">Theater, Kunst und Literatur. Raimund-Theater</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 35, Nr. 295, <date >27. 10.
                      1901</date>, S. 8</bibl>.</p>
                </note>, wie sich, als <rs type="person" ref="#pmb11441">Girardi</rs> den engen Kreis liebenswürdig <rs type="place" ref="#pmb50">wienerischer</rs> Figuren verlassen wollte, um höhere Aufgaben anzustreben, förmlich die ganze Stadt gegen ihn verschwor, und leider scheint es <rs type="person" ref="#pmb2121">Schnitzler</rs> bestimmt zu sein, jetzt dasselbe zu erleben. Er strebt über seine Anfänge hinaus; er fühlt, daß er mehr kann; er will nicht ruhen, bis er die großen Entschlüsse, deren er in reinen Stunden theilhaftig geworden, durch ein Werk erreichen wird. Man sollte meinen: Alle <rs type="place" ref="#pmb41240">Oesterreicher</rs> müßten dabei sein, ihm mit Leidenschaft zu helfen, es ihm zu erleichtern, ihn wie einen Läufer vor dem Ziel durch Zuruf zu befeuern. Sein Erfolg wird ja doch schließlich unser Ruhm sein: denn jedes Werk, das Einem unter uns gelingt, dient zur Ehre des österreichischen Namens, und je höher sich der Einzelne erheben darf, desto größer stehen Alle vor den Nationen da. Bei uns aber sind Haß und Neid so stark, daß wir uns lieber Alle erniedrigen, als es irgend Einem zu gönnen, daß er zur Reife gelange. Das ist ja leider nichts Neues: man lese über die Première von <rs type="person" ref="#pmb10854">Bauernfeld’s</rs> »<rs type="work" ref="#pmb31749">Fortunat</rs>« oder von <rs type="person" ref="#pmb11518">Grillparzer’s</rs> »<rs type="work" ref="#pmb31603">Weh’ Dem, der lügt</rs>« nach – immer haben sich die <rs type="place" ref="#pmb41240">Oesterreicher</rs> mit Erfolg bemüht, jedes Talent an seiner ganzen Entfaltung zu verhindern, bis es klein und scheu geworden ist und sich in seinem nächsten Kreise beschieden hat.</p>
             <p>
@@ -258,7 +258,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -267,7 +267,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -275,8 +275,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -291,7 +291,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -300,7 +300,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -308,8 +308,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -323,7 +323,7 @@
             </persName>
             <birth>
                <date when="1850-12-05">05.12.1850</date>
-               <settlement ref="pmb860">
+               <settlement ref="#pmb860">
                   <placeName type="pref">Graz</placeName>
                   <location>
                      <geo>47,06667 15,43333</geo>
@@ -332,7 +332,7 @@
             </birth>
             <death>
                <date when="1918-04-20">20.04.1918</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -340,7 +340,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15442</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11869510X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11441</idno>
@@ -353,7 +353,7 @@
             </persName>
             <birth>
                <date when="1802-01-13">13.01.1802</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -362,7 +362,7 @@
             </birth>
             <death>
                <date when="1890-08-04">04.08.1890</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -384,7 +384,7 @@
             </persName>
             <birth>
                <date when="1791-01-15">15.01.1791</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -393,7 +393,7 @@
             </birth>
             <death>
                <date when="1872-01-21">21.01.1872</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -401,8 +401,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb1472">Beamter/Beamte</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb1472">Beamter/Beamte</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15661</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118542192</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11518</idno>
@@ -417,7 +417,7 @@
             </persName>
             <birth>
                <date when="1564-04-23">23.4.1564?</date>
-               <settlement ref="pmb49870">
+               <settlement ref="#pmb49870">
                   <placeName type="pref">Stratford-upon-Avon</placeName>
                   <location>
                      <geo>52,19166 -1,70734</geo>
@@ -426,7 +426,7 @@
             </birth>
             <death>
                <date when="1616-05-03">03.05.1616</date>
-               <settlement ref="pmb49870">
+               <settlement ref="#pmb49870">
                   <placeName type="pref">Stratford-upon-Avon</placeName>
                   <location>
                      <geo>52,19166 -1,70734</geo>
@@ -434,8 +434,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
-            <occupation ref="pmb727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb727">Schriftsteller/Schriftstellerin &gt;&gt; Dramatiker/Dramatikerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118613723</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2412</idno>
@@ -449,7 +449,7 @@
             <title>Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
             <title type="arbeitstitel">Shawl</title>
             <note type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=601&amp;teil=0111&amp;seite=00000001&amp;zoom=2</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1900-12-01  – 1900-12-01</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.13</idno>
             <idno type="URL" subtype="">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=601&amp;teil=0303&amp;seite=00000215&amp;zoom=2</idno>
@@ -462,8 +462,8 @@
          <bibl xml:id="pmb29935">
             <title>Anatol</title>
             <note type="bibliografische_angabe">Arthur Schnitzler: Anatol. Berlin: Bibliographisches Bureau 1892, vordatiert auf 1893</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
-            <author ref="pmbperson__28645" role="hat-illustriert">Coschell, Moritz</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__28645" role="hat-illustriert">Coschell, Moritz</author>
             <date>1892-10-29  – 1892-10-29</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.03</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q487409</idno>
@@ -478,7 +478,7 @@
          </bibl>
          <bibl xml:id="pmb31749">
             <title>Fortunat</title>
-            <author ref="pmbperson__10854" role="hat-geschaffen">Bauernfeld, Eduard von</author>
+            <author ref="#pmbperson__10854" role="hat-geschaffen">Bauernfeld, Eduard von</author>
             <date when="1835-01-01">1835</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31749</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31749</idno>
@@ -486,7 +486,7 @@
          </bibl>
          <bibl xml:id="pmb31603">
             <title>Weh’ dem, der lügt</title>
-            <author ref="pmbperson__11518" role="hat-geschaffen">Grillparzer, Franz</author>
+            <author ref="#pmbperson__11518" role="hat-geschaffen">Grillparzer, Franz</author>
             <date when="1840-01-01">1840</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31603</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31603</idno>
@@ -495,7 +495,7 @@
          <bibl xml:id="pmb30997">
             <title>Der Schleier der Beatrice. (Schauspiel in fünf Akten von Arthur Schnitzler. Zum ersten Male aufgeführt am Breslauer Lobe-Theater am 1. Dez. 1900)</title>
             <note type="bibliografische_angabe">Neues Wiener Tagblatt, 5. 12. 1900</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1900-12-05">05.12.1900</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30997</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30997</idno>
@@ -505,7 +505,7 @@
          <error type="bibl">29414</error>
          <bibl xml:id="pmb30991">
             <title>Premièren. Winter 1900 bis Sommer 1901</title>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1902-01-01">1902</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30991</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30991</idno>
@@ -521,7 +521,7 @@
                <geo>51,10862 17,0454</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb677">Breslau</placeName>
+               <placeName ref="#pmb677">Breslau</placeName>
                <geo>51,10773 17,03533</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb525</idno>
@@ -546,7 +546,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -574,7 +574,7 @@
                <geo>47,33333 13,33333</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb687">Österreich-Ungarn</placeName>
+               <placeName ref="#pmb687">Österreich-Ungarn</placeName>
                <geo>48,4054 16,4887</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2782113/</idno>
@@ -591,7 +591,7 @@
                <geo>44,49381 11,33875</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb40306">Italien</placeName>
+               <placeName ref="#pmb40306">Italien</placeName>
                <geo>42,83333 12,83333</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1891</idno>

@@ -12,7 +12,7 @@
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Arthur Schnitzler: [Das Erscheinen der Autoren], 15. 2. 1899</title>
             <title type="iso-date">1899-02-15</title>
-            <author ref="pmb2121">Schnitzler, Arthur</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,11 +50,11 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb2121">Schnitzler, Arthur</author>
+                     <author ref="#pmb2121">Schnitzler, Arthur</author>
                      <title level="a">[Das Erscheinen der Autoren]</title>
                   </analytic>
                   <monogr>
-                     <title level="j" ref="pmb29209">Die Zeit</title>
+                     <title level="j" ref="#pmb36340">Die Zeit</title>
                      <imprint>
                         <date when="1899-02-18" n="1">18. 2. 1899</date>
                      </imprint>
@@ -97,7 +97,7 @@
                die Antwort von <rs type="person" ref="#pmb2344">Max Grube</rs> in Gestalt eines
                Gedichts. Auf eine <rs type="work" subtype="implied" ref="#pmb29979">Reaktion</rs>
                      <space unit="chars" quantity="1"/>
-                     <rs type="person" ref="#pmb11673">Theodor Herzls</rs> in der <rs type="org" ref="#pmb29351">Neuen Freien Presse</rs> vom <date instant="false">12. 2.</date> (<bibl >Nr. 12384,
+                     <rs type="person" ref="#pmb11673">Theodor Herzls</rs> in der <rs type="org" ref="#pmb29351">Neuen Freien Presse</rs> vom <date >12. 2.</date> (<bibl >Nr. 12384,
                   S. 8</bibl>) wird hingewiesen.</p>
                </note> oder nicht? Nichts ist gleichgiltiger für das innere Schicksal der Première; nichts gleichgiltiger für das fernere Schicksal des betreffenden Stückes. Jeder Autor möge es daher in jedem Falle halten, wie es ihm beliebt. In Geschmacks- und Stimmungsfragen gibt es keine Solidarität.</p>
             <closer>Herzlichen Gruß. <anchor type="commentary" xml:id="KT043-1"/>Dein<note type="commentary" xml:id="KT043-1h">
@@ -119,7 +119,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -128,7 +128,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -136,8 +136,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -168,7 +168,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>

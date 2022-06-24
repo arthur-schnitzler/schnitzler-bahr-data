@@ -11,7 +11,7 @@
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Aufzeichnung von Hermann Bahr, 5. 11. 1908</title>
             <title type="iso-date">1908-11-05</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -71,7 +71,7 @@
                      <biblScope unit="pp">390–391</biblScope>
                   </monogr>
                   <monogr>
-                     <author ref="pmb10815">Bahr, Hermann</author>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
                      <title level="m">Tagebücher, Skizzenbücher, Notizhefte</title>
                      <editor>Hg. Moritz Csáky</editor>
                      <imprint>
@@ -113,7 +113,7 @@
                      <bibl >Vgl. <rs type="person" ref="#pmb10992">Georg Brandes</rs>: <rs type="work" ref="#pmb32842">Voltaire in seinem Verhältnis zu Friedrich dem Grossen und Jean
                      Jacques Rousseau</rs>. Berlin: <rs type="org">Marquard <c rendition="#kaufmannsund"/> Co.</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1909</date>
+                        <date >1909</date>
                      </bibl>.</p>
                </note> sich unehrerbietig über den <rs type="place" ref="#pmb146">Frankfurt</rs>er Senat geäußert. <rs type="person" ref="#pmb11740">Hofmannsthal</rs> mag sie nicht: er »seufzt« mir gar zu viel.</p>
          </div>
@@ -128,7 +128,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -137,7 +137,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -145,8 +145,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -161,7 +161,7 @@
             </persName>
             <birth>
                <date when="1881-01-01">1881</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -170,7 +170,7 @@
             </birth>
             <death>
                <date when="1941-01-01">1941</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -189,7 +189,7 @@
             </persName>
             <birth>
                <date when="1749-08-28">28.08.1749</date>
-               <settlement ref="pmb146">
+               <settlement ref="#pmb146">
                   <placeName type="pref">Frankfurt am Main</placeName>
                   <location>
                      <geo>50,11552 8,68417</geo>
@@ -198,7 +198,7 @@
             </birth>
             <death>
                <date when="1832-03-22">22.03.1832</date>
-               <settlement ref="pmb197">
+               <settlement ref="#pmb197">
                   <placeName type="pref">Weimar</placeName>
                   <location>
                      <geo>50,97361 11,33806</geo>
@@ -206,7 +206,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118540238</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11461</idno>
@@ -221,7 +221,7 @@
             </persName>
             <birth>
                <date when="1852-01-01">1852</date>
-               <settlement ref="pmb59021">
+               <settlement ref="#pmb59021">
                   <placeName type="pref">Marburg</placeName>
                   <location>
                      <geo>50,80904 8,77069</geo>
@@ -230,7 +230,7 @@
             </birth>
             <death>
                <date when="1921-01-01">1921</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -238,7 +238,7 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="pmb185">Architekt/Architektin</occupation>
+            <occupation ref="#pmb185">Architekt/Architektin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118622005</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3504</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3504</idno>
@@ -250,7 +250,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -259,7 +259,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -267,8 +267,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -283,7 +283,7 @@
             <persName type="geburtsname_nachname">Schippel</persName>
             <birth>
                <date when="1847-01-01">1847</date>
-               <settlement ref="pmb59021">
+               <settlement ref="#pmb59021">
                   <placeName type="pref">Marburg</placeName>
                   <location>
                      <geo>50,80904 8,77069</geo>
@@ -292,7 +292,7 @@
             </birth>
             <death>
                <date when="1914-01-01">1914</date>
-               <settlement ref="pmb146">
+               <settlement ref="#pmb146">
                   <placeName type="pref">Frankfurt am Main</placeName>
                   <location>
                      <geo>50,11552 8,68417</geo>
@@ -300,7 +300,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116885904</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3508</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3508</idno>
@@ -312,7 +312,7 @@
             </persName>
             <birth>
                <date when="1842-02-04">04.02.1842</date>
-               <settlement ref="pmb36300">
+               <settlement ref="#pmb36300">
                   <placeName type="pref">Kopenhagen</placeName>
                   <location>
                      <geo>55,67594 12,56553</geo>
@@ -321,7 +321,7 @@
             </birth>
             <death>
                <date when="1927-02-19">19.02.1927</date>
-               <settlement ref="pmb36300">
+               <settlement ref="#pmb36300">
                   <placeName type="pref">Kopenhagen</placeName>
                   <location>
                      <geo>55,67594 12,56553</geo>
@@ -346,7 +346,7 @@
             <persName type="legacy-name-merge">Voltaire, Francois-Marie</persName>
             <birth>
                <date when="1694-11-21">21.11.1694</date>
-               <settlement ref="pmb182">
+               <settlement ref="#pmb182">
                   <placeName type="pref">Paris</placeName>
                   <location>
                      <geo>48,85341 2,3488</geo>
@@ -355,7 +355,7 @@
             </birth>
             <death>
                <date when="1778-05-30">30.05.1778</date>
-               <settlement ref="pmb182">
+               <settlement ref="#pmb182">
                   <placeName type="pref">Paris</placeName>
                   <location>
                      <geo>48,85341 2,3488</geo>
@@ -363,8 +363,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb154">Philosoph/Philosophin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb154">Philosoph/Philosophin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118627813</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3124</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3124</idno>
@@ -382,7 +382,7 @@
             <persName type="namensvariante">Hofmannsthal, Hugo</persName>
             <birth>
                <date when="1874-02-01">01.02.1874</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -391,7 +391,7 @@
             </birth>
             <death>
                <date when="1929-07-15">15.07.1929</date>
-               <settlement ref="pmb173">
+               <settlement ref="#pmb173">
                   <placeName type="pref">Rodaun</placeName>
                   <location>
                      <geo>48,132793312328 16,256152195922</geo>
@@ -399,7 +399,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118552759</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11740</idno>
@@ -416,7 +416,7 @@
                <geo>50,10596151401453 8,665350899421226</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb146">Frankfurt am Main</placeName>
+               <placeName ref="#pmb146">Frankfurt am Main</placeName>
                <geo>50,11552 8,68417</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb321</idno>
@@ -427,7 +427,7 @@
             <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
             <desc type="entity_type_id">5</desc>
             <location type="located_in_place">
-               <placeName ref="pmb146">Frankfurt am Main</placeName>
+               <placeName ref="#pmb146">Frankfurt am Main</placeName>
                <geo>50,11552 8,68417</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb322</idno>
@@ -442,7 +442,7 @@
                <geo>50,111111 8,677778</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb146">Frankfurt am Main</placeName>
+               <placeName ref="#pmb146">Frankfurt am Main</placeName>
                <geo>50,11552 8,68417</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb323</idno>
@@ -457,11 +457,11 @@
                <geo>50,111111 8,6775</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb146">Frankfurt am Main</placeName>
+               <placeName ref="#pmb146">Frankfurt am Main</placeName>
                <geo>50,11552 8,68417</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb323">Großer Hirschgraben</placeName>
+               <placeName ref="#pmb323">Großer Hirschgraben</placeName>
                <geo>50,111111 8,677778</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb324</idno>
@@ -476,11 +476,11 @@
                <geo>50,12498 8,64538</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb146">Frankfurt am Main</placeName>
+               <placeName ref="#pmb146">Frankfurt am Main</placeName>
                <geo>50,11552 8,68417</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q516056</idno>
@@ -495,7 +495,7 @@
             <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
             <desc type="entity_type_id">5</desc>
             <location type="located_in_place">
-               <placeName ref="pmb146">Frankfurt am Main</placeName>
+               <placeName ref="#pmb146">Frankfurt am Main</placeName>
                <geo>50,11552 8,68417</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb326</idno>
@@ -521,7 +521,7 @@
                <geo>50,11552 8,68417</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2925533/</idno>

@@ -10,9 +10,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
-            <title level="a" ref="pmb31177">Hermann Bahr: Der Puppenspieler, 13. 12. 1904</title>
+            <title level="a" ref="#pmb31177">Hermann Bahr: Der Puppenspieler, 13. 12. 1904</title>
             <title type="iso-date">1904-12-13</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,11 +50,11 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="a" ref="pmb31177">Der Puppenspieler (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904)</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="a" ref="#pmb31177">Der Puppenspieler (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904)</title>
                   </analytic>
                   <monogr>
-                     <title level="j" ref="pmb29414">Neues Wiener Tagblatt</title>
+                     <title level="j" ref="#pmb29414">Neues Wiener Tagblatt</title>
                      <imprint>
                         <date when="1904-12-13" n="1">13. 12. 1904</date>
                      </imprint>
@@ -65,11 +65,11 @@
                </biblStruct>
                <biblStruct corresp="HBGL">
                   <analytic>
-                     <title level="a" ref="pmb31177">Der Puppenspieler. (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904)</title>
+                     <title level="a" ref="#pmb31177">Der Puppenspieler. (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904)</title>
                   </analytic>
                   <monogr>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis 1906)</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="m" ref="#pmb30685">Glossen. Zum Wiener Theater (1903 bis 1906)</title>
                      <imprint>
                         <pubPlace>Berlin</pubPlace>
                         <publisher>S. Fischer</publisher>
@@ -135,7 +135,7 @@
                         <rs type="person" ref="#pmb11518">Franz Grillparzer</rs>: <rs type="work" ref="#pmb31033">Der Traum, ein Leben. Dramatisches Mährchen in vier
                      Aufzügen</rs>. Wien: <rs type="org">Wallishausser</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1840</date>, S. 152</bibl>.</p>
+                        <date >1840</date>, S. 152</bibl>.</p>
                </note>
             </lg>
             <p>
@@ -174,7 +174,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -183,7 +183,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -191,8 +191,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -207,7 +207,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -216,7 +216,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -224,8 +224,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -239,7 +239,7 @@
             </persName>
             <birth>
                <date when="1791-01-15">15.01.1791</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -248,7 +248,7 @@
             </birth>
             <death>
                <date when="1872-01-21">21.01.1872</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -256,8 +256,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb1472">Beamter/Beamte</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb1472">Beamter/Beamte</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15661</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118542192</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11518</idno>
@@ -272,7 +272,7 @@
             </persName>
             <birth>
                <date when="1805-10-23">23.10.1805</date>
-               <settlement ref="pmb61115">
+               <settlement ref="#pmb61115">
                   <placeName type="pref">Horní Planá</placeName>
                   <location>
                      <geo>48,76736 14,03257</geo>
@@ -281,7 +281,7 @@
             </birth>
             <death>
                <date when="1868-01-28">28.01.1868</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -289,7 +289,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20437</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118618156</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12851</idno>
@@ -305,7 +305,7 @@
             <persName type="legacy-name-merge">Hebbel, Friedrich</persName>
             <birth>
                <date when="1813-03-18">18.03.1813</date>
-               <settlement ref="pmb53806">
+               <settlement ref="#pmb53806">
                   <placeName type="pref">Wesselburen</placeName>
                   <location>
                      <geo>54,21217 8,92419</geo>
@@ -314,7 +314,7 @@
             </birth>
             <death>
                <date when="1863-12-13">13.12.1863</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -322,7 +322,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118547445</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2404</idno>
@@ -337,7 +337,7 @@
             </persName>
             <birth>
                <date when="1818-05-05">05.05.1818</date>
-               <settlement ref="pmb62079">
+               <settlement ref="#pmb62079">
                   <placeName type="pref">Trier</placeName>
                   <location>
                      <geo>49,75565 6,63935</geo>
@@ -346,7 +346,7 @@
             </birth>
             <death>
                <date when="1883-03-14">14.03.1883</date>
-               <settlement ref="pmb224">
+               <settlement ref="#pmb224">
                   <placeName type="pref">London</placeName>
                   <location>
                      <geo>51,50853 -0,12574</geo>
@@ -354,8 +354,8 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="pmb154">Philosoph/Philosophin</occupation>
-            <occupation ref="pmb286">Nationalökonom/Nationalökonomin</occupation>
+            <occupation ref="#pmb154">Philosoph/Philosophin</occupation>
+            <occupation ref="#pmb286">Nationalökonom/Nationalökonomin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17957</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118578537</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12195</idno>
@@ -373,7 +373,7 @@
             <persName type="uri_gnd">http://d-nb.info/gnd/116653981</persName>
             <birth>
                <date when="1865-08-24">24.08.1865</date>
-               <settlement ref="pmb43471">
+               <settlement ref="#pmb43471">
                   <placeName type="pref">Budapest</placeName>
                   <location>
                      <geo>47,49835 19,04045</geo>
@@ -382,7 +382,7 @@
             </birth>
             <death>
                <date when="1932-01-11">11.01.1932</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -390,8 +390,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116653981</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2601</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2601</idno>
@@ -407,7 +407,7 @@
             <persName type="uri_wikipedia">https://de.wikipedia.org/wiki/Albert_Heine</persName>
             <birth>
                <date when="1867-11-16">16.11.1867</date>
-               <settlement ref="pmb35572">
+               <settlement ref="#pmb35572">
                   <placeName type="pref">Braunschweig</placeName>
                   <location>
                      <geo>52,26594 10,52673</geo>
@@ -416,7 +416,7 @@
             </birth>
             <death>
                <date when="1949-04-13">13.4.1949</date>
-               <settlement ref="pmb47646">
+               <settlement ref="#pmb47646">
                   <placeName type="pref">Westerland</placeName>
                   <location>
                      <geo>54,9079 8,30326</geo>
@@ -424,8 +424,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116659068</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2743</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2743</idno>
@@ -440,7 +440,7 @@
             <persName type="ehename">Albach</persName>
             <birth>
                <date when="1874-12-26">26.12.1874</date>
-               <settlement ref="pmb63754">
+               <settlement ref="#pmb63754">
                   <placeName type="pref">Hanau</placeName>
                   <location>
                      <geo>50,13423 8,91418</geo>
@@ -449,7 +449,7 @@
             </birth>
             <death>
                <date when="1980-08-26">26.08.1980</date>
-               <settlement ref="pmb662">
+               <settlement ref="#pmb662">
                   <placeName type="pref">Baden bei Wien</placeName>
                   <location>
                      <geo>48,00543 16,23264</geo>
@@ -457,7 +457,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13123</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118501356</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10752</idno>
@@ -471,7 +471,7 @@
             <persName type="namensvariante">Mayer</persName>
             <birth>
                <date when="1871-04-13">13.04.1871</date>
-               <settlement ref="pmb872">
+               <settlement ref="#pmb872">
                   <placeName type="pref">Stuttgart</placeName>
                   <location>
                      <geo>48,78232 9,17702</geo>
@@ -480,7 +480,7 @@
             </birth>
             <death>
                <date when="1965-04-27">27.04.1965</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -488,8 +488,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
-            <occupation ref="pmb150">Bildender Künstler/Bildende Künstlerin &gt;&gt; Bildhauer/Bildhauerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb150">Bildender Künstler/Bildende Künstlerin &gt;&gt; Bildhauer/Bildhauerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20803</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/117414719</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12971</idno>
@@ -501,7 +501,7 @@
          <bibl xml:id="pmb29873">
             <title>Der Puppenspieler</title>
             <note type="bibliografische_angabe">Neue Freie Presse, 31. 5. 1903</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1903-05-31">31.05.1903</date>
             <idno type="URL" subtype="dracor">https://dracor.org/ger/schnitzler-der-puppenspieler</idno>
             <idno type="URL" subtype="theadok">https://theadok.at/work/38152</idno>
@@ -521,7 +521,7 @@
             <title type="arbeitstitel">Die Egoisten</title>
             <title type="arbeitstitel">Einsame Wege</title>
             <title type="arbeitstitel">Wege ins Dunkle</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date notBefore="1904-01-01" when="1904-07-01">1904</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.08</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1198519</idno>
@@ -536,7 +536,7 @@
          </bibl>
          <bibl xml:id="pmb29955">
             <title>Rosmersholm</title>
-            <author ref="pmbperson__11798" role="hat-geschaffen">Ibsen, Henrik</author>
+            <author ref="#pmbperson__11798" role="hat-geschaffen">Ibsen, Henrik</author>
             <date notBefore="1886-01-01" when="1886-07-02">1886</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29955</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29955</idno>
@@ -546,7 +546,7 @@
          </bibl>
          <bibl xml:id="pmb31889">
             <title>Brand</title>
-            <author ref="pmbperson__11798" role="hat-geschaffen">Ibsen, Henrik</author>
+            <author ref="#pmbperson__11798" role="hat-geschaffen">Ibsen, Henrik</author>
             <date when="1866-01-01">1866</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31889</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31889</idno>
@@ -554,7 +554,7 @@
          </bibl>
          <bibl xml:id="pmb31033">
             <title>Der Traum, ein Leben</title>
-            <author ref="pmbperson__11518" role="hat-geschaffen">Grillparzer, Franz</author>
+            <author ref="#pmbperson__11518" role="hat-geschaffen">Grillparzer, Franz</author>
             <date when="1840-01-01">1840</date>
             <idno type="URL" subtype="">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=246&amp;teil=0203&amp;seite=00000152&amp;zoom=2</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31033</idno>
@@ -565,7 +565,7 @@
             <title>Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
             <title type="arbeitstitel">Shawl</title>
             <note type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=601&amp;teil=0111&amp;seite=00000001&amp;zoom=2</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1900-12-01  – 1900-12-01</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.13</idno>
             <idno type="URL" subtype="">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=601&amp;teil=0303&amp;seite=00000215&amp;zoom=2</idno>
@@ -577,7 +577,7 @@
          </bibl>
          <bibl xml:id="pmb29877">
             <title>Die letzten Masken</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1901-01-01">1901</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.17</idno>
             <idno type="URL" subtype="theadok">https://theadok.at/work/31483</idno>
@@ -590,7 +590,7 @@
          </bibl>
          <bibl xml:id="pmb29869">
             <title>Literatur</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1901-01-01">1901</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.28</idno>
             <idno type="URL" subtype="theadok">https://theadok.at/work/30265</idno>
@@ -604,7 +604,7 @@
          <bibl xml:id="pmb31177">
             <title>Der Puppenspieler. (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904)</title>
             <note type="bibliografische_angabe">Neues Wiener Tagblatt, 13. 12. 1904</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1904-12-13">13.12.1904</date>
             <idno type="URL" subtype="">http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19041213&amp;seite=8&amp;zoom=33</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31177</idno>
@@ -614,7 +614,7 @@
          <error type="bibl">29414</error>
          <bibl xml:id="pmb30685">
             <title>Glossen. Zum Wiener Theater (1903 bis 1906)</title>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date notBefore="1906-01-01" when="1906-07-02">1906</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30685</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30685</idno>
@@ -632,7 +632,7 @@
                <geo>48,215 16,384444</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb52">II., Leopoldstadt</placeName>
+               <placeName ref="#pmb52">II., Leopoldstadt</placeName>
                <geo>48,21667 16,4</geo>
             </location>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Carl-Theater</idno>
@@ -657,7 +657,7 @@
                <geo>47,33333 13,33333</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb687">Österreich-Ungarn</placeName>
+               <placeName ref="#pmb687">Österreich-Ungarn</placeName>
                <geo>48,4054 16,4887</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2782113/</idno>
@@ -674,7 +674,7 @@
             <desc type="entity_type">Zeitschriftenredaktion</desc>
             <desc type="entity_type_id">973</desc>
             <location type="located_in_place">
-               <placeName ref="pmb45258">München</placeName>
+               <placeName ref="#pmb45258">München</placeName>
                <geo>48,13743 11,57549</geo>
                <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/4127793-4</idno>
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129</idno>

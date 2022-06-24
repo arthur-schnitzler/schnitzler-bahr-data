@@ -11,7 +11,7 @@
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Arno Holz an Hermann Bahr, 18. 1. 1916</title>
             <title type="iso-date">1916-01-18</title>
-            <author ref="pmb11763">Holz, Arno</author>
+            <author ref="#pmb11763">Holz, Arno</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,16 +50,16 @@
          <sourceDesc>
             <correspDesc>
                <sender>
-                  <persName ref="pmb11763">Holz, Arno</persName>
+                  <persName ref="#pmb11763">Holz, Arno</persName>
                </sender>
                <addressee>
-                  <persName ref="pmb10815">Bahr, Hermann</persName>
+                  <persName ref="#pmb10815">Bahr, Hermann</persName>
                </addressee>
                <placeSender>
-                  <placeName ref="pmb168">Berlin</placeName>
+                  <placeName ref="#pmb168">Berlin</placeName>
                </placeSender>
                <placeAddressee>
-                  <placeName ref="pmb30">Salzburg</placeName>
+                  <placeName ref="#pmb30">Salzburg</placeName>
                </placeAddressee>
                <dateSender>
                   <date when="1916-01-18" n="01">18. 1. 1916</date>
@@ -84,8 +84,8 @@
             <listBibl>
                <biblStruct corresp="HBAH">
                   <monogr>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <author ref="pmb11763">Holz, Arno</author>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <author ref="#pmb11763">Holz, Arno</author>
                      <title level="m">Briefwechsel 1887–1923</title>
                      <editor>Hg. und kommentiert von Gerd-Hermann Susen und Martin Anton Müller</editor>
                      <imprint>
@@ -125,14 +125,14 @@
                      <p>Der <rs type="person" ref="#pmb10815">Bahr</rs> vorgelegte Abzug, auf dem dieser
                Brief an den Rand geschrieben ist (ein weiterer ohne Beschriftung in der <bibl >
                            <rs type="org">UBS</rs> 31.270-I</bibl>), besteht aus zwei Teilen. Im ersten,
-               geschrieben im <date instant="false">Dezember 1912</date>, weist <rs type="person" ref="#pmb11763">Holz</rs> auf seine Leistung hin, die Abhängigkeit der deutschen von
+               geschrieben im <date >Dezember 1912</date>, weist <rs type="person" ref="#pmb11763">Holz</rs> auf seine Leistung hin, die Abhängigkeit der deutschen von
                ausländischen Literaturen beendet und die Metrik durch die Rhythmik ersetzt zu haben.
-               Der zweite Teil, mit <date instant="false">Oktober 1915</date> datiert, wiederum streicht den Beitrag
+               Der zweite Teil, mit <date >Oktober 1915</date> datiert, wiederum streicht den Beitrag
                des <rs type="work" ref="#pmb32284">Phantasus</rs> als Offenbarung für die <rs type="place" ref="#pmb151">Deutschen</rs> im Krieg heraus, wenngleich sich <rs type="person" ref="#pmb11763">Holz</rs> selbst missverstanden und verkannt fühlt.
                Das Geleitwort dürfte erst dem Luxusdruck von <rs type="work" ref="#pmb31793">Die
                   Blechschmiede (oder: Der umgestürzte Papierkorb). Mysterium.</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1917</date> (<bibl >Privatdruck, 250 Exemplare für den Verfasser</bibl>)
+                        <date >1917</date> (<bibl >Privatdruck, 250 Exemplare für den Verfasser</bibl>)
                beigelegt worden sein.</p>
                   </note>
                </hi>«. Es hatte als einzelnes, loses Blatt meinem »<hi rend="underline" n="1">
@@ -143,7 +143,7 @@
                         <bibl >
                            <rs type="person" ref="#pmb11763">Arno Holz</rs>: <rs type="work" ref="#pmb32284">Phantasus</rs>. Leipzig: <rs type="org" ref="#pmb29751">Insel</rs>
                            <space unit="chars" quantity="1"/>
-                           <date instant="false">1916</date>
+                           <date >1916</date>
                         </bibl>.</p>
                   </note>
                </hi>« eingefügt werden sollen, dessen Erscheinen – im <rs type="org" ref="#pmb29751">Insel-Verlag</rs> – bereits für <hi rend="underline" n="1">Weihnachten</hi>
@@ -287,7 +287,7 @@
             </persName>
             <birth>
                <date when="1863-04-26">26.04.1863</date>
-               <settlement ref="pmb52777">
+               <settlement ref="#pmb52777">
                   <placeName type="pref">Kętrzyn</placeName>
                   <location>
                      <geo>54,07676 21,37527</geo>
@@ -296,7 +296,7 @@
             </birth>
             <death>
                <date when="1929-10-26">26.10.1929</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -304,7 +304,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16334</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118553216</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11763</idno>
@@ -319,7 +319,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -328,7 +328,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -336,8 +336,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -352,7 +352,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -361,7 +361,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -369,8 +369,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -384,7 +384,7 @@
             </persName>
             <birth>
                <date when="1836-10-26">1836-10-26</date>
-               <settlement ref="pmb146">
+               <settlement ref="#pmb146">
                   <placeName type="pref">Frankfurt am Main</placeName>
                   <location>
                      <geo>50,11552 8,68417</geo>
@@ -393,7 +393,7 @@
             </birth>
             <death>
                <date when="1905-06-13">1905-06-13</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -401,8 +401,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb171">Mäzen/Mäzenin</occupation>
-            <occupation ref="pmb465">Bankdirektor/Bankdirektorin</occupation>
+            <occupation ref="#pmb171">Mäzen/Mäzenin</occupation>
+            <occupation ref="#pmb465">Bankdirektor/Bankdirektorin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/12244826X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4554</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4554</idno>
@@ -414,7 +414,7 @@
             </persName>
             <birth>
                <date when="1844-10-29">29.10.1844</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -423,7 +423,7 @@
             </birth>
             <death>
                <date when="1911-02-11">11.02.1911</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -431,7 +431,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb1444">Bankier/Bankierin</occupation>
+            <occupation ref="#pmb1444">Bankier/Bankierin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19430</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11664155X</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12576</idno>
@@ -442,7 +442,7 @@
          <bibl xml:id="pmb32284">
             <title>Phantasus</title>
             <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Phantasus</idno>
-            <author ref="pmbperson__11763" role="hat-geschaffen">Holz, Arno</author>
+            <author ref="#pmbperson__11763" role="hat-geschaffen">Holz, Arno</author>
             <date notBefore="1898-01-01" when="1898-07-02">1898</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32284</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32284</idno>
@@ -464,7 +464,7 @@
                <geo>52,52437 13,41053</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
@@ -483,7 +483,7 @@
                <geo>47,80067 13,04532</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb697">Salzburg (Land)</placeName>
+               <placeName ref="#pmb697">Salzburg (Land)</placeName>
                <geo>47,41667 13,25</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2766818/</idno>
@@ -499,7 +499,7 @@
                <geo>52,4895 13,33793</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb168">Berlin</placeName>
+               <placeName ref="#pmb168">Berlin</placeName>
                <geo>52,52437 13,41053</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb658</idno>
@@ -525,7 +525,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -547,7 +547,7 @@
             <desc type="entity_type">Verlag</desc>
             <desc type="entity_type_id">975</desc>
             <location type="located_in_place">
-               <placeName ref="pmb864">Leipzig</placeName>
+               <placeName ref="#pmb864">Leipzig</placeName>
                <geo>51,33962 12,37129</geo>
                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</idno>
                <idno type="URL" subtype="geonames">http://sws.geonames.org/2879139/</idno>

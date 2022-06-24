@@ -10,9 +10,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
-            <title level="a" ref="pmb31847">Hermann Bahr: Tagebuch 10. Januar, 26. 1. 1930</title>
+            <title level="a" ref="#pmb31847">Hermann Bahr: Tagebuch 10. Januar, 26. 1. 1930</title>
             <title type="iso-date">1930-01-26</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,11 +50,11 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="a" ref="pmb31847">Tagebuch 10. Januar [1930]</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="a" ref="#pmb31847">Tagebuch 10. Januar [1930]</title>
                   </analytic>
                   <monogr>
-                     <title level="j" ref="pmb29320">Neues Wiener Journal</title>
+                     <title level="j" ref="#pmb29320">Neues Wiener Journal</title>
                      <imprint>
                         <date when="1930-01-26">26. 1. 1930</date>
                      </imprint>
@@ -90,14 +90,14 @@
                </note>. Ihm selber kam sicherlich der Gedanke daran noch gar nicht, für sich zu werben oder auch nur sich zu <anchor type="commentary" xml:id="KT033-4"/>melden<note type="commentary" xml:id="KT033-4h">
                   <p>In zwei weiteren Tagebuch-Kolumnen variiert <rs type="person" ref="#pmb10815">Bahr</rs> das: »<quote>Uns zu bewerben sind wir zu stolz: weder <rs type="person" ref="#pmb11740">Hofmannsthal</rs> noch <rs type="person" ref="#pmb2121">Schnitzler</rs>, noch <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>
                   haben jemals ihre Bedeutung affichiert.</quote>« (<bibl >
-                        <rs type="work" ref="#pmb32662">Tagebuch. 27. August</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 38, Nr. 13218, <date instant="false">7. 9.
+                        <rs type="work" ref="#pmb32662">Tagebuch. 27. August</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 38, Nr. 13218, <date >7. 9.
                      1930</date>, S. 16–17</bibl>) Und zum <rs type="org" ref="#pmb29679">Nobelpreis</rs>: »<quote>War <rs type="person" ref="#pmb11740">Hofmannsthal</rs>
                   so hoher Auszeichnung nicht würdig, ist es <rs type="person" ref="#pmb2121">Artur
                      Schnitzler</rs>, ist es <rs type="person" ref="#pmb10863">Richard
                      Beer-Hofmann</rs>, ist es <rs type="person" ref="#pmb2167">Felix Salten</rs>,
                   ist es <rs type="person" ref="#pmb12749">Karl Schönherr</rs>, ist es <rs type="person" ref="#pmb13122">Wildgans</rs>, ist es <rs type="person" ref="#pmb13094">Werfel</rs>, ist es <rs type="person" ref="#pmb13212">Stephan
                      Zweig</rs> nicht?</quote>« (<bibl >
-                        <rs type="work" ref="#pmb32664">Tagebuch. 29. Januar</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 39, Nr. 13361, <date instant="false">1. 2.
+                        <rs type="work" ref="#pmb32664">Tagebuch. 29. Januar</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 39, Nr. 13361, <date >1. 2.
                      1931</date>, S. 16</bibl>)</p>
                </note> ist ganz <rs type="place" ref="#pmb41240">unösterreichisch</rs>, wir verzichten eher auf unser gutes Recht, um nur ja nicht eitel zu scheinen. <rs type="place" ref="#pmb44335">Schweden</rs> aber meinen vielleicht, daß <rs type="place" ref="#pmb41240">Oesterreich</rs> ja längst zu <rs type="place" ref="#pmb151">Deutschland</rs> gehört. Es gibt <rs type="place" ref="#pmb151">Deutsche</rs>, die derselben Meinung sind. Mein neuer Roman heißt »<anchor type="commentary" xml:id="KT033-5"/>
                <rs type="work" ref="#pmb31765">Oesterreich in Ewigkeit</rs>
@@ -106,8 +106,8 @@
                      <bibl >
                         <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31765">Österreich in Ewigkeit. Roman</rs>. Hildesheim: <rs type="org" ref="#pmb29340">Franz Borgmeyer</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1929</date>
-                     </bibl> (erschienen im <date instant="false">Dezember 1929</date>).</p>
+                        <date >1929</date>
+                     </bibl> (erschienen im <date >Dezember 1929</date>).</p>
                </note>«, so sollte man meinen, daß allein dieser Titel schon meinen unerschütterlichen Glauben an <rs type="place" ref="#pmb41240">Oesterreich</rs> offenbart, vielleicht sogar aufdringlicher, als guter Geschmack erlaubt. Man denke sich nun meine Verwunderung, wenn ich in allerhand durchaus nicht böswilligen, sondern eher unverdient anerkennenden Kritiken immer wieder lese, daß ich für einen »Anschluß« <rs type="place" ref="#pmb41240">Oesterreichs</rs> an <rs type="place" ref="#pmb314">Bayern</rs> werbe und auf ihn hoffe! Das <rs type="place" ref="#pmb718">österreichische Innviertel</rs> ist bayrischen Stammes, ja dieser streckt sich über <rs type="place" ref="#pmb30">Salzburg</rs> und <rs type="place" ref="#pmb519">Oberösterreich</rs> noch fast bis in die <rs type="place" ref="#pmb531">Wachau</rs> vor. Wir <rs type="place" ref="#pmb519">Oberösterreicher</rs> sind <anchor type="commentary" xml:id="KT033-6"/>Mostschädel<note type="commentary" xml:id="KT033-6h">
                   <p>Most ist ein Getränk aus gegorenen Äpfeln oder Birnen. Der Mostschädel ist – analog
                zum Bauernschädel – eine in weiten Teilen <rs type="place" ref="#pmb41240">Österreichs</rs> gebräuchliche, abwertende Bezeichnung für einen sturen, zum
@@ -132,7 +132,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -141,7 +141,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -149,8 +149,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -165,7 +165,7 @@
             </persName>
             <birth>
                <date when="1875-06-06">06.06.1875</date>
-               <settlement ref="pmb884">
+               <settlement ref="#pmb884">
                   <placeName type="pref">Lübeck</placeName>
                   <location>
                      <geo>53,86893 10,68729</geo>
@@ -174,7 +174,7 @@
             </birth>
             <death>
                <date when="1955-08-12">12.08.1955</date>
-               <settlement ref="pmb484">
+               <settlement ref="#pmb484">
                   <placeName type="pref">Zürich</placeName>
                   <location>
                      <geo>47,37174 8,54226</geo>
@@ -182,7 +182,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17838</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118577166</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12176</idno>
@@ -200,7 +200,7 @@
             <persName type="namensvariante">Hofmannsthal, Hugo</persName>
             <birth>
                <date when="1874-02-01">01.02.1874</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -209,7 +209,7 @@
             </birth>
             <death>
                <date when="1929-07-15">15.07.1929</date>
-               <settlement ref="pmb173">
+               <settlement ref="#pmb173">
                   <placeName type="pref">Rodaun</placeName>
                   <location>
                      <geo>48,132793312328 16,256152195922</geo>
@@ -217,7 +217,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118552759</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11740</idno>
@@ -231,7 +231,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -240,7 +240,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -248,8 +248,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -264,7 +264,7 @@
             <persName type="legacy-name-merge">Metternich-Winneburg, Clemens Lothar Wenzel von</persName>
             <birth>
                <date when="1773-05-15">1773-05-15</date>
-               <settlement ref="pmb58556">
+               <settlement ref="#pmb58556">
                   <placeName type="pref">Koblenz</placeName>
                   <location>
                      <geo>50,35357 7,57883</geo>
@@ -273,7 +273,7 @@
             </birth>
             <death>
                <date when="1859-06-11">1859-06-11</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -281,7 +281,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb95">Politiker/Politikerin</occupation>
+            <occupation ref="#pmb95">Politiker/Politikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18098</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28462</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21352</idno>
@@ -291,7 +291,7 @@
       <listBibl>
          <bibl xml:id="pmb31765">
             <title>Österreich in Ewigkeit</title>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1929-01-01">1929</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31765</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31765</idno>
@@ -300,7 +300,7 @@
          <bibl xml:id="pmb31847">
             <title>Tagebuch. 10. Januar [1930]</title>
             <note type="bibliografische_angabe">Neues Wiener Journal, 26. 1. 1930</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1930-01-26">26.01.1930</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31847</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31847</idno>
@@ -323,7 +323,7 @@
                <geo>51,5 10,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb468">Europa</placeName>
+               <placeName ref="#pmb468">Europa</placeName>
                <geo>48,69096 9,14062</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q183</idno>
@@ -350,7 +350,7 @@
                <geo>47,33333 13,33333</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb687">Österreich-Ungarn</placeName>
+               <placeName ref="#pmb687">Österreich-Ungarn</placeName>
                <geo>48,4054 16,4887</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2782113/</idno>
@@ -369,7 +369,7 @@
                <geo>62,0 15,0</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb745">Skandinavien</placeName>
+               <placeName ref="#pmb745">Skandinavien</placeName>
                <geo>63,0 25,0</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q34</idno>
@@ -418,7 +418,7 @@
                <geo>47,80067 13,04532</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb697">Salzburg (Land)</placeName>
+               <placeName ref="#pmb697">Salzburg (Land)</placeName>
                <geo>47,41667 13,25</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2766818/</idno>
@@ -434,7 +434,7 @@
                <geo>48,25 14,0</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q41967</idno>
@@ -464,7 +464,7 @@
                <geo>48,221200197414 16,387081034031</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb52">II., Leopoldstadt</placeName>
+               <placeName ref="#pmb52">II., Leopoldstadt</placeName>
                <geo>48,21667 16,4</geo>
             </location>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Taborstra%C3%9Fe</idno>
@@ -478,7 +478,7 @@
             <desc type="entity_type">Literaturpreis</desc>
             <desc type="entity_type_id">993</desc>
             <location type="located_in_place">
-               <placeName ref="pmb1119">Stockholm</placeName>
+               <placeName ref="#pmb1119">Stockholm</placeName>
                <geo>59,325 18,05</geo>
                <idno type="URL" subtype="">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/15661/</idno>
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1119</idno>

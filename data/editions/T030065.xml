@@ -12,7 +12,7 @@
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Plan von Arthur Schnitzler zu Das Wort, September 1904</title>
             <title type="iso-date">1904-09-01</title>
-            <author ref="pmb2121">Schnitzler, Arthur</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -120,7 +120,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -129,7 +129,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -137,8 +137,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -155,7 +155,7 @@
             <persName type="legacy-name-merge">Lang, Marie</persName>
             <birth>
                <date when="1858-03-08">1858-03-08</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -164,7 +164,7 @@
             </birth>
             <death>
                <date when="1934-10-14">1934-10-14</date>
-               <settlement ref="pmb47963">
+               <settlement ref="#pmb47963">
                   <placeName type="pref">Altmünster</placeName>
                   <location>
                      <geo>47,90092 13,76415</geo>
@@ -172,8 +172,8 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb99">Journalist/Journalistin</occupation>
-            <occupation ref="pmb334">Aktivist/Aktivistin &gt;&gt; Frauenrechtler/Frauenrechtlerin</occupation>
+            <occupation ref="#pmb99">Journalist/Journalistin</occupation>
+            <occupation ref="#pmb334">Aktivist/Aktivistin &gt;&gt; Frauenrechtler/Frauenrechtlerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/120994429</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17298</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4798</idno>
@@ -188,7 +188,7 @@
             <persName type="rufname">Heinz</persName>
             <birth>
                <date when="1885-01-01">1885</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -197,7 +197,7 @@
             </birth>
             <death>
                <date when="1904-08-27">27.08.1904</date>
-               <settlement ref="pmb943">
+               <settlement ref="#pmb943">
                   <placeName type="pref">Kidderminster</placeName>
                   <location>
                      <geo>52,38819 -2,25</geo>
@@ -215,7 +215,7 @@
                <surname>Oberndorfer</surname>
             </persName>
             <sex value="not-set"/>
-            <occupation ref="pmb656">Haushaltshilfe/Haushaltshilfe</occupation>
+            <occupation ref="#pmb656">Haushaltshilfe/Haushaltshilfe</occupation>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28816</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28816</idno>
          </person>
@@ -227,7 +227,7 @@
             <persName type="ehename">von Foerster</persName>
             <birth>
                <date when="1891-01-01">1891</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -236,7 +236,7 @@
             </birth>
             <death>
                <date when="1952-01-01">1952</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -255,7 +255,7 @@
             <persName type="geburtsname_nachname">Uhl</persName>
             <birth>
                <date when="1872-04-04">04.04.1872</date>
-               <settlement ref="pmb53759">
+               <settlement ref="#pmb53759">
                   <placeName type="pref">Mondsee</placeName>
                   <location>
                      <geo>47,85648 13,34908</geo>
@@ -264,7 +264,7 @@
             </birth>
             <death>
                <date when="1943-06-28">28.06.1943</date>
-               <settlement ref="pmb30">
+               <settlement ref="#pmb30">
                   <placeName type="pref">Salzburg</placeName>
                   <location>
                      <geo>47,80067 13,04532</geo>
@@ -281,7 +281,7 @@
       <listBibl>
          <bibl xml:id="pmb30615">
             <title>Das Wort. Tragikomödie in fünf Akten</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1966-01-01">1966</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.07</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q27441034</idno>

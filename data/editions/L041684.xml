@@ -11,7 +11,7 @@
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Ludwig Fulda an Arthur Schnitzler, 21. 12. 1904</title>
             <title type="iso-date">1904-12-21</title>
-            <author ref="pmb11391">Fulda, Ludwig</author>
+            <author ref="#pmb11391">Fulda, Ludwig</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,16 +50,16 @@
          <sourceDesc>
             <correspDesc>
                <sender>
-                  <persName ref="pmb11391">Fulda, Ludwig</persName>
+                  <persName ref="#pmb11391">Fulda, Ludwig</persName>
                </sender>
                <addressee>
-                  <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                  <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                </addressee>
                <placeSender>
-                  <placeName ref="pmb146">Frankfurt am Main</placeName>
+                  <placeName ref="#pmb146">Frankfurt am Main</placeName>
                </placeSender>
                <placeAddressee>
-                  <placeName ref="pmb50">[Wien]</placeName>
+                  <placeName ref="#pmb50">[Wien]</placeName>
                </placeAddressee>
                <dateSender>
                   <date when="1904-12-21" n="1">21. 12. 1904</date>
@@ -84,7 +84,7 @@
             <listBibl>
                <biblStruct>
                   <monogr>
-                     <author ref="pmb11391">Fulda, Ludwig</author>
+                     <author ref="#pmb11391">Fulda, Ludwig</author>
                      <title level="m">Briefwechsel 1882–1939. Zeugnisse des literarischen Lebens in Deutschland</title>
                      <editor>Hg. Bernhard Gajek und Wolfgang v. Ungern-Sternberg</editor>
                      <imprint>
@@ -130,7 +130,7 @@
                <note type="commentary" xml:id="KL684-2h">
                   <p>
                      <bibl >
-                        <rs type="person" ref="#pmb11581">Maximilian Harden</rs>: <rs type="work" ref="#pmb32418">Der kleine Jacobsohn</rs>. In: <rs type="org" ref="#pmb29631">Die Zukunft</rs>, Bd. 49, <date instant="false">10. 12. 1904</date>, S. 370–379, hier:
+                        <rs type="person" ref="#pmb11581">Maximilian Harden</rs>: <rs type="work" ref="#pmb32418">Der kleine Jacobsohn</rs>. In: <rs type="org" ref="#pmb29631">Die Zukunft</rs>, Bd. 49, <date >10. 12. 1904</date>, S. 370–379, hier:
                   S. 377</bibl>.</p>
                </note> von <rs type="person" ref="#pmb11581">Harden</rs> über <rs type="person" ref="#pmb11813">Jacobsohn</rs>
                <pb/> erfuhr ich, daß Herr <rs type="person" ref="#pmb10815">Hermann Bahr</rs> mich einen »<rs type="work" subtype="implied" ref="#pmb30045">gierigen Jobber</rs>« genannt hat, der »<rs type="work" subtype="implied" ref="#pmb30045">mit Meinungen wie mit alten Hosen hausirt</rs>.« Und zwar befindet sich diese Injurie – wohl der äußerste Rekord an Unanständigkeit – nicht etwa in einer Kritik über mich, sondern zurückgreifend in einer <anchor type="commentary" xml:id="KL684-3"/>
@@ -140,7 +140,7 @@
                      <bibl >
                         <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30045">Bannermann. (Schauspiel in drei Aufzügen von Otto Ernst. Zum
                      erstenmal aufgeführt im Burgtheater am 26. November 1904)</rs>. In: <rs type="org" ref="#pmb29421">Österreichische Volks-Zeitung</rs>, Jg. 50, Nr. 329,
-                     <date instant="false">27. 11. 1904</date>, S. 5</bibl>.</p>
+                     <date >27. 11. 1904</date>, S. 5</bibl>.</p>
                </note> des <rs type="person" ref="#pmb11260">Otto Ernst</rs>’schen <rs type="work" subtype="implied" ref="#pmb32416">Stückes</rs>. Ich möchte nun gern einmal festgestellt sehen, wie weit die persönliche Beschimpfung und Beschmutzung eines unbescholtenen Menschen unter dem Deckmantel der literarischen Kritik getrieben werden darf. Und darum habe ich durch meinen <rs type="place" ref="#pmb50">Wien</rs>er <rs type="person" subtype="implied" ref="#pmb27714">Anwalt</rs> gegen Herrn <rs type="person" ref="#pmb10815">Bahr</rs> die <anchor type="commentary" xml:id="KL684-1"/>Beleidigungsklage<note type="commentary" xml:id="KL684-1h">
                   <p>
                      <ptr target="D041263"/>.</p>
@@ -164,7 +164,7 @@
             <persName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ludwig_Fulda</persName>
             <birth>
                <date when="1862-07-15">15.07.1862</date>
-               <settlement ref="pmb146">
+               <settlement ref="#pmb146">
                   <placeName type="pref">Frankfurt am Main</placeName>
                   <location>
                      <geo>50,11552 8,68417</geo>
@@ -173,7 +173,7 @@
             </birth>
             <death>
                <date when="1939-03-30">30.03.1939</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -181,8 +181,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb116">Übersetzer/Übersetzerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb116">Übersetzer/Übersetzerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15306</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118840452</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11391</idno>
@@ -196,7 +196,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -205,7 +205,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -213,8 +213,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -227,7 +227,7 @@
                <surname>Fulda</surname>
             </persName>
             <sex value="male"/>
-            <occupation ref="pmb175">Kaufmann/Kauffrau</occupation>
+            <occupation ref="#pmb175">Kaufmann/Kauffrau</occupation>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28891</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28891</idno>
          </person>
@@ -248,7 +248,7 @@
             </persName>
             <birth>
                <date when="1861-10-20">20.10.1861</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -257,7 +257,7 @@
             </birth>
             <death>
                <date when="1927-10-30">30.10.1927</date>
-               <settlement ref="pmb61038">
+               <settlement ref="#pmb61038">
                   <placeName type="pref">Montana</placeName>
                   <location>
                      <geo>46,31338 7,48839</geo>
@@ -265,8 +265,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb237">Publizist/Publizistin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb237">Publizist/Publizistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15919</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118545892</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11581</idno>
@@ -283,7 +283,7 @@
             <persName type="uri_wikipedia">https://de.wikipedia.org/wiki/Siegfried_Jacobsohn</persName>
             <birth>
                <date when="1881-01-28">28.01.1881</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -292,7 +292,7 @@
             </birth>
             <death>
                <date when="1926-12-03">03.12.1926</date>
-               <settlement ref="pmb168">
+               <settlement ref="#pmb168">
                   <placeName type="pref">Berlin</placeName>
                   <location>
                      <geo>52,52437 13,41053</geo>
@@ -300,9 +300,9 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb99">Journalist/Journalistin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
-            <occupation ref="pmb237">Publizist/Publizistin</occupation>
+            <occupation ref="#pmb99">Journalist/Journalistin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb237">Publizist/Publizistin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16477</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118556371</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11813</idno>
@@ -316,7 +316,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -325,7 +325,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -333,8 +333,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -351,7 +351,7 @@
             <persName type="geburtsname_nachname">Schmidt</persName>
             <birth>
                <date when="1862-10-07">07.10.1862</date>
-               <settlement ref="pmb63775">
+               <settlement ref="#pmb63775">
                   <placeName type="pref">Ottensen</placeName>
                   <location>
                      <geo>53,44914 9,6635</geo>
@@ -360,7 +360,7 @@
             </birth>
             <death>
                <date when="1926-03-05">05.03.1926</date>
-               <settlement ref="pmb63737">
+               <settlement ref="#pmb63737">
                   <placeName type="pref">Groß Flottbek</placeName>
                   <location>
                      <geo>53,56667 9,86667</geo>
@@ -368,7 +368,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14803</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118682342</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11260</idno>
@@ -385,7 +385,7 @@
                <date when="1904-01-01">1904</date>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb106">Rechtsanwalt/Rechtsanwältin</occupation>
+            <occupation ref="#pmb106">Rechtsanwalt/Rechtsanwältin</occupation>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27714</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27714</idno>
          </person>
@@ -399,7 +399,7 @@
             <persName type="legacy-name-merge">Schnitzler, Olga</persName>
             <birth>
                <date when="1882-01-17">17.01.1882</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -408,7 +408,7 @@
             </birth>
             <death>
                <date when="1970-01-13">13.01.1970</date>
-               <settlement ref="pmb885">
+               <settlement ref="#pmb885">
                   <placeName type="pref">Lugano</placeName>
                   <location>
                      <geo>46,01008 8,96004</geo>
@@ -416,8 +416,8 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
-            <occupation ref="pmb107">Sänger/Sängerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb107">Sänger/Sängerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116848723</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2173</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2173</idno>
@@ -428,7 +428,7 @@
       <listBibl>
          <bibl xml:id="pmb32476">
             <title>Märchen-Kalender für das Jahr</title>
-            <author ref="pmbperson__11391" role="hat-geschaffen">Fulda, Ludwig</author>
+            <author ref="#pmbperson__11391" role="hat-geschaffen">Fulda, Ludwig</author>
             <date>1904/1905</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32476</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32476</idno>
@@ -436,7 +436,7 @@
          </bibl>
          <bibl xml:id="pmb32480">
             <title>Aus der Werkstatt</title>
-            <author ref="pmbperson__11391" role="hat-geschaffen">Fulda, Ludwig</author>
+            <author ref="#pmbperson__11391" role="hat-geschaffen">Fulda, Ludwig</author>
             <date when="1904-01-01">1904</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32480</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32480</idno>
@@ -449,7 +449,7 @@
             <title type="arbeitstitel">Cäcilie Adams</title>
             <title type="arbeitstitel">„Nicht mehr zu dir zu gehn …“</title>
             <title type="arbeitstitel">Adagio</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1905-10-12  – 1905-10-12</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.35</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q245055</idno>
@@ -464,7 +464,7 @@
          <bibl xml:id="pmb32418">
             <title>Der kleine Jacobsohn</title>
             <note type="bibliografische_angabe">Die Zukunft, Bd. 49, 10. 12. 1904</note>
-            <author ref="pmbperson__11581" role="hat-anonym-veroffentlicht">Harden, Maximilian</author>
+            <author ref="#pmbperson__11581" role="hat-anonym-veroffentlicht">Harden, Maximilian</author>
             <date when="1904-12-10">10.12.1904</date>
             <idno type="URL" subtype="archive">https://archive.org/stream/bub_gb_OfgaAAAAYAAJ#page/n353/mode/2up</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32418</idno>
@@ -474,8 +474,8 @@
          <bibl xml:id="pmb30045">
             <title>Bannermann (Schauspiel in drei Aufzügen von Otto Ernst. Zum erstenmal aufgeführt im Burgtheater am 26. November 1904)</title>
             <note type="bibliografische_angabe">Österreichische Volks-Zeitung, 27. 11. 1904</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1904-11-27">27.11.1904</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30045</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30045</idno>
@@ -483,7 +483,7 @@
          </bibl>
          <bibl xml:id="pmb32416">
             <title>Bannermann</title>
-            <author ref="pmbperson__11260" role="hat-geschaffen">Ernst, Otto</author>
+            <author ref="#pmbperson__11260" role="hat-geschaffen">Ernst, Otto</author>
             <date notBefore="1905-01-01" when="1905-07-02">1905</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32416</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32416</idno>
@@ -511,7 +511,7 @@
                <geo>50,11552 8,68417</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2925533/</idno>
@@ -545,7 +545,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -568,7 +568,7 @@
                <geo>50,11664 8,65316</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb146">Frankfurt am Main</placeName>
+               <placeName ref="#pmb146">Frankfurt am Main</placeName>
                <geo>50,11552 8,68417</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb825</idno>
@@ -588,7 +588,7 @@
                <geo>52,52437 13,41053</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2950159/</idno>
@@ -605,7 +605,7 @@
                <geo>47,41667 13,25</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q43325</idno>

@@ -11,7 +11,7 @@
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
             <title level="a">Hermann Bahr an Arthur Schnitzler, 23. 4. 1913</title>
             <title type="iso-date">1913-04-23</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,16 +50,16 @@
          <sourceDesc>
             <correspDesc>
                <sender>
-                  <persName ref="pmb10815">Bahr, Hermann</persName>
+                  <persName ref="#pmb10815">Bahr, Hermann</persName>
                </sender>
                <addressee>
-                  <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                  <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                </addressee>
                <placeSender>
-                  <placeName ref="pmb30">Salzburg</placeName>
+                  <placeName ref="#pmb30">Salzburg</placeName>
                </placeSender>
                <placeAddressee>
-                  <placeName ref="pmb50">[Wien]</placeName>
+                  <placeName ref="#pmb50">[Wien]</placeName>
                </placeAddressee>
                <dateSender>
                   <date when="1913-04-23" n="01">23. 4. 1913</date>
@@ -117,8 +117,8 @@
                </note> usw. Ich danke Dir dafür sehr.</p>
             <p>Zur <anchor type="commentary" xml:id="KL338-3"/>»<rs type="work" ref="#pmb29987">Götterdämmerung</rs>« war ich neulich in <rs type="place" ref="#pmb50">Wien</rs>, komme wol zum »<rs type="work" ref="#pmb29897">Tristan</rs>« wieder<note type="commentary" xml:id="KL338-3h">
                   <seg type="lemma">»Götterdämmerung« war {\dots} wieder </seg>
-                  <p>Die <rs type="place" ref="#pmb15">Hofoper</rs> gab <rs type="person" ref="#pmb13024">Wagner</rs>s <rs type="work" ref="#pmb29987">Götterdämmerung</rs> am <date instant="false">13.
-                  4.</date>, <rs type="work" ref="#pmb29897">Tristan und Isolde</rs> am <date instant="false">5. 5.
+                  <p>Die <rs type="place" ref="#pmb15">Hofoper</rs> gab <rs type="person" ref="#pmb13024">Wagner</rs>s <rs type="work" ref="#pmb29987">Götterdämmerung</rs> am <date >13.
+                  4.</date>, <rs type="work" ref="#pmb29897">Tristan und Isolde</rs> am <date >5. 5.
                   1913</date>, beide Male mit <rs type="person" ref="#pmb10818">Anna
                   Bahr-Mildenburg</rs>.</p>
                </note>, aber immer knapp zur Vorstellung und nachher in aller Früh wieder weg, denn ich bi<unclear>n</unclear> mitten in einem neuen <anchor type="commentary" xml:id="KL338-5"/>
@@ -129,12 +129,12 @@
                   Dekorationsskizzen von <rs type="person" ref="#pmb3280">Koloman Moser</rs>.
                   Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1913</date>
+                        <date >1913</date>
                      </bibl>).</p>
                </note>. Aber, wohin Du sommers auch gehst, Du kommst doch über <rs type="place" ref="#pmb30">Salzburg</rs> und wir freuen uns <rs type="person" subtype="implied" ref="#pmb10818">Beide</rs> sehr, sehr, sehr darauf, <rs type="person" subtype="implied" ref="#pmb2173">Euch</rs> dann hier zu haben und einmal ausgiebig mit <rs type="person" subtype="implied" ref="#pmb2173">Euch</rs> zusammen zu sein.</p>
             <closer>
                <anchor type="commentary" xml:id="KL338-4"/>Immer derselbe<note type="commentary" xml:id="KL338-4h">
-                  <p>Hier lässt sich eine Verbindung zu einem zentralen Motto <rs type="person" ref="#pmb10815">Bahrs</rs> herstellen, das er <date instant="false">1911</date> so begründete:
+                  <p>Hier lässt sich eine Verbindung zu einem zentralen Motto <rs type="person" ref="#pmb10815">Bahrs</rs> herstellen, das er <date >1911</date> so begründete:
                   »<quote>In ein Stammbuch schrieb einer stolz: Immer derselbe! Ich darunter keck:
                   Niemals derselbe! Spät erst ging mir auf, das Rechte wäre wohl Beides: Niemals
                   derselbe und eben darin doch immer derselbe zu sein!</quote>« (<bibl >
@@ -158,7 +158,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -167,7 +167,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -175,8 +175,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -191,7 +191,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -200,7 +200,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -208,8 +208,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -226,7 +226,7 @@
             <persName type="pseudonym">Peter Altenberg</persName>
             <birth>
                <date when="1859-03-09">09.03.1859</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -235,7 +235,7 @@
             </birth>
             <death>
                <date when="1919-01-08">08.01.1919</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -243,7 +243,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118502255</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13162</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2147</idno>
@@ -261,7 +261,7 @@
             <persName type="geburtsname_nachname">von Mildenburg</persName>
             <birth>
                <date when="1872-11-29">29.11.1872</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -270,7 +270,7 @@
             </birth>
             <death>
                <date when="1947-01-27">27.01.1947</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -278,7 +278,7 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb107">Sänger/Sängerin</occupation>
+            <occupation ref="#pmb107">Sänger/Sängerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13376</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118646370</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10818</idno>
@@ -295,7 +295,7 @@
             <persName type="legacy-name-merge">Schnitzler, Olga</persName>
             <birth>
                <date when="1882-01-17">17.01.1882</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -304,7 +304,7 @@
             </birth>
             <death>
                <date when="1970-01-13">13.01.1970</date>
-               <settlement ref="pmb885">
+               <settlement ref="#pmb885">
                   <placeName type="pref">Lugano</placeName>
                   <location>
                      <geo>46,01008 8,96004</geo>
@@ -312,8 +312,8 @@
                </settlement>
             </death>
             <sex value="female"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
-            <occupation ref="pmb107">Sänger/Sängerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb107">Sänger/Sängerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116848723</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2173</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2173</idno>
@@ -324,7 +324,7 @@
       <listBibl>
          <bibl xml:id="pmb29987">
             <title>Götterdämmerung</title>
-            <author ref="pmbperson__13024" role="hat-geschaffen">Wagner, Richard</author>
+            <author ref="#pmbperson__13024" role="hat-geschaffen">Wagner, Richard</author>
             <date when="1876-01-01">1876</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29987</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29987</idno>
@@ -333,7 +333,7 @@
          </bibl>
          <bibl xml:id="pmb29897">
             <title>Tristan und Isolde</title>
-            <author ref="pmbperson__13024" role="hat-geschaffen">Wagner, Richard</author>
+            <author ref="#pmbperson__13024" role="hat-geschaffen">Wagner, Richard</author>
             <date when="1865-01-01">1865</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29897</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29897</idno>
@@ -343,7 +343,7 @@
          </bibl>
          <bibl xml:id="pmb30083">
             <title>Das Phantom</title>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date notBefore="1913-01-01" when="1913-07-02">1913</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30083</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30083</idno>
@@ -362,7 +362,7 @@
                <geo>47,80067 13,04532</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb697">Salzburg (Land)</placeName>
+               <placeName ref="#pmb697">Salzburg (Land)</placeName>
                <geo>47,41667 13,25</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2766818/</idno>
@@ -389,7 +389,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>

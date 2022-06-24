@@ -10,9 +10,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
-            <title level="a" ref="pmb30811">Arthur Schnitzler: [Brief an Hermann Bahr], [Anfang Juli] 1923</title>
+            <title level="a" ref="#pmb30811">Arthur Schnitzler: [Brief an Hermann Bahr], [Anfang Juli] 1923</title>
             <title type="iso-date">1923-07-01</title>
-            <author ref="pmb2121">Schnitzler, Arthur</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -58,7 +58,7 @@
                      <origDate when="1923-07" n="3">Juli 1923</origDate>
                      <physDesc>
                         <p>ms. mit eh. Korrekturen in Bleistift und Tinte, 5 Bl., von Schnitzler jede Seite mit »<quote>
-                              <persName ref="pmb10815">Bahr</persName>
+                              <persName ref="#pmb10815">Bahr</persName>
                            </quote>« beschrieben.</p>
                      </physDesc>
                   </msDesc>
@@ -67,8 +67,8 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb2121">Schnitzler, Arthur</author>
-                     <title level="a" ref="pmb30811">Hermann Bahrs sechzigster Geburtstag. Festgrüße</title>
+                     <author ref="#pmb2121">Schnitzler, Arthur</author>
+                     <title level="a" ref="#pmb30811">Hermann Bahrs sechzigster Geburtstag. Festgrüße</title>
                   </analytic>
                   <monogr>
                      <title level="j">Neues Wiener Journal</title>
@@ -82,7 +82,7 @@
                </biblStruct>
                <biblStruct corresp="ASB2">
                   <monogr>
-                     <author ref="pmb2121">Schnitzler, Arthur</author>
+                     <author ref="#pmb2121">Schnitzler, Arthur</author>
                      <title level="m">Briefe 1913–1931</title>
                      <editor>Hg. Peter Michael Braunwarth, Richard Miklin, Susanne Pertlik und Heinrich Schnitzler</editor>
                      <imprint>
@@ -117,7 +117,7 @@
                   »<quote>Als ich vor zehn Jahren <rs type="place" ref="#pmb50">Wien</rs> verließ,
                   meint’ ich mein Austragstüberl zu beziehen. Und nun geht es noch einmal in die
                   weite Welt.</quote>« (<bibl >
-                        <rs type="work" ref="#pmb31485">Tagebuch. 29. April</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 30, Nr. 10242, <date when="1922-05-14" instant="false">14. 5. 1922</date>, S. 6</bibl>). (Eine Austragsstube war ein
+                        <rs type="work" ref="#pmb31485">Tagebuch. 29. April</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 30, Nr. 10242, <date when="1922-05-14" >14. 5. 1922</date>, S. 6</bibl>). (Eine Austragsstube war ein
                Zimmer, in dem ein Bauer wohnen durfte, nachdem er den Hof übergeben hatte; im
                übertragenen Sinn: für die letzten Lebensjahre.)</p>
                </note>. Vergleiche sind immer eine bedenkliche Sache. Pedant, der ich bin, fragte ich mich sofort: ist er der Autor des Stücks? Oder der Held? Oder der Hauptdarsteller?<pb/> und was macht er in den Zwischenakten? Und wie ist es mit den Hervorrufen am Schluss? Und wie benehmen sich die Enthusiasten am Bühnentürl? Und wohin begibt sich der also Gefeierte nach Schluss der Vorstellung? Und was ist’s mit den Morgenblättern? Und wer schreibt die Kritik?– – – – Aber ich will es mir nicht zu schwer machen und nehme den Vergleich so leichtfertig auf, als Du ihn hingesetzt hast und spreche ganz einfach den Wunsch aus: der fünfte Akt (der übrigens so frisch eingesetzt hat, wie es sonst nur die ersteren zu tun pflegen) möge so inhaltsreich und amüsant verlaufen – für Dich selbst, die Mitspieler und die Zuschauer, als <del rend="strikethrough">die fr</del> es bei den vorhergehenden der Fall war.</p>
@@ -169,7 +169,7 @@
                         <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29859">Marionetten</rs>. Berlin: <rs type="org" ref="#pmb29639">S.
                      Fischer</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1906</date>, S. 49</bibl>). <ptr target="KT021-2"/>.</p>
+                        <date >1906</date>, S. 49</bibl>). <ptr target="KT021-2"/>.</p>
                </note>
                <add place="inline">«</add> Aber <subst>
                   <del rend="strikethrough">wenn ich auch ganz</del>
@@ -225,7 +225,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -234,7 +234,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -242,8 +242,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -257,7 +257,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -266,7 +266,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -274,8 +274,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -288,7 +288,7 @@
          <bibl xml:id="pmb31485">
             <title>Tagebuch. 29. April [1922]</title>
             <note type="bibliografische_angabe">Neues Wiener Journal, 14. 5. 1922</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1922-05-14">14.05.1922</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31485</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31485</idno>
@@ -297,7 +297,7 @@
          <bibl xml:id="pmb29873">
             <title>Der Puppenspieler</title>
             <note type="bibliografische_angabe">Neue Freie Presse, 31. 5. 1903</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1903-05-31">31.05.1903</date>
             <idno type="URL" subtype="dracor">https://dracor.org/ger/schnitzler-der-puppenspieler</idno>
             <idno type="URL" subtype="theadok">https://theadok.at/work/38152</idno>
@@ -323,13 +323,13 @@
             <title type="legacy-name-merge">[Hermann Bahrs sechzigster Geburtstag]</title>
             <title type="legacy-name-merge">[Hermann Bahrs sechzigster Geburtstag]</title>
             <title type="legacy-name-merge">[Hermann Bahrs sechzigster Geburtstag]</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
-            <author ref="pmbperson__12176" role="hat-geschaffen">Mann, Thomas</author>
-            <author ref="pmbperson__12170" role="hat-geschaffen">Mann, Heinrich</author>
-            <author ref="pmbperson__13094" role="hat-geschaffen">Werfel, Franz</author>
-            <author ref="pmbperson__12993" role="hat-geschaffen">Unruh, Fritz von</author>
-            <author ref="pmbperson__38364" role="hat-geschaffen">Heine, Wolfgang</author>
-            <author ref="pmbperson__11730" role="hat-geschaffen">Hoffmann, Josef</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__12176" role="hat-geschaffen">Mann, Thomas</author>
+            <author ref="#pmbperson__12170" role="hat-geschaffen">Mann, Heinrich</author>
+            <author ref="#pmbperson__13094" role="hat-geschaffen">Werfel, Franz</author>
+            <author ref="#pmbperson__12993" role="hat-geschaffen">Unruh, Fritz von</author>
+            <author ref="#pmbperson__38364" role="hat-geschaffen">Heine, Wolfgang</author>
+            <author ref="#pmbperson__11730" role="hat-geschaffen">Hoffmann, Josef</author>
             <date when="1923-07-08">08.07.1923</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30811</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30811</idno>
@@ -361,11 +361,11 @@
                <geo>48,13743 11,57549</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb314">Bayern</placeName>
+               <placeName ref="#pmb314">Bayern</placeName>
                <geo>49,0 11,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/4127793-4</idno>
@@ -387,7 +387,7 @@
                <geo>47,33333 13,33333</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb687">Österreich-Ungarn</placeName>
+               <placeName ref="#pmb687">Österreich-Ungarn</placeName>
                <geo>48,4054 16,4887</geo>
             </location>
             <idno type="URL" subtype="geonames">http://sws.geonames.org/2782113/</idno>
@@ -405,7 +405,7 @@
             <desc type="entity_type">Tageszeitungsredaktion</desc>
             <desc type="entity_type_id">972</desc>
             <location type="located_in_place">
-               <placeName ref="pmb50">Wien</placeName>
+               <placeName ref="#pmb50">Wien</placeName>
                <geo>48,2066 16,37341</geo>
                <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
                <idno type="URL" subtype="">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
@@ -420,14 +420,14 @@
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb1270">Nussdorfer Straße</placeName>
+               <placeName ref="#pmb1270">Nussdorfer Straße</placeName>
                <geo>48,22921 16,35461</geo>
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Nußdorfer_Straße</idno>
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1270</idno>
                <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1270</idno>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb52670">Biberstraße</placeName>
+               <placeName ref="#pmb52670">Biberstraße</placeName>
                <geo>48,209725072054226 16,381223898207065</geo>
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52670/</idno>
             </location>

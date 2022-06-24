@@ -10,9 +10,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
-            <title level="a" ref="pmb31931">Hermann Bahr: Wie schafft man eine Wiener Sommersaison?, 21. 10. 1909</title>
+            <title level="a" ref="#pmb31931">Hermann Bahr: Wie schafft man eine Wiener Sommersaison?, 21. 10. 1909</title>
             <title type="iso-date">1909-10-21</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,11 +50,11 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="a" ref="pmb31931">Wie schafft man eine Wiener Sommersaison?</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="a" ref="#pmb31931">Wie schafft man eine Wiener Sommersaison?</title>
                   </analytic>
                   <monogr>
-                     <title level="j" ref="pmb29600">Fremden-Blatt</title>
+                     <title level="j" ref="#pmb29600">Fremden-Blatt</title>
                      <imprint>
                         <date when="1909-10-21" n="1">21. 10. 1909</date>
                      </imprint>
@@ -82,7 +82,7 @@
          <div>
             <p>Das Geheimnis der <rs type="place" ref="#pmb45258">Münchner</rs> ist: sie wissen, was den Fremden anzieht, und das bieten sie ihm, manchmal im stillen bei sich ganz verwundert, wie ihm denn »so was« eigentlich gefallen kann.</p>
             <p>Wir hätten in <rs type="place" ref="#pmb50">Wien</rs> manches in unserer Kunst, um den Fremden anzuziehen. Machen wir doch eine <rs type="person" ref="#pmb12163">Mahler</rs>-Woche zum Beispiel! Machen wir eine <rs type="person" ref="#pmb12749">Schönherr</rs>-Woche! <anchor type="commentary" xml:id="KT027-1"/>Gebt den Leuten von der <rs type="place" ref="#pmb626">Kunstschau</rs> die Mittel, ein Gartentheater nach ihrem Sinn zu machen! Führt einen Monat lang <hi rend="spaced_out">uns</hi> auf! Den ganzen <rs type="person" ref="#pmb2121">Schnitzler</rs>, den ganzen <rs type="person" ref="#pmb11740">Hofmannsthal</rs>, den ganzen <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> und mich!<note type="commentary" xml:id="KT027-1h">
-                  <p>Die Umfragebeantwortung von <rs type="person" ref="#pmb11988">Karl Kraus</rs> als <rs type="work" ref="#pmb31937">Zur Hebung des Fremdenverkehrs</rs> in die <rs type="org" ref="#pmb29308">Fackel</rs> (<bibl >Jg. 11, H. 289, <date instant="false">25. 10.
+                  <p>Die Umfragebeantwortung von <rs type="person" ref="#pmb11988">Karl Kraus</rs> als <rs type="work" ref="#pmb31937">Zur Hebung des Fremdenverkehrs</rs> in die <rs type="org" ref="#pmb29308">Fackel</rs> (<bibl >Jg. 11, H. 289, <date >25. 10.
                      1909</date>, S. 25–26</bibl>) aufgenommen. Statt des Endes schreibt er:
                   »<quote>Ein Traum verwirklicht sich, die <rs type="place" ref="#pmb50">Wiener</rs>
                   kriegen einen Fremdenverkehr. Das Einfachste war zu tun, und nun glückt die<pb/>
@@ -102,7 +102,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -111,7 +111,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -119,8 +119,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -135,7 +135,7 @@
             </persName>
             <birth>
                <date when="1860-07-07">07.07.1860</date>
-               <settlement ref="pmb58623">
+               <settlement ref="#pmb58623">
                   <placeName type="pref">Kaliště</placeName>
                   <location>
                      <geo>49,24125 15,30133</geo>
@@ -144,7 +144,7 @@
             </birth>
             <death>
                <date when="1911-05-18">18.05.1911</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -152,9 +152,9 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="pmb129">Komponist/Komponistin</occupation>
-            <occupation ref="pmb131">Dirigent/Dirigentin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb129">Komponist/Komponistin</occupation>
+            <occupation ref="#pmb131">Dirigent/Dirigentin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17786</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118576291</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12163</idno>
@@ -168,7 +168,7 @@
             </persName>
             <birth>
                <date when="1867-02-24">24.02.1867</date>
-               <settlement ref="pmb61098">
+               <settlement ref="#pmb61098">
                   <placeName type="pref">Axams</placeName>
                   <location>
                      <geo>47,23111 11,27892</geo>
@@ -177,7 +177,7 @@
             </birth>
             <death>
                <date when="1943-03-15">15.03.1943</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -185,8 +185,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19850</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118758926</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12749</idno>
@@ -201,7 +201,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -210,7 +210,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -218,8 +218,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -236,7 +236,7 @@
             <persName type="namensvariante">Hofmannsthal, Hugo</persName>
             <birth>
                <date when="1874-02-01">01.02.1874</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -245,7 +245,7 @@
             </birth>
             <death>
                <date when="1929-07-15">15.07.1929</date>
-               <settlement ref="pmb173">
+               <settlement ref="#pmb173">
                   <placeName type="pref">Rodaun</placeName>
                   <location>
                      <geo>48,132793312328 16,256152195922</geo>
@@ -253,7 +253,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118552759</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11740</idno>
@@ -267,7 +267,7 @@
             </persName>
             <birth>
                <date when="1866-07-11">11.07.1866</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -276,7 +276,7 @@
             </birth>
             <death>
                <date when="1945-09-26">26.09.1945</date>
-               <settlement ref="pmb44053">
+               <settlement ref="#pmb44053">
                   <placeName type="pref">New York City</placeName>
                   <location>
                      <geo>40,71427 -74,00597</geo>
@@ -284,7 +284,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118654756</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10863</idno>
@@ -297,7 +297,7 @@
          <bibl xml:id="pmb31931">
             <title>Wie schafft man eine Wiener Sommersaison?</title>
             <note type="bibliografische_angabe">Fremden-Blatt, 21. 10. 1909</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1909-10-21">21.10.1909</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31931</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31931</idno>
@@ -323,11 +323,11 @@
                <geo>48,13743 11,57549</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb314">Bayern</placeName>
+               <placeName ref="#pmb314">Bayern</placeName>
                <geo>49,0 11,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb151">Deutschland</placeName>
+               <placeName ref="#pmb151">Deutschland</placeName>
                <geo>51,5 10,5</geo>
             </location>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/4127793-4</idno>
@@ -355,7 +355,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -379,7 +379,7 @@
                <geo>48,200559 16,37694</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb53">III., Landstraße</placeName>
+               <placeName ref="#pmb53">III., Landstraße</placeName>
                <geo>48,19811 16,39482</geo>
             </location>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb626</idno>

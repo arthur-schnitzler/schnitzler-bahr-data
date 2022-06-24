@@ -10,9 +10,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente 1891–1931</title>
-            <title level="a" ref="pmb31219">Hermann Bahr: Das weite Land, 15. 10. 1911</title>
+            <title level="a" ref="#pmb31219">Hermann Bahr: Das weite Land, 15. 10. 1911</title>
             <title type="iso-date">1911-10-15</title>
-            <author ref="pmb10815">Bahr, Hermann</author>
+            <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
                <name>Ifkovits, Kurt</name>
                <name>Müller, Martin Anton</name>
@@ -50,11 +50,11 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <author ref="pmb10815">Bahr, Hermann</author>
-                     <title level="a" ref="pmb31219">Das weite Land (Tragikomödie in fünf Akten von Artur Schnitzler. Zum erstenmal aufgeführt im Burgtheater am 14. Oktober 1911)</title>
+                     <author ref="#pmb10815">Bahr, Hermann</author>
+                     <title level="a" ref="#pmb31219">Das weite Land (Tragikomödie in fünf Akten von Artur Schnitzler. Zum erstenmal aufgeführt im Burgtheater am 14. Oktober 1911)</title>
                   </analytic>
                   <monogr>
-                     <title level="j" ref="pmb29320">Neues Wiener Journal</title>
+                     <title level="j" ref="#pmb29320">Neues Wiener Journal</title>
                      <imprint>
                         <date when="1911-10-15" n="1">15. 10. 1911</date>
                      </imprint>
@@ -106,7 +106,7 @@
                   <p>Gegen Ende des 2. Akts. <bibl >
                         <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
                         <space unit="chars" quantity="1"/>
-                        <date instant="false">1911</date>, S. 78</bibl>.</p>
+                        <date >1911</date>, S. 78</bibl>.</p>
                </note>«. Im Grunde nimmt er es ihr eigentlich übel. Was ist Tugend? »<anchor type="commentary" xml:id="KT028-4"/>
                <rs type="work" subtype="implied" ref="#pmb30207">Etwas, das doch in Wirklichkeit gar nicht ist – ein Schemen, ein Phantom, ein Nichts, wenigstens einem so furchtbaren Ding gegenüber, einem so irreparablen wie der Tod!</rs>
                <note type="commentary" xml:id="KT028-4h">
@@ -166,7 +166,7 @@
             </persName>
             <birth>
                <date when="1863-07-19">19.07.1863</date>
-               <settlement ref="pmb332">
+               <settlement ref="#pmb332">
                   <placeName type="pref">Linz</placeName>
                   <location>
                      <geo>48,3 14,28333</geo>
@@ -175,7 +175,7 @@
             </birth>
             <death>
                <date when="1934-01-15">15.01.1934</date>
-               <settlement ref="pmb45258">
+               <settlement ref="#pmb45258">
                   <placeName type="pref">München</placeName>
                   <location>
                      <geo>48,13743 11,57549</geo>
@@ -183,8 +183,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb100">Kritiker/Kritikerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb100">Kritiker/Kritikerin</occupation>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
@@ -199,7 +199,7 @@
             </persName>
             <birth>
                <date when="1862-05-15">15.05.1862</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -208,7 +208,7 @@
             </birth>
             <death>
                <date when="1931-10-21">21.10.1931</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -216,8 +216,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb90">Schriftsteller/Schriftstellerin</occupation>
-            <occupation ref="pmb97">Mediziner/Medizinerin</occupation>
+            <occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation>
+            <occupation ref="#pmb97">Mediziner/Medizinerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
@@ -231,13 +231,13 @@
             </persName>
             <birth>
                <date when="1592-01-01">1592</date>
-               <settlement ref="pmb28434">
+               <settlement ref="#pmb28434">
                   <placeName type="pref">Nivnice</placeName>
                </settlement>
             </birth>
             <death>
                <date when="1670-01-01">1670</date>
-               <settlement ref="pmb40709">
+               <settlement ref="#pmb40709">
                   <placeName type="pref">Amsterdam</placeName>
                   <location>
                      <geo>52,37403 4,88969</geo>
@@ -245,9 +245,9 @@
                </settlement>
             </death>
             <sex value="not-set"/>
-            <occupation ref="pmb154">Philosoph/Philosophin</occupation>
-            <occupation ref="pmb259">Theologe/Theologin</occupation>
-            <occupation ref="pmb294">Pädagoge/Pädagogin</occupation>
+            <occupation ref="#pmb154">Philosoph/Philosophin</occupation>
+            <occupation ref="#pmb259">Theologe/Theologin</occupation>
+            <occupation ref="#pmb294">Pädagoge/Pädagogin</occupation>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28433</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28433</idno>
          </person>
@@ -259,7 +259,7 @@
             <persName type="legacy-name-merge">Christomanos, Theodor</persName>
             <birth>
                <date when="1854-07-31">31.07.1854</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -268,7 +268,7 @@
             </birth>
             <death>
                <date when="1911-01-30">30.01.1911</date>
-               <settlement ref="pmb43520">
+               <settlement ref="#pmb43520">
                   <placeName type="pref">Meran</placeName>
                   <location>
                      <geo>46,66817 11,15953</geo>
@@ -276,10 +276,10 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb95">Politiker/Politikerin</occupation>
-            <occupation ref="pmb102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
-            <occupation ref="pmb106">Rechtsanwalt/Rechtsanwältin</occupation>
-            <occupation ref="pmb335">Alpinist/Alpinistin</occupation>
+            <occupation ref="#pmb95">Politiker/Politikerin</occupation>
+            <occupation ref="#pmb102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+            <occupation ref="#pmb106">Rechtsanwalt/Rechtsanwältin</occupation>
+            <occupation ref="#pmb335">Alpinist/Alpinistin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/13598520X</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14211</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4820</idno>
@@ -296,7 +296,7 @@
             <persName type="uri_wikipedia">https://de.wikipedia.org/wiki/Arnold_Korff</persName>
             <birth>
                <date when="1868-08-02">02.08.1868</date>
-               <settlement ref="pmb50">
+               <settlement ref="#pmb50">
                   <placeName type="pref">Wien</placeName>
                   <location>
                      <geo>48,2066 16,37341</geo>
@@ -305,7 +305,7 @@
             </birth>
             <death>
                <date when="1944-06-02">02.06.1944</date>
-               <settlement ref="pmb44053">
+               <settlement ref="#pmb44053">
                   <placeName type="pref">New York City</placeName>
                   <location>
                      <geo>40,71427 -74,00597</geo>
@@ -313,7 +313,7 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/101334071X</idno>
             <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17046</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2249</idno>
@@ -329,7 +329,7 @@
             <persName type="uri_wikipedia">https://de.wikipedia.org/wiki/Albert_Heine</persName>
             <birth>
                <date when="1867-11-16">16.11.1867</date>
-               <settlement ref="pmb35572">
+               <settlement ref="#pmb35572">
                   <placeName type="pref">Braunschweig</placeName>
                   <location>
                      <geo>52,26594 10,52673</geo>
@@ -338,7 +338,7 @@
             </birth>
             <death>
                <date when="1949-04-13">13.4.1949</date>
-               <settlement ref="pmb47646">
+               <settlement ref="#pmb47646">
                   <placeName type="pref">Westerland</placeName>
                   <location>
                      <geo>54,9079 8,30326</geo>
@@ -346,8 +346,8 @@
                </settlement>
             </death>
             <sex value="male"/>
-            <occupation ref="pmb103">Theaterleiter/Theaterleiterin</occupation>
-            <occupation ref="pmb105">Schauspieler/Schauspielerin</occupation>
+            <occupation ref="#pmb103">Theaterleiter/Theaterleiterin</occupation>
+            <occupation ref="#pmb105">Schauspieler/Schauspielerin</occupation>
             <idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116659068</idno>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2743</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2743</idno>
@@ -358,7 +358,7 @@
       <listBibl>
          <bibl xml:id="pmb30207">
             <title>Das weite Land. Tragikomödie in fünf Akten</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1910-10-20">1910-10-20</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.06</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1171735</idno>
@@ -375,7 +375,7 @@
          <bibl xml:id="pmb29843">
             <title>Der grüne Kakadu. Groteske in einem Akt</title>
             <note type="bibliografische_angabe">Neue Deutsche Rundschau, Jg. 10, H. 3, März 1899</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1.3.1899  – 1.3.1899</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.10</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2675124</idno>
@@ -391,7 +391,7 @@
             <title>Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
             <title type="arbeitstitel">Shawl</title>
             <note type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=601&amp;teil=0111&amp;seite=00000001&amp;zoom=2</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date>1900-12-01  – 1900-12-01</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.13</idno>
             <idno type="URL" subtype="">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=601&amp;teil=0303&amp;seite=00000215&amp;zoom=2</idno>
@@ -410,7 +410,7 @@
             <title type="arbeitstitel">Die Egoisten</title>
             <title type="arbeitstitel">Einsame Wege</title>
             <title type="arbeitstitel">Wege ins Dunkle</title>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date notBefore="1904-01-01" when="1904-07-01">1904</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.08</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1198519</idno>
@@ -426,7 +426,7 @@
          <bibl xml:id="pmb29937">
             <title>Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
             <note type="bibliografische_angabe">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen. Berlin: S. Fischer [26.10.]1910</note>
-            <author ref="pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+            <author ref="#pmbperson__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
             <date when="1910-10-26">1910-10-26</date>
             <idno type="URL" subtype="asaf">https://asaf.com/S.04.01.11</idno>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1198956</idno>
@@ -440,7 +440,7 @@
          </bibl>
          <bibl xml:id="pmb31623">
             <title>König Lear</title>
-            <author ref="pmbperson__2412" role="hat-geschaffen">Shakespeare, William</author>
+            <author ref="#pmbperson__2412" role="hat-geschaffen">Shakespeare, William</author>
             <date when="1606-01-01">1606</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31623</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31623</idno>
@@ -452,7 +452,7 @@
             <title>»Das weite Land«. (Tragikomödie in fünf Akten von Artur Schnitzler. Zum erstenmal aufgeführt am 14. Oktober 1911)</title>
             <note type="bibliografische_angabe">Neues Wiener Journal, 15. 10. 1911</note>
             <note type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19111015&amp;seite=1&amp;zoom=33</note>
-            <author ref="pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
+            <author ref="#pmbperson__10815" role="hat-geschaffen">Bahr, Hermann</author>
             <date when="1911-10-15">15.10.1911</date>
             <idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31219</idno>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31219</idno>
@@ -470,7 +470,7 @@
                <geo>48,210333 16,361139</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb51">I., Innere Stadt</placeName>
+               <placeName ref="#pmb51">I., Innere Stadt</placeName>
                <geo>48,20769 16,37049</geo>
             </location>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entities:Burgtheater+%28Gebäude</idno>
@@ -497,7 +497,7 @@
                <geo>48,2066 16,37341</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb41240">Österreich</placeName>
+               <placeName ref="#pmb41240">Österreich</placeName>
                <geo>47,33333 13,33333</geo>
             </location>
             <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
@@ -526,7 +526,7 @@
                <geo>39,76 -98,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb175">Amerika</placeName>
+               <placeName ref="#pmb175">Amerika</placeName>
                <geo>32,530833 -117,02</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q30</idno>
@@ -578,7 +578,7 @@
                <geo>51,5 10,5</geo>
             </location>
             <location type="located_in_place">
-               <placeName ref="pmb468">Europa</placeName>
+               <placeName ref="#pmb468">Europa</placeName>
                <geo>48,69096 9,14062</geo>
             </location>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q183</idno>
