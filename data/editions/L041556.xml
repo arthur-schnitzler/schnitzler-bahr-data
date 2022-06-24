@@ -13,11 +13,11 @@
             <title type="iso-date">1910-10-15</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,7 +104,10 @@
             </opener>
             <p>für einen Rohrleger halte ich Sie nicht (eher schon für einen Poeten), aber Ihrem Meinungswechsel kann ich doch nicht recht folgen. »<date>Mitte Februar</date>« habe ich Ihnen schon am <date>4. Oktober</date> genannt, worauf Sie am <date>6.</date> auch: »<date>1. Jänner</date> bis <date>15. Feber</date>« akzeptierten; daß ich Ihnen nun als gewissenhaft-unreinhardtisches Subjekt den <date>18. Februar</date> bezeichne, kann doch keinen Unterschied machen. Und daß der <date>Januar</date> unmöglich ist, kann ich Ihnen, wie ich es damals schon begründete, heute nur wiederholen. Auch waren Sie nicht »der Erste am Platz«, sondern Sie kamen nach <rs type="person" ref="#pmb10815">
                   <rs type="work" subtype="implied" ref="#pmb30269">Bahr</rs>
-               </rs> (der in meinem Entwurf dennoch nach Ihnen kommt!) und dies vor allem: Sie wollten sich weder für die offerierte Nr. 3 noch sonstwie entscheiden. Ein <rs type="work" subtype="implied" ref="#pmb30207">Stück</rs> aber zugleich für einen bestimmten Termin akzeptieren und nicht akzeptieren, dem einen Teil alle Rechte einräumen und dem andern, nämlich sich selber, gar keine zuzuschreiben – das geht »<rs type="work" subtype="implied" ref="#pmb29883">über die Kraft</rs>« (da ich ja nun mal gut <rs type="person" ref="#pmb2400">Björnsonisch</rs> bin, bis auf weiteres). Endlich, um auch das noch zu sagen, ist der Ihnen bezeichnete Termin m. E. ein durchaus guter. Sie haben schon voriges Jahr mir den <anchor type="commentary" xml:id="KL556-1">Arm festgehalten</anchor>, mit dem ich den <hi rend="italic">
+               </rs> (der in meinem Entwurf dennoch nach Ihnen kommt!) und dies vor allem: Sie wollten sich weder für die offerierte Nr. 3 noch sonstwie entscheiden. Ein <rs type="work" subtype="implied" ref="#pmb30207">Stück</rs> aber zugleich für einen bestimmten Termin akzeptieren und nicht akzeptieren, dem einen Teil alle Rechte einräumen und dem andern, nämlich sich selber, gar keine zuzuschreiben – das geht »<rs type="work" subtype="implied" ref="#pmb29883">über die Kraft</rs>« (da ich ja nun mal gut <rs type="person" ref="#pmb2400">Björnsonisch</rs> bin, bis auf weiteres). Endlich, um auch das noch zu sagen, ist der Ihnen bezeichnete Termin m. E. ein durchaus guter. Sie haben schon voriges Jahr mir den <anchor type="commentary" xml:id="KL556-1"/>Arm festgehalten<note type="commentary" xml:id="KL556-1h">
+                  <p>
+                     <ptr target="L041554"/>.</p>
+               </note>, mit dem ich den <hi rend="italic">
                   <rs type="work" ref="#pmb29935">Anatol</rs>
                </hi> hochheben wollte, ich glaube zu Unrecht. Wollen Sie denselben Fehler nochmal machen? Aber wie mein Gott (A. S.) will, ich halt still. Sie können aufführen lassen, und Sie können liegen lassen, der Name des Herrn und Freundes sei gelobt. – Besetzung habe ich heute nicht anders vorzuschlagen als damals, und »totaler« kann sie auch nicht werden, Sie müßten denn noch Personen hinzudichten. Über Striche werden wir uns später zu verständigen haben, wenn Sie erst wissen, wann Sie gespielt zu werden wünschen.</p>
             <closer>Herzliche Grüße Ihres <signed>O. B.</signed>

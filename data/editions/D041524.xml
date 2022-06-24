@@ -13,11 +13,11 @@
             <title type="iso-date">1903-03-09</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,11 +102,19 @@
                <date when="1903-03-09" n="01">9/3</date> »<rs type="work" ref="#pmb39477">
                   <rs type="work" subtype="implied" ref="#pmb29957">Lebendige Stunden</rs>
                </rs>« dictiert.</p>
-            <p>Gelesen: <anchor type="commentary" xml:id="KD524-1">
-                  <rs type="person" ref="#pmb28117">
-                     <rs type="work" ref="#pmb31405">Heraklit</rs>
-                  </rs> von <rs type="person" ref="#pmb3817">Diels</rs>
-               </anchor>.</p>
+            <p>Gelesen: <anchor type="commentary" xml:id="KD524-1"/>
+               <rs type="person" ref="#pmb28117">
+                  <rs type="work" ref="#pmb31405">Heraklit</rs>
+               </rs> von <rs type="person" ref="#pmb3817">Diels</rs>
+               <note type="commentary" xml:id="KD524-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb3817">Hermann Diels</rs>: <rs type="work" ref="#pmb31405">Herakleitos von Ephesos</rs>. Griechisch und deutsch. Berlin:
+                     <rs type="org">Weidmannsche Buchhandlung</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1901</date>
+                     </bibl>.</p>
+               </note>.</p>
          </div>
       </body>
    </text>

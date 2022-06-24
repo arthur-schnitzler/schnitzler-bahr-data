@@ -13,11 +13,11 @@
             <title type="iso-date">1921-02-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,13 +83,24 @@
             <p>Nm. Bilanzen.– Am <rs type="work" ref="#pmb30775">Weiher</rs>!– </p>
             <p>In die <rs type="place" ref="#pmb633">Kammerspiele</rs>. Vorher schon telef. verständigt, daß Unruhen. Sie waren vorbei, als ich hinkam. Über 300, von einer Katholikenversammlung kommend, wo ich (von <rs type="person" ref="#pmb12762">Seipel</rs> u. a.) beschimpft wurde, insultiren die Theaterbesucher, die eben kommen, johlen: »Man schändet unsre Weiber! Nieder <rs type="work" ref="#pmb29855">Reigen</rs>! Nieder mit den Sozialdemokraten u. s. w.« Polizei vertreibt sie. Viel Polizei an den Eingängen.</p>
             <p>– Ich auf die Bühne. Frau <rs type="person" ref="#pmb22156">Olly</rs> erzählt eine Räubergeschichte, daß sie fast nicht herein gelassen worden wären. Ich stehe in den Kulissen, wie eben <rs type="person" ref="#pmb18710">Iwald</rs> (Ehegatte) – Frau <rs type="person" ref="#pmb11071">Carlsen</rs> (Ehefrau) in den Armen hält.– Vom Zuschauerraum aus die Scene Gatte – süßes Mädl.– In der Garderobe setze ich meinen Namen unter die beiden <rs type="person" ref="#pmb18710">Iwald</rs>-<rs type="work" ref="#pmb29855">Reigen</rs>-Bilder .– Spreche die <rs type="person" ref="#pmb19250">Keller</rs> und die <rs type="person" ref="#pmb12190">Markus</rs>.– Warne <rs type="person" ref="#pmb4040">Bernau</rs>;– wie er beabsichtigt, den <rs type="work" ref="#pmb29855">Reigen</rs> am nächsten Sonntag drei Mal zu geben.– Ein Reporter der <rs type="org" ref="#pmb29637">Reichspost</rs> theilt <rs type="person" ref="#pmb4040">Bernau</rs> mit, daß Dinstag im Theater randalirt werden wird. <rs type="person" ref="#pmb4040">B.</rs> erwidert, daß diese Leute von Volkwehr und Arsenalarbeitern an die Wand geklebt werden dürften.– </p>
-            <p>Mit <rs type="person" ref="#pmb10736">Schulbaur</rs> und <rs type="person" ref="#pmb16668">Friedmann</rs> in den <rs type="place" ref="#pmb588">Pan</rs>. Dort in der American Bar allerlei Künstlervölkchen. Frau <rs type="person" ref="#pmb11071">Carlsen</rs>, zwischen »<rs type="work" ref="#pmb29855">Reigen</rs>«, und ihrem Auftreten in <anchor type="commentary" xml:id="KD565-2">
-                  <rs type="work" ref="#pmb31921">Ihre Hoheit die Hose</rs>
-               </anchor>, läßt sich »<anchor type="commentary" xml:id="KD565-1">
-                  <rs type="work" ref="#pmb31601">Ehelei</rs>
-               </anchor>« überhören.– Vorträge und Einakter (von <rs type="person" ref="#pmb10736">Schulbaur</rs> inszenirt). Frau <rs type="person" ref="#pmb22156">Olly</rs> in »<anchor type="commentary" xml:id="KD565-3">
-                  <rs type="work" ref="#pmb31923">Lauf doch nicht immer nackt herum</rs>
-               </anchor>«; durchaus im Hemd <c rendition="#dots" n="3" place="center"/> (Keinerlei Kundgebungen des <rs type="org" ref="#pmb29261">Katholikenbundes</rs>.) – Frau <rs type="person" ref="#pmb3004">Loos</rs>, Chansons;– mit ihr und <rs type="person" ref="#pmb16668">Friedm.</rs> zusammen fort.–</p>
+            <p>Mit <rs type="person" ref="#pmb10736">Schulbaur</rs> und <rs type="person" ref="#pmb16668">Friedmann</rs> in den <rs type="place" ref="#pmb588">Pan</rs>. Dort in der American Bar allerlei Künstlervölkchen. Frau <rs type="person" ref="#pmb11071">Carlsen</rs>, zwischen »<rs type="work" ref="#pmb29855">Reigen</rs>«, und ihrem Auftreten in <anchor type="commentary" xml:id="KD565-2"/>
+               <rs type="work" ref="#pmb31921">Ihre Hoheit die Hose</rs>
+               <note type="commentary" xml:id="KD565-2h">
+                  <p>Von <rs type="person" ref="#pmb13034">Friedrich Wallisch</rs>.</p>
+               </note>, läßt sich »<anchor type="commentary" xml:id="KD565-1"/>
+               <rs type="work" ref="#pmb31601">Ehelei</rs>
+               <note type="commentary" xml:id="KD565-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31601">Ehelei. Lustspiel in drei Akten</rs>. Erschienen als Vorabdruck
+                  in der <rs type="org" ref="#pmb29351">Neuen Freien Presse</rs>, <date instant="false">6.
+                     11.</date> – <date instant="false">28. 12. 1920</date>
+                     </bibl>.</p>
+               </note>« überhören.– Vorträge und Einakter (von <rs type="person" ref="#pmb10736">Schulbaur</rs> inszenirt). Frau <rs type="person" ref="#pmb22156">Olly</rs> in »<anchor type="commentary" xml:id="KD565-3"/>
+               <rs type="work" ref="#pmb31923">Lauf doch nicht immer nackt herum</rs>
+               <note type="commentary" xml:id="KD565-3h">
+                  <p>Von <rs type="person" ref="#pmb2931">Georges Feydeau</rs>.</p>
+               </note>«; durchaus im Hemd <c rendition="#dots" n="3" place="center"/> (Keinerlei Kundgebungen des <rs type="org" ref="#pmb29261">Katholikenbundes</rs>.) – Frau <rs type="person" ref="#pmb3004">Loos</rs>, Chansons;– mit ihr und <rs type="person" ref="#pmb16668">Friedm.</rs> zusammen fort.–</p>
          </div>
       </body>
    </text>

@@ -13,11 +13,11 @@
             <title type="iso-date">1914-03-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,11 +83,19 @@
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb746">Steinhof</rs>.– <rs type="place" ref="#pmb271">Hütteldorf</rs>.–</p>
             <p>Nach Tisch kam <rs type="person" ref="#pmb10765">Poldi Andrian</rs>. Ich prophezeite ihm Ministerium des Äußern für 1921.–</p>
-            <p>Abends <rs type="person" ref="#pmb12740">Gustav</rs>, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb2496">Arthur Kaufmann</rs>. Über <rs type="person" ref="#pmb10815">Bahrs</rs> neuesten Katholizismus (er bedarf der Sacramente; <anchor type="commentary" xml:id="KD362-1">
-                  <rs type="work" subtype="implied" ref="#pmb30875">Artikel</rs> der <rs type="org" ref="#pmb29644">Arbeiterztg.</rs>
-               </anchor>), über <rs type="person" ref="#pmb12848">Sternheim</rs> (<rs type="work" ref="#pmb30873">Snob</rs> etc.); <rs type="person" ref="#pmb11273">Eulenberg</rs>; <rs type="person" ref="#pmb11916">Kessler’s</rs> Selbstrettung (<anchor type="commentary" xml:id="KD362-2">
-                  <rs type="work" subtype="implied" ref="#pmb30877 #pmb30879 #pmb32462">Ballet</rs>
-               </anchor>
+            <p>Abends <rs type="person" ref="#pmb12740">Gustav</rs>, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb2496">Arthur Kaufmann</rs>. Über <rs type="person" ref="#pmb10815">Bahrs</rs> neuesten Katholizismus (er bedarf der Sacramente; <anchor type="commentary" xml:id="KD362-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30875">Artikel</rs> der <rs type="org" ref="#pmb29644">Arbeiterztg.</rs>
+               <note type="commentary" xml:id="KD362-1h">
+                  <p>
+                     <bibl >[O. V.:] <rs type="work" ref="#pmb30875">Der neueste Katholik</rs>. In: <rs type="org" ref="#pmb29644">Arbeiter-Zeitung</rs>, Jg. 26, Nr. 50, <date instant="false">20. 2.
+                     1914</date>, Morgenblatt, S. 5–6</bibl>.</p>
+               </note>), über <rs type="person" ref="#pmb12848">Sternheim</rs> (<rs type="work" ref="#pmb30873">Snob</rs> etc.); <rs type="person" ref="#pmb11273">Eulenberg</rs>; <rs type="person" ref="#pmb11916">Kessler’s</rs> Selbstrettung (<anchor type="commentary" xml:id="KD362-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30877 #pmb30879 #pmb32462">Ballet</rs>
+               <note type="commentary" xml:id="KD362-2h">
+                  <p>
+                     <rs type="work" ref="#pmb30877 #pmb30879 #pmb32462">Josephs Legende</rs>, Handlung in
+               einem Aufzug (Uraufführung <date instant="false">14. 5. 1914</date>).</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb12870">Strauss</rs>, von <rs type="person" ref="#pmb11916">Keßler</rs> und <rs type="person" ref="#pmb11740">Hugo</rs>).–</p>
          </div>

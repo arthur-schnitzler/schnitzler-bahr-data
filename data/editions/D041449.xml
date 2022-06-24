@@ -13,11 +13,11 @@
             <title type="iso-date">1903-12-31</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -116,7 +116,10 @@
             <p>In diesem Jahr ist <rs type="person" ref="#pmb11941">Klimt</rs> gegen alle Feinde durchgesetzt worden.</p>
             <p>Eigentlich bin ich also jetzt unnötig. Ich kann endlich daran gehen, mir selbst zu leben.</p>
             <p>Dazu das Gefühl, daß <anchor type="label" xml:id="LD449-1">
-                  <rs type="person" ref="#pmb3368">Olbrich</rs>, <rs type="person" ref="#pmb11941">Klimt</rs>, <rs type="person" ref="#pmb3280">Moser</rs>, <rs type="person" ref="#pmb2121">Schnitzler</rs>, <rs type="person" ref="#pmb11740">Hugo</rs> doch nur <anchor type="commentary" xml:id="KD449-1">Einzelereignisse</anchor>
+                  <rs type="person" ref="#pmb3368">Olbrich</rs>, <rs type="person" ref="#pmb11941">Klimt</rs>, <rs type="person" ref="#pmb3280">Moser</rs>, <rs type="person" ref="#pmb2121">Schnitzler</rs>, <rs type="person" ref="#pmb11740">Hugo</rs> doch nur <anchor type="commentary" xml:id="KD449-1"/>Einzelereignisse<note type="commentary" xml:id="KD449-1h">
+                     <p>
+                        <ptr target="LD445-1"/>.</p>
+                  </note>
                </anchor> waren. Hinter ihnen kommt nichts nach. In unserem armen Lande ist keine Folge da.</p>
             <p>So recht mein Glaube an diese Talente behalten hat, es war ein Irrtum, an sie eine Bewegung anschließen zu wollen.</p>
             <p>

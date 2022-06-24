@@ -13,11 +13,11 @@
             <title type="iso-date">1923-12-29</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,7 +104,9 @@
             <p>
                <salute>Lieber, </salute> ich bin noch immer zu Bett, <add place="above">noch Temperatur<supplied>,</supplied>
                </add> noch ein bissel dösig, will aber morgen aufstehen. Wie die Weihnachtstage verlaufen sind, weisst Du ja aus meinem Brief an den <rs type="person" ref="#pmb12692">Heini</rs>,– es war lieb und schön,– und eine Freude war es uns, wie<del rend="strikethrough">r</del> wohl sich die Schlossbewohner <rs type="person" ref="#pmb28991 #pmb28992">Salzer</rs> in unserm Häusel gefühlt haben, <rs type="person" ref="#pmb23923">Soscha</rs> immer wieder, und mit Recht, stolz darauf, dass sie mir im Jänner so nachdrücklich zu dem Kauf geraten hat. Das dank ich ihr auch immer wieder, denn es ist nicht gut auszudenken, wie’s sonst geworden wäre: weiter das ungemütliche und ungleich teurere Pensionsleben, mit allen seinen äussern und<pb/> innern Misslichkeiten.</p>
-            <p>Übrigens war der Erste, der mir sehr herzlich zu einer <anchor type="commentary" xml:id="KL676-1">Bleibe</anchor> geraten hat, der gute <rs type="person" ref="#pmb10815">Bahr</rs>, auf einem jener <rs type="place" ref="#pmb30">Salzburg</rs>er Spaziergänge. Hast Du nicht wieder von ihm gehört? ist er in <rs type="place" ref="#pmb50">Wien</rs>?</p>
+            <p>Übrigens war der Erste, der mir sehr herzlich zu einer <anchor type="commentary" xml:id="KL676-1"/>Bleibe<note type="commentary" xml:id="KL676-1h">
+                  <p>Das kleine Haus in <rs type="place" ref="#pmb228">Baden-Baden</rs>.</p>
+               </note> geraten hat, der gute <rs type="person" ref="#pmb10815">Bahr</rs>, auf einem jener <rs type="place" ref="#pmb30">Salzburg</rs>er Spaziergänge. Hast Du nicht wieder von ihm gehört? ist er in <rs type="place" ref="#pmb50">Wien</rs>?</p>
             <p>Von allen den vielen Leuten, die Du mir in Deinen Briefen nennst, ist ein Einziger, dem ich begegnen möchte, und das ist <rs type="person" ref="#pmb11187">Duhamel</rs>. Das ist <hi rend="underline" n="1">ein Mensch</hi>, ein warmes, lebendiges, eigenes Wesen. Als ich im Krieg, bei der <rs type="person" ref="#pmb2315">Lisl</rs>, in den »<rs type="org" ref="#pmb29387">Weissen Blättern</rs>« zum ersten Mal was von ihm <rs type="work" subtype="implied" ref="#pmb32886">las</rs>, dacht ich mir gleich: den Namen musst Du Dir merken. Schreib mir doch, wie er aussieht, wie er wirkt, ja?<pb/>
             </p>
             <p>Hoffentlich lässt er sich von seinem Ruhm nicht verderben und trägt ihn »wie eine Schuhschnalle«. Übrigens kenne ich den D<hi rend="superscript">

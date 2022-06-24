@@ -13,11 +13,11 @@
             <title type="iso-date">1919-08-30</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -121,11 +121,15 @@
             <postscript>
                <p>Jemand, ein Kunstjunge, bittet dich um ein Autogramm, – sei lieb und schick mir eins, ja?</p>
                <p>
-                  <anchor type="textConst" xml:id="TL661-1">Der liebe <rs type="person" ref="#pmb12402">Paumgartner</rs> hat auch bei <rs type="person" ref="#pmb13212">Zweig</rs> in hohen Tönen von mir erzählt.</anchor>
+                  <anchor type="textConst" xml:id="TL661-1"/>Der liebe <rs type="person" ref="#pmb12402">Paumgartner</rs> hat auch bei <rs type="person" ref="#pmb13212">Zweig</rs> in hohen Tönen von mir erzählt.<note type="textConst" xml:id="TL661-1h">
+                     <p>Quer zum Text.</p>
+                  </note>
                </p>
             </postscript>
             <p>
-               <anchor type="textConst" xml:id="TL661-2">Alle Leute jammern, dass die <rs type="person" ref="#pmb17549">Bertel</rs> nicht gekommen ist!</anchor>
+               <anchor type="textConst" xml:id="TL661-2"/>Alle Leute jammern, dass die <rs type="person" ref="#pmb17549">Bertel</rs> nicht gekommen ist!<note type="textConst" xml:id="TL661-2h">
+                  <p>Quer zum Text auf der zweiten Seite.</p>
+               </note>
             </p>
          </div>
       </body>

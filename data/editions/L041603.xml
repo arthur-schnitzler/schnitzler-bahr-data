@@ -13,11 +13,11 @@
             <title type="iso-date">1896-05-09</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,23 +99,40 @@
                   <rs type="place" ref="#pmb50">Wien</rs> den <date>9 Mai. 96</date>.</dateline>
                <salute>Mein lieber, lieber Freund Hermann!</salute>
             </opener>
-            <p>Zuerst mein Kind – sage ich Dir meinen innigsten Dank für Deine herrliche <anchor type="commentary" xml:id="KL603-1">
-                  <rs type="work" subtype="implied" ref="#pmb32496">Kritik</rs>
-               </anchor> über mich als <anchor type="commentary" xml:id="KL603-3">
-                  <rs type="work" subtype="implied" ref="#pmb32494">Deborah</rs>
-               </anchor>. Schau lieber Bahr – wenn sich ein Wesen so plagt und abmüht, dann thut es doch wohl auch einen Dank dafür zu bekommen! Ich finde die Art, wie Du immer von mir »die Sandrock« schreibst, großartig – so schreibt man doch nur von Menschen die wirklich<pb/> was sind – gelt? – z. b. der <rs type="person" ref="#pmb10943">Bismark</rs> – der <rs type="person" ref="#pmb12265">Mitterwurzer</rs> – der <rs type="person" ref="#pmb12654">Schiller</rs> u. s. w. – Ich danke Dir für diese Auszeichnung – daß allein ist schon Gold werth – dieser Anfang – <supplied>»</supplied>die Sandrock« –! Ich habe heute Abend die <anchor type="commentary" xml:id="KL603-4">
-                  <rs type="work" subtype="implied" ref="#pmb32492">Cleopatra</rs>
-               </anchor> weit besser gespielt wie das erste Mal – es ist jammer schade das Ihr Herrn von der Presse uns bei der ersten Aufführung seht – wir verderben uns da gewöhnlich Alles durch d<subst>
+            <p>Zuerst mein Kind – sage ich Dir meinen innigsten Dank für Deine herrliche <anchor type="commentary" xml:id="KL603-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32496">Kritik</rs>
+               <note type="commentary" xml:id="KL603-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">H. B.</rs>: <rs type="work" ref="#pmb32496">Kunst und Leben. Burgtheater</rs>. In: <rs type="org" ref="#pmb29209">Die
+                     Zeit</rs>, Bd. 7, H. 84, <date instant="false">9. 5. 1896</date>, S. 93</bibl>.</p>
+               </note> über mich als <anchor type="commentary" xml:id="KL603-3"/>
+               <rs type="work" subtype="implied" ref="#pmb32494">Deborah</rs>
+               <note type="commentary" xml:id="KL603-3h">
+                  <p>Titelrolle aus <rs type="work" ref="#pmb32494">Deborah</rs> von <rs type="person" ref="#pmb12293">Salomon Hermann Mosenthal</rs>.</p>
+               </note>. Schau lieber Bahr – wenn sich ein Wesen so plagt und abmüht, dann thut es doch wohl auch einen Dank dafür zu bekommen! Ich finde die Art, wie Du immer von mir »die Sandrock« schreibst, großartig – so schreibt man doch nur von Menschen die wirklich<pb/> was sind – gelt? – z. b. der <rs type="person" ref="#pmb10943">Bismark</rs> – der <rs type="person" ref="#pmb12265">Mitterwurzer</rs> – der <rs type="person" ref="#pmb12654">Schiller</rs> u. s. w. – Ich danke Dir für diese Auszeichnung – daß allein ist schon Gold werth – dieser Anfang – <supplied>»</supplied>die Sandrock« –! Ich habe heute Abend die <anchor type="commentary" xml:id="KL603-4"/>
+               <rs type="work" subtype="implied" ref="#pmb32492">Cleopatra</rs>
+               <note type="commentary" xml:id="KL603-4h">
+                  <p>Titelrolle aus <rs type="work" ref="#pmb32492">Antonius und Cleopatra</rs> von <rs type="person" ref="#pmb2412">Shakespeare</rs>.</p>
+               </note> weit besser gespielt wie das erste Mal – es ist jammer schade das Ihr Herrn von der Presse uns bei der ersten Aufführung seht – wir verderben uns da gewöhnlich Alles durch d<subst>
                   <del rend="overwritten">
                      <unclear>as</unclear>
                   </del>
                   <add place="inline">ie</add>
                </subst> nicht zu unterdrückenden Aufregung! Heute Abend hatte ich<pb/>
                <space unit="chars" quantity="1"/>
-               <hi rend="underline" n="1">Beifallsstürme</hi> vom Publikum! Ich glaube doch <rs type="person" ref="#pmb10815">Hermann</rs>, daß ich am <rs type="place" ref="#pmb14">Burgtheater</rs> Fortschritte mache! Nun – mein Kind – spiele ich am Samstag die »<anchor type="commentary" xml:id="KL603-5">
-                  <rs type="work" subtype="implied" ref="#pmb31329">Magda</rs>
-               </anchor>
-               <supplied>«</supplied>! Ich bitte Dich <hi rend="underline" n="1">innig</hi> – lieber, lieber Hermann <anchor type="commentary" xml:id="KL603-2">gehe mit der lieben <rs type="person" ref="#pmb13682">Roserl</rs> hinein</anchor> – ich möchte für mein Leben gern daß du mich in dieser Rolle siehst! – das ist der Zweck meines schreibens! – Ich habe mir zwar <hi rend="underline" n="1">noch</hi>
+               <hi rend="underline" n="1">Beifallsstürme</hi> vom Publikum! Ich glaube doch <rs type="person" ref="#pmb10815">Hermann</rs>, daß ich am <rs type="place" ref="#pmb14">Burgtheater</rs> Fortschritte mache! Nun – mein Kind – spiele ich am Samstag die »<anchor type="commentary" xml:id="KL603-5"/>
+               <rs type="work" subtype="implied" ref="#pmb31329">Magda</rs>
+               <note type="commentary" xml:id="KL603-5h">
+                  <p>Hauptrolle aus <rs type="work" ref="#pmb31329">Heimat</rs> von <rs type="person" ref="#pmb12899">Hermann Sudermann</rs>.</p>
+               </note>
+               <supplied>«</supplied>! Ich bitte Dich <hi rend="underline" n="1">innig</hi> – lieber, lieber Hermann <anchor type="commentary" xml:id="KL603-2"/>gehe mit der lieben <rs type="person" ref="#pmb13682">Roserl</rs> hinein<note type="commentary" xml:id="KL603-2h">
+                  <p>In der Folge der Aufführung erschien seine Besprechung von <rs type="person" ref="#pmb12899">Sudermanns</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb31329">Heimat</rs>: <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32732">Magda</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>,
+                  Jg. 7, H. 86, <date instant="false">23. 5. 1896</date>, S. 123–124</bibl>.</p>
+               </note> – ich möchte für mein Leben gern daß du mich in dieser Rolle siehst! – das ist der Zweck meines schreibens! – Ich habe mir zwar <hi rend="underline" n="1">noch</hi>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">einige</hi> Todtfeinde dadurch gemacht – das ich auch diese Rolle in <rs type="place" ref="#pmb50">Wien</rs> spielen werde – aber es ist zum Wohlthätigen Zweck – und da kann<pb/> man nicht »nein« sagen! – Ich <damage agent="hole">
                   <supplied>f</supplied>

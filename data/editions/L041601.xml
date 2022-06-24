@@ -13,11 +13,11 @@
             <title type="iso-date">1894-04-22</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -101,12 +101,16 @@
                   <date>Sonntag</date>.</dateline>
                <salute>Liebster Hermann.</salute>
             </opener>
-            <p>Kind – ich habe mir die Sache überlegt. Es wird doch wohl besser sein, wenn Du vorläufig noch Nichts erwähnst. Aber jedenfalls sage <anchor type="commentary" xml:id="KL601-1">
-                  <rs type="person" ref="#pmb11036">
-                     <rs type="person" ref="#pmb2161">
-                        <hi rend="latintype"/>B.</rs>
-                  </rs>
-               </anchor> Deine geradezu geniale Idee von der <hi rend="latintype">
+            <p>Kind – ich habe mir die Sache überlegt. Es wird doch wohl besser sein, wenn Du vorläufig noch Nichts erwähnst. Aber jedenfalls sage <anchor type="commentary" xml:id="KL601-1"/>
+               <rs type="person" ref="#pmb11036">
+                  <rs type="person" ref="#pmb2161">
+                     <hi rend="latintype"/>B.</rs>
+               </rs>
+               <note type="commentary" xml:id="KL601-1h">
+                  <p>Vermutlich <rs type="person" ref="#pmb2161">Bukovics</rs>, der Direktor des <rs type="place" ref="#pmb20">Deutschen Volkstheaters</rs>, bei dem sie engagiert war;
+               die Verhandlungen mit <rs type="person" ref="#pmb11036">Burckhard</rs> dürften erst
+               im Herbst desselben Jahres begonnen haben.</p>
+               </note> Deine geradezu geniale Idee von der <hi rend="latintype">
                   <rs subtype="local" type="work" ref="#pmb32500">Parisienne</rs>
                </hi>. Ich bin sicher Dich heute nicht zu seh’n in <rs type="place" ref="#pmb173">Rodaun</rs>, Du hast ja dem <rs type="person" ref="#pmb2121">Thuri</rs> abgeschrieben. Ach Hermann ich bin heute wieder einmal verzweifelt.</p>
             <closer>Tausend Grüsse<lb/>Dein treuer Freund<lb/>

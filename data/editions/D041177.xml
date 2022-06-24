@@ -13,11 +13,11 @@
             <title type="iso-date">1897-11-29</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,8 +81,20 @@
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb50">Wien</rs>.– Im <rs type="work" subtype="implied" ref="#pmb30480">Artikel</rs> von <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD177-1">über <rs type="work" ref="#pmb30478">Katherl</rs>
-               </anchor> findet er <rs type="work" ref="#pmb30478">Katherl</rs> besser als <rs type="work" ref="#pmb29899">Frwld.</rs>, das er noch gar nicht kennt – Im Dampfbad sprach ich ihn.– Abd. bei <rs type="person" ref="#pmb2378">Mz. Rh.</rs>–</p>
+               <anchor type="commentary" xml:id="KD177-1"/>über <rs type="work" ref="#pmb30478">Katherl</rs>
+               <note type="commentary" xml:id="KD177-1h">
+                  <p>»<quote>
+                        <rs type="person" ref="#pmb2121">Schnitzler</rs> im ›<rs type="work" ref="#pmb29899">Freiwild</rs>‹, <rs type="person" ref="#pmb11565">Halbe</rs> in
+                  der ›<rs type="work" ref="#pmb31755">Mutter Erde</rs>‹, ich im ›<rs type="work" ref="#pmb29829">Tschaperl</rs>‹ – wir suchen jetzt alle dasselbe, jeder auf
+                  seine Art: das, was man ein gutes Theaterstück nennt, zu machen, aber so, dass es
+                  sich doch auch vor dem modernen Geschmacke sehen lassen kann. Keinem von uns ist
+                  es noch so gut gelungen als dem <rs type="person" subtype="implied" ref="#pmb11036">Autor</rs> des ›<rs type="work" ref="#pmb30478">Katherl</rs>‹.
+                  Das große Publicum hat ihm zugejauchzt und die Kenner haben eingestimmt.</quote>« (<bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30480">’s Katherl (Volksstück in fünf Aufzügen von Max Burckhard. Zum
+                     ersten Mal aufgeführt im Raimundtheater am <date instant="false">25. November
+                  1897</date>)</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 13,
+                  Nr. 165, <date instant="false">27. 11. 1897</date>, S. 141</bibl>)</p>
+               </note> findet er <rs type="work" ref="#pmb30478">Katherl</rs> besser als <rs type="work" ref="#pmb29899">Frwld.</rs>, das er noch gar nicht kennt – Im Dampfbad sprach ich ihn.– Abd. bei <rs type="person" ref="#pmb2378">Mz. Rh.</rs>–</p>
          </div>
       </body>
    </text>

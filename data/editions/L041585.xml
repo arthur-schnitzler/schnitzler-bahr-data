@@ -13,11 +13,11 @@
             <title type="iso-date">1897-06-15</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,14 +102,45 @@
             <p>
                <salute>Mein Schatz! </salute> Ich wollte fortradeln – da zieht eben ein Gewitter auf, schon beginnt’s zu regnen (es ist 6 Uhr Abend) und, bevor ich das, was ich mit einem schmeichlerischen Ausdruck arbeiten nenne anfange, will ich Dir noch in zwei Worten sagen, dss ich Dich unendlich lieb habe und mich sehr nach Dir sehne.Was gibts denn nur sonst?– Ich bin heut <unclear>Morgen</unclear>
                <pb/>
-               <space unit="chars" quantity="1"/>bei der <anchor type="commentary" xml:id="KL585-2">Frau <rs type="person" ref="#pmb19337">K.</rs>
-               </anchor> gewesen, ohne wesentlich neues zu erfahren, sie hat mir nur eine Adresse »mit Garten« gegeben, wo ich morgen hin will. Anfangs wird das Forsthaus wohl notwendg sein u anfangs wird es Dir auch gewiss sehr gefallen.</p>
-            <p>– Das Klingen ist heftig und störend. Nerven wieder schlechter trotz kaltem Wasser etc.– Erheiterung brachte ein »<anchor type="commentary" xml:id="KL585-3">
-                  <rs type="work" subtype="implied" ref="#pmb32304">Novellenband</rs>
-               </anchor>« vom Grafen <rs type="person" ref="#pmb13267">Aichelburg</rs>,<pb/> (20! Seiten), den ich Dir morgen sende zugleich mit einem kleinen höchst amüsanten Büchl »<anchor type="commentary" xml:id="KL585-4">
-                  <rs type="work" ref="#pmb32302">Hinter dem Leben</rs>
-               </anchor>« von Maler <rs type="person" ref="#pmb12769">Seligmann</rs>, wo köstliche Parodien auf <rs type="person" ref="#pmb2147">Altenberg</rs>, <anchor type="commentary" xml:id="KL585-1">
-                  <rs type="person" ref="#pmb11036">Burckhard</rs> (dessen Charakter zugleich in einer mir nicht sympathischen Weise verunglimpft wird)</anchor>, <rs type="person" ref="#pmb10765">Andrian</rs>, <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb11740">Hugo</rs> stehn.– Richtig, gestern Abend war ich neben <rs type="person" ref="#pmb2167">Salten</rs> in der <rs type="place" ref="#pmb2">Conservatorium</rs>svorstellg,<pb/> resp. beim letzten Fünftel, was auch zu viel war.–</p>
+               <space unit="chars" quantity="1"/>bei der <anchor type="commentary" xml:id="KL585-2"/>Frau <rs type="person" ref="#pmb19337">K.</rs>
+               <note type="commentary" xml:id="KL585-2h">
+                  <p>
+                     <rs type="person" ref="#pmb2378">Marie Reinhard</rs> war mit einem Kind <rs type="person" ref="#pmb2121">Schnitzlers</rs> schwanger und <rs type="person" ref="#pmb19337">Leopoldine Kirchrath</rs> half bei der Suche nach einer Unterkunft
+               für die zu verheimlichende Geburt. Das Kind hätte danach einer Kostfamilie auf dem
+               Land gegeben werden sollen, kam aber am <date instant="false">24. 9. 1897</date> tot auf die
+               Welt.</p>
+               </note> gewesen, ohne wesentlich neues zu erfahren, sie hat mir nur eine Adresse »mit Garten« gegeben, wo ich morgen hin will. Anfangs wird das Forsthaus wohl notwendg sein u anfangs wird es Dir auch gewiss sehr gefallen.</p>
+            <p>– Das Klingen ist heftig und störend. Nerven wieder schlechter trotz kaltem Wasser etc.– Erheiterung brachte ein »<anchor type="commentary" xml:id="KL585-3"/>
+               <rs type="work" subtype="implied" ref="#pmb32304">Novellenband</rs>
+               <note type="commentary" xml:id="KL585-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb13267">Eugen Graf von Aichelburg</rs>: <rs type="work" ref="#pmb32304">Skizzen aus dem Süden</rs>. Lübeck: <rs type="org">Verlag der
+                     Novellen-Bibliothek</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">[1897]</date> (Bibliothek kleiner Novellen und Erzählungen)</bibl>.</p>
+               </note>« vom Grafen <rs type="person" ref="#pmb13267">Aichelburg</rs>,<pb/> (20! Seiten), den ich Dir morgen sende zugleich mit einem kleinen höchst amüsanten Büchl »<anchor type="commentary" xml:id="KL585-4"/>
+               <rs type="work" ref="#pmb32302">Hinter dem Leben</rs>
+               <note type="commentary" xml:id="KL585-4h">
+                  <p>
+                     <anchor type="label" xml:id="LKommKL585-4"/>
+                     <bibl >[<rs type="person" ref="#pmb12769">Adalbert Seligmann</rs>:] <rs type="work" ref="#pmb32302">Hinter dem Leben. Eine Wochenschrift für Wenige</rs>. Als
+                  Manuscript gedruckt. Wien: <rs type="org">Emil M. Engel</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1897</date>
+                     </bibl>.</p>
+               </note>« von Maler <rs type="person" ref="#pmb12769">Seligmann</rs>, wo köstliche Parodien auf <rs type="person" ref="#pmb2147">Altenberg</rs>, <anchor type="commentary" xml:id="KL585-1"/>
+               <rs type="person" ref="#pmb11036">Burckhard</rs> (dessen Charakter zugleich in einer mir nicht sympathischen Weise verunglimpft wird)<note type="commentary" xml:id="KL585-1h">
+                  <p>Vgl. die beschriebene Visitenkarte <rs type="person" ref="#pmb2121">Schnitzler</rs>s
+               an <rs type="person" ref="#pmb12769">Seligmann</rs> vom selben Tag:
+                  »<quote>Herzlichsten Dank! Wirklich köstlich. Eine Bemerkung gestatten Sie mir. So
+                  wunderbar <rs type="person" ref="#pmb11036">Burckhardsche</rs> Stil getroffen; die
+                  Satire auf sein <hi rend="underline" n="1">Wesen</hi> geht manchmal sehr daneben.
+                  Sie haben eine Seite von ihm als das ganze genommen und ihm dadurch, scheint mir,
+                  in gerechtem Sinn Unrecht gethan.<pb/> Ich sage Ihnen das, weil ich das <rs type="work" subtype="implied" ref="#pmb32302">Buch</rs> sonst so wunderbar
+                  finde.</quote>« (<bibl >
+                        <rs type="org">Wienbibliothek</rs>, H.I.N. 96445</bibl>)</p>
+               </note>, <rs type="person" ref="#pmb10765">Andrian</rs>, <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb11740">Hugo</rs> stehn.– Richtig, gestern Abend war ich neben <rs type="person" ref="#pmb2167">Salten</rs> in der <rs type="place" ref="#pmb2">Conservatorium</rs>svorstellg,<pb/> resp. beim letzten Fünftel, was auch zu viel war.–</p>
             <p>Heut Abend fahr ich noch ins <rs type="place" ref="#pmb679">Frz-Josefs Spital</rs> wo ich seit meiner Ankunft noch nicht war.–</p>
             <p>Auf dem <rs type="place" ref="#pmb674">
                   <hi rend="latintype">Butte Rigi</hi>

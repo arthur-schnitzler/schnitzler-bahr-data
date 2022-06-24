@@ -13,11 +13,11 @@
             <title type="iso-date">1897-03-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,9 +102,16 @@
                </dateline>
                <salute rend="center">Lieber Fischer!</salute>
             </opener>
-            <p>Ich habe heute <anchor type="commentary" xml:id="KL207-1">
-                  <rs type="work" subtype="implied" ref="#pmb31999">verschickt</rs>
-               </anchor>:</p>
+            <p>Ich habe heute <anchor type="commentary" xml:id="KL207-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31999">verschickt</rs>
+               <note type="commentary" xml:id="KL207-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31999">Theater</rs>. <rs type="place" ref="#pmb168">Berlin</rs>: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1897</date>
+                     </bibl>.</p>
+               </note>:</p>
             <p>
                <table cols="2" rend="group">
                   <row>
@@ -382,12 +389,33 @@
             </p>
             <p>Nun brauche ich noch:</p>
             <p>1) <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> 2) <rs type="person" ref="#pmb11740">Hugo v. Hofmannsthal</rs> 3) <rs type="person" ref="#pmb10765">Leopold Andrian</rs> 4) <rs type="person" ref="#pmb2157">Leo Ebermann</rs> 5) <rs type="person" ref="#pmb28606">Ludwig Sc<unclear>v</unclear>epanski</rs> (für die <rs type="place" ref="#pmb313">polnische</rs> Presse) 6) u 7) <rs type="person" ref="#pmb2124">Machar</rs> und <rs type="person" ref="#pmb4300">Krejci</rs> (für die <rs type="place" ref="#pmb628">böhmische</rs> Presse) 8) <rs type="person" ref="#pmb10928">Otto Julius Bierbaum</rs> 9) <rs type="person" ref="#pmb12858">Otto Stößl</rs> 10) <rs type="person" ref="#pmb2885">Max Messer</rs> 11) <rs type="person" ref="#pmb28529">Franz Weislein</rs>
-               <pb/> 12) <rs type="org" ref="#pmb29682">Linzer Tagespost</rs> 13) <rs type="org" ref="#pmb29686">Salzburger Volksblatt</rs> 14) <rs type="org" ref="#pmb29725">Freie Schlesische Presse</rs> 15) <rs type="person" ref="#pmb2618">Hugo Ganz</rs> (<rs type="org" ref="#pmb29732">Neues Pester Journal</rs>) 16) <rs type="org" ref="#pmb29728">Brünner Tagesbote</rs> 17) <rs type="org" ref="#pmb29730">Brünner Sonntagszeitung</rs> 18) <rs type="org" ref="#pmb29306">Pester Lloyd</rs> 19) Prof. <rs type="person" ref="#pmb12258">Minor</rs>. Ferner will ich an jedem Theater einem Schauspieler ein Exemplar geben, damit der »Tratsch« los geht. Schicken Sie mir also <hi rend="underline" n="2">sofort</hi> noch 30 Exemplare und fügen Sie in dem Paket auch einige Exemplare von <anchor type="commentary" xml:id="KL207-3">
-                  <rs type="work" ref="#pmb31987">Caph</rs>
-               </anchor> u. <anchor type="commentary" xml:id="KL207-4">
-                  <rs type="work" ref="#pmb31989">Dora</rs>
-               </anchor> bei, die auch<pb/> alle Augenblicke von Journalisten verlangt werden. Ich hoffe, diesmal machen wir ein Geschäft.</p>
-            <p>Und beantworten Sie meine <anchor type="commentary" xml:id="KL207-2">Frage wegen der »<rs type="work" ref="#pmb31991">guten Schule</rs>.«</anchor>
+               <pb/> 12) <rs type="org" ref="#pmb29682">Linzer Tagespost</rs> 13) <rs type="org" ref="#pmb29686">Salzburger Volksblatt</rs> 14) <rs type="org" ref="#pmb29725">Freie Schlesische Presse</rs> 15) <rs type="person" ref="#pmb2618">Hugo Ganz</rs> (<rs type="org" ref="#pmb29732">Neues Pester Journal</rs>) 16) <rs type="org" ref="#pmb29728">Brünner Tagesbote</rs> 17) <rs type="org" ref="#pmb29730">Brünner Sonntagszeitung</rs> 18) <rs type="org" ref="#pmb29306">Pester Lloyd</rs> 19) Prof. <rs type="person" ref="#pmb12258">Minor</rs>. Ferner will ich an jedem Theater einem Schauspieler ein Exemplar geben, damit der »Tratsch« los geht. Schicken Sie mir also <hi rend="underline" n="2">sofort</hi> noch 30 Exemplare und fügen Sie in dem Paket auch einige Exemplare von <anchor type="commentary" xml:id="KL207-3"/>
+               <rs type="work" ref="#pmb31987">Caph</rs>
+               <note type="commentary" xml:id="KL207-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31987">Caph. Novellen</rs>. (Mit einer Zeichnung von <rs type="person" ref="#pmb14756">Ferry Bératon</rs>). Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1894</date>
+                     </bibl>.</p>
+               </note> u. <anchor type="commentary" xml:id="KL207-4"/>
+               <rs type="work" ref="#pmb31989">Dora</rs>
+               <note type="commentary" xml:id="KL207-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31989">Dora</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1893</date>
+                     </bibl>.</p>
+               </note> bei, die auch<pb/> alle Augenblicke von Journalisten verlangt werden. Ich hoffe, diesmal machen wir ein Geschäft.</p>
+            <p>Und beantworten Sie meine <anchor type="commentary" xml:id="KL207-2"/>Frage wegen der »<rs type="work" ref="#pmb31991">guten Schule</rs>.«<note type="commentary" xml:id="KL207-2h">
+                  <p>Im Brief vom <date instant="false">5. 3.</date> (<bibl >
+                        <rs type="org">Lilly Library</rs>
+                     </bibl>) wollte er wissen, warum <rs type="work" ref="#pmb31991">Die gute Schule</rs>
+               in der Werkliste keine Erwähnung finde. Sollte es vergriffen sein und keine
+               Neuauflage angedacht, würde er sie einem anderen Verleger geben wollen. Eine 2.
+               Auflage erschien noch im selben Jahr.</p>
+               </note>
             </p>
             <closer>Herzlichst<lb/>Ihr<lb/>
                <signed>Hermann Bahr</signed>

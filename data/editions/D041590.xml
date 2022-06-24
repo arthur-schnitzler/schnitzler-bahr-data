@@ -13,11 +13,11 @@
             <title type="iso-date">1921-10-27</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,10 +79,15 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1921-10-27" n="01">27.</date> K. – Mit <rs type="person" ref="#pmb2173">Olga Schnitzler</rs> über <geogName type="mountain">Mönchsberg</geogName>. – <rs type="person" ref="#pmb28124">Anna Buz</rs> nach <rs type="place" ref="#pmb868">Augsburg</rs>. – An <rs type="person" ref="#pmb10818">Anna</rs>. <anchor type="commentary" xml:id="KD590-1">
-                  <rs type="work" subtype="implied" ref="#pmb30871">
-                     <rs type="org" subtype="implied" ref="#pmb29320">Journal</rs>tgb</rs>
-               </anchor>.</p>
+               <date when="1921-10-27" n="01">27.</date> K. – Mit <rs type="person" ref="#pmb2173">Olga Schnitzler</rs> über <geogName type="mountain">Mönchsberg</geogName>. – <rs type="person" ref="#pmb28124">Anna Buz</rs> nach <rs type="place" ref="#pmb868">Augsburg</rs>. – An <rs type="person" ref="#pmb10818">Anna</rs>. <anchor type="commentary" xml:id="KD590-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30871">
+                  <rs type="org" subtype="implied" ref="#pmb29320">Journal</rs>tgb</rs>
+               <note type="commentary" xml:id="KD590-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30871">Tagebuch. 24. Oktober</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 20, Nr. 10064, <date instant="false">12. 11. 1921</date>,
+                  S. 6</bibl>.</p>
+               </note>.</p>
          </div>
       </body>
    </text>

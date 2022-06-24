@@ -13,11 +13,11 @@
             <title type="iso-date">1919-09-07</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -120,7 +120,9 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb10863 #pmb10860">Beer-Hofmanns</rs> mit <rs type="person" ref="#pmb12518">Rheinhardt</rs> hier getroffen, sie waren auf einen Tag hier, wie schade, dass ich ihnen nicht begegnet bin, <rs type="person" ref="#pmb11636">Else Heims</rs> sah ich gestern in der Bahn beim Heimfahren, sie war schön in einem Dirndl-Costüm mit ihren 2 schönen <rs type="person" subtype="implied" ref="#pmb5082 #pmb28964">Buben</rs>, der <rs type="person" subtype="implied" ref="#pmb28964">kleine</rs> sehr müde, und sie sehr zärtlich mit ihm. <rs type="person" ref="#pmb12942">Lene Thimig</rs> war mit <rs type="person" ref="#pmb12504">R.</rs> bis vor kurzem hier, erzält man mir, und fuhr weg, als <rs type="person" ref="#pmb11636">Heims</rs> kam. <rs type="person" ref="#pmb12504">R.</rs> hab ich noch nicht gesehen.</p>
             <p>Von <rs type="person" ref="#pmb16123">Lili Feiks</rs> ein Telegramm, sie kommt heut auf der Durchreise in’s <rs type="place" ref="#pmb40384">Bristol</rs>, vom <rs type="person" ref="#pmb25405">Bácsi</rs> ein Brief, ich solle doch in die <rs type="place" ref="#pmb800">Aschau</rs> kommen,– und ob ich keinen »erstklassigen« Correpetitor für seine <rs type="place" ref="#pmb151">deutsche</rs> Concert-Tournée wüsste, – das geht auf <rs type="person" ref="#pmb3112">Grosz</rs>, dem ich zurede, mit <rs type="person" ref="#pmb25405">Steiner</rs> zu fahren, falls er ihn gut bezalt. <rs type="person" ref="#pmb12402">Paumgartner</rs> sagt monatlich 3000 Mark und die Reise,– sond sei componieren gescheiter.</p>
-            <p>Ja, jetzt hab ich Dir aber <hi rend="underline" n="1">alles</hi> erzält. Mir machen die Menschen hier Freude, sie sind so viel unbeschwerter und unverbrauchter und absolut viel lebenslustiger als wir in der grossen öden Stadt, wo man vom blossen Sorgen um das Alltägliche so aufgerieben wird. Sie sagen auch alle, dass sie hier um so viel gesammelter arbeiten können. Die <rs type="person" ref="#pmb10818">Mildenburg</rs> sah ich gestern von der <anchor type="commentary" xml:id="KL662-1">Bahn kommen</anchor>, sie und der<pb/>
+            <p>Ja, jetzt hab ich Dir aber <hi rend="underline" n="1">alles</hi> erzält. Mir machen die Menschen hier Freude, sie sind so viel unbeschwerter und unverbrauchter und absolut viel lebenslustiger als wir in der grossen öden Stadt, wo man vom blossen Sorgen um das Alltägliche so aufgerieben wird. Sie sagen auch alle, dass sie hier um so viel gesammelter arbeiten können. Die <rs type="person" ref="#pmb10818">Mildenburg</rs> sah ich gestern von der <anchor type="commentary" xml:id="KL662-1"/>Bahn kommen<note type="commentary" xml:id="KL662-1h">
+                  <p>Aus <rs type="place" ref="#pmb45258">München</rs>.</p>
+               </note>, sie und der<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb10815">Bahr</rs>, von dem mir <rs type="person" ref="#pmb11602">Harta</rs> gestern sprach, fehlen mir noch in diesem Bild.</p>
             <p>Mein Liebes, wenn ich bei Stimme bin, gehts mir gut, die alte Geschichte, <rs type="person" ref="#pmb11602">Harta</rs> will das Porträt »<rs type="work" ref="#pmb31423">Bildnis einer Sängerin</rs>« nennen.</p>

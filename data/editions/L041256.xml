@@ -13,11 +13,11 @@
             <title type="iso-date">1903-03-29</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,27 +107,57 @@
             <opener>
                <salute rend="center">Lieber Arthur,</salute>
             </opener>
-            <p>sehr gern und mit großer Freude schreibe ich über den »<rs type="work" ref="#pmb29855">Reigen</rs>« und natürlich so bald als nur irgend möglich. Wann, das weiß ich freilich nicht und bitte Dich, damit nicht irgend eine Verstimmung herauswächst, folgendes zu bedenken. Ich muß diese Woche sechs Mal ins Theater gehen und soll drei Feuilletons schreiben, »<anchor type="commentary" xml:id="KL256-3">
-                  <rs type="work" ref="#pmb30107">Die <rs type="person" ref="#pmb11201">Duse</rs>
-                  </rs>
-               </anchor>«, »<anchor type="commentary" xml:id="KL256-4">
-                  <rs type="work" ref="#pmb30109">
-                     <rs type="work" ref="#pmb30591">l’altro pericolo</rs>
-                  </rs>
-               </anchor>«, »<anchor type="commentary" xml:id="KL256-5">
-                  <rs type="work" subtype="implied" ref="#pmb30111">
-                     <rs type="work" ref="#pmb30593">Braut von Messina</rs>
-                  </rs>
-               </anchor>«, u. eigentlich auch noch eins über die »<anchor type="commentary" xml:id="KL256-6">
-                  <rs type="work" subtype="implied" ref="#pmb30113">Secession</rs>
-               </anchor>«. Du hast aber keine Ahnung, wie mich der Theaterbesuch jetzt aufregt u. wie unsinnig mich die geringste Arbeit<pb/> anstrengt. Gestern habe ich außerdem wieder einen Anfall jener Herzbeklemmungen bekommen, diesmal auch noch mit solchem Schwindel verbunden, daß ich den Nachmittag nur auf dem Sopha ausgestreckt, die Augen fest geschlossen, beide Hände auf die Schläfen gedrückt zubringen konnte, immer mit dem Gefühl, es ist ja doch alles aus und ich werde niemals mehr gesund. Unter diesen Bedingungen arbeite ich jetzt und darf daher eigentlich gar nichts versprechen, weil ich mich bei jedem Feuilleton wundere, wenn es schließlich doch fertig geworden ist.</p>
+            <p>sehr gern und mit großer Freude schreibe ich über den »<rs type="work" ref="#pmb29855">Reigen</rs>« und natürlich so bald als nur irgend möglich. Wann, das weiß ich freilich nicht und bitte Dich, damit nicht irgend eine Verstimmung herauswächst, folgendes zu bedenken. Ich muß diese Woche sechs Mal ins Theater gehen und soll drei Feuilletons schreiben, »<anchor type="commentary" xml:id="KL256-3"/>
+               <rs type="work" ref="#pmb30107">Die <rs type="person" ref="#pmb11201">Duse</rs>
+               </rs>
+               <note type="commentary" xml:id="KL256-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30107">Die Duse. (Als Gast im Carl-Theater vom <date instant="false">31. März</date>
+                     bis <date instant="false">8. April 1903</date>)</rs>. In: <rs type="org" ref="#pmb29414">Neues
+                     Wiener Tagblatt</rs>, Jg. 37, Nr. 89, <date instant="false">31. 3. 1903</date>,
+               S. 1–2</bibl>.</p>
+               </note>«, »<anchor type="commentary" xml:id="KL256-4"/>
+               <rs type="work" ref="#pmb30109">
+                  <rs type="work" ref="#pmb30591">l’altro pericolo</rs>
+               </rs>
+               <note type="commentary" xml:id="KL256-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30109">L’autre danger. (Komödie in vier Akten von Maurice Donnay. Zur
+                     morgigen Aufführung im Carl-Theater durch die Truppe der Duse)</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 94, <date instant="false">4.
+                     4. 1903</date>, S. 1–3</bibl>.</p>
+               </note>«, »<anchor type="commentary" xml:id="KL256-5"/>
+               <rs type="work" subtype="implied" ref="#pmb30111">
+                  <rs type="work" ref="#pmb30593">Braut von Messina</rs>
+               </rs>
+               <note type="commentary" xml:id="KL256-5h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30111">Theater und Kunst. Burgtheater [Die Braut von Messina]</rs>.
+                  In: <rs type="org" ref="#pmb29421">Österreichische Volks-Zeitung</rs>, Jg. 49,
+                  Nr. 96, <date instant="false">7. 4. 1903</date>, S. 4</bibl>.</p>
+               </note>«, u. eigentlich auch noch eins über die »<anchor type="commentary" xml:id="KL256-6"/>
+               <rs type="work" subtype="implied" ref="#pmb30113">Secession</rs>
+               <note type="commentary" xml:id="KL256-6h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30113">Sezession. (Siebzehnte Ausstellung der Vereinigung bildender
+                     Künstler Österreichs)</rs>. In: <rs type="org" ref="#pmb29421">Österreichische
+                     Volks-Zeitung</rs>, Jg. 49, Nr. 96, <date instant="false">7. 4. 1903</date>, S. 1</bibl>.</p>
+               </note>«. Du hast aber keine Ahnung, wie mich der Theaterbesuch jetzt aufregt u. wie unsinnig mich die geringste Arbeit<pb/> anstrengt. Gestern habe ich außerdem wieder einen Anfall jener Herzbeklemmungen bekommen, diesmal auch noch mit solchem Schwindel verbunden, daß ich den Nachmittag nur auf dem Sopha ausgestreckt, die Augen fest geschlossen, beide Hände auf die Schläfen gedrückt zubringen konnte, immer mit dem Gefühl, es ist ja doch alles aus und ich werde niemals mehr gesund. Unter diesen Bedingungen arbeite ich jetzt und darf daher eigentlich gar nichts versprechen, weil ich mich bei jedem Feuilleton wundere, wenn es schließlich doch fertig geworden ist.</p>
             <p>Ferner mußt Du auch wissen, daß die Redacteure des<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="org" ref="#pmb29414">Neuen Wiener Tagblatt</rs> (<rs type="person" ref="#pmb2202">Wilhelm Singer</rs> und den braven Herrn <rs type="person" ref="#pmb2947">Epstein</rs> ausgenommen) einen Bund bilden, dessen einzige Sorge es zu sein scheint, auszusinnen, was etwa geeignet wäre, mich zu ärgern, und dies mit der Behendigkeit von Affen sogleich ins Blatt zu setzen. Daß gegen Dich noch nicht eine ungeheuerliche Gemeinheit verübt worden ist, wundert mich schon lange. Geht sie vielleicht gelegentlich des »<rs type="work" ref="#pmb29855">Reigens</rs>« los, so vergiß nicht, daß sie, zwar an Dir executiert, aber Dir gar nicht zugedacht ist.</p>
             <p>Bitte, schicke mir gleich ein Exemplar des »<rs type="work" ref="#pmb29855">Reigens</rs>«. Meines ist nemlich confisciert<pb/> worden, von der Censur. Das heißt: Der Herr Hofrath <rs type="person" ref="#pmb2196">Jettel</rs> hat es sich bei mir ausleihen lassen und ich habe es niemals mehr zurückbekommen.</p>
             <p>Das Incohärente dieses Briefes mußt Du meinem Zustand vergeben. Wie ich nur Zeit habe, fahre ich zunächst zu <rs type="person" ref="#pmb12698">Julius</rs>, der einmal doch mein Herz ordentlich untersuchen muß.</p>
             <p>
-               <anchor type="commentary" xml:id="KL256-1">Freitag</anchor> war mir riesig leid, ich war bei der Steuerbehörde, die mich auch noch <anchor type="commentary" xml:id="KL256-2">sekiert</anchor>.</p>
+               <anchor type="commentary" xml:id="KL256-1"/>Freitag<note type="commentary" xml:id="KL256-1h">
+                  <p>Das heißt der verpasste Besuch vom <date instant="false">27. 3.</date>
+                  </p>
+               </note> war mir riesig leid, ich war bei der Steuerbehörde, die mich auch noch <anchor type="commentary" xml:id="KL256-2"/>sekiert<note type="commentary" xml:id="KL256-2h">
+                  <p>(öst.) sekkieren: ärgern, belästigen.</p>
+               </note>.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

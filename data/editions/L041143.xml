@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-12</title>
             <author ref="pmb12698">Schnitzler, Julius</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -130,9 +130,13 @@
                </damage> die Abtheilungsvorstände dirigirende Aerzte <damage agent="hole">
                   <supplied>resp</supplied>
                </damage>. Directoren. Sie werden entweder mit »Herr D<hi rend="superscript">r</hi>« oder mit dem fast jedem von ihnen verliehenen Titel »Medizinalrath« »Geh. M. R.« ev. »Professor« angesprochen.</p>
-            <p>Ich hoffe, Sie sehr wohl und ohne alle Reminiscenzen an die Zeiten vor, während und unmittelbar nach Ihrem Aufenthalt bei »<anchor type="commentary" xml:id="KL143-1">
-                  <rs type="place" ref="#pmb89">Löw</rs>
-               </anchor>«.</p>
+            <p>Ich hoffe, Sie sehr wohl und ohne alle Reminiscenzen an die Zeiten vor, während und unmittelbar nach Ihrem Aufenthalt bei »<anchor type="commentary" xml:id="KL143-1"/>
+               <rs type="place" ref="#pmb89">Löw</rs>
+               <note type="commentary" xml:id="KL143-1h">
+                  <p>Name des Sanatoriums, in dem er am <date instant="false">26. 1. 1903</date>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> den Blinddarm entfernt hatte, <ptr target="D041204"/>.</p>
+               </note>«.</p>
             <closer>Mit den besten Grüßen Ihr ergebner<lb/>
                <signed>JSchnitzler</signed>
             </closer>

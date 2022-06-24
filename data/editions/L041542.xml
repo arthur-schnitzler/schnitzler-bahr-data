@@ -13,11 +13,11 @@
             <title type="iso-date">1904-07-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,7 +117,10 @@
                </hi> ein oft gespieltes, höchst beliebtes Repertoirestück in <rs type="place" ref="#pmb34438">Rußland</rs> geworden ist, eine berühmte russische <rs type="person" subtype="implied" ref="#pmb27708">Schauspielerin</rs> mit unaussprechlichem Namen immerfort darin gastiert (und daß ich natürlich keinen Heller bekomme, während der <rs type="person" subtype="implied" ref="#pmb2980">Übersetzer</rs> bereits mehrere tausend Rubel eingesteckt hat.)</p>
             <p>Meine ferneren Aussichten und Pläne für den Sommer: hierbleiben, mit gelegentlichen kurzen gebirgigen Unterbrechungen. Im September vielleicht 10–14 Tage <rs type="place" ref="#pmb30">Salzburg</rs>, <rs type="place" ref="#pmb213">Ischl</rs> usw. – Arbeiten. Ich bin schändlich faul. Vom <rs type="work" ref="#pmb29983">
                   <hi rend="italic">Meister</hi>
-               </rs> hab ich, vielen Dank für die schöne <anchor type="commentary" xml:id="KL542-1">Loge</anchor>, samt <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> viel Freude gehabt. <rs type="person" ref="#pmb12530">Rittner</rs> einzig. Minder einzig das Übrige. Seien Sie herzlich gegrüßt, lassen Sie bald was von sich und Ihren Plänen im engeren und weiteren vernehmen.</p>
+               </rs> hab ich, vielen Dank für die schöne <anchor type="commentary" xml:id="KL542-1"/>Loge<note type="commentary" xml:id="KL542-1h">
+                  <p>
+                     <ptr target="D041228"/>.</p>
+               </note>, samt <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> viel Freude gehabt. <rs type="person" ref="#pmb12530">Rittner</rs> einzig. Minder einzig das Übrige. Seien Sie herzlich gegrüßt, lassen Sie bald was von sich und Ihren Plänen im engeren und weiteren vernehmen.</p>
             <closer>Ihr <signed>A. S.</signed>
             </closer>
          </div>

@@ -13,11 +13,11 @@
             <title type="iso-date">1893-03-01</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,7 +117,7 @@
             <opener>
                <dateline rend="right">
                   <date>
-                     <anchor type="textConst" xml:id="TL420-1">1. II.</anchor>
+                     <anchor type="textConst" xml:id="TL420-1"/>1. II.<note type="textConst" xml:id="TL420-1h"/>
                   </date>
                </dateline>
                <salute>lieber Arthur.</salute>

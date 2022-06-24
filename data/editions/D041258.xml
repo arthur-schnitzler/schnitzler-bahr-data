@@ -13,11 +13,11 @@
             <title type="iso-date">1905-09-18</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,8 +81,11 @@
             <p>
                <rs type="person" ref="#pmb2549">Mirj. Horwitz</rs> zu Mittag.– Nm. Feile am <rs type="work" subtype="implied" ref="#pmb29905">dritten Akt</rs>.–</p>
             <p>
-               <rs type="person" ref="#pmb10815">Bahr</rs> schreibt mir über mein <rs type="work" subtype="implied" ref="#pmb29905">Stück</rs>, ist wie es scheint mit dem <rs type="work" subtype="implied" ref="#pmb29905">2. Akt</rs> am wenigsten zufrieden.– <anchor type="commentary" xml:id="KD258-1">
-                  <rs type="person" ref="#pmb10986">Brahm</rs> Contract <rs type="work" ref="#pmb29903">Zwischenspiel</rs>;– er schreibt</anchor> mir, <rs type="person" ref="#pmb12504">Reinhardt</rs> rühmt sich mein <rs type="work" subtype="implied" ref="#pmb29903">Stück</rs> rückgewiesen zu haben.</p>
+               <rs type="person" ref="#pmb10815">Bahr</rs> schreibt mir über mein <rs type="work" subtype="implied" ref="#pmb29905">Stück</rs>, ist wie es scheint mit dem <rs type="work" subtype="implied" ref="#pmb29905">2. Akt</rs> am wenigsten zufrieden.– <anchor type="commentary" xml:id="KD258-1"/>
+               <rs type="person" ref="#pmb10986">Brahm</rs> Contract <rs type="work" ref="#pmb29903">Zwischenspiel</rs>;– er schreibt<note type="commentary" xml:id="KD258-1h">
+                  <p>Zwei Briefe, beide vom <date instant="false">17. 9. 1905</date>, <bibl >
+                        <rs type="work">Bw</rs> Schnitzler/Brahm 200</bibl>.</p>
+               </note> mir, <rs type="person" ref="#pmb12504">Reinhardt</rs> rühmt sich mein <rs type="work" subtype="implied" ref="#pmb29903">Stück</rs> rückgewiesen zu haben.</p>
             <p>Ich kläre ihm die Sache auf und gestatte ihm den Brief zu benützen.– Es thut mir nun leid, mit den Leuten mich eingelassen zu haben.–</p>
          </div>
       </body>

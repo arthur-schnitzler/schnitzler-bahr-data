@@ -13,11 +13,11 @@
             <title type="iso-date">1897-07-22</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,12 +117,26 @@
          <div type="writingSession" n="1">
             <opener>
                <dateline rend="right">
-                  <anchor type="textConst" xml:id="TL216-1">
-                     <date>22./7. 97</date>. ½ 12 Nachts im Café.</anchor>
+                  <anchor type="textConst" xml:id="TL216-1"/>
+                  <date>22./7. 97</date>. ½ 12 Nachts im Café.<note type="textConst" xml:id="TL216-1h">
+                     <p>Am linken Textrand.</p>
+                  </note>
                </dateline>
             </opener>
             <p>
-               <salute>Lieber Freund, </salute> ich lese soeben im <rs type="org" ref="#pmb29670">6-Uhr-Blatt</rs> die <anchor type="commentary" xml:id="KL216-1">Notiz</anchor> von <rs type="work" ref="#pmb30474">Agnes Jordan</rs>. Ich brauche Ihnen wol nicht erst zu sagen, dass ich derselben vollständig ferne stehe. Ich weiß absolut nicht durch wen man das erfahren hat. Morgen reise ich nach <rs type="place" ref="#pmb30">Salzburg</rs>, für ein paar Tage – Vielleicht kommen Sie hin, ehe Sie nach <rs type="place" ref="#pmb50">Wien</rs> fahren. Wir reisen dann zusammmen nach <rs type="place" ref="#pmb50">Wien</rs> zurück. Nachricht trifft mich in <rs type="place" ref="#pmb30">Salzburg</rs> poste restante. Herzlich <signed>Salten</signed>
+               <salute>Lieber Freund, </salute> ich lese soeben im <rs type="org" ref="#pmb29670">6-Uhr-Blatt</rs> die <anchor type="commentary" xml:id="KL216-1"/>Notiz<note type="commentary" xml:id="KL216-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb31913">Theater, Kunst und Literatur</rs>, <date instant="false">22. 7.
+                     1897</date>
+                     </bibl>: »<quote>– Wie wir <supplied instant="false">a</supplied>us verläßlicher Quelle erfahren, ist
+                  die Direction des <rs type="place" ref="#pmb14">
+                           <hi rend="spaced_out">Hofburgtheaters</hi>
+                        </rs> von der Absicht, <rs type="person" ref="#pmb11701">Georg <hi rend="spaced_out">Hirschfeld</hi>
+                        </rs>’s neues Drama ›<rs type="work" ref="#pmb30474">
+                           <hi rend="spaced_out">Agnes Jordan</hi>
+                        </rs>‹ nächste Saison zur Aufführung zu bringen, abgekommen.</quote>«</p>
+               </note> von <rs type="work" ref="#pmb30474">Agnes Jordan</rs>. Ich brauche Ihnen wol nicht erst zu sagen, dass ich derselben vollständig ferne stehe. Ich weiß absolut nicht durch wen man das erfahren hat. Morgen reise ich nach <rs type="place" ref="#pmb30">Salzburg</rs>, für ein paar Tage – Vielleicht kommen Sie hin, ehe Sie nach <rs type="place" ref="#pmb50">Wien</rs> fahren. Wir reisen dann zusammmen nach <rs type="place" ref="#pmb50">Wien</rs> zurück. Nachricht trifft mich in <rs type="place" ref="#pmb30">Salzburg</rs> poste restante. Herzlich <signed>Salten</signed>
             </p>
          </div>
       </body>

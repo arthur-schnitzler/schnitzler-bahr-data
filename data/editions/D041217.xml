@@ -13,11 +13,11 @@
             <title type="iso-date">1903-04-08</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,7 +78,9 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1903-04-08" n="1">8/4</date> Früh nach Haus.– <rs type="person" ref="#pmb11740">Hugo</rs> bei mir.–</p>
-            <p>Mit <rs type="person" ref="#pmb10815">Bahr</rs>, der mich zur <anchor type="commentary" xml:id="KD217-1">Bahn geleitet</anchor>.–</p>
+            <p>Mit <rs type="person" ref="#pmb10815">Bahr</rs>, der mich zur <anchor type="commentary" xml:id="KD217-1"/>Bahn geleitet<note type="commentary" xml:id="KD217-1h">
+                  <p>Er fuhr für drei Tage nach <rs type="place" ref="#pmb519">Oberösterreich</rs>.</p>
+               </note>.–</p>
             <p>Reise nach <rs type="place" ref="#pmb332">Linz</rs>. Ankunft, Regen, <rs type="place" ref="#pmb130">Hotel Erzherzog Karl</rs>, der <rs type="person" ref="#pmb27907">Wirth</rs>, Gespräch.–</p>
          </div>
       </body>

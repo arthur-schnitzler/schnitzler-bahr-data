@@ -13,11 +13,11 @@
             <title type="iso-date">1896-11-28</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -129,9 +129,18 @@
                      </damage>8. 11. 96</date>.</dateline>
                <salute>Lieber Hermann,</salute>
             </opener>
-            <p>als ich neulich bei dir war, hab ich vergessen, Dir von <rs type="person" ref="#pmb12491">Reicher</rs> etwas auszurichten, um was er mich in <rs type="place" ref="#pmb168">Berlin</rs> gebeten hat. Er hat nemlich die<pb/> Absicht, im Frühjahr mit einem Schauspielensemble herzukommen und einige hier noch nicht gespielte Stücke aufzuführen, von denen er noch nicht weiss, ob, resp. unter welchen Bedingungen die<pb/> Censur sie freigeben wird. Er scheint auf deinen Rath, vielleicht auch auf deinen Beistand zu rechnen. Es handelt sich vor allem um die <anchor type="commentary" xml:id="KL007-2">
-                  <rs type="work" ref="#pmb29825">Jugend</rs>, ich glaube auch um die <rs type="work" ref="#pmb29827">Weber</rs>
-               </anchor>. Näheres hat<pb/> er mir selbst noch nicht gesagt; ich nehme an er <anchor type="commentary" xml:id="KL007-1">wird dir schreiben</anchor>, und diese Zeilen bereiten dich nur darauf vor.</p>
+            <p>als ich neulich bei dir war, hab ich vergessen, Dir von <rs type="person" ref="#pmb12491">Reicher</rs> etwas auszurichten, um was er mich in <rs type="place" ref="#pmb168">Berlin</rs> gebeten hat. Er hat nemlich die<pb/> Absicht, im Frühjahr mit einem Schauspielensemble herzukommen und einige hier noch nicht gespielte Stücke aufzuführen, von denen er noch nicht weiss, ob, resp. unter welchen Bedingungen die<pb/> Censur sie freigeben wird. Er scheint auf deinen Rath, vielleicht auch auf deinen Beistand zu rechnen. Es handelt sich vor allem um die <anchor type="commentary" xml:id="KL007-2"/>
+               <rs type="work" ref="#pmb29825">Jugend</rs>, ich glaube auch um die <rs type="work" ref="#pmb29827">Weber</rs>
+               <note type="commentary" xml:id="KL007-2h">
+                  <p>
+                     <rs type="work" ref="#pmb29825">Jugend</rs> von <rs type="person" ref="#pmb11565">Max
+                  Halbe</rs> konnte erst <date instant="false">1901</date>, <rs type="work" ref="#pmb29827">Die
+                  Weber</rs> von <rs type="person" ref="#pmb11617">Gerhart Hauptmann</rs> erst
+                  <date instant="false">1904</date> in <rs type="place" ref="#pmb41240">Österreich</rs> aufgeführt
+               werden.</p>
+               </note>. Näheres hat<pb/> er mir selbst noch nicht gesagt; ich nehme an er <anchor type="commentary" xml:id="KL007-1"/>wird dir schreiben<note type="commentary" xml:id="KL007-1h">
+                  <p>Kein in Frage kommender Brief im Nachlass <rs type="person" ref="#pmb10815">Bahrs</rs>.</p>
+               </note>, und diese Zeilen bereiten dich nur darauf vor.</p>
             <closer>Herzlich grüßt dich dein <signed>Arthur Sch</signed>
             </closer>
          </div>

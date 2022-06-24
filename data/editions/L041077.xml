@@ -13,11 +13,11 @@
             <title type="iso-date">1905-01-23</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -131,8 +131,12 @@
                   </add>
                </dateline>
             </opener>
-            <p>leider, <salute>mein lieber Hermann, </salute>hab ich gar nichts rechtes lustiges, kurzes, ungedrucktes, zur Lectüre geeignetes – aber sehen möcht ich dich je eher je lieber. Hoffentlich nächste Woche. Und Sonntag hörst du dir wohl auch die <anchor type="commentary" xml:id="KL077-1">
-                  <rs type="person" ref="#pmb12163">Mahler</rs> Lieder</anchor> an? <rs type="person" subtype="implied" ref="#pmb2173">Wir</rs> grüßen dich beide.</p>
+            <p>leider, <salute>mein lieber Hermann, </salute>hab ich gar nichts rechtes lustiges, kurzes, ungedrucktes, zur Lectüre geeignetes – aber sehen möcht ich dich je eher je lieber. Hoffentlich nächste Woche. Und Sonntag hörst du dir wohl auch die <anchor type="commentary" xml:id="KL077-1"/>
+               <rs type="person" ref="#pmb12163">Mahler</rs> Lieder<note type="commentary" xml:id="KL077-1h">
+                  <p>
+                     <rs type="work" ref="#pmb32830">Des Knaben Wunderhorn</rs> am <date instant="false">29. 1.
+                  1905</date> im <rs type="place" ref="#pmb4">Bösendorfer-Saal</rs>.</p>
+               </note> an? <rs type="person" subtype="implied" ref="#pmb2173">Wir</rs> grüßen dich beide.</p>
             <closer>Herzlichst dein<lb/>
                <signed>Arthur</signed>
             </closer>

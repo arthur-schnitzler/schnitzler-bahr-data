@@ -13,11 +13,11 @@
             <title type="iso-date">1913-04-19</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,7 +78,23 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1913-04-19" n="1">19/4</date> Dictirt Briefe.</p>
-            <p>Hr. Red. <rs type="person" ref="#pmb3162">Jul. Stern</rs> vom <rs type="org" ref="#pmb48930">Fremdenblatt</rs>, versucht mich (auf einem Spaziergang) wegen <rs type="person" ref="#pmb10815">Bahr</rs> (der heuer 50 wird) zu <anchor type="commentary" xml:id="KD351-1">interviewen</anchor>.–</p>
+            <p>Hr. Red. <rs type="person" ref="#pmb3162">Jul. Stern</rs> vom <rs type="org" ref="#pmb48930">Fremdenblatt</rs>, versucht mich (auf einem Spaziergang) wegen <rs type="person" ref="#pmb10815">Bahr</rs> (der heuer 50 wird) zu <anchor type="commentary" xml:id="KD351-1"/>interviewen<note type="commentary" xml:id="KD351-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> wird im Text ohne Verfasserangabe
+                  <rs type="work" ref="#pmb30387">Aus der Theaterwelt. (<rs type="person" ref="#pmb10815">Hermann Bahr</rs> als Fünfziger. – Warum er auf das deutsche
+                  Volk böse ist. – <rs type="person" ref="#pmb10815">Bahr</rs> über sein Stück »<rs type="work" ref="#pmb29933">Das Konzert</rs>«. – Seine Tagebücher. – Ein <rs type="place" ref="#pmb165">Ober-St. Veiter</rs> Gespräch mit <rs type="person" ref="#pmb10883">Alfred v. Berger</rs>)</rs>, erschienen im <bibl >
+                        <rs type="org" ref="#pmb48930">Fremden-Blatt</rs> (Jg. 67, Nr. 107, <date instant="false">20. 4.
+                     1913</date>, S. 18–19)</bibl>, nicht genannt. Er lässt sich jedoch als
+               Stichwortgeber vermuten, besonders durch zwei inhaltliche Äußerungen: <rs type="person" ref="#pmb10815">Bahrs</rs> privates Tagebuch wird zum zentralen
+               Vermächtnis erklärt, so wie <rs type="person" ref="#pmb2121">Schnitzler</rs> seines
+               begriff; und die ansonsten nicht nachweisbare Anekdote, <rs type="person" ref="#pmb10815">Bahr</rs> hätte das <rs type="work" ref="#pmb29933">Konzert</rs>
+               öffentlich als »<quote>Schmarren</quote>« bezeichnet, benutzt dabei einen Ausdruck,
+               der sich in <rs type="person" ref="#pmb2121">Schnitzlers</rs>
+                     <space unit="chars" quantity="1"/>
+                     <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl> findet, <ptr target="LD050-1"/>.</p>
+               </note>.–</p>
             <p>Zu Tisch <rs type="person" ref="#pmb27955">Annie Strial</rs>.–</p>
             <p>Nm. fährt <rs type="person" ref="#pmb2173">Olga</rs> mit <rs type="person" ref="#pmb13653">Stephi</rs> nach <rs type="place" ref="#pmb662">Baden</rs> – (nach vorherigem Gespräch).–</p>
             <p>Telephoniren mit <rs type="person" ref="#pmb11646">Heller</rs>, wegen <rs type="place" ref="#pmb39615">Preßburg</rs>; Schwierigkeiten durch <rs type="person" ref="#pmb10833">Barnowskys</rs> Schlamperei (er liess einen Termin vorübergehn 8. April an dem er sich für den Beginn des Gastspiels im <rs type="place" ref="#pmb298">Joh. Strauß</rs> Theater hätte entscheiden müssen) und <rs type="person" ref="#pmb12326">Erich Müllers</rs> Erpressungsversuche.–</p>

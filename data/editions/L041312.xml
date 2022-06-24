@@ -13,11 +13,11 @@
             <title type="iso-date">1907-09-29</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,7 +105,10 @@
                   <date>29. 9. 07</date>.</dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich habe, seit ich <anchor type="commentary" xml:id="KL312-1">zurück</anchor> bin, jeden Tag zu Dir wollen, jeden Tag kam was anderes dazwischen und ich war so gehetzt, dass es leider wirklich nicht gieng. Nun wieder nach <rs type="place" ref="#pmb168">Berlin</rs> abreisend, kann ich Dir und Deiner lieben <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> nur noch die herzlichsten Grüsse und alle guten Wünsche für den Winter schicken. Ich möchte Dir noch sagen, dass <rs type="person" subtype="implied" ref="#pmb10818">uns</rs> im Sommer Dein neues Buch, »<rs type="work" ref="#pmb29921">Dämmerseelen</rs>«, ein sehr lieber Gefährte war, und möchte Dich bitten, Dir von <rs type="person" ref="#pmb2167">Salten</rs>
+            <p>Ich habe, seit ich <anchor type="commentary" xml:id="KL312-1"/>zurück<note type="commentary" xml:id="KL312-1h">
+                  <p>Ab dem <date instant="false">4. 9.</date> verbrachte er ein paar Tage am <rs type="place" ref="#pmb189">Semmering</rs>. Möglicherweise ist das auch auf den Sommerurlaub zu
+               beziehen, von dem er spätestens am <date instant="false">21. 8.</date> zurückgekehrt war.</p>
+               </note> bin, jeden Tag zu Dir wollen, jeden Tag kam was anderes dazwischen und ich war so gehetzt, dass es leider wirklich nicht gieng. Nun wieder nach <rs type="place" ref="#pmb168">Berlin</rs> abreisend, kann ich Dir und Deiner lieben <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> nur noch die herzlichsten Grüsse und alle guten Wünsche für den Winter schicken. Ich möchte Dir noch sagen, dass <rs type="person" subtype="implied" ref="#pmb10818">uns</rs> im Sommer Dein neues Buch, »<rs type="work" ref="#pmb29921">Dämmerseelen</rs>«, ein sehr lieber Gefährte war, und möchte Dich bitten, Dir von <rs type="person" ref="#pmb2167">Salten</rs>
                <del rend="strikethrough">,</del> mein neues <rs type="work" subtype="implied" ref="#pmb30021">Stück</rs>
                <pb/>
                <space unit="chars" quantity="1"/>geben zu lassen und es dann an <rs type="person" ref="#pmb10863">Richard</rs> weiter zu geben; ich habe leider jetzt kein anderes Exemplar frei und wünsche sehr, dass Du den Scherz kennen lernen mögest.</p>

@@ -13,11 +13,11 @@
             <title type="iso-date">1914-11-18</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,12 +102,19 @@
             <p>Daß sich der »<rs type="work" ref="#pmb29937">Medardus</rs>« auf dem Spielplan des <rs type="place" ref="#pmb18">Lessingtheaters</rs> nicht würde halten können, war uns ja nach dem Ausfall der Première ziemlich klar und so habe ich Ihre freundlichen Mitteilungen mit Fassung entgegengenommen. Täuschen wir uns übrigens nicht darüber, daß die allgemeine Stimmung, in die wir mit der Erstaufführung gerieten, für das Unternehmen alles eher als günstig war. Gestehen wir uns ferner ein, daß allerlei an meiner dramatischen Historie dem Publikum des<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb18">Lessingtheaters</rs> wahrscheinlich auch zu anderen Zeiten gegen den Geschmack gegangen wäre, womit weder gegen diesen Geschmack, noch gegen jene Historie etwas gesagt sein soll. Ob durch gewisse Modifikationen der Inszenierung, schonungsvollere Kürzungen, größere Anzahl von Proben bei gleichbleibender Vorzüglichkeit in vielem Einzelnen unsere Aussichten eine erhebliche Steigerung erfahren hätten, dies zu untersuchen wäre eine müßige Aufgabe. Was das Verhalten der Kritik anbelangt, so habe ich es ja Ihnen schon bei unseren ersten Unterredungen über dieses Thema und zuletzt noch in <rs type="place" ref="#pmb12589">Celerina</rs> mit einiger Sicherheit Voraussagen können. Was wir allerdings (wenigstens vor <rs type="place" ref="#pmb12589">Celerina</rs>) nicht vorhersehen konnten war der Weltkrieg und noch weniger, daß ein großer Teil der Kritik die günstige Gelegenheit ergreifen würde, ein dramatisches Werk, oder sagen wir ganz bescheiden, ein Theaterstück nicht nur in gewohnter Weise an jedem beliebigen Maß, das ihr eben zur Hand ist, sondern überdies auch noch am Weltkrieg zu messen. So kommt es, daß die Presse (von wenigen Ausnahmen abgesehen) meine Erwartungen immerhin noch übertroffen hat. Auf Ihre sonstigen Einwendungen und Einwändeleien war ich ja vorbereitet und weder das konsequent vorgebrachte, oberlehrerhaft verbohrte Dogma vom Heldentum, noch das etwas brüchige Verständnis für <rs type="place" ref="#pmb41240">Österreichertum</rs>, <rs type="place" ref="#pmb50">Wien</rs>ertum und – Menschentum im Allgemeinen haben mir eine neue oder überraschende Erfahrung bedeutet. Dies alles hätte natürlich nicht verhindern müssen, daß die Leute bei dem Stück sich unterhalten (so wie sie es in <rs type="place" ref="#pmb50">Wien</rs> getan haben) und wir können nur hoffen, daß alle jene Umstände, die diesmal einem Erfolg entgegenwirkten, bei einer späteren Gelegenheit ausgeschaltet erscheinen und der Narr seines Schicksals die wohlverdiente Auferstehung feiern wird. Bis dahin dürfte freilich sich manches noch beträchtlich Wichtigere ereignet haben. Nächstens bitte ich Sie mir die Abrechnung zu schicken, damit ich mich meiner Schuld gegenüber dem <rs type="org" ref="#pmb29769">Bühnenverein</rs> und dem Ostheer entledigen kann, die<pb/> freilich beide nicht so gut wegkommen werden, als wir es auch um unseretwillen gewünscht hätten. <rs type="person" ref="#pmb13107">
-                  <anchor type="commentary" xml:id="KL453-2">
-                     <rs type="work" subtype="implied" ref="#pmb31985">Wied</rs>
-                  </anchor>
-               </rs> scheint ja gut zu gehen und für den »<anchor type="commentary" xml:id="KL453-1">
-                  <rs type="work" ref="#pmb32043">Querulanten</rs>
-               </anchor>« läßt sich nach seinen bisherigen Erfolgen Günstiges Vorhersagen. Und auch wenn Sie mir nichts mehr vom »<rs type="work" ref="#pmb29937">Medardus</rs>« zu berichten haben, so lassen Sie doch bitte öfter von sich hören. Grüßen Sie alle, die sich freundlichst meiner erinnern, insbesondere <rs type="person" ref="#pmb11250">Eloesser</rs> und seien Sie selbst auch im Namen meiner <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> herzlichst begrüßt</p>
+                  <anchor type="commentary" xml:id="KL453-2"/>
+                  <rs type="work" subtype="implied" ref="#pmb31985">Wied</rs>
+                  <note type="commentary" xml:id="KL453-2h">
+                     <p>
+                        <rs type="work" ref="#pmb31985">2 × 2 = 5</rs>.</p>
+                  </note>
+               </rs> scheint ja gut zu gehen und für den »<anchor type="commentary" xml:id="KL453-1"/>
+               <rs type="work" ref="#pmb32043">Querulanten</rs>
+               <note type="commentary" xml:id="KL453-1h">
+                  <p>Die Uraufführung von <rs type="person" ref="#pmb10815">Bahr</rs>s <rs type="work" ref="#pmb32043">Der Querulant</rs> hatte bereits am <date instant="false">16. 10. 1914</date>
+               stattgefunden, die Inszenierung am <rs type="place" ref="#pmb18">Lessingtheater</rs>
+               war für den <date instant="false">23. 11. 1914</date> festgesetzt.</p>
+               </note>« läßt sich nach seinen bisherigen Erfolgen Günstiges Vorhersagen. Und auch wenn Sie mir nichts mehr vom »<rs type="work" ref="#pmb29937">Medardus</rs>« zu berichten haben, so lassen Sie doch bitte öfter von sich hören. Grüßen Sie alle, die sich freundlichst meiner erinnern, insbesondere <rs type="person" ref="#pmb11250">Eloesser</rs> und seien Sie selbst auch im Namen meiner <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> herzlichst begrüßt</p>
             <closer>Ihr<lb/>
                <signed>
                   <unclear>A. S.</unclear>

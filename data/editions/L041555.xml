@@ -13,11 +13,11 @@
             <title type="iso-date">1910-07-23</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,8 +102,14 @@
                </dateline>
                <salute>Lieber Freund,</salute>
             </opener>
-            <p>auf dem Balkon neben mir wird zwar so geschrien, daß kein <anchor type="commentary" xml:id="KL555-1">
-                  <rs type="place" ref="#pmb852">Würzburg</rs>er <rs type="person" ref="#pmb11933">Kleist</rs>-Problem</anchor> zu lösen ist, ich denke aber doch noch hier zu bleiben, ungleich dem <rs type="person" ref="#pmb4532">Jonas</rs>, der bereits <rs type="place" ref="#pmb168">Berlin</rs> bevölkert. Ihres Kommens froh gewärtig, jetzt mit <rs type="person" ref="#pmb10815">Bahr</rs> speisend, wünsche ich recht wohl zu leben.</p>
+            <p>auf dem Balkon neben mir wird zwar so geschrien, daß kein <anchor type="commentary" xml:id="KL555-1"/>
+               <rs type="place" ref="#pmb852">Würzburg</rs>er <rs type="person" ref="#pmb11933">Kleist</rs>-Problem<note type="commentary" xml:id="KL555-1h">
+                  <p>
+                     <rs type="person" ref="#pmb11933">Kleist</rs> hielt sich im <date instant="false">Herbst 1800</date>
+               zwei Monate in <rs type="place" ref="#pmb852">Würzburg</rs> auf. Da über den Zweck
+               des Aufenthalts nichts überliefert ist, regte dies die Forschung zu diversen
+               Mutmaßungen an.</p>
+               </note> zu lösen ist, ich denke aber doch noch hier zu bleiben, ungleich dem <rs type="person" ref="#pmb4532">Jonas</rs>, der bereits <rs type="place" ref="#pmb168">Berlin</rs> bevölkert. Ihres Kommens froh gewärtig, jetzt mit <rs type="person" ref="#pmb10815">Bahr</rs> speisend, wünsche ich recht wohl zu leben.</p>
             <closer>
                <signed>O. B.</signed>
             </closer>

@@ -13,11 +13,11 @@
             <title type="iso-date">1910-10-05</title>
             <author ref="pmb2242">Levi, Cesare</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,7 +106,10 @@
                   <hi rend="underline" n="1">Comtesse</hi>
                   <space unit="chars" quantity="1"/>
                   <hi rend="underline" n="1">Mizzi</hi>
-               </rs> gelesen, und ich bin sehr froh Ihnen mitzutheilen dass ich davon einen sehr günstigen Eindruck erhalten habe. Wie wir einverstanden gewesen waren, während unseres <anchor type="commentary" xml:id="KL367-1">Zusammentref<supplied>f</supplied>ens</anchor> in Wien,<pb/> würde ich dasselbe sehr gerne übesetzen binnen sehr kurzen Zeit.</p>
+               </rs> gelesen, und ich bin sehr froh Ihnen mitzutheilen dass ich davon einen sehr günstigen Eindruck erhalten habe. Wie wir einverstanden gewesen waren, während unseres <anchor type="commentary" xml:id="KL367-1"/>Zusammentref<supplied>f</supplied>ens<note type="commentary" xml:id="KL367-1h">
+                  <p>Am <date when="1910-09-24" instant="false">24. 9. 1910</date> (<bibl >A. S. <rs type="work">Tb</rs>
+                     </bibl>).</p>
+               </note> in Wien,<pb/> würde ich dasselbe sehr gerne übesetzen binnen sehr kurzen Zeit.</p>
             <p>
                <rs type="work" ref="#pmb29933">
                   <hi rend="underline" n="1">Das</hi>

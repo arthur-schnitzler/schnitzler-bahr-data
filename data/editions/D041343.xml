@@ -13,11 +13,11 @@
             <title type="iso-date">1922-04-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -82,9 +82,17 @@
             <p>Bei <rs type="person" ref="#pmb14218">Helene Binder</rs>.–</p>
             <p>Nm. am »<rs type="work" ref="#pmb30205">Verführer</rs>«.</p>
             <p>In einem Kino.</p>
-            <p>Las <rs type="person" ref="#pmb2771">Friedells</rs> »<rs type="work" ref="#pmb30833">Jesusproblem</rs>« mit der <anchor type="commentary" xml:id="KD343-1">
-                  <rs type="work" subtype="implied" ref="#pmb31451">Vorrede</rs>
-               </anchor> von <rs type="person" ref="#pmb10815">Bahr</rs>. Was geht in solchen Köpfen vor – ?–</p>
+            <p>Las <rs type="person" ref="#pmb2771">Friedells</rs> »<rs type="work" ref="#pmb30833">Jesusproblem</rs>« mit der <anchor type="commentary" xml:id="KD343-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31451">Vorrede</rs>
+               <note type="commentary" xml:id="KD343-1h">
+                  <p>
+                     <bibl >Auf den S. 5–14 in: <rs type="person" ref="#pmb2771">Egon Friedell</rs>: <rs type="work" ref="#pmb30833 #pmb31451">Das Jesusproblem</rs>. Mit einem Vorwort
+                  von <rs type="person" ref="#pmb10815">Hermann Bahr</rs>. Wien, Berlin, Leipzig,
+                  München: <rs type="org" ref="#pmb29758">Rikola</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1921</date>
+                     </bibl>.</p>
+               </note> von <rs type="person" ref="#pmb10815">Bahr</rs>. Was geht in solchen Köpfen vor – ?–</p>
          </div>
       </body>
    </text>

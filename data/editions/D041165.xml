@@ -13,11 +13,11 @@
             <title type="iso-date">1896-09-21</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,7 +77,10 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1896-09-21" n="2">21/9</date> Nm. war <rs type="person" ref="#pmb2157">Ebermann</rs> bei mir und erwähnte u. a. dass <rs type="person" ref="#pmb12037">Langkammer</rs> über mich schimpft.– Es ist doch schmachvoll, dass mich auch solche Nichtigkeiten verstimmen – wenn auch nur auf zwei Minuten.– <rs type="person" ref="#pmb13169">Wolzogen</rs> bei mir, der zur <anchor type="commentary" xml:id="KD165-1">Première</anchor> des »<rs type="work" ref="#pmb31301">unbeschr. Blatts</rs>« herkam.– Mit <rs type="person" ref="#pmb2378">Mz. Rh.</rs> bei Uns. Ich las ihr den <rs type="work" subtype="implied" ref="#pmb29845">Einakter</rs> vor, der sie interessirte. – Sie glaubt, dass ihre <rs type="person" subtype="implied" ref="#pmb23209 #pmb23215">Eltern</rs> unser Verh. vermuthen, ohne sehr erschüttert zu sein.– Mit <rs type="person" ref="#pmb13169">Wolzogen</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2157">Ebermann</rs>, später <rs type="person" ref="#pmb2167">Salten</rs> in der <rs type="org" ref="#pmb29774">Budapester Orpheum Gesellschaft</rs>.–</p>
+               <date when="1896-09-21" n="2">21/9</date> Nm. war <rs type="person" ref="#pmb2157">Ebermann</rs> bei mir und erwähnte u. a. dass <rs type="person" ref="#pmb12037">Langkammer</rs> über mich schimpft.– Es ist doch schmachvoll, dass mich auch solche Nichtigkeiten verstimmen – wenn auch nur auf zwei Minuten.– <rs type="person" ref="#pmb13169">Wolzogen</rs> bei mir, der zur <anchor type="commentary" xml:id="KD165-1"/>Première<note type="commentary" xml:id="KD165-1h">
+                  <p>Am <date instant="false">26. 9. 1896</date> im <rs type="place" ref="#pmb20">Deutschen
+                  Volkstheater</rs>.</p>
+               </note> des »<rs type="work" ref="#pmb31301">unbeschr. Blatts</rs>« herkam.– Mit <rs type="person" ref="#pmb2378">Mz. Rh.</rs> bei Uns. Ich las ihr den <rs type="work" subtype="implied" ref="#pmb29845">Einakter</rs> vor, der sie interessirte. – Sie glaubt, dass ihre <rs type="person" subtype="implied" ref="#pmb23209 #pmb23215">Eltern</rs> unser Verh. vermuthen, ohne sehr erschüttert zu sein.– Mit <rs type="person" ref="#pmb13169">Wolzogen</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2157">Ebermann</rs>, später <rs type="person" ref="#pmb2167">Salten</rs> in der <rs type="org" ref="#pmb29774">Budapester Orpheum Gesellschaft</rs>.–</p>
          </div>
       </body>
    </text>

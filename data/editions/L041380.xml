@@ -13,11 +13,11 @@
             <title type="iso-date">1894-12-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,14 +99,23 @@
                </dateline>
             </opener>
             <p>
-               <salute>Liebe Else, </salute>es scheint, Sie haben einen natürlichen Geschmack für gute Bilder, denn die Sie nannten, soweit ich sie aus Ihren kurzen Bezeichnungen wiedererkennen konnte, gehören zum großen Theil zu den besten in der <rs type="work" subtype="implied" ref="#pmb32490">Ausstellung</rs>. Nun ich freue mich sehr, mit Ihnen zwischen den Farben hinundherzuspazieren. – Welches abstoßende Bild Sie in der Nähe des Eingangs meinen, weiß ich nicht recht. Vielleicht das von <rs type="person" ref="#pmb3869">L. v. Hofmann</rs>, das so gobelinartig aussieht? »<rs type="work" ref="#pmb31495">Frühling</rs>« heißt es. Als Gobelin gesehen wirkt es – als Bild will ich es auch nicht. Es ist so trocken, gar kein Duft drauf. Der hagere Reiter über die Leichen – das ist das berühmteste Bild der <rs type="work" subtype="implied" ref="#pmb32490">Ausstellung</rs> – <rs type="person" ref="#pmb3904">Stuck’s</rs> »<rs type="work" ref="#pmb31497">Krieg</rs>«. »<rs type="work" ref="#pmb31499">Das Alter</rs>« ist fast mein Liebling. Darin liegt der dumpfe Schmerz, daß man hinunter muß, in diese blöde, tiefe, stumme Erde – darin liegt der Abschied von dem Himmel (»in den man kommt«!! haha) – – und das traurige Warten liegt darin (da man ja nicht davonlaufen kann. –) – Es ist richtig, daß vor solche Bilder Leute, die dumme Witze machen, nicht hingehören. Man braucht nicht idealistisch zu sein, um das zu empfinden, sondern nur geschmackvoll. Geschmack – vielleicht ist das der Idealismus in der Kunst –? Drum gibt es auch realistische Kunstwerke, die sehr idealistisch sind. Darüber aber müßte gesprochen werden. – Was Ihren Gedanken anbelangt: »Der das geschrieben etc hat sein Innerstes etc hineingelegt« – so überschätzen Sie wohl die Mehrzahl der Schriftsteller und Maler. Manche schaffen einfach wie man ein Butterbrod aufstreicht – oder gar ein Schmalzbrod. – Es gibt Bilder und gibt Bücher, vor denen der schlechteste die erbärmlichsten Witze machen darf. Auch seine Andacht soll man nicht misbrauchen, und wer z. B. bei der <anchor type="commentary" xml:id="KL380-1">
-                  <rs type="work" ref="#pmb31529">Entsagung</rs>
-                  <space unit="chars" quantity="1"/>»des«<footNote xml:id="FL380-1">
-                     <rs type="person" ref="#pmb10815">Bahr</rs>
-                  </footNote>
-                  <space unit="chars" quantity="1"/>
-                  <rs type="person" ref="#pmb3105">Karczag</rs>
-               </anchor> aufmerksam zuhört, benimmt sich grad so gotteslästerlich wie einer, der bei <rs type="work" ref="#pmb30081">Maria Stuart</rs> oder <rs type="work" ref="#pmb30247">Faust</rs> nicht zuhört. – </p>
+               <salute>Liebe Else, </salute>es scheint, Sie haben einen natürlichen Geschmack für gute Bilder, denn die Sie nannten, soweit ich sie aus Ihren kurzen Bezeichnungen wiedererkennen konnte, gehören zum großen Theil zu den besten in der <rs type="work" subtype="implied" ref="#pmb32490">Ausstellung</rs>. Nun ich freue mich sehr, mit Ihnen zwischen den Farben hinundherzuspazieren. – Welches abstoßende Bild Sie in der Nähe des Eingangs meinen, weiß ich nicht recht. Vielleicht das von <rs type="person" ref="#pmb3869">L. v. Hofmann</rs>, das so gobelinartig aussieht? »<rs type="work" ref="#pmb31495">Frühling</rs>« heißt es. Als Gobelin gesehen wirkt es – als Bild will ich es auch nicht. Es ist so trocken, gar kein Duft drauf. Der hagere Reiter über die Leichen – das ist das berühmteste Bild der <rs type="work" subtype="implied" ref="#pmb32490">Ausstellung</rs> – <rs type="person" ref="#pmb3904">Stuck’s</rs> »<rs type="work" ref="#pmb31497">Krieg</rs>«. »<rs type="work" ref="#pmb31499">Das Alter</rs>« ist fast mein Liebling. Darin liegt der dumpfe Schmerz, daß man hinunter muß, in diese blöde, tiefe, stumme Erde – darin liegt der Abschied von dem Himmel (»in den man kommt«!! haha) – – und das traurige Warten liegt darin (da man ja nicht davonlaufen kann. –) – Es ist richtig, daß vor solche Bilder Leute, die dumme Witze machen, nicht hingehören. Man braucht nicht idealistisch zu sein, um das zu empfinden, sondern nur geschmackvoll. Geschmack – vielleicht ist das der Idealismus in der Kunst –? Drum gibt es auch realistische Kunstwerke, die sehr idealistisch sind. Darüber aber müßte gesprochen werden. – Was Ihren Gedanken anbelangt: »Der das geschrieben etc hat sein Innerstes etc hineingelegt« – so überschätzen Sie wohl die Mehrzahl der Schriftsteller und Maler. Manche schaffen einfach wie man ein Butterbrod aufstreicht – oder gar ein Schmalzbrod. – Es gibt Bilder und gibt Bücher, vor denen der schlechteste die erbärmlichsten Witze machen darf. Auch seine Andacht soll man nicht misbrauchen, und wer z. B. bei der <anchor type="commentary" xml:id="KL380-1"/>
+               <rs type="work" ref="#pmb31529">Entsagung</rs>
+               <space unit="chars" quantity="1"/>»des«<footNote xml:id="FL380-1">
+                  <rs type="person" ref="#pmb10815">Bahr</rs>
+               </footNote>
+               <space unit="chars" quantity="1"/>
+               <rs type="person" ref="#pmb3105">Karczag</rs>
+               <note type="commentary" xml:id="KL380-1h">
+                  <seg type="lemma">Entsagung »des« Karczag</seg>
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> zitiert hier aus <rs type="person" ref="#pmb10815">Bahrs</rs> Besprechung (<bibl >
+                        <rs type="person" ref="#pmb10815">H. B.</rs>: <rs type="work" ref="#pmb32145">
+                           <rs type="work" ref="#pmb31529">Entsagung</rs>. (Schauspiel in vier Acten von
+                     Wilhelm Karczag. Zum ersten Mal aufgeführt im <rs type="place" ref="#pmb20">Deutschen Volkstheater</rs> am <date instant="false">24. November</date>)</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 1, Nr. 9, <date instant="false">1. 12.
+                     1894</date>, S. 140–141</bibl>): »<quote>Mit dem Stücke des Herrn <rs type="person" ref="#pmb3105">Karczag</rs> würde das jedoch nicht gehen es würde
+                  sich auch nicht schicken.</quote>«</p>
+               </note> aufmerksam zuhört, benimmt sich grad so gotteslästerlich wie einer, der bei <rs type="work" ref="#pmb30081">Maria Stuart</rs> oder <rs type="work" ref="#pmb30247">Faust</rs> nicht zuhört. – </p>
             <p>Schreiben Sie, liebe Else, nur meinen wirklichen, echten Vornamen auf die Couverts. Ich bin <hi rend="italic">nicht</hi>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb29935">Anatol</rs>. Ich hab wohl auch manches von ihm – gottlob auch manches andre, und von ihm gottlob (ich mein’ aber nicht Jehovah, wenn ich gottlob sag und auch nicht den heiligen Geist, kaum Buddha, vielleicht Brahma) nicht alles. – Telephoniren –? bitte, sehr gern. Nur nicht in der früh, bis ½ 11, da schlaf’ ich nemlich; – meistens.</p>

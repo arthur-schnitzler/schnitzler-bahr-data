@@ -13,11 +13,11 @@
             <title type="iso-date">1906-02-05</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,9 +99,12 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1906-02-05" n="01">5.</date> Brief an <rs type="person" ref="#pmb12813">Speidel</rs>: Verwunderung über die Ablehnung des »<rs type="work" ref="#pmb29905">Rufs</rs>«; schlage vor: <anchor type="commentary" xml:id="KD487-1">
-                  <rs type="work" ref="#pmb31189">Oedipus</rs>
-               </anchor>, <rs type="person" ref="#pmb10799">Babs</rs>
+               <date when="1906-02-05" n="01">5.</date> Brief an <rs type="person" ref="#pmb12813">Speidel</rs>: Verwunderung über die Ablehnung des »<rs type="work" ref="#pmb29905">Rufs</rs>«; schlage vor: <anchor type="commentary" xml:id="KD487-1"/>
+               <rs type="work" ref="#pmb31189">Oedipus</rs>
+               <note type="commentary" xml:id="KD487-1h">
+                  <p>
+                     <rs type="person" ref="#pmb11740">Hofmannsthal</rs>: <rs type="work" ref="#pmb31189">Oedipus und die Sphinx</rs>.</p>
+               </note>, <rs type="person" ref="#pmb10799">Babs</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" ref="#pmb31195">Anderen</rs>, <rs type="person" ref="#pmb12254">Robert Michels</rs>
                <space unit="chars" quantity="1"/>

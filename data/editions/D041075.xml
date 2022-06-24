@@ -13,11 +13,11 @@
             <title type="iso-date">1912-01-11</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,9 +78,13 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1912-01-11" n="01">11/1</date> Auf den <rs type="place" ref="#pmb189">Semmering</rs> mit <rs type="person" ref="#pmb2173">O.</rs>, <rs type="person" ref="#pmb2753">Mimi</rs>, <rs type="person" ref="#pmb13055">Wassermann</rs>, mit vielen komischen Aperçus.</p>
-            <p>Oben <rs type="person" ref="#pmb10986">Brahm</rs>. Spazieren und in der Halle mit ihm. Über das »<rs type="work" ref="#pmb30085">Tänzchen</rs>« (von <rs type="person" ref="#pmb10815">Bahr</rs>, das eben ohne Erfolg gespielt wurde) und <anchor type="commentary" xml:id="KD075-1">
-                  <rs type="work" ref="#pmb30357">Gabriel Schilling</rs>
-               </anchor>.</p>
+            <p>Oben <rs type="person" ref="#pmb10986">Brahm</rs>. Spazieren und in der Halle mit ihm. Über das »<rs type="work" ref="#pmb30085">Tänzchen</rs>« (von <rs type="person" ref="#pmb10815">Bahr</rs>, das eben ohne Erfolg gespielt wurde) und <anchor type="commentary" xml:id="KD075-1"/>
+               <rs type="work" ref="#pmb30357">Gabriel Schilling</rs>
+               <note type="commentary" xml:id="KD075-1h">
+                  <p>Unmittelbar zuvor erschienen: <bibl >
+                        <rs type="person" ref="#pmb11617">Gerhart Hauptmann</rs>: <rs type="work" ref="#pmb30357">Gabriel Schillings Flucht. Drama</rs>. In: <rs type="org" ref="#pmb29212">Die neue Rundschau</rs>, Jg. 23, H. 1, <date instant="false">1. 1. 1912</date>,
+                  S. 1–59</bibl>.</p>
+               </note>.</p>
          </div>
       </body>
    </text>

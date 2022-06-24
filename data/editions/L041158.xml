@@ -13,11 +13,11 @@
             <title type="iso-date">1893-08-12</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,9 +106,20 @@
             <opener>
                <salute rend="center">Lieber Freund!</salute>
             </opener>
-            <p>Ich bin verzweifelt. Ihr Brief trifft mich im Packen – <anchor type="commentary" xml:id="KL158-1">ich verreise</anchor> heute auf ein paar Tage. Ich fange also sofort zu suchen an – denn irgendwo habe ich ja dieses verruchte <anchor type="commentary" xml:id="KL158-2">
-                  <rs type="work" ref="#pmb30069">Amerika</rs>
-               </anchor>, aber wo? Ich habe alles von unterst zu oberst gekehrt – bisher umsonst. Mittwoch komme ich<pb/> auf ein oder zwei Tage zurück u. will dann wie ein Sträfling suchen. Sind Sie sehr böse, wenn ich Sie bis dahin vertröste?</p>
+            <p>Ich bin verzweifelt. Ihr Brief trifft mich im Packen – <anchor type="commentary" xml:id="KL158-1"/>ich verreise<note type="commentary" xml:id="KL158-1h">
+                  <p>An seinen <rs type="person" subtype="implied" ref="#pmb2132">Vater</rs>, <date instant="false">12. 8.
+                  1893</date>: »<quote>Ich verreise heute Abend auf einige Tage nach <rs type="place" ref="#pmb628">Böhmen</rs> und kann keine Adresse angeben, da ich
+                  sie selber noch nicht weiß und mich auch nirgends länger als ein paar Stunden
+                  aufhalten werde.</quote>« (<bibl >
+                        <rs type="org">TMW</rs>, AM 50775 Ba</bibl>)</p>
+               </note> heute auf ein paar Tage. Ich fange also sofort zu suchen an – denn irgendwo habe ich ja dieses verruchte <anchor type="commentary" xml:id="KL158-2"/>
+               <rs type="work" ref="#pmb30069">Amerika</rs>
+               <note type="commentary" xml:id="KL158-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30069">Amerika</rs>. In: <rs type="org" ref="#pmb29698">An der schönen
+                     blauen Donau</rs>, Jg. 4, H. 9, <date instant="false">[1. 5.] 1889</date>, S. 197</bibl>.</p>
+               </note>, aber wo? Ich habe alles von unterst zu oberst gekehrt – bisher umsonst. Mittwoch komme ich<pb/> auf ein oder zwei Tage zurück u. will dann wie ein Sträfling suchen. Sind Sie sehr böse, wenn ich Sie bis dahin vertröste?</p>
             <p>Ich muss dann ohnehin zu Ihnen um Ihnen wegen des <rs type="person" subtype="implied" ref="#pmb27693">Regimentsarztes</rs> zu danken u. Sie zu fragen, in welcher Weise es für mich angemessen ist, mich bei dem Herrn zu revan<pb/>chieren.</p>
             <closer>In großer Hast<lb/>Ihr treuer<lb/>
                <signed>Bahr</signed>

@@ -13,11 +13,11 @@
             <title type="iso-date">1898-10-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -121,7 +121,10 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Hermann, </salute>ich danke dir herzlich für dein liebes <anchor type="commentary" xml:id="KL019-1">Telegramm</anchor>
+               <salute>Lieber Hermann, </salute>ich danke dir herzlich für dein liebes <anchor type="commentary" xml:id="KL019-1"/>Telegramm<note type="commentary" xml:id="KL019-1h">
+                  <p>Nicht erhalten. Am <date instant="false">8. 10. 1898</date> Uraufführung von <rs type="work" ref="#pmb30219">Das Vermächtnis</rs> am <rs type="place" ref="#pmb151">Deutschen
+                  Theater</rs> in <rs type="place" ref="#pmb168">Berlin</rs>.</p>
+               </note>
             </p>
             <closer>Dein <signed>Arth Schnitzler</signed>
             </closer>

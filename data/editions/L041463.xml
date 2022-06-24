@@ -13,11 +13,11 @@
             <title type="iso-date">1896-10-08</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,13 +104,30 @@
                <salute rend="center">Sehr geehrter Herr!</salute>
             </opener>
             <p>
-               <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> schickt mir soeben einen Brief von Ihnen, worin Sie sich über den in der letzten Nummer der »<rs type="org" ref="#pmb29209">Zeit</rs>« publicierten Aufsatz »<anchor type="commentary" xml:id="KL463-3">
-                  <rs type="work" ref="#pmb32063">Censur in Polen</rs>
-               </anchor>« wundern und beklagen. Ich beeile mich, Ihnen mitzutheilen, wie ich zu demselben gekommen bin. Die mir persönlich bekannte Frau <rs type="person" ref="#pmb2361">Neustätter</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, Gattin eines <rs type="person" subtype="implied" ref="#pmb4416">Redacteurs</rs> am <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, hat mir ihn ein<pb/>geschickt, als zu einem <anchor type="commentary" xml:id="KL463-2">
-                  <rs type="work" subtype="implied" ref="#pmb32065">Buche</rs>
-               </anchor> gehörend, das im kommenden Winter zum ersten Mal in <rs type="place" ref="#pmb151">deutsch</rs>er Sprache publiciert werden soll. Sie hat mir geschrieben, von Ihnen nicht bloß zur Übersetzung autorisiert zu sein, sondern auch dazu, uns den Artikel als Originalarbeit von Ihnen zu geben, in welchem Falle wir jedoch ein höheres Honorar zu bezahlen hätten, was wir mit Vergnügen zugestanden haben: Die <rs type="person" subtype="implied" ref="#pmb2361">Dame</rs> schien durchaus in Ihrem Auftrage zu handeln und ich hatte keinen Grund, an der Loyalität ihres Vorgehens<pb/> zu zweifeln. Wenn Sie es wünschen, bin ich gerne bereit, Ihnen die Correspondenz mit Frau <rs type="person" ref="#pmb2361">Neustätter</rs> copieren zu lassen und einzuschicken. Es ist mir sehr peinlich, dadurch ohne mein Verschulden Ihren Unwillen erregt zu haben. Ich hoffe jedoch, daß Sie sich mit meinen Aufklärungen zufrieden geben. Hätten Sie meine wiederholte Bitte, mir Beiträge für die »<rs type="org" ref="#pmb29209">Zeit</rs>« zu schicken, nicht ohne Antwort gelassen, so brauchte ich mir nicht bei allen mög<pb/>lichen Vermittlern einen Mitarbeiter zu suchen, den ich nun einmal nicht entbehren kann noch will. Wie gern hätte ich es, daß Sie sich mit meinen <anchor type="commentary" xml:id="KL463-1">
-                  <rs type="work" subtype="implied" ref="#pmb30459 #pmb32736">Einwendungen</rs>
-               </anchor> gegen Ihren »<rs type="person" ref="#pmb2412">
+               <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> schickt mir soeben einen Brief von Ihnen, worin Sie sich über den in der letzten Nummer der »<rs type="org" ref="#pmb29209">Zeit</rs>« publicierten Aufsatz »<anchor type="commentary" xml:id="KL463-3"/>
+               <rs type="work" ref="#pmb32063">Censur in Polen</rs>
+               <note type="commentary" xml:id="KL463-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10992">Georg Brandes</rs>: <rs type="work" ref="#pmb32063">Censur in Polen</rs>. In: <rs type="org" ref="#pmb29209">Die
+                     Zeit</rs>, Bd. 9, Nr. 105, <date instant="false">3. 10. 1896</date>, S. 9–11</bibl>.</p>
+               </note>« wundern und beklagen. Ich beeile mich, Ihnen mitzutheilen, wie ich zu demselben gekommen bin. Die mir persönlich bekannte Frau <rs type="person" ref="#pmb2361">Neustätter</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, Gattin eines <rs type="person" subtype="implied" ref="#pmb4416">Redacteurs</rs> am <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, hat mir ihn ein<pb/>geschickt, als zu einem <anchor type="commentary" xml:id="KL463-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32065">Buche</rs>
+               <note type="commentary" xml:id="KL463-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10992">Georg Brandes</rs>: <rs type="work" ref="#pmb32065"> Polen</rs>. Einzig autorisierte Übersetzung aus dem Dänischen
+                  von <rs type="person" ref="#pmb2361">Adele Neustädter</rs>. Paris, Leipzig,
+                  München: <rs type="org" ref="#pmb29654">Albert Langen</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1898</date>
+                     </bibl>.</p>
+               </note> gehörend, das im kommenden Winter zum ersten Mal in <rs type="place" ref="#pmb151">deutsch</rs>er Sprache publiciert werden soll. Sie hat mir geschrieben, von Ihnen nicht bloß zur Übersetzung autorisiert zu sein, sondern auch dazu, uns den Artikel als Originalarbeit von Ihnen zu geben, in welchem Falle wir jedoch ein höheres Honorar zu bezahlen hätten, was wir mit Vergnügen zugestanden haben: Die <rs type="person" subtype="implied" ref="#pmb2361">Dame</rs> schien durchaus in Ihrem Auftrage zu handeln und ich hatte keinen Grund, an der Loyalität ihres Vorgehens<pb/> zu zweifeln. Wenn Sie es wünschen, bin ich gerne bereit, Ihnen die Correspondenz mit Frau <rs type="person" ref="#pmb2361">Neustätter</rs> copieren zu lassen und einzuschicken. Es ist mir sehr peinlich, dadurch ohne mein Verschulden Ihren Unwillen erregt zu haben. Ich hoffe jedoch, daß Sie sich mit meinen Aufklärungen zufrieden geben. Hätten Sie meine wiederholte Bitte, mir Beiträge für die »<rs type="org" ref="#pmb29209">Zeit</rs>« zu schicken, nicht ohne Antwort gelassen, so brauchte ich mir nicht bei allen mög<pb/>lichen Vermittlern einen Mitarbeiter zu suchen, den ich nun einmal nicht entbehren kann noch will. Wie gern hätte ich es, daß Sie sich mit meinen <anchor type="commentary" xml:id="KL463-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30459 #pmb32736">Einwendungen</rs>
+               <note type="commentary" xml:id="KL463-1h">
+                  <p>
+                     <rs type="work" ref="#pmb30459">Der düstere Shakespeare</rs>; <rs type="work" ref="#pmb32736">Othello</rs>, <ptr target="KD163-1"/>.</p>
+               </note> gegen Ihren »<rs type="person" ref="#pmb2412">
                   <rs type="work" ref="#pmb32159">Shakespeare</rs>
                </rs>« auseinandersetzen würden! Wie gern würde ich mich von Ihnen belehren u. widerlegen lassen! Wie gern würde ich jeden Beitrag von Ihnen nehmen!</p>
             <p>In der Hoffnung, das Misverständnis zur Genüge aufgeklärt zu haben, bin ich</p>

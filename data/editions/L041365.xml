@@ -13,11 +13,11 @@
             <title type="iso-date">1894-09-15</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,10 @@
          <div type="writingSession" n="1">
             <p>
                <salute>Lieber Freund,</salute> wenn Sie dem Überbringer dieses irgend eine Abschreibearbeit geben können, so thun Sie’s, bitte, wenn nicht, schicken Sie ihn vielleicht zu <rs type="person" ref="#pmb10815">Bahr</rs>, der ja jetzt manches haben dürfte.</p>
-            <p>Er ist <anchor type="commentary" xml:id="KL365-1">Mediziner im letzten Jahrgang</anchor> und es geht ihm sehr schlecht.</p>
+            <p>Er ist <anchor type="commentary" xml:id="KL365-1"/>Mediziner im letzten Jahrgang<note type="commentary" xml:id="KL365-1h">
+                  <p>Obwohl naheliegend, dürfte es sich nicht um <rs type="person" ref="#pmb28278">M. J.
+                  Mayer</rs> handeln, zumindest hat niemand mit diesem Namen zu der Zeit in <rs type="place" ref="#pmb50">Wien</rs> Medizin studiert.</p>
+               </note> und es geht ihm sehr schlecht.</p>
             <closer>Herzlichst<lb/>
                <signed>Salten.</signed>
             </closer>

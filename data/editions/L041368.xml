@@ -13,11 +13,11 @@
             <title type="iso-date">1922-07-09</title>
             <author ref="pmb2276">Thayer, Scofield</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -110,9 +110,15 @@
             </opener>
             <p>Thank you very much indeed for the letters you were so generous as to give me.</p>
             <p>
-               <rs type="person" ref="#pmb12176">Thomas Mann</rs> was at home when I called. Both he and his <rs type="person" subtype="implied" ref="#pmb12173">wife</rs> asked particularly after you. He is allowing me to translate <anchor type="commentary" xml:id="KL368-5">
-                  <rs type="work" ref="#pmb31295">Tristan</rs>
-               </anchor> for the <rs type="org" ref="#pmb29371">Dial</rs>. It was your <rs type="person" subtype="implied" ref="#pmb12692">son</rs> who first called my attention to this story.</p>
+               <rs type="person" ref="#pmb12176">Thomas Mann</rs> was at home when I called. Both he and his <rs type="person" subtype="implied" ref="#pmb12173">wife</rs> asked particularly after you. He is allowing me to translate <anchor type="commentary" xml:id="KL368-5"/>
+               <rs type="work" ref="#pmb31295">Tristan</rs>
+               <note type="commentary" xml:id="KL368-5h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12176">Thomas Mann</rs>: <rs type="work" ref="#pmb31295">Tristan</rs>. Translated from the German by <rs type="person" ref="#pmb2276">Scofield Thayer</rs> and <rs type="person" ref="#pmb5016">Kenneth Burke</rs>. In: <rs type="org" ref="#pmb29371">The Dial</rs>, Bd. 73,
+                     <date instant="false">December 1922</date>, S. 593–610 und Bd. 74, <date instant="false">January 1923</date>,
+                  S. 57–76</bibl>.</p>
+               </note> for the <rs type="org" ref="#pmb29371">Dial</rs>. It was your <rs type="person" subtype="implied" ref="#pmb12692">son</rs> who first called my attention to this story.</p>
             <p>
                <rs type="person" ref="#pmb10815">Hermann Bahr</rs> was out when I first called after him, but <damage agent="paperloss">
                   <supplied>his</supplied>
@@ -121,17 +127,51 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" subtype="implied" ref="#pmb27697">secretary</rs> telephoned me at the <rs type="place" subtype="implied" ref="#pmb485">hotel</rs> to come to-day (<date>Sunday</date>) at <time>10 A.M.</time> As this is the hour for divine service in my country, it seemed appropiate to look up God upon this day and hour. He is delightful – not a bit the <del rend="strikethrough">go</del> God of my country.</p>
             <p>
-               <rs type="person" ref="#pmb10815">Mr Bahr</rs> is <anchor type="commentary" xml:id="KL368-1">going to write for the <rs type="org" ref="#pmb29371">Dial</rs>
-               </anchor> an article about <rs type="place" ref="#pmb43406">America</rs> from the point of view of one who originally got his American Illusions from <rs type="person" ref="#pmb13102">Walt Whitman</rs> and who has had them shattered by the <anchor type="commentary" xml:id="KL368-2">
-                  <rs type="work" subtype="implied" ref="#pmb30119">book</rs>
-               </anchor> reviewed in the leading <anchor type="commentary" xml:id="KL368-3">
-                  <rs type="work" subtype="implied" ref="#pmb30115">article</rs>
-               </anchor> of the <rs type="org" ref="#pmb29371">Dial</rs> for <date>June</date>. <rs type="person" ref="#pmb10815">Mr. Bahr</rs> had already read this<pb/> book. And I am sending him, to eke out the picture, <rs type="person" ref="#pmb3794">Santayana’s</rs> own recent book on »<anchor type="commentary" xml:id="KL368-4">
-                  <rs type="work" subtype="implied" ref="#pmb32484">American Characteristics</rs>
-               </anchor>«.</p>
-            <p>Thank you also for the note giving the <rs type="org" ref="#pmb29371">Dial</rs> permission to use two of the <anchor type="commentary" xml:id="KL368-6">
-                  <rs type="work" subtype="implied" ref="#pmb30201 #pmb30057">stories</rs>
-               </anchor> not yet preëmpted.</p>
+               <rs type="person" ref="#pmb10815">Mr Bahr</rs> is <anchor type="commentary" xml:id="KL368-1"/>going to write for the <rs type="org" ref="#pmb29371">Dial</rs>
+               <note type="commentary" xml:id="KL368-1h">
+                  <p>Von <rs type="person" ref="#pmb10815">Bahr</rs> erschien zu keiner Zeit ein Text in
+                  <rs type="org" ref="#pmb29371">The Dial</rs>.</p>
+               </note> an article about <rs type="place" ref="#pmb43406">America</rs> from the point of view of one who originally got his American Illusions from <rs type="person" ref="#pmb13102">Walt Whitman</rs> and who has had them shattered by the <anchor type="commentary" xml:id="KL368-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30119">book</rs>
+               <note type="commentary" xml:id="KL368-2h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb30119">Civilization in America. An Inquiry by Thirty
+                     Americans</rs>. Hg. <rs type="person" ref="#pmb3779">Harold E. Stearns</rs>.
+                  New York: <rs type="org">Harcourt, Brace and Company</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1922</date>
+                     </bibl>.</p>
+               </note> reviewed in the leading <anchor type="commentary" xml:id="KL368-3"/>
+               <rs type="work" subtype="implied" ref="#pmb30115">article</rs>
+               <note type="commentary" xml:id="KL368-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb3794">George Santayana</rs>: <rs type="work" ref="#pmb30115">Marginal Notes on Civilization in the United States</rs>. In:
+                     <rs type="org" ref="#pmb29371">The Dial</rs>, Bd. 72, <date instant="false">June 1922</date>,
+                  S. 553–568</bibl>.</p>
+               </note> of the <rs type="org" ref="#pmb29371">Dial</rs> for <date>June</date>. <rs type="person" ref="#pmb10815">Mr. Bahr</rs> had already read this<pb/> book. And I am sending him, to eke out the picture, <rs type="person" ref="#pmb3794">Santayana’s</rs> own recent book on »<anchor type="commentary" xml:id="KL368-4"/>
+               <rs type="work" subtype="implied" ref="#pmb32484">American Characteristics</rs>
+               <note type="commentary" xml:id="KL368-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb3794">George Santayana</rs>: <rs type="work" ref="#pmb32484">Character and Opinion in the United States</rs>. New York: <rs type="org">Charles Scribner’s Sons</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1921</date>
+                     </bibl>.</p>
+               </note>«.</p>
+            <p>Thank you also for the note giving the <rs type="org" ref="#pmb29371">Dial</rs> permission to use two of the <anchor type="commentary" xml:id="KL368-6"/>
+               <rs type="work" subtype="implied" ref="#pmb30201 #pmb30057">stories</rs>
+               <note type="commentary" xml:id="KL368-6h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30201">Doctor Graesler</rs>. Translated from the German by <rs type="person" ref="#pmb28927">Paul Bloomfield Zeisler</rs>. In: <rs type="org" ref="#pmb29371">The Dial</rs>, Bd. 73, <date instant="false">September 1923</date>, S. 246–270,
+                     <date instant="false">October</date>, S. 411–424, <date instant="false">November</date>, S. 509–524.</bibl>
+                     <space unit="chars" quantity="1"/>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30057">The Fate of the Baron von Leisenbohg</rs>. Translated by <rs type="person" ref="#pmb5016">Kenneth Burke</rs>. In: <rs type="org" ref="#pmb29371">The Dial</rs>, Bd. 75, <date instant="false">December 1923</date>,
+                  S. 565–582</bibl>.</p>
+               </note> not yet preëmpted.</p>
             <p>I wonder do you know the wonderful <rs type="work" subtype="implied" ref="#pmb32254">portrait</rs> of <rs type="person" ref="#pmb3797">Keyserling</rs> by <rs type="person" ref="#pmb11106">Corinth</rs> here in the <del rend="strikethrough">
                   <rs type="place" ref="#pmb511">Staats Galerie</rs>?</del>
                <space unit="chars" quantity="1"/>

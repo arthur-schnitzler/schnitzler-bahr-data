@@ -13,11 +13,11 @@
             <title type="iso-date">1891-12-14</title>
             <author ref="pmb12491">Reicher, Emanuel</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,11 +107,20 @@
             <p>Also so krank gewesen? Das ist allerdings unangenehm, schmerzlich und – kostspielig – aber: »der Tod knapp vorbeigekommen«? – Nein! – Auch wieder ein wenig »romantische Träum!« –</p>
             <p>Na trösten Sie sich mit mir, ich hatte auch <hi rend="latintype">Influenza</hi> – allerdings nicht so schlimm, aber ich war doch auch bettlägerig. – Und doch für mich gearbeitet! Daß ist unendlich rührend, und danke ich Ihnen herzlichst dafür.– Natürlich, lese ich von Ihnen etwas! Wollen Sie mir Vorschläge<pb/> machen?– Uiberhaupt schlag<damage agent="hole">
                   <supplied>e</supplied>
-               </damage>n Sie mir einmal ein interessantes Programm vor. – In <rs type="place" ref="#pmb50">Wien</rs> im <rs type="work" ref="#pmb29823">Märchen</rs> spielen geht nicht – ich kann mich erstens nicht auf so lange Zeit – mindestens 8 Tage Proben nicht frei machen, und dann wäre es auch nicht gut, wenn ich vorher dort spielen würde. – Oeffentliche Vorlesung halte ich auch nicht für gut. – Ich bin mit den beiden Sachen, <anchor type="commentary" xml:id="KL682-1">
-                  <hi rend="latintype">Soiree</hi>
-               </anchor> und <anchor type="commentary" xml:id="KL682-2">
-                  <hi rend="latintype">Matinée</hi>
-               </anchor> vollauf zufrieden. – <rs type="person" ref="#pmb2121">Schnitz<supplied>l</supplied>er</rs>’s <anchor type="commentary" xml:id="KL682-3">Einakter</anchor> ist originell aber doch nur ein kleiner Scherz – nicht wahr?– Sehen Sie mal zu, Theuerster, daß die Sachen bald die <hi rend="latintype">Censur</hi> passieren, bitte bitte machen Sie da ein wenig Feuer. – </p>
+               </damage>n Sie mir einmal ein interessantes Programm vor. – In <rs type="place" ref="#pmb50">Wien</rs> im <rs type="work" ref="#pmb29823">Märchen</rs> spielen geht nicht – ich kann mich erstens nicht auf so lange Zeit – mindestens 8 Tage Proben nicht frei machen, und dann wäre es auch nicht gut, wenn ich vorher dort spielen würde. – Oeffentliche Vorlesung halte ich auch nicht für gut. – Ich bin mit den beiden Sachen, <anchor type="commentary" xml:id="KL682-1"/>
+               <hi rend="latintype">Soiree</hi>
+               <note type="commentary" xml:id="KL682-1h">
+                  <p>Am <date instant="false">5. 2. 1892</date> im Salon der Fürstin <rs type="person" ref="#pmb12231">Pauline Metternich</rs>.</p>
+               </note> und <anchor type="commentary" xml:id="KL682-2"/>
+               <hi rend="latintype">Matinée</hi>
+               <note type="commentary" xml:id="KL682-2h">
+                  <p>Am <date instant="false">7. 2. 1892</date> im Haus von <rs type="person" ref="#pmb11491">Adalbert von
+                  Goldschmidt</rs>.</p>
+               </note> vollauf zufrieden. – <rs type="person" ref="#pmb2121">Schnitz<supplied>l</supplied>er</rs>’s <anchor type="commentary" xml:id="KL682-3"/>Einakter<note type="commentary" xml:id="KL682-3h">
+                  <p>Unklar, vermutlich eine der <rs type="work" ref="#pmb29935">Anatol</rs>-Szenen, von
+               denen <rs type="person" ref="#pmb12491">Reicher</rs> einige Monate später <rs type="work" ref="#pmb30749">Frage an das Schicksal</rs> in sein Vorleseprogramm
+               aufnahm; eventuell auch <rs type="work" ref="#pmb31637">Alkandi’s Lied</rs>.</p>
+               </note> ist originell aber doch nur ein kleiner Scherz – nicht wahr?– Sehen Sie mal zu, Theuerster, daß die Sachen bald die <hi rend="latintype">Censur</hi> passieren, bitte bitte machen Sie da ein wenig Feuer. – </p>
             <closer>Grüssen Sie <rs type="person" ref="#pmb11491">Goldschmidt</rs>, <hi rend="latintype">
                   <rs type="person" ref="#pmb14756">Bératon</rs>
                </hi> (für den ich bereits hier Käufer werbe) und die andern Herrn und seien Sie selbst herzlichst gegrüßt von Ihrem treuen<lb/>
@@ -119,7 +128,10 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL682-1">Trinken Sie fleißig <hi rend="latintype">Bordeaux</hi> und <hi rend="latintype">Cognac</hi> und rauchen Sie nicht so viel <hi rend="latintype">Virginia</hi>!</anchor>
+                  <anchor type="textConst" xml:id="TL682-1"/>Trinken Sie fleißig <hi rend="latintype">Bordeaux</hi> und <hi rend="latintype">Cognac</hi> und rauchen Sie nicht so viel <hi rend="latintype">Virginia</hi>!<note type="textConst" xml:id="TL682-1h">
+                     <seg type="lemma">Trinken Sie {\dots} Virginia!</seg>
+                     <p>Am linken Rand der 1. Seite.</p>
+                  </note>
                </p>
             </postscript>
          </div>

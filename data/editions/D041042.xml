@@ -13,11 +13,11 @@
             <title type="iso-date">1909-02-18</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,7 +78,13 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1909-02-18" n="01">18/2</date> Vm. (früh) spazieren, Gespräch mit Prof. <rs type="person" ref="#pmb2530">Seidler</rs> über <rs type="work" ref="#pmb30233">Charolais</rs>, den er kürzlich gelesen; dann über <rs type="person" ref="#pmb11527">Stefan Großmann</rs> (der neulich anläßlich <rs type="person" ref="#pmb12749">Schönherr</rs> geschrieben, für <c rendition="#dots" n="3" place="center"/> »<rs type="work" ref="#pmb30235">Erde</rs>« gebe er alles von <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> und ein beliebiges Stück von Jung Wien her <c rendition="#dots" n="3"/>). Ich erläuterte dem <rs type="person" subtype="implied" ref="#pmb2530">Professor</rs> die Psychologie <rs type="person" ref="#pmb11527">St. Großmanns</rs>.</p>
-            <p>Zu Hause traf ich <rs type="person" ref="#pmb10863">Richard</rs> und <rs type="person" ref="#pmb10860">Paula</rs> an <c rendition="#dots" n="3" place="center"/> Über die Zustände hier, über die widerliche Feigheit und Sichselbstdavonlauferei einer gewissen Sorte Juden. <rs type="person" ref="#pmb2167">Salten</rs> als Politiker. Sein Buch »<anchor type="commentary" xml:id="KD042-1">Aus einem Wiener Kreis</anchor>«, seit Jahren versprochen, wird nun doch erscheinen; enthält aber außer <rs type="person" ref="#pmb11740">Hugo</rs>, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2147">Altenberg</rs>, mir – <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb10836">Bartsch</rs>, <rs type="person" ref="#pmb11575">Handel-Mazzetti</rs>.– Sein Zionismus.– </p>
+            <p>Zu Hause traf ich <rs type="person" ref="#pmb10863">Richard</rs> und <rs type="person" ref="#pmb10860">Paula</rs> an <c rendition="#dots" n="3" place="center"/> Über die Zustände hier, über die widerliche Feigheit und Sichselbstdavonlauferei einer gewissen Sorte Juden. <rs type="person" ref="#pmb2167">Salten</rs> als Politiker. Sein Buch »<anchor type="commentary" xml:id="KD042-1"/>Aus einem Wiener Kreis<note type="commentary" xml:id="KD042-1h">
+                  <p>So nicht erschienen, eventuell im Zusammenhang mit <bibl >
+                        <rs type="work" ref="#pmb30237">Das österreichische Antlitz</rs>, Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1909</date>
+                     </bibl> geplant.</p>
+               </note>«, seit Jahren versprochen, wird nun doch erscheinen; enthält aber außer <rs type="person" ref="#pmb11740">Hugo</rs>, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2147">Altenberg</rs>, mir – <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb10836">Bartsch</rs>, <rs type="person" ref="#pmb11575">Handel-Mazzetti</rs>.– Sein Zionismus.– </p>
             <p>Dictirt: Briefe.– </p>
             <p>Nm. am <rs type="work" ref="#pmb31219">W. L.</rs>
             </p>

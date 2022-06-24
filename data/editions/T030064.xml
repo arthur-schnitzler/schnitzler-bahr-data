@@ -14,11 +14,11 @@
             <title type="iso-date">1904-08-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="064"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AAD-4</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>Schnitzler, A 196,1</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Typoskript, 1 Bl., 1 S., hs. Ergänzung in der oberen rechten Ecke »<quote>
+                        <p>ms. Typoskript, 1 Bl., 1 S., hs. Ergänzung in der oberen rechten Ecke »<quote>
                               <date>904</date>
                            </quote>«.</p>
                      </physDesc>
@@ -79,9 +79,12 @@
    <text type="manuscript">
       <body>
          <div>
-            <p part="N">
+            <p>
                <rs type="work" ref="#pmb30615"/>Ein <rs type="person" subtype="implied" ref="#pmb2147">Litterat</rs>, dem es sehr schlecht geht. Es wird eine Versammlung einberufen, um zu beraten, was für ihn zu geschehen hätte. Zu dieser Versammlung wird er selbst eingeladen. Er sitzt düster und in Gamaschen unter den Freunden. Einige reden. Verschiedene Vorschläge. Endlich erhebt sich Frau <rs type="person" subtype="implied" ref="#pmb3004">L.</rs>
-               <anchor type="textConst" xml:id="TT064-1">, hübsche</anchor> blonde Frau, und spricht ungefähr Folgendes: »Ich glaube, niemand auf der Welt kann diesen Mann lieber haben als ich. Was hat er mir alles gegeben« etz. etz. »und uns allen! Aber was hat ein solcher Mensch auf der Welt zu tun? Er ist eigentlich zu gut für die Welt.« u. s. w. Sie schliesst: »Ich finde, man soll ihm überhaupt gar nicht helfen; ich finde, er soll sterben.« Jetzt erhebt sich der <rs type="person" subtype="implied" ref="#pmb2147">Dichter</rs>, ungeheuer wild: »Dumme Gans! Ich will nicht sterben! Ich will leben! Ich will essen, ich will gesund sein,– ich will nicht schön sein!« etz.</p>
+               <anchor type="textConst" xml:id="TT064-1"/>, hübsche<note type="textConst" xml:id="TT064-1h">
+                  <p>Komma hs. mit Bleistift eingefügt. Die Kleinschreibung von »Hübsche« von den
+               Herausgebern.</p>
+               </note> blonde Frau, und spricht ungefähr Folgendes: »Ich glaube, niemand auf der Welt kann diesen Mann lieber haben als ich. Was hat er mir alles gegeben« etz. etz. »und uns allen! Aber was hat ein solcher Mensch auf der Welt zu tun? Er ist eigentlich zu gut für die Welt.« u. s. w. Sie schliesst: »Ich finde, man soll ihm überhaupt gar nicht helfen; ich finde, er soll sterben.« Jetzt erhebt sich der <rs type="person" subtype="implied" ref="#pmb2147">Dichter</rs>, ungeheuer wild: »Dumme Gans! Ich will nicht sterben! Ich will leben! Ich will essen, ich will gesund sein,– ich will nicht schön sein!« etz.</p>
          </div>
       </body>
    </text>

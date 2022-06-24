@@ -13,11 +13,11 @@
             <title type="iso-date">1896-11-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -139,9 +139,13 @@
                </rs> etwa 1 Stunde; über <rs type="work" ref="#pmb29899">Freiwild</rs>, über <rs type="work" ref="#pmb32312">Morituri</rs>; Discussion über den »Milchbart« der mir nicht gefiel (in <rs type="work" ref="#pmb32372">Teja</rs>) worin mir Frau <rs type="person" ref="#pmb4606">Sudermann</rs> lebhaft<pb/> beistimmte. (Er fragte mich direct nach dem Eindruck dieser Stelle.) Die getheilte Aufnahme in <rs type="place" ref="#pmb50">Wien</rs> hat ihn etwas verstimmt. In persönlichem Verkehr ist er sehr, wohl etwas allzu liebenswürdig.–</p>
             <p>Dann bei <rs type="person" ref="#pmb11391">
                   <hi rend="latintype">Fulda</hi>
-               </rs>, der herrlich wohnt; in wenigen Tagen kommt er samt <rs type="person" subtype="implied" ref="#pmb28688">Frau</rs> nach <rs type="place" ref="#pmb50">Wien</rs>, da sein <anchor type="commentary" xml:id="KL586-1">
-                  <rs type="work" subtype="implied" ref="#pmb32314">Stück</rs>
-               </anchor> die nächste Première an der <rs type="place" ref="#pmb14">Burg</rs> ist.– Bei <rs type="person" ref="#pmb2914">
+               </rs>, der herrlich wohnt; in wenigen Tagen kommt er samt <rs type="person" subtype="implied" ref="#pmb28688">Frau</rs> nach <rs type="place" ref="#pmb50">Wien</rs>, da sein <anchor type="commentary" xml:id="KL586-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32314">Stück</rs>
+               <note type="commentary" xml:id="KL586-1h">
+                  <p>
+                     <rs type="work" ref="#pmb32314">Der Sohn des Khalifen. Dramatisches Märchen in 4
+                  Acten</rs>, Uraufführung am <date instant="false">21. 11. 1896</date> im <rs type="place" ref="#pmb14">Burgtheater</rs>.</p>
+               </note> die nächste Première an der <rs type="place" ref="#pmb14">Burg</rs> ist.– Bei <rs type="person" ref="#pmb2914">
                   <hi rend="latintype">Bie</hi>
                </rs> Mittag; dort <rs type="person" ref="#pmb11910">
                   <hi rend="latintype">Kerr</hi>

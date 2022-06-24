@@ -13,11 +13,11 @@
             <title type="iso-date">1901-06-12</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -118,7 +118,9 @@
                </subst> peinlichen Verdacht, als sei ich ihm <hi rend="underline" n="1">deshalb</hi> böse. Ich bin ihm aber garnicht böse, am wenigsten deshalb. Nur sehe ich keine Ursache, sein unfreundliches Verhalten einzustecken.</p>
             <p>Von <rs type="person" ref="#pmb10815">Bahr</rs> erfuhr ich, dass <rs type="person" ref="#pmb11740">Hofmannsthal</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL359-1">Samstag geheirathet</anchor> hat. Schreiben Sie mir, bitte, bald. Hauptsächlich, wohin <subst>
+               <anchor type="commentary" xml:id="KL359-1"/>Samstag geheirathet<note type="commentary" xml:id="KL359-1h">
+                  <p>Am <date instant="false">8. 6. 1901</date>.</p>
+               </note> hat. Schreiben Sie mir, bitte, bald. Hauptsächlich, wohin <subst>
                   <del rend="overwritten">s</del>
                   <add place="inline">S</add>
                </subst>ie reisen. Ich habe das »wir« nicht verstanden.<space unit="chars" quantity="5"/>Sind Sie mit Ihrer <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs>?</p>

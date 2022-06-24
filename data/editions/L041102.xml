@@ -13,11 +13,11 @@
             <title type="iso-date">1907-12-20</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -149,7 +149,9 @@
                   <hi rend="latintype">Mildenburg</hi>
                </rs> oben auf dem Kasten saßen. Dieser Pl<damage agent="hole">
                   <supplied>atz</supplied>
-               </damage> war Euch reservirt; die übrigen Gestalten trieben sich in tieferen Regionen herum. Jetzt scherzt man darüber! So gut es <rs type="person" ref="#pmb2173">Olga</rs> im ganzen schon geht – wir müssen noch längere Zeit <anchor type="commentary" xml:id="KL102-1">contumazirt</anchor> bleiben. (Unser <rs type="person" subtype="implied" ref="#pmb12692">Bub</rs> wohnt seit 14 Tagen bei seiner <rs type="person" subtype="implied" ref="#pmb12701">Großmama</rs>). Also ob ich dich noch vor Deiner Abreise sehen werde? Mir wärs natürlich sehr lieb. (für alle Fälle sei’s gesagt: ich bin sorg<pb/>fältig desinfizirt eh ich Briefe schreibe)</p>
+               </damage> war Euch reservirt; die übrigen Gestalten trieben sich in tieferen Regionen herum. Jetzt scherzt man darüber! So gut es <rs type="person" ref="#pmb2173">Olga</rs> im ganzen schon geht – wir müssen noch längere Zeit <anchor type="commentary" xml:id="KL102-1"/>contumazirt<note type="commentary" xml:id="KL102-1h">
+                  <p>in Quarantäne.</p>
+               </note> bleiben. (Unser <rs type="person" subtype="implied" ref="#pmb12692">Bub</rs> wohnt seit 14 Tagen bei seiner <rs type="person" subtype="implied" ref="#pmb12701">Großmama</rs>). Also ob ich dich noch vor Deiner Abreise sehen werde? Mir wärs natürlich sehr lieb. (für alle Fälle sei’s gesagt: ich bin sorg<pb/>fältig desinfizirt eh ich Briefe schreibe)</p>
             <p>Vielleicht hast du Zeit mir, wenigstens in ein paar Zeilen etwas über dich zu sagen; ich weiss so gut wie nichts von dir. – </p>
             <closer>Herzlichst grüßt dich (u meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> thut desgleichen)<lb/>dein<lb/>
                <signed>Arthur </signed>

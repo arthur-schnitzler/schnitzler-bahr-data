@@ -13,11 +13,11 @@
             <title type="iso-date">1894-07-29</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,7 +117,12 @@
             </address>
          </div>
          <div type="writingSession" n="1">
-            <p>Mein Telephon ist <anchor type="commentary" xml:id="KL171-1">6415</anchor>.</p>
+            <p>Mein Telephon ist <anchor type="commentary" xml:id="KL171-1"/>6415<note type="commentary" xml:id="KL171-1h">
+                  <p>Die Nummer der Redaktion der <rs type="org" ref="#pmb29209">Zeit</rs>. Privat war er
+               am <date when="1894-05-08" instant="false">8. 5. 1894</date> in die <rs type="place" ref="#pmb770">Lammgasse 3</rs> übersiedelt. Hier weist ihn das Adressverzeichnis <rs type="work" ref="#pmb32580">Lehmann</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">1895</date> ebenfalls als »Telephonabonnent« aus, Nr. 4531.</p>
+               </note>.</p>
             <closer>Herzlichst<lb/>
                <signed>Bahr</signed>
             </closer>

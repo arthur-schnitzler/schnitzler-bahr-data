@@ -13,11 +13,11 @@
             <title type="iso-date">1901-09-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -123,7 +123,13 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>mein lieber Hermann, </salute>ich schicke dir <add place="above">heute</add> die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">3 Einakter</rs>. Mein Bedenken, die <anchor type="commentary" xml:id="KL039-1">Kürze des Abends betreffend</anchor>, ist wieder rege geworden; und ich habe die Absicht, einen <rs type="work" subtype="implied" ref="#pmb29873">vierten Einakter</rs>, der mir gestern einfiel und in Sinn und Form zu den bis jetzt vorliegenden passt, zu schreiben. Ob ich gleich die rechte Stimmung dafür finden werde, ist natürlich noch nicht ausgemacht. Jedenfalls bitt’<pb/> ich dich, vor allem einmal diese 3 <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">Stücke</rs> zu lesen, u. zw. in der Reihenfolge »<add place="inline">1)</add>
+               <salute>mein lieber Hermann, </salute>ich schicke dir <add place="above">heute</add> die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">3 Einakter</rs>. Mein Bedenken, die <anchor type="commentary" xml:id="KL039-1"/>Kürze des Abends betreffend<note type="commentary" xml:id="KL039-1h">
+                  <p>
+                     <bibl >A. S. <rs type="work">Tb</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">6. 9. 1901</date>
+                     </bibl>: »<quote>Die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">3 Einakter</rs> zu kurz.</quote>«</p>
+               </note>, ist wieder rege geworden; und ich habe die Absicht, einen <rs type="work" subtype="implied" ref="#pmb29873">vierten Einakter</rs>, der mir gestern einfiel und in Sinn und Form zu den bis jetzt vorliegenden passt, zu schreiben. Ob ich gleich die rechte Stimmung dafür finden werde, ist natürlich noch nicht ausgemacht. Jedenfalls bitt’<pb/> ich dich, vor allem einmal diese 3 <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">Stücke</rs> zu lesen, u. zw. in der Reihenfolge »<add place="inline">1)</add>
                <space unit="chars" quantity="1"/>
                <rs type="work" ref="#pmb29865">Die Frau mit dem Dolch</rs>«. 2) <rs type="work" ref="#pmb29957">Lebendige Stunden</rs>
                <damage agent="hole">
@@ -142,9 +148,21 @@
          </div>
          <div type="writingSession" n="2">
             <p>Der Zufall fügte es, dass ich, durch ein teleph. Ersuchen <rs type="person" ref="#pmb11848">Kadelburgs</rs> veranlasst, die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">Stücke</rs> in der Direktion überreichte. Ich bat, das man sie<pb/> dir zukommen ließe, was wohl bereits geschehen ist</p>
-            <p>Indess hab ich den <rs type="work" subtype="implied" ref="#pmb29873">vierten Einakter</rs> zu schreiben begonnen und hoffe, dass er sich, wie vielleicht noch ein <anchor type="commentary" xml:id="KL039-2">
-                  <rs type="work" subtype="implied" ref="#pmb29877">fünfter</rs>
-               </anchor> dem Cyklus gut einfügen wird</p>
+            <p>Indess hab ich den <rs type="work" subtype="implied" ref="#pmb29873">vierten Einakter</rs> zu schreiben begonnen und hoffe, dass er sich, wie vielleicht noch ein <anchor type="commentary" xml:id="KL039-2"/>
+               <rs type="work" subtype="implied" ref="#pmb29877">fünfter</rs>
+               <note type="commentary" xml:id="KL039-2h">
+                  <p>
+                     <rs type="work" ref="#pmb29877">Die letzten Masken</rs>. Am <date instant="false">16. 9.</date>
+               schreibt er an diesem und am <rs type="work" ref="#pmb29873">Puppenspieler</rs>. Die
+               Unterscheidung zwischen den zwei Stoffen ergibt sich aus der Formulierung
+                  »<quote>gestern einfiel</quote>« in diesem Brief, da bereits im Frühjahr eine
+               erste dramatische Fassung der <rs type="work" ref="#pmb29877">Letzten Masken</rs>
+               entstanden war, siehe Kommentar zum Brief vom <date instant="false">[14. 3.? 1901]</date>, <ptr target="LKommKL038-3"/>. Die Arbeit geht schnell voran, so dass am
+                  <date instant="false">22.</date> die <rs type="work" ref="#pmb29877">Masken</rs> vorliegen,
+               während <rs type="work" ref="#pmb29873">Der Puppenspieler</rs> »<quote>noch auf ein
+                  oder zwei gute Stunden zur Vollendung</quote>« wartet (<bibl >
+                        <rs type="work">Bw</rs> Schnitzler/Brahm 95</bibl>).</p>
+               </note> dem Cyklus gut einfügen wird</p>
             <closer>herzlichst <signed>A.</signed>
             </closer>
             <postscript>

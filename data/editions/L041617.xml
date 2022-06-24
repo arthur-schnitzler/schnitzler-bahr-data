@@ -13,11 +13,11 @@
             <title type="iso-date">1909-07-10</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,14 +103,22 @@
                </dateline>
             </opener>
             <p>
-               <salute>Danke schön, lieber Herr Bahr, </salute>für Ihr Telegramm. Diese »<anchor type="commentary" xml:id="KL617-1">
-                  <rs type="org" subtype="implied" ref="#pmb29242">Auszeichnung</rs>
-               </anchor>«, von der ich übrigens nur aus den Blättern bisher weiss, ist eine Attake von <rs type="person" ref="#pmb2400">Björn Björnson</rs>, und ich bin sehr gerührt, dass Sie »Demokrat« mir, nichts weniger als »ruppig«, dazu sogar gratuliren. Nun lassen <hi rend="underline" n="1">Sie</hi> sich aber auch die <anchor type="commentary" xml:id="KL617-2">Hand schütteln, und das herzlich, zu der neu entstehenden Leben<subst>
-                     <del rend="overwritten">
-                        <gap quantity="1" unit="chars" reason="illegible"/>
-                     </del>
-                     <add place="inline">s</add>
-                  </subst>ordnung bei Ihnen, von der die Blätter mir erzählt haben</anchor>! Und empfehlen Sie mich aufs Schönste Frl. <rs type="person" ref="#pmb10818">v. Mildenburg</rs>, bitte.</p>
+               <salute>Danke schön, lieber Herr Bahr, </salute>für Ihr Telegramm. Diese »<anchor type="commentary" xml:id="KL617-1"/>
+               <rs type="org" subtype="implied" ref="#pmb29242">Auszeichnung</rs>
+               <note type="commentary" xml:id="KL617-1h">
+                  <p>Ernennung zum Ritter des <rs type="org" ref="#pmb29242">Sankt-Olav-Ordens</rs>.</p>
+               </note>«, von der ich übrigens nur aus den Blättern bisher weiss, ist eine Attake von <rs type="person" ref="#pmb2400">Björn Björnson</rs>, und ich bin sehr gerührt, dass Sie »Demokrat« mir, nichts weniger als »ruppig«, dazu sogar gratuliren. Nun lassen <hi rend="underline" n="1">Sie</hi> sich aber auch die <anchor type="commentary" xml:id="KL617-2"/>Hand schütteln, und das herzlich, zu der neu entstehenden Leben<subst>
+                  <del rend="overwritten">
+                     <gap quantity="1" unit="chars" reason="illegible"/>
+                  </del>
+                  <add place="inline">s</add>
+               </subst>ordnung bei Ihnen, von der die Blätter mir erzählt haben<note type="commentary" xml:id="KL617-2h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb10818">Anna von Mildenburg</rs> hatten sich Anfang Juli in <rs type="place" ref="#pmb734">Bayreuth</rs> verlobt. Die Meldung stand zuerst im <bibl >
+                        <rs type="org" ref="#pmb29406">Berliner Börsencourier</rs> (Jg. 41, Nr. 307,
+                     <date instant="false">4. 7. 1909</date>, Morgen-Ausgabe, 1. Beilage, S. 2</bibl>) und wurde in
+               der Folgewoche häufig nachgedruckt.</p>
+               </note>! Und empfehlen Sie mich aufs Schönste Frl. <rs type="person" ref="#pmb10818">v. Mildenburg</rs>, bitte.</p>
             <p>
                <rs type="person" ref="#pmb2121">Schnitzler</rs> ist es auch angenehm, mit Ihnen zusammen zu marschiren, und er bittet, das <rs type="work" subtype="implied" ref="#pmb29933">Stück</rs> lesen zu dürfen. Kann ich’s ihm schicken? Nächstens dann mehr. Bestens Ihr</p>
             <closer>
@@ -118,12 +126,14 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL617-1">In Sachen <rs type="person" ref="#pmb2303">Ritscher</rs> kann ich augenblicklich nichts sagen. Das Frl. mag sich im Herbst, wenn <subst>
-                        <del rend="overwritten">
-                           <gap quantity="1" reason="illegible" unit="chars"/>
-                        </del>
-                        <add place="inline">s</add>
-                     </subst>ie Lust hat, melden.</anchor>
+                  <anchor type="textConst" xml:id="TL617-1"/>In Sachen <rs type="person" ref="#pmb2303">Ritscher</rs> kann ich augenblicklich nichts sagen. Das Frl. mag sich im Herbst, wenn <subst>
+                     <del rend="overwritten">
+                        <gap quantity="1" reason="illegible" unit="chars"/>
+                     </del>
+                     <add place="inline">s</add>
+                  </subst>ie Lust hat, melden.<note type="textConst" xml:id="TL617-1h">
+                     <p>Am Seitenrand entlang des restlichen Texts hinzugefügt.</p>
+                  </note>
                </p>
             </postscript>
          </div>

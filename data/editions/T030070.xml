@@ -14,11 +14,11 @@
             <title type="iso-date">1908-10-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,12 +41,12 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="070"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AB3-C</idno>
          </publicationStmt>
          <seriesStmt>
-            <p part="N">Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
+            <p>Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
          </seriesStmt>
          <sourceDesc>
             <origDate when="1908-10-15" n="1">Mitte Oktober – 8. 11. 1908</origDate>
@@ -60,7 +60,7 @@
                         <idno>HS VM 2625 Ba</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">1 Bl., 1 S., eh., Bleistift, Buntstift, Tinte</p>
+                        <p>1 Bl., 1 S., eh., Bleistift, Buntstift, Tinte</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -80,17 +80,24 @@
    <text type="text">
       <body>
          <div type="writingSession" n="1">
-            <p part="N">
-               <anchor type="commentary" xml:id="KT070-1">
-                  <rs type="work" subtype="implied" ref="#pmb31089">Novellen Büchl</rs>
-               </anchor>
+            <p>
+               <anchor type="commentary" xml:id="KT070-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31089">Novellen Büchl</rs>
+               <note type="commentary" xml:id="KT070-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31089">Stimmen des Bluts. Novellen</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1909</date>
+                     </bibl>.</p>
+               </note>
             </p>
-            <p part="N">geschickt an <rs type="person" ref="#pmb11036">Burckhard</rs>, <rs type="person" ref="#pmb10875">Benedikt</rs>
+            <p>geschickt an <rs type="person" ref="#pmb11036">Burckhard</rs>, <rs type="person" ref="#pmb10875">Benedikt</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb10788">Auernheimer</rs>, <rs type="person" ref="#pmb2947">Epstein</rs>, <rs type="person" ref="#pmb3021">Sternberg</rs>, <rs type="person" ref="#pmb3711">Levin</rs>, <rs type="person" ref="#pmb2202">Singer</rs>, <rs type="person" ref="#pmb3280">Kolo</rs>, <rs type="person" ref="#pmb28256">Magda</rs>, <rs type="person" ref="#pmb3715">Sitte</rs>, <rs type="person" ref="#pmb2121">Schnitzler</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb12481">Redlich</rs>, <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>, <rs type="person" ref="#pmb2229">Handl</rs>, <rs type="person" ref="#pmb13212">Zweig</rs>, <rs type="person" ref="#pmb2456">Specht</rs>, <rs type="person" ref="#pmb13163">Theodor Wolff</rs>, <rs type="person" ref="#pmb2124">Machar</rs>, D<hi rend="superscript">r</hi>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb12826">Stefan</rs>,</p>
-            <p part="N">
+            <p>
                <unclear>Schicken</unclear> an <del rend="strikethrough">
                   <rs type="person" ref="#pmb2229">
                      <hi rend="underline" n="1">Handl</hi>
@@ -99,7 +106,7 @@
                <space unit="chars" quantity="3"/>
                <rs type="person" ref="#pmb11527">Grossmann</rs>, <rs type="person" ref="#pmb28148">Zweybrück</rs>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb2121">Schnitzler</rs>
                </del>, <del rend="strikethrough">
@@ -114,21 +121,21 @@
                   <rs type="person" ref="#pmb13212">Zweig</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb13163">Theodor Wolff</rs> | <rs type="person" ref="#pmb2456">Specht</rs>
                </del> |</p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb10955">Blei</rs>
                   <space unit="chars" quantity="3"/>
                   <rs type="person" ref="#pmb11760">Holm</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11771">Holzer</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="work" subtype="implied" ref="#pmb31093">Kritik</rs> von <rs type="person" ref="#pmb11036">Burckhard</rs> im <rs type="org" ref="#pmb29306">Pester Lloyd</rs>
                <space unit="chars" quantity="1"/>
                <date when="1908-11-08">8. 11. 08</date>

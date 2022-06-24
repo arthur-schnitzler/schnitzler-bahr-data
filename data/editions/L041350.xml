@@ -13,11 +13,11 @@
             <title type="iso-date">1930-02-18</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,9 +108,13 @@
                </dateline>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Wenn ich Dir für die große Freude, die mir Dein lieber Brief bereitet, nur ganz kurz <del rend="strikethrough">antw</del> danke, so mußt Du das mit meinem elenden Zustand entschuldigen: ich bin seit Jahren schon immer wenn der Februar beginnt und so lange bis der April kommt, krank, sozusagen von oben bis unten und durch und durch krank; eben jetzt lag ich wieder eine Woche zu Bett, und das Schlimmste daran ist, daß meine Sehkraft schwindet, ich bin auf dem rechten Auge schon erblindend und das linke will schon auch nicht mehr recht seinen Pflichten genügen. »<anchor type="commentary" xml:id="KL350-1">
-                  <rs type="work" subtype="implied" ref="#pmb30009">In Bereitschaft sein ist alles!</rs>
-               </anchor>«, nun ich bin bereit, aber es ist nicht angenehm.</p>
+            <p>Wenn ich Dir für die große Freude, die mir Dein lieber Brief bereitet, nur ganz kurz <del rend="strikethrough">antw</del> danke, so mußt Du das mit meinem elenden Zustand entschuldigen: ich bin seit Jahren schon immer wenn der Februar beginnt und so lange bis der April kommt, krank, sozusagen von oben bis unten und durch und durch krank; eben jetzt lag ich wieder eine Woche zu Bett, und das Schlimmste daran ist, daß meine Sehkraft schwindet, ich bin auf dem rechten Auge schon erblindend und das linke will schon auch nicht mehr recht seinen Pflichten genügen. »<anchor type="commentary" xml:id="KL350-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30009">In Bereitschaft sein ist alles!</rs>
+               <note type="commentary" xml:id="KL350-1h">
+                  <p>
+                     <rs type="work" ref="#pmb30009">Hamlet</rs>, V, 2: »<quote>The readiness is
+                  all</quote>«.</p>
+               </note>«, nun ich bin bereit, aber es ist nicht angenehm.</p>
             <p>Deine Bücher habe ich alle, besonders die <rs type="work" ref="#pmb30053">Sprüche und Bedenken</rs> sind mir vertraut und wenn ich nicht mit<pb/> allem »einverstanden« bin, so weiß ich mich in alles »einzufühlen«.</p>
             <p>Sag’s nicht weiter, wenn ich Dir gestehe, daß von Jahr zu Jahr mein Heimweh nach <rs type="place" ref="#pmb50">Wien</rs> wächst, fast so stark wie das meiner <rs type="person" subtype="implied" ref="#pmb10818">Frau</rs>, die vor Sehnsucht, in <rs type="place" ref="#pmb50">Wien</rs> zu wirken, fast vergeht. Aber <rs type="place" ref="#pmb50">Wien</rs> ist vergeßlich und so werden wir wohl in der Verbannung sterben.</p>
             <p>Herzlichst Dein gedenkend, auch die paar Freunde, die noch meiner gedenken, bestens grüßend</p>

@@ -13,11 +13,11 @@
             <title type="iso-date">1897-11-10</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,7 +81,15 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb24382">Fanny Sch.</rs>, <rs type="person" ref="#pmb2453">Olga</rs>s Schwester bei mir, will sich meine Briefe als Andenken behalten.– <rs type="person" ref="#pmb2928">Jauner</rs> bei mir, für das Vertrauen dankend, Contract bringend, mein <rs type="work" subtype="implied" ref="#pmb29899">Stück</rs> nicht kennend.– <rs type="person" ref="#pmb2378">Mz. Rh.</rs>– Von <rs type="person" ref="#pmb10765">Andrian</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD174-2">Brief</anchor> mit <anchor type="commentary" xml:id="KD174-1">Tabesfurcht</anchor>.– Im Kfh., <rs type="person" ref="#pmb14650">Bucek</rs>, <rs type="person" ref="#pmb26888">Fifi</rs>s jetziger Geliebter, der zur Bühne gehn will und mir vortragen.– <rs type="person" ref="#pmb12740">Schwarzkopf</rs>, <rs type="person" ref="#pmb2167">Salten</rs>;– <rs type="person" ref="#pmb11036">Burckhard</rs> mit <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb11036">Burckh.</rs> drängt wegen meines <rs type="work" subtype="implied" ref="#pmb30219">Stücks</rs>, möcht es sobald als möglich; <rs type="person" ref="#pmb10815">Bahr</rs> wird »<rs type="work" ref="#pmb29833">Todte schweigen</rs>« öffentlich lesen.– Wer mir vor 5 Jahren etwa diesen Tag prophezeit hätte – und zugleich, dass ich ihn in tiefster Verstimmung verbringen würde, wegen meines unerträglichen Ohrenklingens.</p>
+               <anchor type="commentary" xml:id="KD174-2"/>Brief<note type="commentary" xml:id="KD174-2h">
+                  <p>Brief vom <date instant="false">8. 11. 1897</date>, abgedruckt in <bibl >
+                        <rs type="work">Leopold von Andrian (1875–1951). Korrespondenzen, Notizen,
+                     Berichte</rs>. Hg. Ursula Prutsch und Klaus Zeyringer. Wien, Köln, Weimar: <rs type="org">Böhlau</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">2004</date>, S. 76–79</bibl>.</p>
+               </note> mit <anchor type="commentary" xml:id="KD174-1"/>Tabesfurcht<note type="commentary" xml:id="KD174-1h">
+                  <p>Tabes dorsalis: Rückenmarkserkrankung, durch Syphilis verursacht.</p>
+               </note>.– Im Kfh., <rs type="person" ref="#pmb14650">Bucek</rs>, <rs type="person" ref="#pmb26888">Fifi</rs>s jetziger Geliebter, der zur Bühne gehn will und mir vortragen.– <rs type="person" ref="#pmb12740">Schwarzkopf</rs>, <rs type="person" ref="#pmb2167">Salten</rs>;– <rs type="person" ref="#pmb11036">Burckhard</rs> mit <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb11036">Burckh.</rs> drängt wegen meines <rs type="work" subtype="implied" ref="#pmb30219">Stücks</rs>, möcht es sobald als möglich; <rs type="person" ref="#pmb10815">Bahr</rs> wird »<rs type="work" ref="#pmb29833">Todte schweigen</rs>« öffentlich lesen.– Wer mir vor 5 Jahren etwa diesen Tag prophezeit hätte – und zugleich, dass ich ihn in tiefster Verstimmung verbringen würde, wegen meines unerträglichen Ohrenklingens.</p>
          </div>
       </body>
    </text>

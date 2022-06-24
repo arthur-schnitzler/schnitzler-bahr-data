@@ -13,11 +13,11 @@
             <title type="iso-date">1907-01-11</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,8 +107,14 @@
                   </rs> den <date>11. 1. 07</date>.</dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich war <anchor type="commentary" xml:id="KL304-2">vierzehn Tage</anchor> auf dem <rs type="place" ref="#pmb189">Semmering</rs> und bin nun seit Dienstag hier, für etwa zwölf Tage, mit dem Vorsatze: 1. Das <anchor type="commentary" xml:id="KL304-1">Regiebuch von <rs type="work" ref="#pmb29915">Hedda Gabler</rs>
-               </anchor> zu machen, deren Proben am <date>24. d.</date> beginnen sollen. 2. <subst>
+            <p>Ich war <anchor type="commentary" xml:id="KL304-2"/>vierzehn Tage<note type="commentary" xml:id="KL304-2h">
+                  <p>Nachweisbar war <rs type="person" ref="#pmb10815">Bahr</rs> am <date instant="false">2.</date> und
+                  <date instant="false">4. 1. 1907</date> auf dem <rs type="place" ref="#pmb189">Semmering</rs>.</p>
+               </note> auf dem <rs type="place" ref="#pmb189">Semmering</rs> und bin nun seit Dienstag hier, für etwa zwölf Tage, mit dem Vorsatze: 1. Das <anchor type="commentary" xml:id="KL304-1"/>Regiebuch von <rs type="work" ref="#pmb29915">Hedda Gabler</rs>
+               <note type="commentary" xml:id="KL304-1h">
+                  <p>In <rs type="person" ref="#pmb10815">Bahrs</rs> Nachlass (<bibl >
+                        <rs type="org">TMW</rs>, HS VM 3683 Ba</bibl>). Die Premiere von <rs type="person" ref="#pmb11798">Ibsen</rs>s <rs type="work" subtype="implied" ref="#pmb29915">Stück</rs> am <date instant="false">11. 3. 1907</date>.</p>
+               </note> zu machen, deren Proben am <date>24. d.</date> beginnen sollen. 2. <subst>
                   <del rend="overwritten">z</del>
                   <add place="inline">Z</add>
                </subst>u versuchen, ob mein neues <rs type="work" subtype="implied" ref="#pmb30021">Stück</rs> schon so weit ist, dass sich mir ungefähr ein Szenarium ergibt, welches dann im Sommer ausgearbeitet werden soll, und 3. ein<pb/>mal mit Dir, <rs type="person" ref="#pmb10863">Richard</rs> und <rs type="person" ref="#pmb2167">Salten</rs> zusammen zu sein, einmal mit <rs type="person" ref="#pmb2273">Kainz</rs>, gelegentlich auch <rs type="person" ref="#pmb2226">Fred</rs> und <rs type="person" ref="#pmb2229">Handl</rs> zu sehen, sonst aber mich zu verstecken. Dies ist es was ich »incognito« nenne. Meine Absicht war, Dir vorzuschlagen, ob ich nicht nächste Woche einmal von <subst>

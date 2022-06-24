@@ -13,11 +13,11 @@
             <title type="iso-date">1906-03-28</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -110,26 +110,49 @@
                      <gap quantity="5" reason="illegible" unit="chars"/>
                   </del>
                   <add place="inline">seit</add>
-               </subst> langem Winter wieder die erste Frühlingswärme, die erste Sonne wieder da, und alle Reisepläne, alles Reiseverlangen – »Wanderslust« – regt sich. An solchen Tagen hat auch <rs type="place" ref="#pmb168">Berlin</rs> seine Schönheit. An solchen Tagen würde übrigens auch <rs type="place" ref="#pmb918">Magdeburg</rs> oder <rs type="place" ref="#pmb37728">Genthinen</rs> nicht ohne Reiz sein. Ich überlege mir heute zum 20<hi rend="superscript">ten</hi> Mal, wie man es macht, sich ein ganz ein kleines Automobil zu kaufen. Geht aber leider im Moment nicht. Wenn ich die große Zeitung gegründet habe, <rs type="org" ref="#pmb29351">Neue freie Presse</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, eine Wochenschrift im <rs type="org" ref="#pmb29631">Zukunft</rs>-Stil und dann vier Blätter regiere, statt zwei (was ich armselig finde) dann werde ich, gewiss auch das langerflehte Auto haben. Inzwischen freu ich mich, wenn nur eine Radtour zustande kommt, und die übrigen Dinge, die ich für den Sommer vorhabe (<rs type="place" ref="#pmb44016">Holland</rs>, zu Wasser nach <rs type="place" ref="#pmb907">Kiel</rs>) Die Radtour könnte auch durch einige deutsche Städte gemacht werden, – <rs type="place" ref="#pmb856">Rothenburg ob. d. Tauber</rs> – <rs type="place" ref="#pmb734">Bayreuth</rs>, wozu man freilich jetzt schon die Sitze bestellen müsste. Das <anchor type="commentary" xml:id="KL373-1">
-                  <rs type="place" subtype="implied" ref="#pmb959">dänische Seebad</rs>
-               </anchor>, das Sie vorhaben, verdrießt mich – wenn ich aufrichtig sein darf – immer. Weil ich <c rendition="#dots" n="2" place="center"/> aus wirthschaftlichen Gründen <c rendition="#dots" n="2" place="center"/> nicht hinkann, wenn ich schon einmal an der <geogName type="sea">Ostsee</geogName> sitze, und weil ich mir denke, wenn uns ein mehrwöchiges Beisammensein schon beschieden sein könnte, dann ließe sich vielleicht doch auf <rs type="place" ref="#pmb43570">Dänemark</rs> verzichten. Der Unterschied ist nicht so groß, und Wälder gibt’s auch am diesseitigen Strand der <geogName type="sea">Ostsee</geogName>.</p>
+               </subst> langem Winter wieder die erste Frühlingswärme, die erste Sonne wieder da, und alle Reisepläne, alles Reiseverlangen – »Wanderslust« – regt sich. An solchen Tagen hat auch <rs type="place" ref="#pmb168">Berlin</rs> seine Schönheit. An solchen Tagen würde übrigens auch <rs type="place" ref="#pmb918">Magdeburg</rs> oder <rs type="place" ref="#pmb37728">Genthinen</rs> nicht ohne Reiz sein. Ich überlege mir heute zum 20<hi rend="superscript">ten</hi> Mal, wie man es macht, sich ein ganz ein kleines Automobil zu kaufen. Geht aber leider im Moment nicht. Wenn ich die große Zeitung gegründet habe, <rs type="org" ref="#pmb29351">Neue freie Presse</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, eine Wochenschrift im <rs type="org" ref="#pmb29631">Zukunft</rs>-Stil und dann vier Blätter regiere, statt zwei (was ich armselig finde) dann werde ich, gewiss auch das langerflehte Auto haben. Inzwischen freu ich mich, wenn nur eine Radtour zustande kommt, und die übrigen Dinge, die ich für den Sommer vorhabe (<rs type="place" ref="#pmb44016">Holland</rs>, zu Wasser nach <rs type="place" ref="#pmb907">Kiel</rs>) Die Radtour könnte auch durch einige deutsche Städte gemacht werden, – <rs type="place" ref="#pmb856">Rothenburg ob. d. Tauber</rs> – <rs type="place" ref="#pmb734">Bayreuth</rs>, wozu man freilich jetzt schon die Sitze bestellen müsste. Das <anchor type="commentary" xml:id="KL373-1"/>
+               <rs type="place" subtype="implied" ref="#pmb959">dänische Seebad</rs>
+               <note type="commentary" xml:id="KL373-1h">
+                  <p>
+                     <rs type="place" ref="#pmb959">Marienlyst (bei Helsingør)</rs>.</p>
+               </note>, das Sie vorhaben, verdrießt mich – wenn ich aufrichtig sein darf – immer. Weil ich <c rendition="#dots" n="2" place="center"/> aus wirthschaftlichen Gründen <c rendition="#dots" n="2" place="center"/> nicht hinkann, wenn ich schon einmal an der <geogName type="sea">Ostsee</geogName> sitze, und weil ich mir denke, wenn uns ein mehrwöchiges Beisammensein schon beschieden sein könnte, dann ließe sich vielleicht doch auf <rs type="place" ref="#pmb43570">Dänemark</rs> verzichten. Der Unterschied ist nicht so groß, und Wälder gibt’s auch am diesseitigen Strand der <geogName type="sea">Ostsee</geogName>.</p>
             <p>Augenblicklich ist Wien durch M<hi rend="superscript">
                   <hi rend="underline" n="1">r</hi>
                </hi>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb12968">Triebeitsch</rs> vertreten, der in seinem Premierenfieber wegen <rs type="person" ref="#pmb2381">Shaw</rs> das Maß des lächerlichen erreicht. Seine erste Frage, als er hier eintraf, war (natürlich per Telefon) was ich von seinem <anchor type="commentary" xml:id="KL373-2">
-                  <rs type="work" subtype="implied" ref="#pmb32516">Vorschlag</rs>
-               </anchor> in der »<rs type="org" ref="#pmb29348">Schaubühne</rs>« halte. Ich sagte, dass ich dagegen sei. Er ließ seinen erstaunten Klagelaut vernehmen, und meinte dann,<pb/>
+               <rs type="person" ref="#pmb12968">Triebeitsch</rs> vertreten, der in seinem Premierenfieber wegen <rs type="person" ref="#pmb2381">Shaw</rs> das Maß des lächerlichen erreicht. Seine erste Frage, als er hier eintraf, war (natürlich per Telefon) was ich von seinem <anchor type="commentary" xml:id="KL373-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32516">Vorschlag</rs>
+               <note type="commentary" xml:id="KL373-2h">
+                  <p>Er forderte die Gründung einer »<quote>Société des Auteurs</quote>«, <bibl >
+                        <rs type="person" ref="#pmb12968">Siegfried Trebitsch</rs>: <rs type="work" ref="#pmb32516">Bühnenvertrieb</rs>. In: <rs type="org" ref="#pmb29348">Die
+                     Schaubühne</rs>, Jg. 2, Nr. 12, <date instant="false">22. 3. 1906</date>,
+               S. 348–350</bibl>.</p>
+               </note> in der »<rs type="org" ref="#pmb29348">Schaubühne</rs>« halte. Ich sagte, dass ich dagegen sei. Er ließ seinen erstaunten Klagelaut vernehmen, und meinte dann,<pb/>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">Sie</hi> hätten ihm einen »begeisterten Brief« geschrieben. Ich bin wirklich nicht sehr für diesen Vorschlag, der nur aus der Seidenbranche kommt; glaube an Ihre »Begeisterung« natürlich nicht, und halte die ganze Sache für unwichtig. Auch die Dienstboten betrügen uns, und man denkt nicht daran, sie abzuschaffen. Es fragt sich immer nur, um wie viel die Agenten die Autoren übervorteilen. Und das ist im Ganzen <unclear>nicht</unclear> gar so erheblich.</p>
-            <p>Heute schrieb mir <rs type="person" ref="#pmb10815">Bahr</rs>, dass er Samstag Abend auf zwei Tage herkommt. Das ist mir weitaus angenehmer. Sonst bin ich ziemlich allein; kann mir zu <rs type="person" ref="#pmb11581">Harden</rs> kein Herz faßen seit jenem <anchor type="commentary" xml:id="KL373-3">
-                  <rs type="work" subtype="implied" ref="#pmb32518">Artikel</rs>
-               </anchor> und hab’ ihn seither auch nicht gesehen noch gesucht. Heute – es ist überhaupt ein lebhafter Tag – telefonirte mir Ihre <rs type="person" subtype="implied" ref="#pmb24423 #pmb2315">Schwägerin</rs> wegen einer Schiffskarte. Ich bat sie, dieser Tage zu mir zu kommen, damit wir alles genauer besprechen.</p>
-            <p>Hier lege ich Ihnen das zweite <anchor type="commentary" xml:id="KL373-4">
-                  <rs type="work" subtype="implied" ref="#pmb32428">Russenfeuilleton</rs>
-               </anchor> bei, und <rs type="work" subtype="implied" ref="#pmb32430">das<space unit="chars" quantity="1"/>
-                  <anchor type="commentary" xml:id="KL373-5">über <rs type="work" ref="#pmb32514">Kater Lampe</rs>
-                  </anchor>
+            <p>Heute schrieb mir <rs type="person" ref="#pmb10815">Bahr</rs>, dass er Samstag Abend auf zwei Tage herkommt. Das ist mir weitaus angenehmer. Sonst bin ich ziemlich allein; kann mir zu <rs type="person" ref="#pmb11581">Harden</rs> kein Herz faßen seit jenem <anchor type="commentary" xml:id="KL373-3"/>
+               <rs type="work" subtype="implied" ref="#pmb32518">Artikel</rs>
+               <note type="commentary" xml:id="KL373-3h">
+                  <p>Die Besprechung der Aufführungen von <rs type="person" ref="#pmb11740">Hofmannsthal</rs>: <rs type="work" ref="#pmb31189">Oedipus und die Sphinx</rs>
+               und von <rs type="person" ref="#pmb2121">Schnitzler</rs>: <rs type="work" ref="#pmb29905">Der Ruf des Lebens</rs>, <bibl >
+                        <rs type="person" ref="#pmb11581">M. H.</rs>: <rs type="work" ref="#pmb32518">Theater</rs>. In: <rs type="org" ref="#pmb29631">Die Zukunft</rs>, Bd. 54,
+                  H. 9, <date instant="false">3. 3. 1906</date>, S. 346–356</bibl>.</p>
+               </note> und hab’ ihn seither auch nicht gesehen noch gesucht. Heute – es ist überhaupt ein lebhafter Tag – telefonirte mir Ihre <rs type="person" subtype="implied" ref="#pmb24423 #pmb2315">Schwägerin</rs> wegen einer Schiffskarte. Ich bat sie, dieser Tage zu mir zu kommen, damit wir alles genauer besprechen.</p>
+            <p>Hier lege ich Ihnen das zweite <anchor type="commentary" xml:id="KL373-4"/>
+               <rs type="work" subtype="implied" ref="#pmb32428">Russenfeuilleton</rs>
+               <note type="commentary" xml:id="KL373-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb32428">Russisches Theater. II</rs>. In: <rs type="org" ref="#pmb29702">B. Z. am Mittag</rs>, Jg. 30, Nr. 70, <date instant="false">23. 3. 1906</date>,
+               S. 2–3</bibl>.</p>
+               </note> bei, und <rs type="work" subtype="implied" ref="#pmb32430">das<space unit="chars" quantity="1"/>
+                  <anchor type="commentary" xml:id="KL373-5"/>über <rs type="work" ref="#pmb32514">Kater Lampe</rs>
+                  <note type="commentary" xml:id="KL373-5h">
+                     <p>
+                        <bibl >Das <rs type="work" subtype="implied" ref="#pmb32514">Stück</rs> von <rs type="person" ref="#pmb12560">Rosenow</rs> besprochen in: <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb32430">»Kater
+                     Lampe«</rs>. In: <rs type="org" ref="#pmb29702">B. Z. am Mittag</rs>, Jg. 30,
+                  Nr. 72, <date instant="false">26. 3. 1906</date>, S. 2</bibl>.</p>
+                  </note>
                </rs>. Herzliche Grüße von uns zu Ihnen.</p>
             <closer>Ihr <signed>Salten</signed>
             </closer>

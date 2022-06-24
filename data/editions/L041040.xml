@@ -13,11 +13,11 @@
             <title type="iso-date">1901-09-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -121,9 +121,19 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>lieber Hermann, </salute>es ist sehr freundlich von dir, dass du die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">kleinen Sachen</rs> so schnell gelesen hast. Die Verwandlungsschwierigkeit in der <rs type="work" ref="#pmb29865">Frau mit dem Dolch</rs> wird hoffentlich zu beheben sein, – der Idiotismus des Publikums wohl schwerer. Mehr Sorgen aber macht mir die Besetzung. Ich bin nun mit einem <rs type="work" subtype="implied" ref="#pmb29873">4. Einakter</rs> beschäftigt, für den ich mir gern den <rs type="person" ref="#pmb12265">Mitterwurzer</rs> aus der Erde kratzen möchte, u dass ich auch noch <del rend="strikethrough">den</del> einen <anchor type="commentary" xml:id="KL040-1">
-                  <rs type="work" subtype="implied" ref="#pmb29877">fünften</rs>
-               </anchor> schreibe, ist ziemlich<pb/> sicher. In diesen beiden Stücken wird nun allerdings der »Literaten«typus beträchtlich erweitert, dadurch aber für die »Uneingeweihten« klarer sein. Schön wärs halt, wenn einem ein sehr scharfes Wort als <anchor type="commentary" xml:id="KL040-2">Gesamttitel</anchor> einfiele, das für die anderen so deutlich wäre, wie für unsereinen das Wort »Literat«; aber doch noch mehr sagt.</p>
+               <salute>lieber Hermann, </salute>es ist sehr freundlich von dir, dass du die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">kleinen Sachen</rs> so schnell gelesen hast. Die Verwandlungsschwierigkeit in der <rs type="work" ref="#pmb29865">Frau mit dem Dolch</rs> wird hoffentlich zu beheben sein, – der Idiotismus des Publikums wohl schwerer. Mehr Sorgen aber macht mir die Besetzung. Ich bin nun mit einem <rs type="work" subtype="implied" ref="#pmb29873">4. Einakter</rs> beschäftigt, für den ich mir gern den <rs type="person" ref="#pmb12265">Mitterwurzer</rs> aus der Erde kratzen möchte, u dass ich auch noch <del rend="strikethrough">den</del> einen <anchor type="commentary" xml:id="KL040-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29877">fünften</rs>
+               <note type="commentary" xml:id="KL040-1h">
+                  <p>
+                     <rs type="work" ref="#pmb29877">Die letzten Masken</rs>.</p>
+               </note> schreibe, ist ziemlich<pb/> sicher. In diesen beiden Stücken wird nun allerdings der »Literaten«typus beträchtlich erweitert, dadurch aber für die »Uneingeweihten« klarer sein. Schön wärs halt, wenn einem ein sehr scharfes Wort als <anchor type="commentary" xml:id="KL040-2"/>Gesamttitel<note type="commentary" xml:id="KL040-2h">
+                  <p>Nur <rs type="work" ref="#pmb29877">Die letzten Masken</rs> wurde letztlich zu den
+               bestehenden drei Einaktern hinzugefügt, und diese wurden unter dem Titel <rs type="work" ref="#pmb29863">Lebendige Stunden. Vier Einakter</rs> (<bibl >Berlin:
+                     <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1902</date>
+                     </bibl>) zusammengefasst.</p>
+               </note> einfiele, das für die anderen so deutlich wäre, wie für unsereinen das Wort »Literat«; aber doch noch mehr sagt.</p>
             <closer>Herzlichen Gruß. Dein<lb/>
                <signed>Arthur</signed>
             </closer>

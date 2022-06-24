@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-10</title>
             <author ref="pmb2226">Fred, W.</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -109,8 +109,11 @@
                   <supplied>m</supplied>
                </damage> ver<rs type="place" subtype="implied" ref="#pmb50">wien</rs>erten <rs type="place" ref="#pmb38096">Abbazia</rs>? Ich meine: ist irgend ein ärztlicher Rath massgebend? Oder könnten Sie diese Baeder vielleicht in einem schöneren, wirklich südlichen Ort, <rs type="place" ref="#pmb919">Capri</rs>, <rs type="place" ref="#pmb1010">Amalfi</rs>, <rs type="place" ref="#pmb629">Sorrent</rs> auch haben? Dahin käme ich Ihnen bald nach. Ich könnte am <date>22.</date> oder <date>23.</date> hier weg und ich würde mich herzlich und ungemein freuen, mit Ihnen zu sein. Ich liesse dann <rs type="place" ref="#pmb388">Spanien</rs> noch einmal und gienge auch mit nach <rs type="place" ref="#pmb451">Sicilien</rs>. Alles natürlich, wenn Ihnen angenehm. Aber auch wenn Sie bei <rs type="place" ref="#pmb38096">Abbazia</rs> bleiben wollen, komme ich zu Ihnen – aller Voraussicht nach – und wir können dann vielleicht zusammen weiter gehen – <rs type="place" ref="#pmb966">Constantinopel</rs> ist nichts für mich, zu teuer. Aber wohl auch nichts für Sie: zu unruhig, uncomfortabel etc.</p>
             <p>Übrigens – ich habe gestern mit <rs type="person" ref="#pmb2121">Schnitzler</rs>, der Sie herzlich grüssen lässt–, lange gesprochen. Er meinte, ob Sie <rs type="person" ref="#pmb2216">Ornter</rs> gefragt hätten, wie er über Wechsel eines Sanatoriums, rsp. Aufenthalts <del rend="strikethrough">gesprochen</del> dächte, war aber im Ganzen eher geneigt, Ihr weggehen für gut zu halten. Ich freute mich aber sehr zu hören, dass Ihre schwarze Meinung über Ihren körperlichen Zustand nicht nötig ist. <rs type="person" ref="#pmb11740">Hofmannsthal</rs> war, wie <rs type="person" ref="#pmb2121">Sch.</rs> erzält und ich Ihnen wieder sagen darf, letzte Woche bei <rs type="person" ref="#pmb2216">Orntner</rs>, der sagte, er hätte Ihnen mit Absicht Alles mit<pb/> grossem Nachdruck gesagt, um Sie sicher zu bestimmen, auszuspannen, sich zu erholen, von <rs type="place" ref="#pmb50">Wien</rs> wegzugehen u. anders zu leben. Es sei aber lange nicht so ernst. Also, verzeihen Sie mir die aufgedrängte Weisheit: Machen Sie sich keine argen Gedanken und schauen Sie in die Sonne zu kommen. Ich denke nur, <rs type="place" ref="#pmb38096">Abbazia</rs> wird Sie zu sehr mit aergerlichen <rs type="place" ref="#pmb50">Wien</rs>ern zusammen führen. Mir wäre <rs type="place" ref="#pmb40306">Italien</rs>, für Sie und mich lieber. Die Reise ist ja von <rs type="place" ref="#pmb218">Marbach</rs> wohl die gleiche. –</p>
-            <p>Die <anchor type="commentary" xml:id="KL696-2">Sache mit <rs type="person" ref="#pmb28205">Jennerl</rs>
-               </anchor> dachte ich mir so. An Frau <rs type="person" ref="#pmb20522">M.</rs> zu schreiben, wird mir nicht möglich sein, so sehr ich Ihr Elend spüre. Sie selbst und später noch wer haben mir gesagt, wie sie über meine Gefühle zu ihr – <hi rend="underline" n="1">am</hi>
+            <p>Die <anchor type="commentary" xml:id="KL696-2"/>Sache mit <rs type="person" ref="#pmb28205">Jennerl</rs>
+               <note type="commentary" xml:id="KL696-2h">
+                  <p>Es handelt sich um <rs type="person" ref="#pmb28205">Jenny Rauch</rs>, die mit <rs type="person" ref="#pmb2425">Felix Dörmann</rs> liiert ist, der sich wiederum von
+               seiner Frau <rs type="person" ref="#pmb20522">Mareia</rs> scheiden lassen möchte.</p>
+               </note> dachte ich mir so. An Frau <rs type="person" ref="#pmb20522">M.</rs> zu schreiben, wird mir nicht möglich sein, so sehr ich Ihr Elend spüre. Sie selbst und später noch wer haben mir gesagt, wie sie über meine Gefühle zu ihr – <hi rend="underline" n="1">am</hi>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">Anfang</hi> – gedacht hat.<pb/> Schreibe ich jetzt, wo es sich um Scheidung handelt und sie ausserdem, wie <rs type="person" ref="#pmb2425">Felix</rs> mir sagt, schwer hysterisch, von einem <rs type="person" ref="#pmb20522">M</rs>’er Professor hypnotisch behandelt wird, so kann keiner wissen, wie sich in <damage agent="hole">
                   <supplied>ihr</supplied>
@@ -119,17 +122,24 @@
                </damage>hrer Gereiztheit gegen mich und uns alle, von der <rs type="person" ref="#pmb2425">Felix</rs> mir wieder sagte, nichts riskieren. Brauche selbst für meine Galle Schonzeit. Denn auch mit mir stehts nicht schön.</p>
             <p>Nach <rs type="person" ref="#pmb11585">Ernst Hardt</rs>’s Adresse werde ich frage<damage agent="hole">
                   <supplied>n</supplied>
-               </damage> und Ihnen nächster Tage Nachricht geben. Heute ist <anchor type="commentary" xml:id="KL696-1">
-                  <rs type="person" ref="#pmb4769">Bonaparte</rs>’s Ehrentag</anchor>.</p>
+               </damage> und Ihnen nächster Tage Nachricht geben. Heute ist <anchor type="commentary" xml:id="KL696-1"/>
+               <rs type="person" ref="#pmb4769">Bonaparte</rs>’s Ehrentag<note type="commentary" xml:id="KL696-1h">
+                  <p>Gemeint ist die Premiere von <rs type="person" ref="#pmb12968">Trebitsch</rs>s
+               Übersetzung von <rs type="person" ref="#pmb2381">Shaws</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb29841">Der Schlachtenlenker</rs> (gemeinsam mit <rs type="work" ref="#pmb32288">Schwester Beatrix</rs>).</p>
+               </note>.</p>
             <closer>Schreiben Sie bald Ihrem<lb/>herzlich grüssenden treuen<lb/>
                <signed>WFred</signed>
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL696-1">Wenn Sie sich zu <rs type="place" ref="#pmb40306">Italien</rs> dann eher entschlössen, wenn ich gleich mit käme, <subst>
-                        <del rend="overwritten">s</del>
-                        <add place="inline">S</add>
-                     </subst>ie also abholte, dann würde ichs gerne tun.</anchor>
+                  <anchor type="textConst" xml:id="TL696-1"/>Wenn Sie sich zu <rs type="place" ref="#pmb40306">Italien</rs> dann eher entschlössen, wenn ich gleich mit käme, <subst>
+                     <del rend="overwritten">s</del>
+                     <add place="inline">S</add>
+                  </subst>ie also abholte, dann würde ichs gerne tun.<note type="textConst" xml:id="TL696-1h">
+                     <p>Seitlich mit zwei senkrechten Strichen markiert.</p>
+                  </note>
                </p>
             </postscript>
          </div>

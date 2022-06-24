@@ -17,11 +17,11 @@
             <author ref="pmb2292">Hofmannsthal, Gerty von</author>
             <author ref="pmb10863">Beer-Hofmann, Richard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -152,9 +152,13 @@
                <date>14. 12. 03</date>
             </p>
             <p>
-               <anchor type="commentary" xml:id="KL202-1">
-                  <rs type="work" ref="#pmb29909">Unter sich</rs>
-               </anchor>:</p>
+               <anchor type="commentary" xml:id="KL202-1"/>
+               <rs type="work" ref="#pmb29909">Unter sich</rs>
+               <note type="commentary" xml:id="KL202-1h">
+                  <p>Die <rs type="org" ref="#pmb29779">11 Scharfrichter</rs> hatten <rs type="person" ref="#pmb10815">Bahrs</rs> Schauspiel <rs type="work" ref="#pmb29909">Unter
+                  sich</rs> am <date instant="false">9. 12. 1903</date> in <rs type="place" ref="#pmb50">Wien</rs>
+               gegeben.</p>
+               </note>:</p>
             <closer>
                <signed>Arthur</signed>
             </closer>
@@ -165,7 +169,9 @@
                   <lb/>
                   <handShift scribe="pmb11740"/>
                   <signed>Hugo (ich bin nicht der <rs type="work" subtype="implied" ref="#pmb29909">
-                        <anchor type="commentary" xml:id="KL202-2">Onkel</anchor>
+                        <anchor type="commentary" xml:id="KL202-2"/>Onkel<note type="commentary" xml:id="KL202-2h">
+                           <p>Figur aus <rs type="work" ref="#pmb29909">Unter sich</rs>.</p>
+                        </note>
                      </rs>)</signed>
                   <lb/>
                   <handShift scribe="pmb2292"/>

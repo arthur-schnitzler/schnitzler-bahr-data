@@ -13,11 +13,11 @@
             <title type="iso-date">1923-05-06</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,11 +103,22 @@
                </dateline>
                <salute>Lieber Freund!</salute>
             </opener>
-            <p>Ich darf wol annehmen, daß »<rs type="work" ref="#pmb30813">Selbstbildnis</rs>« nun bald erscheint; je früher, desto besser: jedenfalls bevor die Herren Rezensenten auf Sommerferien gehen, was wol mit Juni beginnt. Anbei folgt ein Verzeichnis der Adressen, an die Freiexemplare zu senden sind. Die mit + bezeichneten gehen an Leute, die voraussichtlich darüber schreiben: also auf Kosten des Verlags. Die <hi rend="underline" n="1">nicht</hi> mit + bezeichneten dagegen auf meine Kosten, wobei ich voraussetze, daß Sie mir diese Kosten so gering als möglich ansetzen. Diese »persönlichen« Exemplare sollen mit einer Karte versehen sein, auf der steht: »Im Auftrag des Verfassers.« – Nach Gebrauch erbitte ich mir das Verzeichnis der Adressen zurück: es könnte ja dennoch sein, daß ich auch in Zukunft noch einmal ein Buch schreibe. Zur<pb/> Zeit siehts nicht danach aus: ich bin nach einer wochenlangen schweren, echt <rs type="place" ref="#pmb45258">münchnerischen</rs> Grippe in einer solchen körperlichen und geistigen, seelischen und menschlichen Depression, daß ich mir kaum vorstellen kann, wie sich der dünne Lebensfaden weiterspinnen soll. Ich darf annehmen, daß Sie bald mit meinen Büchern das schöne Geschäft machen werden, daß ja der Tod eines Autors meistens bringt. Zunächst schicken mich die Ärzte nach <anchor type="commentary" xml:id="KL348-3">
-                  <rs type="place" ref="#pmb944">Meersburg am Bodensee</rs>
-               </anchor>: das ist ein Versuch, mir einen Ersatz für meine geliebte, jetzt aber valuterisch verschlossene <geogName type="coast" ref="pmb568">Adria</geogName> zu bieten, die <rs type="person" ref="#pmb2142">d’Annunzio</rs> immer schon <anchor type="commentary" xml:id="KL348-2">il mare nostro</anchor> nannte; er hat recht behalten und sie hat aufgehört, il mare mio zu sein, das mich Jahrelang immer wieder mit neuer Kraft, neuem Mut und neuer Lust verproviantierte – »<anchor type="commentary" xml:id="KL348-1">
-                  <rs type="work" subtype="implied" ref="#pmb31213">Vorbei, vorbei</rs>
-               </anchor>«, sagt der alte <rs type="work" subtype="implied" ref="#pmb31213">Capulet</rs>.</p>
+            <p>Ich darf wol annehmen, daß »<rs type="work" ref="#pmb30813">Selbstbildnis</rs>« nun bald erscheint; je früher, desto besser: jedenfalls bevor die Herren Rezensenten auf Sommerferien gehen, was wol mit Juni beginnt. Anbei folgt ein Verzeichnis der Adressen, an die Freiexemplare zu senden sind. Die mit + bezeichneten gehen an Leute, die voraussichtlich darüber schreiben: also auf Kosten des Verlags. Die <hi rend="underline" n="1">nicht</hi> mit + bezeichneten dagegen auf meine Kosten, wobei ich voraussetze, daß Sie mir diese Kosten so gering als möglich ansetzen. Diese »persönlichen« Exemplare sollen mit einer Karte versehen sein, auf der steht: »Im Auftrag des Verfassers.« – Nach Gebrauch erbitte ich mir das Verzeichnis der Adressen zurück: es könnte ja dennoch sein, daß ich auch in Zukunft noch einmal ein Buch schreibe. Zur<pb/> Zeit siehts nicht danach aus: ich bin nach einer wochenlangen schweren, echt <rs type="place" ref="#pmb45258">münchnerischen</rs> Grippe in einer solchen körperlichen und geistigen, seelischen und menschlichen Depression, daß ich mir kaum vorstellen kann, wie sich der dünne Lebensfaden weiterspinnen soll. Ich darf annehmen, daß Sie bald mit meinen Büchern das schöne Geschäft machen werden, daß ja der Tod eines Autors meistens bringt. Zunächst schicken mich die Ärzte nach <anchor type="commentary" xml:id="KL348-3"/>
+               <rs type="place" ref="#pmb944">Meersburg am Bodensee</rs>
+               <note type="commentary" xml:id="KL348-3h">
+                  <p>Er befolgte die Anweisung nicht und hielt sich mehrheitlich in <rs type="place" ref="#pmb651">Kärnten</rs> auf.</p>
+               </note>: das ist ein Versuch, mir einen Ersatz für meine geliebte, jetzt aber valuterisch verschlossene <geogName type="coast" ref="pmb568">Adria</geogName> zu bieten, die <rs type="person" ref="#pmb2142">d’Annunzio</rs> immer schon <anchor type="commentary" xml:id="KL348-2"/>il mare nostro<note type="commentary" xml:id="KL348-2h">
+                  <p>Dieser bezog sich nicht auf die Adria, sondern sprach sich für den Anspruch <rs type="place" ref="#pmb40306">Italiens</rs> auf das Mittelmeer aus.</p>
+               </note> nannte; er hat recht behalten und sie hat aufgehört, il mare mio zu sein, das mich Jahrelang immer wieder mit neuer Kraft, neuem Mut und neuer Lust verproviantierte – »<anchor type="commentary" xml:id="KL348-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31213">Vorbei, vorbei</rs>
+               <note type="commentary" xml:id="KL348-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb31213">Romeo und Julia</rs>, 1. Akt, 5. Szene</bibl>:
+                  »<quote>I have seen the day / That I have worn a visor and could tell / A
+                  whispering tale in a fair lady’s ear, / Such as would please: ’tis gone, ’tis
+                  gone, ’tis gone</quote>«.</p>
+               </note>«, sagt der alte <rs type="work" subtype="implied" ref="#pmb31213">Capulet</rs>.</p>
             <p>Grüßen Sie die verehrte liebe Frau <rs type="person" ref="#pmb2657">Hedwig</rs> von <rs type="person" subtype="implied" ref="#pmb10818">uns</rs> beiden herzlichst und bewahren Sie ein gutes Andenken Ihrem für Melancholie ganz unbegabten</p>
             <closer>
                <signed>HermannBahr</signed>

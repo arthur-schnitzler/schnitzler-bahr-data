@@ -13,11 +13,11 @@
             <title type="iso-date">1896-12-17</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,7 +104,10 @@
             <opener>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Kannst Du mir den Titel Deiner <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs> sofort mittheilen? Sie soll nemlich <anchor type="commentary" xml:id="KL204-1">annonciert</anchor> werden. Mit Ungeduld erwartet das Manuscript </p>
+            <p>Kannst Du mir den Titel Deiner <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs> sofort mittheilen? Sie soll nemlich <anchor type="commentary" xml:id="KL204-1"/>annonciert<note type="commentary" xml:id="KL204-1h">
+                  <p>Nicht im Blattinneren; es dürfte also auf den (für die betreffenden Nummern nicht
+               ermittelbaren) Umschlägen gestanden haben.</p>
+               </note> werden. Mit Ungeduld erwartet das Manuscript </p>
             <closer>Dein treuer<lb/>
                <signed>hr</signed>
             </closer>

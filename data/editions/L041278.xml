@@ -13,11 +13,11 @@
             <title type="iso-date">1904-04-28</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -129,11 +129,17 @@
                </dateline>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Dein <anchor type="commentary" xml:id="LL278-1">Brief u Deine Karten</anchor> kamen um Viertel nach zehn abends an, ich hätte nicht vor elf in <rs type="place" ref="#pmb63">Hietzing</rs> sein können u <anchor type="commentary" xml:id="KL278-1">
-                  <rs type="person"
-                      subtype="implied"
-                      ref="#pmb10863 #pmb10860 #pmb2292 #pmb2167 #pmb2173">Euch</rs>
-               </anchor> dann wol nicht mehr getroffen. Mir war sehr leid. Könntest Du mir <anchor type="commentary" xml:id="KL278-2">Samstag</anchor> zwischen <subst>
+            <p>Dein <anchor type="commentary" xml:id="LL278-1"/>Brief u Deine Karten<note type="commentary" xml:id="LL278-1h"/> kamen um Viertel nach zehn abends an, ich hätte nicht vor elf in <rs type="place" ref="#pmb63">Hietzing</rs> sein können u <anchor type="commentary" xml:id="KL278-1"/>
+               <rs type="person"
+                   subtype="implied"
+                   ref="#pmb10863 #pmb10860 #pmb2292 #pmb2167 #pmb2173">Euch</rs>
+               <note type="commentary" xml:id="KL278-1h">
+                  <p>Anwesend waren <rs type="person" ref="#pmb10863">Richard</rs> und <rs type="person" ref="#pmb10860">Paula Beer-Hofmann</rs>, <rs type="person" ref="#pmb2292">Gerty
+                  Hofmannsthal</rs>, <rs type="person" ref="#pmb2167">Felix Salten</rs> und <rs type="person" ref="#pmb2121">Arthur</rs> und <rs type="person" ref="#pmb2173">Olga
+                  Schnitzler</rs>.</p>
+               </note> dann wol nicht mehr getroffen. Mir war sehr leid. Könntest Du mir <anchor type="commentary" xml:id="KL278-2"/>Samstag<note type="commentary" xml:id="KL278-2h">
+                  <p>Am <date instant="false">30. 4.</date> Zum gewünschten Treffen dürfte es nicht gekommen sein, da <rs type="person" ref="#pmb2121">Schnitzler</rs> an diesem Tag seine <rs type="place" ref="#pmb40306">Italien</rs>reise begann.</p>
+               </note> zwischen <subst>
                   <del rend="overwritten">
                      <gap quantity="2" reason="illegible" unit="chars"/>
                   </del>

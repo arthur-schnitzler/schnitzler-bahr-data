@@ -13,11 +13,11 @@
             <title type="iso-date">1906-10-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,9 +77,14 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1906-10-07" n="2">7/10</date> S.– Um 12 kam <rs type="person" ref="#pmb10815">Bahr</rs>, ass bei uns. Geht November, als engagirter Regisseur <rs type="place" ref="#pmb168">Berlin</rs> (4 Monate, 6000 Mark) um als erstes sein »<rs type="work" ref="#pmb30093">Ringelspiel</rs>« zu inszeniren.– Über die <rs type="person" ref="#pmb10818">Mildenburg</rs> (<anchor type="commentary" xml:id="KD276-2">
-                  <rs type="work" subtype="implied" ref="#pmb30365">Amneris</rs>
-               </anchor> etc.) – Über <rs type="person" ref="#pmb11740">Hugo</rs>. (<rs type="person" ref="#pmb10863">Richard</rs>s Ausspruch über ihn: <c rendition="#dots" n="3"/> »Ein Millionär, der keinen Kreuzer liegen sehn kann, ohne ihn einzustecken.«) <rs type="person" ref="#pmb10815">Bahr</rs> kam auf einen <anchor type="commentary" xml:id="KD276-1">Stoff</anchor>, von dem er einmal gesprochen, nach einer Geschichte, die er von der <rs type="person" ref="#pmb24838">Senders</rs> gehört – die er auch <rs type="person" ref="#pmb11740">Hugo</rs> erzählt, und über den <rs type="person" ref="#pmb11740">Hugo</rs> redete, als wüßte er nicht, woher er stammte.– Es stellt sich heraus – dass es der <rs type="work" subtype="implied" ref="#pmb30615">
+               <date when="1906-10-07" n="2">7/10</date> S.– Um 12 kam <rs type="person" ref="#pmb10815">Bahr</rs>, ass bei uns. Geht November, als engagirter Regisseur <rs type="place" ref="#pmb168">Berlin</rs> (4 Monate, 6000 Mark) um als erstes sein »<rs type="work" ref="#pmb30093">Ringelspiel</rs>« zu inszeniren.– Über die <rs type="person" ref="#pmb10818">Mildenburg</rs> (<anchor type="commentary" xml:id="KD276-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30365">Amneris</rs>
+               <note type="commentary" xml:id="KD276-2h">
+                  <p>Figur aus <rs type="work" ref="#pmb30365">Aida</rs> von <rs type="person" ref="#pmb13007">Verdi</rs>.</p>
+               </note> etc.) – Über <rs type="person" ref="#pmb11740">Hugo</rs>. (<rs type="person" ref="#pmb10863">Richard</rs>s Ausspruch über ihn: <c rendition="#dots" n="3"/> »Ein Millionär, der keinen Kreuzer liegen sehn kann, ohne ihn einzustecken.«) <rs type="person" ref="#pmb10815">Bahr</rs> kam auf einen <anchor type="commentary" xml:id="KD276-1"/>Stoff<note type="commentary" xml:id="KD276-1h">
+                  <p>
+                     <rs type="person" ref="#pmb11740">Hofmannsthal</rs> bearbeitete ihn zuerst als <rs type="work" ref="#pmb32590">Die Seelen</rs>, dann als <rs type="work" ref="#pmb32588">Carl</rs>; beides blieb Fragment.</p>
+               </note>, von dem er einmal gesprochen, nach einer Geschichte, die er von der <rs type="person" ref="#pmb24838">Senders</rs> gehört – die er auch <rs type="person" ref="#pmb11740">Hugo</rs> erzählt, und über den <rs type="person" ref="#pmb11740">Hugo</rs> redete, als wüßte er nicht, woher er stammte.– Es stellt sich heraus – dass es der <rs type="work" subtype="implied" ref="#pmb30615">
                   <rs type="person" ref="#pmb2147">P. A.</rs> Stoff</rs> sei.– Ich sagte darauf <rs type="person" ref="#pmb10815">Bahr</rs>, dass dies mein letztes noch ungefeiltes <rs type="work" subtype="implied" ref="#pmb30615">Stück</rs> wäre.– Wie amüsant es wäre, wenn einmal einige Autoren, mit Absicht, den gleichen Stoff behandelten. Doch praktische Schwierigkeiten wegen der Bühnen.– Über <rs type="person" ref="#pmb11036">Burckhard</rs>, der seine »Ordnung« haben will; nur Augen für das typische habe, bei all seiner ungeheuern Klugheit. <rs type="person" ref="#pmb10815">Bahr</rs>: Es wäre interessant, wenn einmal <rs type="person" ref="#pmb11036">Burckh.</rs> und <rs type="person" ref="#pmb11740">Hugo</rs> auf je eine Insel ausgesetzt wären. Da könnte es geschehn, dass <rs type="person" ref="#pmb11036">B.</rs> ein sehr großer Dichter würde – und <rs type="person" ref="#pmb11740">Hugo</rs> aufhören würde einer zu sein.– <rs type="person" ref="#pmb12163">Mahler</rs> und <rs type="person" ref="#pmb11617">Hauptmann</rs> seien seit einiger Zeit von einander begeistert, stünden in Correspondenz (was mich komischerweise mit einiger Eifersucht erfüllte – <rs type="person" ref="#pmb12163">Mahlers</rs> wegen).–</p>
             <p>Am <rs type="work" subtype="implied" ref="#pmb29923">Roman</rs>.–</p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs> zu <rs type="person" ref="#pmb27942">Agnes Sp.</rs>, wo ihre Schwestern <rs type="person" ref="#pmb13058">Julie</rs> und <rs type="person" ref="#pmb2774">Dora</rs> mit <rs type="person" subtype="implied" ref="#pmb13055 #pmb3064">Gemählern</rs> sowie <rs type="person" ref="#pmb25184">Speyer</rs> mit <rs type="person" subtype="implied" ref="#pmb25182">Frau</rs> (der einstigen Freundin der <rs type="person" subtype="implied" ref="#pmb2378">Todten</rs>) –</p>

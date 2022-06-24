@@ -13,11 +13,11 @@
             <title type="iso-date">1899-02-20</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -98,9 +98,15 @@
             <p>
                <gap reason="outOfScope"/>
             </p>
-            <p>Bitte vielmals seien Sie so lieb und lassen es nach dem beiliegenden gekürzten <anchor type="commentary" xml:id="KL474-1">
-                  <rs type="work" subtype="implied" ref="#pmb29849">Exemplar</rs>
-               </anchor> nochmals in der Druckerei berechnen, nach meiner Berechnung ist das Ganze in 2 Nummern, in einer auf 2 ½, in der andern auf 3 ½ dreispaltigen Seiten zu bringen. Damit hätte nicht nur ich die größte Freude, sondern <rs type="person" ref="#pmb12790">Singer</rs> würde auch an Druckkosten sparen, und Sie könnten in den beiden ersten <rs type="org" subtype="implied" ref="#pmb29209">Märznummern</rs> die »<rs type="work" ref="#pmb29845">Gefährtin</rs>« von <rs type="person" ref="#pmb2121">Schnitzler</rs>, mich aber am 18<hi rend="superscript">ten</hi> und 25<hi rend="superscript">ten</hi> bringen. Ich komm Mittwoch zu Ihnen und wäre sehr froh, zu hören, dass es geht.</p>
+            <p>Bitte vielmals seien Sie so lieb und lassen es nach dem beiliegenden gekürzten <anchor type="commentary" xml:id="KL474-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29849">Exemplar</rs>
+               <note type="commentary" xml:id="KL474-1h">
+                  <p>
+                     <rs type="work" ref="#pmb29849">Die Hochzeit der Sobeide</rs> (Erstdruck erst am
+                  <date instant="false">17. 7. 1899</date>, <bibl >
+                        <rs type="org" ref="#pmb29364">Wiener Allgemeine Montagszeitung</rs>, Jg. 1,
+                  Nr. 3, S. 2</bibl>).</p>
+               </note> nochmals in der Druckerei berechnen, nach meiner Berechnung ist das Ganze in 2 Nummern, in einer auf 2 ½, in der andern auf 3 ½ dreispaltigen Seiten zu bringen. Damit hätte nicht nur ich die größte Freude, sondern <rs type="person" ref="#pmb12790">Singer</rs> würde auch an Druckkosten sparen, und Sie könnten in den beiden ersten <rs type="org" subtype="implied" ref="#pmb29209">Märznummern</rs> die »<rs type="work" ref="#pmb29845">Gefährtin</rs>« von <rs type="person" ref="#pmb2121">Schnitzler</rs>, mich aber am 18<hi rend="superscript">ten</hi> und 25<hi rend="superscript">ten</hi> bringen. Ich komm Mittwoch zu Ihnen und wäre sehr froh, zu hören, dass es geht.</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

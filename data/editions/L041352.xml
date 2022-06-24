@@ -13,11 +13,11 @@
             <title type="iso-date">1895-07-27</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,15 +106,34 @@
             <p>
                <salute>Meine geliebte Mizi,</salute> für deinen entzückenden Bleistiftbrief will ich dich <unclear>nun vorerst</unclear>
                <space unit="chars" quantity="1"/>
-               <gap quantity="7" unit="chars" reason="illegible"/> tausendmal küssen und dir gleich sagen, dass ich dich anbete. Nicht: <hi rend="underline" n="1">wie</hi> ich dich anbete, das kann ich nemlich nicht. Diese Zeilen treffen dich jedenfalls schon bei ziemlichen Wohlsein und im Vollgenuße deiner Trink und Badecur. Zu dem Anhörenmüssen der musikal Leistungen mein Beileid – ja wenn sich eben so unbemerkt die Ohren verschließen könnte als man, wenn man irgend was<pb/> nicht sehen will, die Augenlider zufallen lassen kann!– Dass auch aus <rs type="place" ref="#pmb213">Ischl</rs> so wenig neues zu berichten ist als aus <anchor type="commentary" xml:id="KL352-2">
-                  <rs type="place" ref="#pmb390">Fr.</rs>
-               </anchor> kannst du dir vorstellen. Heute komt meine <rs type="person" subtype="implied" ref="#pmb2461">Schwester</rs>, in acht Tagen <rs type="person" ref="#pmb12698">Julius</rs> mit der ganzen Familie. Für alle Fälle: laß <unclear>lieber</unclear> in Hinsicht deines <rs type="place" ref="#pmb50">Wr.</rs> Aufenthalts in unklaren; sonst kann man sich die Sache hier combiniren; auch noch nachträglich.– Gestern sprach ich Frau <rs type="person" ref="#pmb13682">Bahr-Joël</rs>, die ich bei der Heimkehr aus <rs type="place" ref="#pmb895">Strobl</rs> auf der Straße Bicycle lernend antraf;<pb/> und aus ihren Äußerungen erhellt, dass ihr <rs type="person" subtype="implied" ref="#pmb10815">Gemahl</rs> von mir stets nur mit der größten Zärtlichkeit spricht (Wenn dir was fehlt, laß dir den Thuri holen; das <anchor type="commentary" xml:id="KL352-1">
-                  <rs type="work" subtype="implied" ref="#pmb32612">Relief</rs>
-               </anchor> vom Thuri gehört in mein Zimmer etc) was ihn aber nicht gehindert hat, mir die <rs type="work" ref="#pmb30073">Geschichte vom greisen Dichter</rs> zurückzuschicken, mit dem Bemerken, dass sie unbedingt noch <hi rend="underline" n="1">auf</hi> ein Drittel gekürzt werden müsste. Uebrigens glaube ich selbst, dass die Geschichte von vorneherein zu lang und breit angelegt war; wie<pb/> sie jetzt ist, läßt sich aber kaum noch was streichen; man müßte sie neu schreiben; – wozu ich wenig Lust habe. – Das <rs type="work" ref="#pmb29899">Freiwild</rs> geht weiter, und zu meiner Freude zeichnen sich Figuren, die mir anfangs im verschwommenen Contouren aufstiegen, jetzt, da sie auf die Scene treten, ziemlich deutlich ab.–</p>
+               <gap quantity="7" unit="chars" reason="illegible"/> tausendmal küssen und dir gleich sagen, dass ich dich anbete. Nicht: <hi rend="underline" n="1">wie</hi> ich dich anbete, das kann ich nemlich nicht. Diese Zeilen treffen dich jedenfalls schon bei ziemlichen Wohlsein und im Vollgenuße deiner Trink und Badecur. Zu dem Anhörenmüssen der musikal Leistungen mein Beileid – ja wenn sich eben so unbemerkt die Ohren verschließen könnte als man, wenn man irgend was<pb/> nicht sehen will, die Augenlider zufallen lassen kann!– Dass auch aus <rs type="place" ref="#pmb213">Ischl</rs> so wenig neues zu berichten ist als aus <anchor type="commentary" xml:id="KL352-2"/>
+               <rs type="place" ref="#pmb390">Fr.</rs>
+               <note type="commentary" xml:id="KL352-2h">
+                  <p>Sie hielt sich in <rs type="place" ref="#pmb390">Franzensbad</rs> auf.</p>
+               </note> kannst du dir vorstellen. Heute komt meine <rs type="person" subtype="implied" ref="#pmb2461">Schwester</rs>, in acht Tagen <rs type="person" ref="#pmb12698">Julius</rs> mit der ganzen Familie. Für alle Fälle: laß <unclear>lieber</unclear> in Hinsicht deines <rs type="place" ref="#pmb50">Wr.</rs> Aufenthalts in unklaren; sonst kann man sich die Sache hier combiniren; auch noch nachträglich.– Gestern sprach ich Frau <rs type="person" ref="#pmb13682">Bahr-Joël</rs>, die ich bei der Heimkehr aus <rs type="place" ref="#pmb895">Strobl</rs> auf der Straße Bicycle lernend antraf;<pb/> und aus ihren Äußerungen erhellt, dass ihr <rs type="person" subtype="implied" ref="#pmb10815">Gemahl</rs> von mir stets nur mit der größten Zärtlichkeit spricht (Wenn dir was fehlt, laß dir den Thuri holen; das <anchor type="commentary" xml:id="KL352-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32612">Relief</rs>
+               <note type="commentary" xml:id="KL352-1h">
+                  <p>Am <date instant="false">28. 5. 1892</date> erwähnt <rs type="person" ref="#pmb2121">Schnitzler</rs>
+               im <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="person" ref="#pmb4937">Ede Telcs</rs> für ein <rs type="work" subtype="implied" ref="#pmb32612">Relief</rs> gesessen zu sein, möglicherweise
+               handelt es sich um dieses. Aus einer Karte von <rs type="person" ref="#pmb11988">Karl
+                  Kraus</rs> vom <date when="1894-03-22" instant="false">22. 3. 1894</date> geht hervor, dass er und
+                  <rs type="person" ref="#pmb2121">Schnitzler</rs> zu diesem Zeitpunkt ihr Relief
+               tauschten (<bibl >
+                        <rs type="work">Karl Kraus und Arthur Schnitzler. Eine Dokumentation.</rs> Hg.
+                  Reinhard Urbach. In: <rs type="org">Literatur und Kritik</rs>, Bd. 49,
+                     <date instant="false">Oktober 1970</date>, S. 521</bibl>). Daraus kann gefolgert werden, dass
+               sich das Relief vervielfältigen ließ. <ptr target="KD405-1"/>.</p>
+               </note> vom Thuri gehört in mein Zimmer etc) was ihn aber nicht gehindert hat, mir die <rs type="work" ref="#pmb30073">Geschichte vom greisen Dichter</rs> zurückzuschicken, mit dem Bemerken, dass sie unbedingt noch <hi rend="underline" n="1">auf</hi> ein Drittel gekürzt werden müsste. Uebrigens glaube ich selbst, dass die Geschichte von vorneherein zu lang und breit angelegt war; wie<pb/> sie jetzt ist, läßt sich aber kaum noch was streichen; man müßte sie neu schreiben; – wozu ich wenig Lust habe. – Das <rs type="work" ref="#pmb29899">Freiwild</rs> geht weiter, und zu meiner Freude zeichnen sich Figuren, die mir anfangs im verschwommenen Contouren aufstiegen, jetzt, da sie auf die Scene treten, ziemlich deutlich ab.–</p>
             <p>Ich schließe für heute, umarme dich tausendmal, mein einzig geliebtes Miz und sehne den Augenblick unseres Wiedersehens mit einer Ungeduld und Innigkeit herbei, die du, mein süßer süßer Schatz gewiss mit mir fühlst – denn ich fühle, dass du<pb/>
                <space unit="chars" quantity="1"/>
-               <anchor type="textConst" xml:id="TL352-1">mich liebst, mein Glück! mein Alles! Dein <signed>Arth</signed>
-               </anchor>
+               <anchor type="textConst" xml:id="TL352-1"/>mich liebst, mein Glück! mein Alles! Dein <signed>Arth</signed>
+               <note type="textConst" xml:id="TL352-1h">
+                  <p>Unten auf der ersten Briefseite ergänzt.</p>
+               </note>
             </p>
          </div>
       </body>

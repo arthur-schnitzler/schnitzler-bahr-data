@@ -14,11 +14,11 @@
             <title type="iso-date">1916-01-27</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -89,7 +89,11 @@
                zeigt mir ein Blatt mit Zeichnungen (Fabri im Verführer – <rs type="person" ref="#pmb12692">Heini’s</rs> Blätter mit Soldaten aus dem 30j. Krieg) ich liebe ihn
                sehr; dann ist er bei uns,– Speisezimmer <rs type="place" ref="#pmb274">Burgring</rs>
                – das ich oft im Traum sehe, ich eine Mappe in der Hand, in den Salon (<rs type="place" ref="#pmb274">Burgring</rs>) dort wohnen <rs type="person" ref="#pmb10815">Bahr</rs> und Frau (<rs type="person" ref="#pmb10818">Mildenburg</rs>), ich drehe 2 von den 3 elektr. Flammen ab, weil sie sparsam sind
-                  (<anchor type="commentary" xml:id="KD368-1">Abschiedvorstellung</anchor> der <rs type="person" ref="#pmb10818">Mildenb.</rs>!) – dann fahr ich mit meiner <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> bergauf,
+                  (<anchor type="commentary" xml:id="KD368-1"/>Abschiedvorstellung<note type="commentary" xml:id="KD368-1h">
+                  <p>Ihr letztes Gastspiel an der <rs type="place" ref="#pmb15">Hofoper</rs> war für den
+                  <date instant="false">Jänner 1916</date> angesetzt, musste aber krankheitsbedingt abgesagt
+               werden.</p>
+               </note> der <rs type="person" ref="#pmb10818">Mildenb.</rs>!) – dann fahr ich mit meiner <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> bergauf,
                   <unclear>Serpentinen</unclear> schöne Gegend, ich sage: noch 4, 5 Stunden – bis
                   <rs type="place" ref="#pmb40407">Flims</rs>, meine aber <rs type="place" ref="#pmb941">Lunz</rs> oder <rs type="place" ref="#pmb662">Baden</rs>,– wir kommen an parcellirtem Ackerland vorbei: Tafeln, Baustelle 1, 2 etc.; <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> soll sich eine aussuchen
                (Gespräch gestern über Leben in <rs type="place" ref="#pmb662">Baden</rs>, Ankauf etc.).</p>

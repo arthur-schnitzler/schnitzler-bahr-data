@@ -13,11 +13,11 @@
             <title type="iso-date">1902-07-09</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,13 +124,21 @@
          <div type="writingSession" n="1">
             <opener>
                <dateline rend="right">
-                  <date>9/7 <anchor type="textConst" xml:id="TL098-1">902</anchor>
+                  <date>9/7 <anchor type="textConst" xml:id="TL098-1"/>902<note type="textConst" xml:id="TL098-1h">
+                        <p>Die nachgezogene Ziffer »2« von unbekannter Hand fälschlich durch »7«
+               überschrieben.</p>
+                     </note>
                   </date>
                </dateline>
             </opener>
             <p>
                <salute>lieber Hermann, </salute>
-               <anchor type="commentary" xml:id="KL098-1">beifolgenden Wisch</anchor> erhielt ich nachgesandt. Ich beabsichtigte nicht zu antworten, aber man sagt mir, dass unerhörter Weise eine <hi rend="underline" n="1">Verpflichtung</hi> dazu besteht. Ich würde sagen, dss ich keine Ahnung habe. Aber vielleicht wünschest du selbst irgend eine andre<subst>
+               <anchor type="commentary" xml:id="KL098-1"/>beifolgenden Wisch<note type="commentary" xml:id="KL098-1h">
+                  <p>Das Schreiben von <rs type="person" ref="#pmb27873">Leopold Hipp</rs>, <ptr target="L041375"/>. Dieses befindet sich heute in der <bibl >
+                        <rs type="org">CUL</rs>
+                     </bibl>, <rs type="person" ref="#pmb10815">Bahr</rs> retournierte es wohl mit seinem
+               Antwortschreiben.</p>
+               </note> erhielt ich nachgesandt. Ich beabsichtigte nicht zu antworten, aber man sagt mir, dass unerhörter Weise eine <hi rend="underline" n="1">Verpflichtung</hi> dazu besteht. Ich würde sagen, dss ich keine Ahnung habe. Aber vielleicht wünschest du selbst irgend eine andre<subst>
                   <del rend="strikethrough">.</del>
                   <add place="below"> Antwort.</add>
                </subst> Bitte theile mir mit, was<pb/> du für recht <del rend="strikethrough">h<unclear>ie</unclear>lt<unclear>e</unclear>st</del> hältst, und schicke mir das Formular zurück.</p>

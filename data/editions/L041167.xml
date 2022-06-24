@@ -13,11 +13,11 @@
             <title type="iso-date">1894-05-02</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -126,7 +126,10 @@
             <opener>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Ich kann leider <anchor type="commentary" xml:id="KL167-1">morgen</anchor> früh absolut nicht, komme <hi rend="underline" n="1">vielleicht</hi> Nachmittag nach.</p>
+            <p>Ich kann leider <anchor type="commentary" xml:id="KL167-1"/>morgen<note type="commentary" xml:id="KL167-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> und <rs type="person" ref="#pmb2167">Salten</rs> machten einen Ausflug nach <rs type="place" ref="#pmb968">Mödling</rs> und <rs type="place" ref="#pmb173">Rodaun</rs>.</p>
+               </note> früh absolut nicht, komme <hi rend="underline" n="1">vielleicht</hi> Nachmittag nach.</p>
             <closer>Herzlichst<lb/>
                <signed>Hermann</signed>
             </closer>

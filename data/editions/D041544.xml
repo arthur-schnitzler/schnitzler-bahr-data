@@ -13,11 +13,11 @@
             <title type="iso-date">1918-03-24</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,7 +79,11 @@
             <p>
                <date when="1918-03-24" n="1">24/3</date> S. Spazierg. <rs type="place" ref="#pmb288">Sievring</rs> – <geogName type="pasture" ref="pmb534">Jaegerwiese</geogName> – <geogName type="mountain" ref="pmb535">Hermannskogel</geogName> – <geogName type="pasture" ref="pmb536">Rohrerwiese</geogName> – <geogName type="mountain" ref="pmb537">Dreimarkstein</geogName> – <rs type="place" ref="#pmb242">Salmannsdorf</rs>.– In unproductiv-zerstreut-ärgerlicher Stimmung, durch die Papierangelegenheit praeoccupirt, die mir (<rs type="person" ref="#pmb11324">Fischers</rs> Verhalten) irgendwie die Beziehungen <rs type="person" ref="#pmb11324">F.</rs>s zu mir, seines <rs type="org" subtype="implied" ref="#pmb29639">Verlags</rs>, zu den <rs type="place" ref="#pmb41240">deutschoesterr</rs>. Dichtern zu krönen scheint.– </p>
             <p>Zu Tisch <rs type="person" ref="#pmb2753">Mimi</rs>.– </p>
-            <p>Zum Thee <rs type="person" ref="#pmb2753">Mimi</rs>,– Fr. <rs type="person" ref="#pmb2349">Gutheil</rs>; die <rs type="person" ref="#pmb2173">O.</rs> (ohne unser Beisein) günstiges und kluges über ihr Singen sagt (sie war in dem letzten <anchor type="commentary" xml:id="KD544-1">Concert</anchor>).– Über <rs type="person" ref="#pmb2674">Pfitzner</rs>, <rs type="person" ref="#pmb12163">Mahler</rs>;– die jetzige Opernwirtschaft; über die <rs type="person" ref="#pmb10818">Mildenburg</rs>, über das Sichhergeben und das »Drüberstehn« beim Singen;– Lied- und Operngesang.</p>
+            <p>Zum Thee <rs type="person" ref="#pmb2753">Mimi</rs>,– Fr. <rs type="person" ref="#pmb2349">Gutheil</rs>; die <rs type="person" ref="#pmb2173">O.</rs> (ohne unser Beisein) günstiges und kluges über ihr Singen sagt (sie war in dem letzten <anchor type="commentary" xml:id="KD544-1"/>Concert<note type="commentary" xml:id="KD544-1h">
+                  <p>Am <date instant="false">18. 12. 1917</date> im <rs type="place" ref="#pmb1023">Volksbildungsverein
+                  in Wien</rs> (<bibl >
+                        <rs type="org">CUL</rs>, Schnitzler, A 176,5</bibl>).</p>
+               </note>).– Über <rs type="person" ref="#pmb2674">Pfitzner</rs>, <rs type="person" ref="#pmb12163">Mahler</rs>;– die jetzige Opernwirtschaft; über die <rs type="person" ref="#pmb10818">Mildenburg</rs>, über das Sichhergeben und das »Drüberstehn« beim Singen;– Lied- und Operngesang.</p>
             <p>– <rs type="person" ref="#pmb28366">Efr. Frisch</rs>, in Privatangelegenheiten;– erzählt mir, daß <rs type="person" ref="#pmb13923">Bubi</rs>, <rs type="person" ref="#pmb10863">Richard</rs>s 16j. Sohn Mittwoch wegen schlechter Censur! einen Selbstmordversuch gemacht. Schon außer Gefahr. Spital. Gerade <rs type="person" ref="#pmb10863">Richard</rs>, dem Vater – muß das passiren. Ich war sehr ergriffen.– </p>
             <p>
                <rs type="person" ref="#pmb12692">Heini</rs> und Collegen, darunter der junge <rs type="person" ref="#pmb2349">Gutheil</rs> mit ihren Vorbereitungen zum Puppentheater beschäftigt. <rs type="person" ref="#pmb12692">Heini</rs> macht Decorationen, baut Stiltürme; man macht mir eine Beleuchtungprobe vor.</p>

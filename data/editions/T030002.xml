@@ -14,11 +14,11 @@
             <title type="iso-date">1891-05-06</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="002"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A72-6</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>A:Schnitzler, 85.1.97</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Typoskript, die Fußnote hs. in Bleistift und Lateinschrift ergänzt. Abschrift um 1910 von nicht erhaltenen gebliebenem Original.</p>
+                        <p>ms. Typoskript, die Fußnote hs. in Bleistift und Lateinschrift ergänzt. Abschrift um 1910 von nicht erhaltenen gebliebenem Original.</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -100,10 +100,17 @@
          <div>
             <seg rend="right">
                <date when="1891-05-06" n="1">6/V. 91</date>.</seg>
-            <p part="N">Die <anchor type="commentary" xml:id="KT002-1">Landpartie</anchor> der Naturalisten. – Der geistreiche Fremde kommt.<anchor type="textConst" xml:id="TT002-1">
-                  <hi rend="superscript">·)</hi>
-               </anchor> »Macht ihr denn nie Ausflüge mit Mädeln?« Wie sie sich nun möglichst rasch Jeder eine <anchor type="label" xml:id="LT002-1">Geliebte verschaffen</anchor>.</p>
-            <p part="N">
+            <p>Die <anchor type="commentary" xml:id="KT002-1"/>Landpartie<note type="commentary" xml:id="KT002-1h">
+                  <p>Im Notizbuch, das Stoffnotizen verzeichnet, lautet der Eintrag: »<quote>
+                        <hi rend="underline" n="1">Landpartie</hi> der Naturalisten, die sich rasch zu
+                  Ehren des Fremden Geliebte verschaffen.</quote>« (<bibl >
+                        <rs type="org">CUL</rs>, Schnitzler, A 193,2, [S. 8]</bibl>)</p>
+               </note> der Naturalisten. – Der geistreiche Fremde kommt.<anchor type="textConst" xml:id="TT002-1"/>
+               <hi rend="superscript">·)</hi>
+               <note type="textConst" xml:id="TT002-1h">
+                  <p>Hs. eingefügt.</p>
+               </note> »Macht ihr denn nie Ausflüge mit Mädeln?« Wie sie sich nun möglichst rasch Jeder eine <anchor type="label" xml:id="LT002-1">Geliebte verschaffen</anchor>.</p>
+            <p>
                <handShift/>·) Bezog sich auf das Eintreffen <rs type="person" ref="#pmb10815">Bahr</rs>’s in <rs type="place" ref="#pmb50">Wien</rs>.– <date when="1910-12-30">30/12 10</date>
             </p>
          </div>

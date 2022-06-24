@@ -13,11 +13,11 @@
             <title type="iso-date">1901-10-28</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -125,21 +125,33 @@
             <opener>
                <salute>lieber Hermann, </salute>
             </opener>
-            <p>aus deinem lieben Brief entnehme ich u. a. dss <rs type="person" ref="#pmb10883">Berger</rs> hier war. <hi rend="underline" n="1">Ist</hi> er noch in <rs type="place" ref="#pmb50">Wien</rs>? (Er schrieb mir eine <anchor type="commentary" xml:id="KL043-3">Karte</anchor>
+            <p>aus deinem lieben Brief entnehme ich u. a. dss <rs type="person" ref="#pmb10883">Berger</rs> hier war. <hi rend="underline" n="1">Ist</hi> er noch in <rs type="place" ref="#pmb50">Wien</rs>? (Er schrieb mir eine <anchor type="commentary" xml:id="KL043-3"/>Karte<note type="commentary" xml:id="KL043-3h">
+                  <p>»<quote>Hochgeehrter Herr Doctor! / Nächste Woche spreche ich Sie in <rs type="place" ref="#pmb50">Wien</rs>. Ich bin von den ›<rs type="work" ref="#pmb29863">letzten Stunden</rs>‹ entzückt, so entzückt, als die <rs type="place" ref="#pmb506">Hamburg</rs>er darüber empört sein werden. Alles Nähere
+                     mündlich.<space unit="chars" quantity="5"/>Herzlich grüßt / <rs type="person" ref="#pmb10883">Alfred v. Berger</rs> / <date instant="false">18/10 1901</date>
+                     </quote>« (gedruckter Kopf: »<quote>
+                        <rs type="place" ref="#pmb645">Deutsches Schauspielhaus in Hamburg</rs>
+                     </quote>«, <bibl >
+                        <rs type="org">CUL</rs>, Schnitzler, B 10</bibl>).</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <add place="above">(aus <rs type="place" ref="#pmb506">Hamburg</rs>)</add>, dss er mich persönlich sprechen wollte, in Angelegenheit der <rs type="work" subtype="implied" ref="#pmb29877 #pmb29869 #pmb29865">Stücke</rs>.) –</p>
             <p>Die <rs type="work" ref="#pmb29865">Dolchdame</rs> ist gewiss ein schweres scenisches<pb/> Ding; aber so weit sind wir heute doch schon in diesen Sachen, dss es unbedingt gehen muss. –</p>
             <p>
                <hi rend="latintype">
                   <rs type="person" ref="#pmb2161">Bukovics</rs>
-               </hi> hat mich neulich mit der Aussicht entlassen, dss er über die Besetz nachdenken werde. Du hast ja recht; ich muss energischer mit ihm sein, aber mir fehlt die rechte Begeisterung für die voraussichtliche Volks<pb/>theateraufführg. Nun es bleibt mir ja nichts andres übrig. Ich werde nächstens »stürmisch« einen <anchor type="commentary" xml:id="KL043-1">Contract mit einer Million Poenale verlangen</anchor>.</p>
+               </hi> hat mich neulich mit der Aussicht entlassen, dss er über die Besetz nachdenken werde. Du hast ja recht; ich muss energischer mit ihm sein, aber mir fehlt die rechte Begeisterung für die voraussichtliche Volks<pb/>theateraufführg. Nun es bleibt mir ja nichts andres übrig. Ich werde nächstens »stürmisch« einen <anchor type="commentary" xml:id="KL043-1"/>Contract mit einer Million Poenale verlangen<note type="commentary" xml:id="KL043-1h">
+                  <p>
+                     <ptr target="L041651"/>.</p>
+               </note>.</p>
             <p>– Wie man die »<rs type="work" ref="#pmb29869">Literatur</rs>« so besonders gut finden kann, versteh ich absolut nicht; mein <hi rend="latintype">faible</hi> sind die »<rs type="work" ref="#pmb29957">lebendigen Stunden</rs>.«</p>
             <p>
                <rs type="person" ref="#pmb11851">Kainz</rs> wollte am 5. den <rs type="work" ref="#pmb29853">Gustl</rs>
                <pb/>
-               <space unit="chars" quantity="1"/>lesen; aber <add place="inline">–</add> Herr <anchor type="commentary" xml:id="KL043-2">
-                  <rs type="person" ref="#pmb2185">Gutmann</rs>
-               </anchor> hat Angst gehabt. Ich werde anfangen, die militärische Verachtg gegen das Civil zu theilen.</p>
+               <space unit="chars" quantity="1"/>lesen; aber <add place="inline">–</add> Herr <anchor type="commentary" xml:id="KL043-2"/>
+               <rs type="person" ref="#pmb2185">Gutmann</rs>
+               <note type="commentary" xml:id="KL043-2h">
+                  <p>Betreiber einer Konzertagentur, die im <rs type="place" ref="#pmb4">Bösendorfer-Saal</rs> Veranstaltungen organisierte.</p>
+               </note> hat Angst gehabt. Ich werde anfangen, die militärische Verachtg gegen das Civil zu theilen.</p>
             <closer>herzlichst dein<lb/>
                <signed>Arthur</signed>
             </closer>

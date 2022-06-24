@@ -14,11 +14,11 @@
             <title type="iso-date">1912-04-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="081"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8ABE-1</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>A:Schnitzler, 85.1.117</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Typoskript, 19 Seiten, ms. Paginierung, die letzte unpag., hs. Korrekturen und Datum: »<quote>(April 1912)</quote>« auf der ersten Seite. Die nur teilweise durchgeführte hs. Korrektur von »<quote>Burckhardt</quote>« zu »<quote>Burckhard</quote>« im ganzen Dokument vorgenommen.</p>
+                        <p>ms. Typoskript, 19 Seiten, ms. Paginierung, die letzte unpag., hs. Korrekturen und Datum: »<quote>(April 1912)</quote>« auf der ersten Seite. Die nur teilweise durchgeführte hs. Korrektur von »<quote>Burckhardt</quote>« zu »<quote>Burckhard</quote>« im ganzen Dokument vorgenommen.</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -80,81 +80,186 @@
             <head>
                <rs type="person" ref="#pmb11036">Max Burckhard.</rs>
             </head>
-            <p part="N">An welchem Tag ich ihn persönlich kennen gelernt habe, weiss ich nicht mehr.</p>
-            <p part="N">Die erste Verbindung knüpfte sich an, als ich ihm den Einakter »<rs type="work" ref="#pmb31637">Alkandis Lied</rs>« einreichte, dessen Aufführung <rs type="person" ref="#pmb12809">Sonnenthal</rs> zur Zeit seiner Direktionsführung <anchor type="commentary" xml:id="KT081-13">oberflächlich in Betracht</anchor> gezogen hatte. <rs type="person" ref="#pmb11036">Burckhard</rs>, den ich damals persönlich noch nicht kannte, antwortete liebenswürdig, eigenhändig und ablehnend.<pb/>
+            <p>An welchem Tag ich ihn persönlich kennen gelernt habe, weiss ich nicht mehr.</p>
+            <p>Die erste Verbindung knüpfte sich an, als ich ihm den Einakter »<rs type="work" ref="#pmb31637">Alkandis Lied</rs>« einreichte, dessen Aufführung <rs type="person" ref="#pmb12809">Sonnenthal</rs> zur Zeit seiner Direktionsführung <anchor type="commentary" xml:id="KT081-13"/>oberflächlich in Betracht<note type="commentary" xml:id="KT081-13h">
+                  <p>Vgl. <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">6. 7. 1890</date>: »<quote>Bei <rs type="person" ref="#pmb12809">Sonnenthal</rs>.– / ›<rs type="work" ref="#pmb31637">Alkandi</rs>‹ soll zur
+                  Aufführung geändert werden.– (Dumm.).</quote>«</p>
+               </note> gezogen hatte. <rs type="person" ref="#pmb11036">Burckhard</rs>, den ich damals persönlich noch nicht kannte, antwortete liebenswürdig, eigenhändig und ablehnend.<pb/>
             </p>
-            <p part="N">Als die <rs type="org" ref="#pmb29781">Wiener freie Bühne</rs> gegründet wurde, dachte man an irgend ein <anchor type="label" xml:id="LT081-1">Wechselverhältnis zwischen dem <rs type="place" ref="#pmb14">Burgtheater</rs> und der <rs type="org" ref="#pmb29781">Freien Bühne</rs>, dessen genauere Modalitäten mir nicht mehr erinnerlich sind.</anchor> Ich weiss nur mehr, dass <supplied>man</supplied> das »<rs type="work" ref="#pmb29823">Märchen</rs>« von Seite der <rs type="org" ref="#pmb29781">Freien Bühne</rs> dem <rs type="place" ref="#pmb14">Burgtheater</rs> überreichte und der Refus <add place="above">
-                  <rs type="person" ref="#pmb11036">B</rs>.’s</add> (wieder eigenhändig) gerade an dem <anchor type="commentary" xml:id="KT081-1">selben Tag</anchor> zu meiner Kenntnis gelangte, als eine etwas schwächliche öffentliche Veranstaltung an dieser <rs type="org" ref="#pmb29781">Freien Bühne</rs> im kleinen <rs type="place" ref="#pmb107">Sophiensaal</rs> stattfand, bei der <rs type="person" ref="#pmb2446">Devrient</rs> und <rs type="person" ref="#pmb12498">Reimers</rs> die Gedichte junger Autoren (darunter auch solche von mir) vorlasen.<pb/>
+            <p>Als die <rs type="org" ref="#pmb29781">Wiener freie Bühne</rs> gegründet wurde, dachte man an irgend ein <anchor type="label" xml:id="LT081-1">Wechselverhältnis zwischen dem <rs type="place" ref="#pmb14">Burgtheater</rs> und der <rs type="org" ref="#pmb29781">Freien Bühne</rs>, dessen genauere Modalitäten mir nicht mehr erinnerlich sind.</anchor> Ich weiss nur mehr, dass <supplied>man</supplied> das »<rs type="work" ref="#pmb29823">Märchen</rs>« von Seite der <rs type="org" ref="#pmb29781">Freien Bühne</rs> dem <rs type="place" ref="#pmb14">Burgtheater</rs> überreichte und der Refus <add place="above">
+                  <rs type="person" ref="#pmb11036">B</rs>.’s</add> (wieder eigenhändig) gerade an dem <anchor type="commentary" xml:id="KT081-1"/>selben Tag<note type="commentary" xml:id="KT081-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">28. 10. 1891</date>: »<quote>Vortragsabend <rs type="org" ref="#pmb29781">Freie
+                     Bühne</rs>.– [<c rendition="#dots" n="3"/>] Beim Eintritt in den Saal
+                  Nachricht, daß <rs type="person" ref="#pmb11036">Burckhard</rs> das <rs type="work" ref="#pmb29823">Märchen</rs> zurückgewiesen (zu viel Rede, zu wenig
+                  Handlung). Sehr verstimmt drüber.–</quote>«</p>
+               </note> zu meiner Kenntnis gelangte, als eine etwas schwächliche öffentliche Veranstaltung an dieser <rs type="org" ref="#pmb29781">Freien Bühne</rs> im kleinen <rs type="place" ref="#pmb107">Sophiensaal</rs> stattfand, bei der <rs type="person" ref="#pmb2446">Devrient</rs> und <rs type="person" ref="#pmb12498">Reimers</rs> die Gedichte junger Autoren (darunter auch solche von mir) vorlasen.<pb/>
             </p>
-            <p part="N">Kurz nachdem die »<rs type="work" ref="#pmb29917">Liebelei</rs>« beendet war entschloss ich mich sie dem <rs type="place" ref="#pmb14">Burgtheater</rs> einzureichen. Anfangs hatte ich nur ans <rs type="place" ref="#pmb20">Volkstheater</rs> und ans <rs type="place" ref="#pmb77">Raimundtheater</rs> gedacht, erst <rs type="person" ref="#pmb11740">Hofmannsthal</rs> fand, dass das Stück wohl im <rs type="place" ref="#pmb14">Burgtheater</rs> gespielt werden könnte. <anchor type="commentary" xml:id="KT081-15">Am Morgen, da ich das Haus verliess, um das Stück persönlich in der Direktion zu überreichen</anchor>, sah ich <rs type="person" ref="#pmb11036">Burckhard</rs> vor mir auf der Strasse, (er wohnte damals <anchor type="commentary" xml:id="KT081-2">im selben Hause</anchor> wie ich). Als ich ihm mein Ziel bezeichnete, nahm er das Stück gleich an sich und erklärte, es auf seiner eben bevorstehenden Reise nach <rs type="place" ref="#pmb168">Berlin</rs> lesen zu wollen. <anchor type="commentary" xml:id="KT081-16">Etwa zwei Tage später</anchor> finde ich Abends beim Nachhausekommen ein <anchor type="commentary" xml:id="KT081-27">Telegramm</anchor>, in dem er mir zu dem Stück gratuliert und sich vorbehält in <rs type="place" ref="#pmb50">Wien</rs> alles nähere, hauptsächlich hinsichtlich zu erwartender Zensurschwierigkeiten zu besprechen. Ein <anchor type="commentary" xml:id="KT081-17">paar Tage darauf in seiner<pb/> Wohnung</anchor> erklärt er es als unumgänglich notwendig, dass Frau <rs type="person" ref="#pmb2850">Hohenfels</rs> die <rs type="work" subtype="implied" ref="#pmb29917">Christine</rs> spielt. »Wenn die nicht will, kann ich’s überhaupt nicht spielen. Die <rs type="person" ref="#pmb4200">Reinhold</rs>, die piepst zu viel.« Frau <rs type="person" ref="#pmb2850">Hohenfels</rs> refusiert die Rolle; ebenso wie später <rs type="person" ref="#pmb6173">Baumeister</rs> den alten <rs type="work" subtype="implied" ref="#pmb29917">Weiring</rs>. <rs type="person" ref="#pmb11036">Burckhard</rs> muss vorläufig von der Aufführung absehen. Entweder schon damals oder einige Zeit nachher lässt er mich <anchor type="commentary" xml:id="KT081-19">durch <rs type="person" ref="#pmb10815">Bahr</rs> fragen, ob ich einen Weg zu <rs type="person" ref="#pmb12816">Speidel</rs> habe</anchor>, dessen Urteil von grosser Bedeutung sei, so dass im Falle eines günstigen Eindruckes der »<rs type="work" ref="#pmb29917">Liebelei</rs>« auf ihn sowohl die oberen Behörden als auch Frau <rs type="person" ref="#pmb2850">Hohenfels</rs> leichter zu gewinnen wären. <rs type="person" ref="#pmb11740">Hofmannsthal</rs> gibt das Stück dem Hofrat <rs type="person" ref="#pmb11497">Gomperz</rs>, <rs type="person" ref="#pmb11497">Gomperz</rs> dem <rs type="person" ref="#pmb12816">Speidel</rs>, <rs type="person" ref="#pmb12816">Speidel</rs> schreibt an <rs type="person" ref="#pmb11497">Gomperz</rs> einen Brief, in dem er sich sehr warm über das Stück äussert und die Ansicht ausspricht, dass Fräulein <rs type="person" ref="#pmb12618">Sandrock</rs> (deren Engagement für die nächste Saison bevor<pb/>stand) »es wohl zum Siege führen könnte«. Dieser Brief nimmt seinen Weg von <rs type="person" ref="#pmb11497">Gomperz</rs> zu <rs type="person" ref="#pmb12816">Hofmannsthal</rs>, <anchor type="commentary" xml:id="KT081-3">von <rs type="person" ref="#pmb11740">Hofmannsthal</rs> zu mir</anchor>, von mir zu <rs type="person" ref="#pmb11036">Burckhard</rs>, von dort weiter, wohl auch zu <rs type="person" ref="#pmb14179">Besetzny</rs>, der vorzugsweise durch <rs type="person" ref="#pmb12923">Taussig</rs> (<rs type="org" ref="#pmb29244">Bodenkreditanstalt</rs>) gewonnen werden sollte. Nun lag <rs type="person" ref="#pmb11036">Burckhard</rs> daran, die <rs type="person" ref="#pmb12618">Sandrock</rs> statt im <date>September</date> schon in der laufenden Saison (<date>1895</date>) vom <rs type="place" ref="#pmb20">Volkstheater</rs> frei zu bekommen, sie aber weigerte sich anfangs und will überhaupt mit diesem Gale<supplied>e</supplied>rensträfling <del rend="strikethrough">keine</del>, wie sie <rs type="person" ref="#pmb11036">Burckhard</rs> nennt, keine Unterredung haben. <rs type="person" ref="#pmb10815">Bahr</rs> bittet mich nun die Sache bei der <rs type="person" ref="#pmb12618">Sandrock</rs> durchzusetzen. Es gelingt mir ohne besondere Mühe, und nach stattgehabter Unterredung äussert sie: »Dieser <rs type="person" ref="#pmb11036">Burckhard</rs> ist wohl ein herrlicher Mann«. Im <anchor type="commentary" xml:id="KT081-4">
-                  <date>Jänner</date> oder <date>Feber</date>
-               </anchor> tritt sie ihr Engagement an, »<rs type="work" ref="#pmb29917">Liebelei</rs>« aber wird vorläufig hinausgeschoben. Ich höre<pb/> von verschiedenen Seiten, (auch von <rs type="person" ref="#pmb2570">Lothar</rs>) dass die Aufführung des Stückes nicht gestattet werden <subst>
+            <p>Kurz nachdem die »<rs type="work" ref="#pmb29917">Liebelei</rs>« beendet war entschloss ich mich sie dem <rs type="place" ref="#pmb14">Burgtheater</rs> einzureichen. Anfangs hatte ich nur ans <rs type="place" ref="#pmb20">Volkstheater</rs> und ans <rs type="place" ref="#pmb77">Raimundtheater</rs> gedacht, erst <rs type="person" ref="#pmb11740">Hofmannsthal</rs> fand, dass das Stück wohl im <rs type="place" ref="#pmb14">Burgtheater</rs> gespielt werden könnte. <anchor type="commentary" xml:id="KT081-15"/>Am Morgen, da ich das Haus verliess, um das Stück persönlich in der Direktion zu überreichen<note type="commentary" xml:id="KT081-15h">
+                  <p>Am <date instant="false">29. 10. 1894</date>.</p>
+               </note>, sah ich <rs type="person" ref="#pmb11036">Burckhard</rs> vor mir auf der Strasse, (er wohnte damals <anchor type="commentary" xml:id="KT081-2"/>im selben Hause<note type="commentary" xml:id="KT081-2h">
+                  <p>
+                     <rs type="person" ref="#pmb11036">Burckhard</rs> ist im Adressverzeichnis <rs type="work" ref="#pmb32580">Lehmann</rs> von <date instant="false">1890</date> bis
+                  <date instant="false">1905</date> in der <rs type="place" ref="#pmb397">Frankgasse 1</rs>
+               gelistet. <rs type="person" ref="#pmb2121">Schnitzler</rs> wohnt im selben Haus,
+               einen Stock tiefer, vom <date instant="false">15. 11. 1893</date> bis <date instant="false">Anfang September
+                  1903</date>.</p>
+               </note> wie ich). Als ich ihm mein Ziel bezeichnete, nahm er das Stück gleich an sich und erklärte, es auf seiner eben bevorstehenden Reise nach <rs type="place" ref="#pmb168">Berlin</rs> lesen zu wollen. <anchor type="commentary" xml:id="KT081-16"/>Etwa zwei Tage später<note type="commentary" xml:id="KT081-16h">
+                  <p>Laut <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl> am <date instant="false">31. 10. 1894</date>.</p>
+               </note> finde ich Abends beim Nachhausekommen ein <anchor type="commentary" xml:id="KT081-27"/>Telegramm<note type="commentary" xml:id="KT081-27h">
+                  <p>Nicht erhalten.</p>
+               </note>, in dem er mir zu dem Stück gratuliert und sich vorbehält in <rs type="place" ref="#pmb50">Wien</rs> alles nähere, hauptsächlich hinsichtlich zu erwartender Zensurschwierigkeiten zu besprechen. Ein <anchor type="commentary" xml:id="KT081-17"/>paar Tage darauf in seiner<pb/> Wohnung<note type="commentary" xml:id="KT081-17h">
+                  <p>Vgl. <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">5. 11. 1894</date>.</p>
+               </note> erklärt er es als unumgänglich notwendig, dass Frau <rs type="person" ref="#pmb2850">Hohenfels</rs> die <rs type="work" subtype="implied" ref="#pmb29917">Christine</rs> spielt. »Wenn die nicht will, kann ich’s überhaupt nicht spielen. Die <rs type="person" ref="#pmb4200">Reinhold</rs>, die piepst zu viel.« Frau <rs type="person" ref="#pmb2850">Hohenfels</rs> refusiert die Rolle; ebenso wie später <rs type="person" ref="#pmb6173">Baumeister</rs> den alten <rs type="work" subtype="implied" ref="#pmb29917">Weiring</rs>. <rs type="person" ref="#pmb11036">Burckhard</rs> muss vorläufig von der Aufführung absehen. Entweder schon damals oder einige Zeit nachher lässt er mich <anchor type="commentary" xml:id="KT081-19"/>durch <rs type="person" ref="#pmb10815">Bahr</rs> fragen, ob ich einen Weg zu <rs type="person" ref="#pmb12816">Speidel</rs> habe<note type="commentary" xml:id="KT081-19h">
+                  <p>
+                     <ptr target="D041123"/>.</p>
+               </note>, dessen Urteil von grosser Bedeutung sei, so dass im Falle eines günstigen Eindruckes der »<rs type="work" ref="#pmb29917">Liebelei</rs>« auf ihn sowohl die oberen Behörden als auch Frau <rs type="person" ref="#pmb2850">Hohenfels</rs> leichter zu gewinnen wären. <rs type="person" ref="#pmb11740">Hofmannsthal</rs> gibt das Stück dem Hofrat <rs type="person" ref="#pmb11497">Gomperz</rs>, <rs type="person" ref="#pmb11497">Gomperz</rs> dem <rs type="person" ref="#pmb12816">Speidel</rs>, <rs type="person" ref="#pmb12816">Speidel</rs> schreibt an <rs type="person" ref="#pmb11497">Gomperz</rs> einen Brief, in dem er sich sehr warm über das Stück äussert und die Ansicht ausspricht, dass Fräulein <rs type="person" ref="#pmb12618">Sandrock</rs> (deren Engagement für die nächste Saison bevor<pb/>stand) »es wohl zum Siege führen könnte«. Dieser Brief nimmt seinen Weg von <rs type="person" ref="#pmb11497">Gomperz</rs> zu <rs type="person" ref="#pmb12816">Hofmannsthal</rs>, <anchor type="commentary" xml:id="KT081-3"/>von <rs type="person" ref="#pmb11740">Hofmannsthal</rs> zu mir<note type="commentary" xml:id="KT081-3h">
+                  <p>Am <date instant="false">17. 12. 1894</date>.</p>
+               </note>, von mir zu <rs type="person" ref="#pmb11036">Burckhard</rs>, von dort weiter, wohl auch zu <rs type="person" ref="#pmb14179">Besetzny</rs>, der vorzugsweise durch <rs type="person" ref="#pmb12923">Taussig</rs> (<rs type="org" ref="#pmb29244">Bodenkreditanstalt</rs>) gewonnen werden sollte. Nun lag <rs type="person" ref="#pmb11036">Burckhard</rs> daran, die <rs type="person" ref="#pmb12618">Sandrock</rs> statt im <date>September</date> schon in der laufenden Saison (<date>1895</date>) vom <rs type="place" ref="#pmb20">Volkstheater</rs> frei zu bekommen, sie aber weigerte sich anfangs und will überhaupt mit diesem Gale<supplied>e</supplied>rensträfling <del rend="strikethrough">keine</del>, wie sie <rs type="person" ref="#pmb11036">Burckhard</rs> nennt, keine Unterredung haben. <rs type="person" ref="#pmb10815">Bahr</rs> bittet mich nun die Sache bei der <rs type="person" ref="#pmb12618">Sandrock</rs> durchzusetzen. Es gelingt mir ohne besondere Mühe, und nach stattgehabter Unterredung äussert sie: »Dieser <rs type="person" ref="#pmb11036">Burckhard</rs> ist wohl ein herrlicher Mann«. Im <anchor type="commentary" xml:id="KT081-4"/>
+               <date>Jänner</date> oder <date>Feber</date>
+               <note type="commentary" xml:id="KT081-4h">
+                  <p>Am <date instant="false">7. 2. 1895</date> Debüt (<rs type="work" ref="#pmb30081">Maria Stuart</rs>),
+                  <ptr target="D041139"/>.</p>
+               </note> tritt sie ihr Engagement an, »<rs type="work" ref="#pmb29917">Liebelei</rs>« aber wird vorläufig hinausgeschoben. Ich höre<pb/> von verschiedenen Seiten, (auch von <rs type="person" ref="#pmb2570">Lothar</rs>) dass die Aufführung des Stückes nicht gestattet werden <subst>
                   <del rend="strikethrough">sollte</del>
                   <add place="above">würde</add>
-               </subst>. <anchor type="commentary" xml:id="KT081-18">Gegen Ende der Saison</anchor>, nachts beim Nachhausekommen, treffe ich mit <rs type="person" ref="#pmb11036">Burckhard</rs> wieder auf der Treppe unseres Hauses zusammen. »Ich habe Ihnen eine interessante Mitteilung zu machen, <rs type="person" ref="#pmb12265">Mitterwurzer</rs> wird den <rs type="work" subtype="implied" ref="#pmb29917">Herrn</rs> spielen«. Darauf ich: »Ich habe Ihnen eine noch interessantere Mitteilung zu machen, die ›<rs type="work" ref="#pmb29917">Liebelei</rs>‹ wird im <rs type="place" ref="#pmb14">Burgtheater</rs> gar nicht aufgeführt werden«. Er gibt bestehende Schwierigkeiten zu, verbürgt sich aber dafür, sie zu überwinden. Vor der Aufführung des Stückes, <date>Oktober 95</date>, <subst>
+               </subst>. <anchor type="commentary" xml:id="KT081-18"/>Gegen Ende der Saison<note type="commentary" xml:id="KT081-18h">
+                  <p>Am <date instant="false">16. 6. 1895</date>.</p>
+               </note>, nachts beim Nachhausekommen, treffe ich mit <rs type="person" ref="#pmb11036">Burckhard</rs> wieder auf der Treppe unseres Hauses zusammen. »Ich habe Ihnen eine interessante Mitteilung zu machen, <rs type="person" ref="#pmb12265">Mitterwurzer</rs> wird den <rs type="work" subtype="implied" ref="#pmb29917">Herrn</rs> spielen«. Darauf ich: »Ich habe Ihnen eine noch interessantere Mitteilung zu machen, die ›<rs type="work" ref="#pmb29917">Liebelei</rs>‹ wird im <rs type="place" ref="#pmb14">Burgtheater</rs> gar nicht aufgeführt werden«. Er gibt bestehende Schwierigkeiten zu, verbürgt sich aber dafür, sie zu überwinden. Vor der Aufführung des Stückes, <date>Oktober 95</date>, <subst>
                   <del rend="strikethrough">scheinen</del>
                   <add place="above">drohen</add>
                </subst> auf kurze Zeit neue Schwierigkeiten durch die <rs type="person" ref="#pmb12618">Sandrock</rs> zu entstehen und <rs type="person" ref="#pmb11036">Burckhard</rs> sagt: »Ja natürlich, wenn sie auf der Probe einen Skandal macht, können wir’s nicht spielen.« Aber die Leseprobe und alles übrige verläuft glatt.<pb/>
             </p>
-            <p part="N">Kurze Zeit nach der Première erzählt mir <rs type="person" ref="#pmb11036">Burckhard</rs>, der <anchor type="commentary" xml:id="KT081-14">
-                  <rs type="person" subtype="implied" ref="#pmb2513">Kaiser</rs> habe sich zum Maler <rs type="person" ref="#pmb28912">Horowitz</rs> geäussert: »Ich habe mich gewundert Sie neulich mit Ihrer Tochter bei der ›<rs type="work" ref="#pmb29917">Liebelei</rs>‹ zu sehen. Ich begreife überhaupt nicht, dass man so ein Stück im <rs type="place" ref="#pmb14">Burgtheater</rs> aufführt</anchor>«. Diese Stimmung des <rs type="person" subtype="implied" ref="#pmb2513">Kaisers</rs> kam daher, dass Frau <rs type="person" ref="#pmb2680">Schratt</rs>, <add place="above">die</add> die <rs type="work" subtype="implied" ref="#pmb29917">Schlager-Mizzi</rs> spielen wollte <del rend="strikethrough">und daher</del> gegen das Stück intriguierte.<pb/>
+            <p>Kurze Zeit nach der Première erzählt mir <rs type="person" ref="#pmb11036">Burckhard</rs>, der <anchor type="commentary" xml:id="KT081-14"/>
+               <rs type="person" subtype="implied" ref="#pmb2513">Kaiser</rs> habe sich zum Maler <rs type="person" ref="#pmb28912">Horowitz</rs> geäussert: »Ich habe mich gewundert Sie neulich mit Ihrer Tochter bei der ›<rs type="work" ref="#pmb29917">Liebelei</rs>‹ zu sehen. Ich begreife überhaupt nicht, dass man so ein Stück im <rs type="place" ref="#pmb14">Burgtheater</rs> aufführt<note type="commentary" xml:id="KT081-14h">
+                  <p>
+                     <bibl >Vgl. <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">5. 9. 1896</date>.</p>
+               </note>«. Diese Stimmung des <rs type="person" subtype="implied" ref="#pmb2513">Kaisers</rs> kam daher, dass Frau <rs type="person" ref="#pmb2680">Schratt</rs>, <add place="above">die</add> die <rs type="work" subtype="implied" ref="#pmb29917">Schlager-Mizzi</rs> spielen wollte <del rend="strikethrough">und daher</del> gegen das Stück intriguierte.<pb/>
             </p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">
-               <anchor type="label" xml:id="LT081-2">»<rs type="work" ref="#pmb29899">Freiwild</rs>« gab ich <rs type="person" ref="#pmb11036">Burckhard</rs> zum lesen, natürlich wusste ich, dass es im <rs type="place" ref="#pmb14">Burgtheater</rs> nicht aufgeführt werden konnte.</anchor> Er war mit dem Stück sehr einverstanden, nur <anchor type="commentary" xml:id="KT081-20">wünschte er, dass <rs type="work" subtype="implied" ref="#pmb29899">Paul Röning</rs> den Offizier <rs type="work" subtype="implied" ref="#pmb29899">Karinski</rs> und nicht dieser den Paul am Schluss des Stückes niederknalle</anchor>.</p>
-            <p part="N">Kurz vorher, in <rs type="place" ref="#pmb169">Pötzleinsdorf</rs> auf einer <anchor type="commentary" xml:id="KT081-5">
-                  <anchor type="textConst" xml:id="TT081-1">Soiree</anchor> bei <rs type="person" ref="#pmb3744 #pmb12205">Mauthners</rs>
-               </anchor> hatte er mit mir über die feindselige Stellung mancher Leute gegenüber <rs type="work" ref="#pmb29935">Anatol</rs> und <rs type="work" ref="#pmb29917">Liebelei</rs> gesprochen und gesagt: »Schreiben S’ doch einmal etwas ganz anderes und schlagen S’ den Leuten den Säbel aus der Hand.« In diesem Sinn hatte ihn <rs type="work" ref="#pmb29899">Freiwild</rs> sehr angenehm berührt.</p>
-            <p part="N">
-               <supplied>»</supplied>›<rs type="work" ref="#pmb29935">Anatol</rs>‹ möcht ich gern aufführen, Sie müssten den <rs type="work" subtype="implied" ref="#pmb29935">Anatol</rs> spielen, der <anchor type="commentary" xml:id="KT081-6">
-                  <rs type="person" ref="#pmb10815">Bahr</rs> den <rs type="work" subtype="implied" ref="#pmb29935">Max</rs>
-               </anchor>, und die <rs type="person" ref="#pmb12618">Sandrock</rs> alle sieben Frauenollen«.</p>
-            <p part="N">
+            <p>
+               <anchor type="label" xml:id="LT081-2">»<rs type="work" ref="#pmb29899">Freiwild</rs>« gab ich <rs type="person" ref="#pmb11036">Burckhard</rs> zum lesen, natürlich wusste ich, dass es im <rs type="place" ref="#pmb14">Burgtheater</rs> nicht aufgeführt werden konnte.</anchor> Er war mit dem Stück sehr einverstanden, nur <anchor type="commentary" xml:id="KT081-20"/>wünschte er, dass <rs type="work" subtype="implied" ref="#pmb29899">Paul Röning</rs> den Offizier <rs type="work" subtype="implied" ref="#pmb29899">Karinski</rs> und nicht dieser den Paul am Schluss des Stückes niederknalle<note type="commentary" xml:id="KT081-20h">
+                  <p>Vgl. <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">4. 9. 1896</date>.</p>
+               </note>.</p>
+            <p>Kurz vorher, in <rs type="place" ref="#pmb169">Pötzleinsdorf</rs> auf einer <anchor type="commentary" xml:id="KT081-5"/>
+               <anchor type="textConst" xml:id="TT081-1"/>Soiree<note type="textConst" xml:id="TT081-1h">
+                  <p>Tippfehler: »Soirer«.</p>
+               </note> bei <rs type="person" ref="#pmb3744 #pmb12205">Mauthners</rs>
+               <note type="commentary" xml:id="KT081-5h">
+                  <p>
+                     <bibl >Vgl. <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">19. 5. 1896</date>.</p>
+               </note> hatte er mit mir über die feindselige Stellung mancher Leute gegenüber <rs type="work" ref="#pmb29935">Anatol</rs> und <rs type="work" ref="#pmb29917">Liebelei</rs> gesprochen und gesagt: »Schreiben S’ doch einmal etwas ganz anderes und schlagen S’ den Leuten den Säbel aus der Hand.« In diesem Sinn hatte ihn <rs type="work" ref="#pmb29899">Freiwild</rs> sehr angenehm berührt.</p>
+            <p>
+               <supplied>»</supplied>›<rs type="work" ref="#pmb29935">Anatol</rs>‹ möcht ich gern aufführen, Sie müssten den <rs type="work" subtype="implied" ref="#pmb29935">Anatol</rs> spielen, der <anchor type="commentary" xml:id="KT081-6"/>
+               <rs type="person" ref="#pmb10815">Bahr</rs> den <rs type="work" subtype="implied" ref="#pmb29935">Max</rs>
+               <note type="commentary" xml:id="KT081-6h">
+                  <p>
+                     <ptr target="D041151"/>.</p>
+               </note>, und die <rs type="person" ref="#pmb12618">Sandrock</rs> alle sieben Frauenollen«.</p>
+            <p>
                <date>Ende 97</date> kam seine Stellung als Di<pb/>rektor ins Schwanken. Er erkundigte sich lebhaft nach meinem neuen Stück, das ich eben beendet hatte, das »<rs type="work" ref="#pmb30219">Vermächtnis</rs>«, wollte es sich gleich vorlesen lassen, und ich hatte den Eindruck, als wenn er eine<subst>
                   <del rend="overwritten">n</del>
                   <add place="inline">m</add>
-               </subst> starken Theatererfolg die Kraft zutraute seine Stellung wieder zu befestigen. Ich <anchor type="commentary" xml:id="KT081-22">las ihm das Stück in meiner Wohnung vor</anchor>, es gefiel ihm, er sprach gleich über die Besetzung und insbesondere wurde <rs type="person" ref="#pmb11610">Hartmann</rs> für den <rs type="work" subtype="implied" ref="#pmb30219">Losatti</rs> in Aussicht genommen. Aber ehe noch offiziell etwas entschieden war erfolgte <del rend="strikethrough">der</del>
+               </subst> starken Theatererfolg die Kraft zutraute seine Stellung wieder zu befestigen. Ich <anchor type="commentary" xml:id="KT081-22"/>las ihm das Stück in meiner Wohnung vor<note type="commentary" xml:id="KT081-22h">
+                  <p>Am <date instant="false">27. 12. 1897</date>.</p>
+               </note>, es gefiel ihm, er sprach gleich über die Besetzung und insbesondere wurde <rs type="person" ref="#pmb11610">Hartmann</rs> für den <rs type="work" subtype="implied" ref="#pmb30219">Losatti</rs> in Aussicht genommen. Aber ehe noch offiziell etwas entschieden war erfolgte <del rend="strikethrough">der</del>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb11036">Burckhard</rs>’s Sturz. In der Zeit der Krise <anchor type="commentary" xml:id="KT081-7">traf ich ihn einmal</anchor> bei <rs type="person" ref="#pmb10875 #pmb27790">Benedikt’s</rs> und auf eine leise fragende Anspielung meinerseits kehrte er zum ersten und einzigen Mal, alle<supplied>r</supplied>dings in einer sehr höflichen Form, den Beamten hervor, der nicht in der <anchor type="textConst" xml:id="TT081-2">Lage</anchor> sei Auskunft zu erteilen oder dergleichen.<pb/>
+               <rs type="person" ref="#pmb11036">Burckhard</rs>’s Sturz. In der Zeit der Krise <anchor type="commentary" xml:id="KT081-7"/>traf ich ihn einmal<note type="commentary" xml:id="KT081-7h">
+                  <p>Vielleicht am <date instant="false">15. 1. 1898</date>.</p>
+               </note> bei <rs type="person" ref="#pmb10875 #pmb27790">Benedikt’s</rs> und auf eine leise fragende Anspielung meinerseits kehrte er zum ersten und einzigen Mal, alle<supplied>r</supplied>dings in einer sehr höflichen Form, den Beamten hervor, der nicht in der <anchor type="textConst" xml:id="TT081-2"/>Lage<note type="textConst" xml:id="TT081-2h">
+                  <p>Tippfehler: »Lgge«.</p>
+               </note> sei Auskunft zu erteilen oder dergleichen.<pb/>
             </p>
-            <p part="N">Gleich nach seinem Scheiden aus dem Amt schrieb ich ihm aus meiner Sympathie heraus einen Brief, den er ebenso herzlich <anchor type="commentary" xml:id="KT081-8">erwiderte</anchor> und unsere freundschaftlichen Beziehungen, ohne dass sie je den Charakter einer besonderen Intimität annahmen, befestigten sich von Jahr zu Jahr.<pb/>
+            <p>Gleich nach seinem Scheiden aus dem Amt schrieb ich ihm aus meiner Sympathie heraus einen Brief, den er ebenso herzlich <anchor type="commentary" xml:id="KT081-8"/>erwiderte<note type="commentary" xml:id="KT081-8h">
+                  <p>Brief vom <date instant="false">5. 2. 1898</date> (<bibl >
+                        <rs type="org">CUL</rs>, Schnitzler, B 20</bibl>).</p>
+               </note> und unsere freundschaftlichen Beziehungen, ohne dass sie je den Charakter einer besonderen Intimität annahmen, befestigten sich von Jahr zu Jahr.<pb/>
             </p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">Lebhaften Anteil nahm er an der »<rs type="work" ref="#pmb29853">Leutnant Gustl</rs>«-Affaire. Als die erste Vorladung der Militärbehörde an mich gelangte, <anchor type="commentary" xml:id="KT081-23">besprach ich mit ihm was zu tun wäre</anchor>. Er war es hauptsächlich, der mir widerriet mich persönlich dem Ehrengericht vorzustellen; da ich dort in Uniform erscheinen müsste und die Verhandlungen überdies geheim seien, wäre ich eventuell auch willkürlichen Massnahmen ausgesetzt. Er hielt überdies damals, da er den <rs type="place" ref="#pmb41240">österreichischen</rs> Behörden nun einmal nicht traute, eine zwangsweise Vorführung nicht für ganz ausgeschlossen, ja selbst eine Hausdurchsuchung und übernahm für einige Zeit wichtige Papiere von mir in eigene Verwahrung.<pb/>
+            <p>Lebhaften Anteil nahm er an der »<rs type="work" ref="#pmb29853">Leutnant Gustl</rs>«-Affaire. Als die erste Vorladung der Militärbehörde an mich gelangte, <anchor type="commentary" xml:id="KT081-23"/>besprach ich mit ihm was zu tun wäre<note type="commentary" xml:id="KT081-23h">
+                  <p>Am <date instant="false">5. 1. 1901</date>.</p>
+               </note>. Er war es hauptsächlich, der mir widerriet mich persönlich dem Ehrengericht vorzustellen; da ich dort in Uniform erscheinen müsste und die Verhandlungen überdies geheim seien, wäre ich eventuell auch willkürlichen Massnahmen ausgesetzt. Er hielt überdies damals, da er den <rs type="place" ref="#pmb41240">österreichischen</rs> Behörden nun einmal nicht traute, eine zwangsweise Vorführung nicht für ganz ausgeschlossen, ja selbst eine Hausdurchsuchung und übernahm für einige Zeit wichtige Papiere von mir in eigene Verwahrung.<pb/>
             </p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">Ein Kaffeehausgespräch, das wohl nach der »<rs type="work" ref="#pmb29917">Liebelei</rs>« stattgefunden haben könnte. Er erzählte von gewissen Jugendstimmungen, in denen er überzeugt war, dass er weder krank werden oder gar sterben könnte. Ich glaube, es klang zu jener Zeit noch manches von jener Stimmung in ihm nach, wenn auch schon, wie ich von <rs type="person" ref="#pmb10815">Bahr</rs> erfuhr, Perioden von schwersten hypochondrisch-melancholischen Depressionen dazwischen gelegen waren, doch war der Eindruck jenes <anchor type="commentary" xml:id="KT081-21">Gespräches im <rs type="place" ref="#pmb104">Arkadencafé</rs>
-               </anchor> so stark, dass es sich mir irgendwie als Ausgangspunkt oder als Mittelszene für einen Roman krystallisieren wollte.<pb/>
+            <p>Ein Kaffeehausgespräch, das wohl nach der »<rs type="work" ref="#pmb29917">Liebelei</rs>« stattgefunden haben könnte. Er erzählte von gewissen Jugendstimmungen, in denen er überzeugt war, dass er weder krank werden oder gar sterben könnte. Ich glaube, es klang zu jener Zeit noch manches von jener Stimmung in ihm nach, wenn auch schon, wie ich von <rs type="person" ref="#pmb10815">Bahr</rs> erfuhr, Perioden von schwersten hypochondrisch-melancholischen Depressionen dazwischen gelegen waren, doch war der Eindruck jenes <anchor type="commentary" xml:id="KT081-21"/>Gespräches im <rs type="place" ref="#pmb104">Arkadencafé</rs>
+               <note type="commentary" xml:id="KT081-21h">
+                  <p>Vgl. <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">2. 11. 1897</date>.</p>
+               </note> so stark, dass es sich mir irgendwie als Ausgangspunkt oder als Mittelszene für einen Roman krystallisieren wollte.<pb/>
             </p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">Im <anchor type="commentary" xml:id="KT081-25">Jahre <date>94</date>
-                  <space unit="chars" quantity="1"/>
-                  <subst>
-                     <del rend="strikethrough">fahre</del>
-                     <add place="above">radle</add>
-                  </subst> ich mit <rs type="person" ref="#pmb2167">Salten</rs> an einem schönen Sommernachmittag gegen <rs type="place" ref="#pmb44394">Weidling-Bach</rs>
-               </anchor>. <del rend="strikethrough">
+            <p>Im <anchor type="commentary" xml:id="KT081-25"/>Jahre <date>94</date>
+               <space unit="chars" quantity="1"/>
+               <subst>
+                  <del rend="strikethrough">fahre</del>
+                  <add place="above">radle</add>
+               </subst> ich mit <rs type="person" ref="#pmb2167">Salten</rs> an einem schönen Sommernachmittag gegen <rs type="place" ref="#pmb44394">Weidling-Bach</rs>
+               <note type="commentary" xml:id="KT081-25h">
+                  <p>Am <date instant="false">27. 4. 1894</date>.</p>
+               </note>. <del rend="strikethrough">
                   <gap quantity="1" reason="illegible" unit="chars"/>rad<unclear>e</unclear>
                </del> Ein Fussgänger mit Lodenhut, jung und einsam, kommt uns entgegen, es ist <rs type="person" ref="#pmb11036">Burckhard</rs>, wir plaudern, er äussert sich ziemlich abfällig über das Radfahren.</p>
-            <p part="N">Im <anchor type="commentary" xml:id="KT081-9">Jahr darauf</anchor> bin ich mit <rs type="person" ref="#pmb2167">Salten</rs> auf einer Radtour von <rs type="place" ref="#pmb30">Salzburg</rs> gegen <rs type="place" ref="#pmb867">Innsbruck</rs>. Irgendwo an der Grenze gegen Mittag kommt uns ein Radler entgegen, sehr bedenklich aussehend, ohne Kravatte, mit <anchor type="commentary" xml:id="KT081-10">Zugschuhen</anchor>, einen Dolch im Gürtel, die Landkarte aufgeschnallt, es ist <rs type="person" ref="#pmb11036">Burckhard</rs>, der um drei Uhr Morgens von <rs type="place" ref="#pmb867">Innsbruck</rs> weggefahren ist und noch vor Mittag in <rs type="place" ref="#pmb30">Salzburg</rs> anzukommen gedenkt.<pb/>
+            <p>Im <anchor type="commentary" xml:id="KT081-9"/>Jahr darauf<note type="commentary" xml:id="KT081-9h">
+                  <p>Vgl. <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">24. 8. 1895</date>: »<quote>an der <rs type="place" ref="#pmb314">bair</rs>.
+                     <rs type="place" ref="#pmb41240">oest</rs>. Grenze <rs type="person" ref="#pmb11036">Burckhard</rs> auf dem Rad uns entgegen, kurzes Gespräch, sein
+                  groteskes Costume, Dolch etc.</quote>«</p>
+               </note> bin ich mit <rs type="person" ref="#pmb2167">Salten</rs> auf einer Radtour von <rs type="place" ref="#pmb30">Salzburg</rs> gegen <rs type="place" ref="#pmb867">Innsbruck</rs>. Irgendwo an der Grenze gegen Mittag kommt uns ein Radler entgegen, sehr bedenklich aussehend, ohne Kravatte, mit <anchor type="commentary" xml:id="KT081-10"/>Zugschuhen<note type="commentary" xml:id="KT081-10h">
+                  <p>Schaftstiefeln.</p>
+               </note>, einen Dolch im Gürtel, die Landkarte aufgeschnallt, es ist <rs type="person" ref="#pmb11036">Burckhard</rs>, der um drei Uhr Morgens von <rs type="place" ref="#pmb867">Innsbruck</rs> weggefahren ist und noch vor Mittag in <rs type="place" ref="#pmb30">Salzburg</rs> anzukommen gedenkt.<pb/>
             </p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">Im Jahre <date>1901</date>
+            <p>Im Jahre <date>1901</date>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KT081-24">Begegnung in <rs type="place" ref="#pmb445">Rom</rs>
-               </anchor>. Ich treffe ihn im <rs type="place" ref="#pmb1002">Vatikan</rs> in blauen Radlkostüm. Manchmal speisen wir zusammen. Auch <rs type="person" ref="#pmb13055">Wassermann</rs> und <rs type="person" subtype="implied" ref="#pmb13058">Frau</rs> sind ein oder das andere Mal dabei. <rs type="person" ref="#pmb11036">Burckhard</rs> begnügt sich meist mit Orangen und Artischoken.</p>
-            <p part="N">Bald nachdem er sein Haus in <rs type="place" ref="#pmb33">St. Gilgen</rs> bezieht, etwa <anchor type="commentary" xml:id="KT081-28">
-                  <date>Herbst 1905</date> (?)</anchor> besuchen wir ihn dort. Ebenso im Winter desselben Jahres. Rodeln hinter seinem Haus. Seine Klagen, damals zum Teil offenbar hypochondrischer Natur, Professor <rs type="person" ref="#pmb2216">Ortner</rs> habe ihm grosse Angst gemacht. Etwa zu gleicher Zeit hatte <rs type="person" ref="#pmb2216">Ortner</rs> bei <rs type="person" ref="#pmb11673">Herzl</rs>, <rs type="person" ref="#pmb11036">Burckhard</rs> und <rs type="person" ref="#pmb10815">Bahr</rs> schwere Herzkrankheiten konstatiert, und alle diese Patienten mit einer <add place="above">kaum</add> zu rechtfertigenden Aufrichtigkeit <subst>
+               <anchor type="commentary" xml:id="KT081-24"/>Begegnung in <rs type="place" ref="#pmb445">Rom</rs>
+               <note type="commentary" xml:id="KT081-24h">
+                  <p>Am <date instant="false">10. 4. 1901</date>.</p>
+               </note>. Ich treffe ihn im <rs type="place" ref="#pmb1002">Vatikan</rs> in blauen Radlkostüm. Manchmal speisen wir zusammen. Auch <rs type="person" ref="#pmb13055">Wassermann</rs> und <rs type="person" subtype="implied" ref="#pmb13058">Frau</rs> sind ein oder das andere Mal dabei. <rs type="person" ref="#pmb11036">Burckhard</rs> begnügt sich meist mit Orangen und Artischoken.</p>
+            <p>Bald nachdem er sein Haus in <rs type="place" ref="#pmb33">St. Gilgen</rs> bezieht, etwa <anchor type="commentary" xml:id="KT081-28"/>
+               <date>Herbst 1905</date> (?)<note type="commentary" xml:id="KT081-28h">
+                  <p>
+                     <date instant="false">16. 9. 1904</date> respektive <ptr target="LL287-4"/>.</p>
+               </note> besuchen wir ihn dort. Ebenso im Winter desselben Jahres. Rodeln hinter seinem Haus. Seine Klagen, damals zum Teil offenbar hypochondrischer Natur, Professor <rs type="person" ref="#pmb2216">Ortner</rs> habe ihm grosse Angst gemacht. Etwa zu gleicher Zeit hatte <rs type="person" ref="#pmb2216">Ortner</rs> bei <rs type="person" ref="#pmb11673">Herzl</rs>, <rs type="person" ref="#pmb11036">Burckhard</rs> und <rs type="person" ref="#pmb10815">Bahr</rs> schwere Herzkrankheiten konstatiert, und alle diese Patienten mit einer <add place="above">kaum</add> zu rechtfertigenden Aufrichtigkeit <subst>
                   <del rend="strikethrough">zu</del>
                   <add place="above">in</add>
                </subst> schwere<del rend="strikethrough">n</del> seelische<del rend="strikethrough">n</del> Depressionen <subst>
@@ -163,36 +268,46 @@
                </subst>. <rs type="person" ref="#pmb11673">Herzl</rs> starb schon im <date>Juli 1904</date>. <rs type="person" ref="#pmb10815">Bahr</rs> sagte mir ungefähr zu dieser Zeit: »Der <rs type="person" ref="#pmb2216">Ortner</rs> hat mir gesagt, dass der<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11036">Burckhard</rs> noch viel kränker ist als ich. Er weiss gar nicht wie krank er ist.«</p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">Im <date>Juni 1909</date> waren wir etwa acht Tage in <rs type="place" ref="#pmb33">St. Gilgen</rs>. Damals stieg ich einmal mit <rs type="person" ref="#pmb11036">B.</rs>
+            <p>Im <date>Juni 1909</date> waren wir etwa acht Tage in <rs type="place" ref="#pmb33">St. Gilgen</rs>. Damals stieg ich einmal mit <rs type="person" ref="#pmb11036">B.</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KT081-11">auf seine <rs type="place" subtype="implied" ref="#pmb49106">Alm</rs>
-               </anchor>, wo er sich eine Hütte gebaut hatte, und die Arbeiter eben mit der Steinumfassung <add place="above">des Platzes</add> beschäftigt waren. <rs type="person" ref="#pmb11036">B.</rs> stieg vortrefflich und nach anfänglicher Aengstlichkeit, wie meistens, kam er sehr bald ins Reden und Erzählen. Er sprach damals davon, dass er in der <anchor type="textConst" xml:id="TT081-3">letzten</anchor> Zeit alle <subst>
+               <anchor type="commentary" xml:id="KT081-11"/>auf seine <rs type="place" subtype="implied" ref="#pmb49106">Alm</rs>
+               <note type="commentary" xml:id="KT081-11h">
+                  <p>
+                     <date instant="false">11. 6. 1909</date>, <ptr target="D041045"/>.</p>
+               </note>, wo er sich eine Hütte gebaut hatte, und die Arbeiter eben mit der Steinumfassung <add place="above">des Platzes</add> beschäftigt waren. <rs type="person" ref="#pmb11036">B.</rs> stieg vortrefflich und nach anfänglicher Aengstlichkeit, wie meistens, kam er sehr bald ins Reden und Erzählen. Er sprach damals davon, dass er in der <anchor type="textConst" xml:id="TT081-3"/>letzten<note type="textConst" xml:id="TT081-3h">
+                  <p>Tippfehler: »letzzen«.</p>
+               </note> Zeit alle <subst>
                   <del rend="strikethrough">Jugend</del>
                   <add place="above">Liebes</add>
                </subst>briefe verbrannt hätte. »Es macht einem doch nur traurig, wenn man später die Sachen wieder ansieht.«</p>
-            <p part="N">Sein Haus in <rs type="place" ref="#pmb33">St. Gilgen</rs> hatte innen etwas Kahles, ja beinah Trübseliges. Der Garten wunderschön. Im <anchor type="commentary" xml:id="KT081-26">
-                  <date>Juli 1911</date>
-               </anchor> sass ich mit ihm in einem eben gebauten kleinen <anchor type="commentary" xml:id="KT081-12">Salettl</anchor>, mit ihm und dreien nicht mehr ganz jungen Fräuleins, die sich dort<pb/> regelmässig zu einer Tarokpartie einzufinden pflegten.</p>
-            <p part="N">Im Laufe des letzten Jahres besuchte er mich zuweilen, meist von seinem gewohnten Spaziergang im <rs type="place" ref="#pmb113">Türkenschanzpark</rs> an unserm Haus vorüberkommend. Anfangs <add place="above">war er</add> immer von schweren Angstvorstellungen gequält, im Laufe des Gespräches verloren sie sich beinahe regelmässig und noch im vergangenen Winter wurde man <add place="above">manchmal</add> an seine besten Tage erinnert.</p>
-            <p part="N">Etwas Schrullen- und Sonderlingshaftes war ihm schon in frühester Zeit eigen. Er gehörte zu der Sorte der geselligen Einsamen.<pb/>
+            <p>Sein Haus in <rs type="place" ref="#pmb33">St. Gilgen</rs> hatte innen etwas Kahles, ja beinah Trübseliges. Der Garten wunderschön. Im <anchor type="commentary" xml:id="KT081-26"/>
+               <date>Juli 1911</date>
+               <note type="commentary" xml:id="KT081-26h">
+                  <p>Am <date instant="false">25. 7.</date>
+                  </p>
+               </note> sass ich mit ihm in einem eben gebauten kleinen <anchor type="commentary" xml:id="KT081-12"/>Salettl<note type="commentary" xml:id="KT081-12h">
+                  <p>(öst.) Gartenpavillon.</p>
+               </note>, mit ihm und dreien nicht mehr ganz jungen Fräuleins, die sich dort<pb/> regelmässig zu einer Tarokpartie einzufinden pflegten.</p>
+            <p>Im Laufe des letzten Jahres besuchte er mich zuweilen, meist von seinem gewohnten Spaziergang im <rs type="place" ref="#pmb113">Türkenschanzpark</rs> an unserm Haus vorüberkommend. Anfangs <add place="above">war er</add> immer von schweren Angstvorstellungen gequält, im Laufe des Gespräches verloren sie sich beinahe regelmässig und noch im vergangenen Winter wurde man <add place="above">manchmal</add> an seine besten Tage erinnert.</p>
+            <p>Etwas Schrullen- und Sonderlingshaftes war ihm schon in frühester Zeit eigen. Er gehörte zu der Sorte der geselligen Einsamen.<pb/>
             </p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">Was wird von ihm übrig bleiben? Er hat wohl kein einziges Werk geschaffen, das durch seinen Kunstwert die Anwartschaft auf lange Dauer in sich trägt, aber <del rend="strikethrough">viele</del>, auch keines, in dem es nicht <del rend="strikethrough">einzelne</del> Partieen von dichterischem Reiz, ja selbst von dichterischer Kraft gäbe. In allen aber, selbst in den wenigst gelungenen, spricht sich seine ganze Persönlichkeit aus und man muss <del rend="strikethrough">es</del>
+            <p>Was wird von ihm übrig bleiben? Er hat wohl kein einziges Werk geschaffen, das durch seinen Kunstwert die Anwartschaft auf lange Dauer in sich trägt, aber <del rend="strikethrough">viele</del>, auch keines, in dem es nicht <del rend="strikethrough">einzelne</del> Partieen von dichterischem Reiz, ja selbst von dichterischer Kraft gäbe. In allen aber, selbst in den wenigst gelungenen, spricht sich seine ganze Persönlichkeit aus und man muss <del rend="strikethrough">es</del>
                <space unit="chars" quantity="1"/>
                <del rend="strikethrough">beklagen</del> die Ungerechtigkeit des Nachruhms beklagen, der sich formalem Gelingen so viel leichter geneigt zeigt als den schriftstellerischen Aeusserungen einer <subst>
                   <del rend="strikethrough">sonderbaren</del>
                   <add place="above">bedeutenden</add>
                </subst> Menschlichkeit, wenn sie nicht von den Flügeln der Form über die <del rend="strikethrough">Jahrzehnte oder</del> Jahrhunderte getragen werden. Freilich stellt sich bald der Trost ein: Was bedeuten Jahrzehnte und Jahrhunderte? Und was bedeutet der Name eines Menschen? Die Wir<pb/>kungen von Persönlichkeiten, wie <rs type="person" ref="#pmb11036">B.</rs> eine war, liegen wahrscheinlich so tief, dass sie nur in ihren Resultaten erkennbar werden, während freilich der Weg bis dahin oft genug unterirdisch verläuft, gewissermassen nur für die Wünschelrute des Kulturpsychologen erkennbar. Und doch war <rs type="person" ref="#pmb11036">Burckhard</rs> von künstlerischem Ehrgeiz nicht frei, wofür ja schon sein steter Drang spricht sich in angemessener künstlerischer Form auszusprechen. Als Kritiker stand er dem Artistischen mit einer gewissen Antipathie gegenüber und konnte natürlich den Irrtum nicht immer vermeiden auch dort reine Artistik zu sehen, wo Seelenhaftes sich in einer neuen und anfangs kühl erscheinenden Form darzubieten suchte.<pb/>
             </p>
-            <p part="N">
+            <p>
                <space dim="vertical"/>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11036">Max B.</rs>
                <lb/> Jemand erzählt ihm, dass <rs type="person" ref="#pmb12618">Dilli S.</rs>
                <space unit="chars" quantity="1"/>

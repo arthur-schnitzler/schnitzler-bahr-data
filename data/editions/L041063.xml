@@ -13,11 +13,11 @@
             <title type="iso-date">1903-10-09</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -148,11 +148,13 @@
             <opener>
                <p rend="right">
                   <hi rend="latintype">
-                     <anchor type="textConst" xml:id="TL063-1">
-                        <hi rend="underline" n="1">
-                           <rs type="place" ref="#pmb133">XVIII Spöttelgasse 7</rs>
-                        </hi>
-                     </anchor>
+                     <anchor type="textConst" xml:id="TL063-1"/>
+                     <hi rend="underline" n="1">
+                        <rs type="place" ref="#pmb133">XVIII Spöttelgasse 7</rs>
+                     </hi>
+                     <note type="textConst" xml:id="TL063-1h">
+                        <p>Unterstrichen.</p>
+                     </note>
                   </hi>
                </p>
                <dateline>
@@ -162,9 +164,16 @@
             </opener>
             <p>
                <salute>lieber Hermann, </salute>
-               <rs type="work" ref="#pmb29855">Reigen</rs> lass ich dir sofort schicken. Ich bin neugierig was die Censur sagt. Dann werden wir über die Anzahl der Sitze reden, die du so gütig bist mir in Aussicht zu stellen. In <rs type="place" ref="#pmb168">Berlin</rs> grüße mir, wenn du sie siehst, <rs type="person" ref="#pmb10986">Brahm</rs>, <rs type="person" ref="#pmb10844">Bassermann</rs>, <rs type="person" ref="#pmb12530">Rittner</rs>, <rs type="person" ref="#pmb2193">Sauer</rs>; – es handelt sich wohl um dein neues <anchor type="commentary" xml:id="KL063-1">
-                  <rs type="work" subtype="implied" ref="#pmb29983">Stück</rs>
-               </anchor>? Hoffentlich seh ich dich ab<damage agent="hole">
+               <rs type="work" ref="#pmb29855">Reigen</rs> lass ich dir sofort schicken. Ich bin neugierig was die Censur sagt. Dann werden wir über die Anzahl der Sitze reden, die du so gütig bist mir in Aussicht zu stellen. In <rs type="place" ref="#pmb168">Berlin</rs> grüße mir, wenn du sie siehst, <rs type="person" ref="#pmb10986">Brahm</rs>, <rs type="person" ref="#pmb10844">Bassermann</rs>, <rs type="person" ref="#pmb12530">Rittner</rs>, <rs type="person" ref="#pmb2193">Sauer</rs>; – es handelt sich wohl um dein neues <anchor type="commentary" xml:id="KL063-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29983">Stück</rs>
+               <note type="commentary" xml:id="KL063-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb29983">Der Meister. Komödie in drei Akten</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1904</date>
+                     </bibl>.</p>
+               </note>? Hoffentlich seh ich dich ab<damage agent="hole">
                   <supplied>er</supplied>
                </damage> noch vor deiner Abreise. Entweder komm ich auf eine viertel Stunde zu dir nach <rs type="place" ref="#pmb165">Ob Veit</rs> – oder, man könnte sich, ev. mit <rs type="person" ref="#pmb11740 #pmb2292">Hugo’s</rs> in <rs type="place" ref="#pmb63">Hietzing</rs> zu Abend u Abendessen treffen?</p>
             <closer>Herzlichst dein<lb/>

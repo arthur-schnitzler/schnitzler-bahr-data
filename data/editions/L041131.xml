@@ -13,11 +13,11 @@
             <title type="iso-date">1914-03-30</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,9 +127,15 @@
                <salute>mein lieber Hermann, </salute>
             </opener>
             <p>deine Reise- u Aufenthaltspläne lassen wenig Hoffnung übrig, dass man einander wenigstens im Laufe des Sommers begegnete – nachdem unser Winterversuch leider misglückt war. Wir wollen Anfang Mai nach <rs type="place" ref="#pmb263">Florenz</rs>; später (13.) von <rs type="place" ref="#pmb994">Genua</rs> aus zu Schiff nach <rs type="place" ref="#pmb995">Antwerpen</rs>,<pb/> über <rs type="place" ref="#pmb44016">Holland</rs> zurück. Juni u Juli großentheils <rs type="place" ref="#pmb50">Wien</rs>. Dann Gebirge. (<geogName type="valley">Engadin</geogName>?) – </p>
-            <p>Am <anchor type="commentary" xml:id="KL131-1">Freitag</anchor> haben <rs type="person" subtype="implied" ref="#pmb2173">wir</rs>, nach ziemlich langer Zeit, deine <rs type="person" subtype="implied" ref="#pmb10818">Frau</rs> wieder singen gehört. <anchor type="commentary" xml:id="KL131-2">
-                  <rs type="work" ref="#pmb30039">Gurrelieder</rs>
-               </anchor>. Was <rs type="person" subtype="implied" ref="#pmb10818">sie</rs> geboten hat, gehört einfach zu dem <hi rend="underline" n="1">größten</hi>, was man <hi rend="underline" n="1">je</hi> im Conzertsaal <subst>
+            <p>Am <anchor type="commentary" xml:id="KL131-1"/>Freitag<note type="commentary" xml:id="KL131-1h">
+                  <p>
+                     <date instant="false">27. 3. 1914</date>.</p>
+               </note> haben <rs type="person" subtype="implied" ref="#pmb2173">wir</rs>, nach ziemlich langer Zeit, deine <rs type="person" subtype="implied" ref="#pmb10818">Frau</rs> wieder singen gehört. <anchor type="commentary" xml:id="KL131-2"/>
+               <rs type="work" ref="#pmb30039">Gurrelieder</rs>
+               <note type="commentary" xml:id="KL131-2h">
+                  <p>Von <rs type="person" ref="#pmb12743">Arnold Schönberg</rs> am <date instant="false">27. 3.
+                  1914</date> mit <rs type="person" ref="#pmb10818">Anna Bahr-Mildenburg</rs>.</p>
+               </note>. Was <rs type="person" subtype="implied" ref="#pmb10818">sie</rs> geboten hat, gehört einfach zu dem <hi rend="underline" n="1">größten</hi>, was man <hi rend="underline" n="1">je</hi> im Conzertsaal <subst>
                   <del rend="strikethrough">gehört</del>
                   <add place="above">erlebt</add>
                </subst> hat. Schade dass du nicht dabei warst.</p>

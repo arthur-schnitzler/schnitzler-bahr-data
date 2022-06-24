@@ -13,11 +13,11 @@
             <title type="iso-date">1911-12-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -85,8 +85,18 @@
                   <rs type="person" ref="#pmb3952">Smetana</rs> Trio</rs>.</p>
             <p>Am <rs type="work" subtype="implied" ref="#pmb30945">Sommerstück</rs> weiter.</p>
             <p>
-               <rs type="person" ref="#pmb28333">F. O. Schmid</rs>, der über meine »Weltanschauung« schreiben will<c rendition="#dots" n="3"/> Allgemeineres Gespräch hierüber; Stellen aus dem »<rs type="work" ref="#pmb29923">Weg ins freie</rs>«, Mißverstehn des »<rs type="work" ref="#pmb30207">Weiten Land</rs>« und andrer Werke. <anchor type="commentary" xml:id="KD530-1">Grundfehler des »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« (<rs type="work" ref="#pmb30233">Grafen von Charolais</rs> und <rs type="work" ref="#pmb30093">Ringelspiel</rs>
-               </anchor>).– </p>
+               <rs type="person" ref="#pmb28333">F. O. Schmid</rs>, der über meine »Weltanschauung« schreiben will<c rendition="#dots" n="3"/> Allgemeineres Gespräch hierüber; Stellen aus dem »<rs type="work" ref="#pmb29923">Weg ins freie</rs>«, Mißverstehn des »<rs type="work" ref="#pmb30207">Weiten Land</rs>« und andrer Werke. <anchor type="commentary" xml:id="KD530-1"/>Grundfehler des »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« (<rs type="work" ref="#pmb30233">Grafen von Charolais</rs> und <rs type="work" ref="#pmb30093">Ringelspiel</rs>
+               <note type="commentary" xml:id="KD530-1h">
+                  <p>Aufschluss über die Stelle gibt ein Eintrag in seinem <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl> vom <date instant="false">7. 4. 1907</date>, worin er (<rs type="person" ref="#pmb10815">Bahr</rs>s <rs type="work" ref="#pmb30093">Ringelspiel</rs> gab es zu dem
+               Zeitpunkt noch nicht) <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>s und sein
+               Stück verglich: »<quote>Es ist mir (wahrscheinlich allen Juden) versagt, ein absolut
+                  gutes Drama zu schreiben. Dazu gehört eins: ›sich innerhalb des gegebenen zu
+                  beruhigen‹. Weltanschauungen wie sie im 3. Akt des <rs type="work" ref="#pmb29905">Ruf</rs> (und auch im 5. des <rs type="work" ref="#pmb30233">Charolais</rs>)
+                  zum Ausdruck kommen, heben das dramatische auf. Der Held des Dramas muss innerhalb
+                  der bestehenden Gesetze weiterlaufen.</quote>« <ptr target="KD567-1"/>.</p>
+               </note>).– </p>
             <p>Seine Ausgrabungen im <rs type="place" ref="#pmb480">Aargau</rs>, Militärleben in der <rs type="place" ref="#pmb43435">Schweiz</rs>.</p>
          </div>
       </body>

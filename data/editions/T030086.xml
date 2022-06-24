@@ -13,11 +13,11 @@
             <title type="iso-date">1894-07-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,14 +80,35 @@
    <text type="text">
       <body>
          <div type="writingSession" n="1">
-            <p>In der »<rs type="place" ref="#pmb14">Burg</rs>« ist alles ruhig. Man hört jetzt gar nichts mehr u. fast scheint es, als hätte <hi rend="gabelsberger">seiner</hi> »<anchor type="commentary" xml:id="KT086-4">
-                  <rs type="work" ref="#pmb31155">Niobe</rs>
-               </anchor>« der <rs type="person" subtype="implied" ref="#pmb11036">Direktor</rs> vor dem Haße, der es <hi rend="gabelsberger">damals nicht</hi> verträgt, daß man die Schablonen verläßt, den Mut verloren u. die Ruder gezogen. <rs type="work" ref="#pmb31159">Die erste Lüge</rs>, <hi rend="gabelsberger">von der eine Zeit die</hi> Rede war, ist sachte wieder geschwunden – wie der <rs subtype="local" type="work" ref="#pmb31157">Meister Solneß</rs> geschwunden ist, der voriges Jahr angekündigt wurde, u. der <rs type="work" ref="#pmb31159">Ehrgeizige</rs>, die seltsame Komödie des <rs type="person" ref="#pmb12756">Scribe</rs>, die einzige, wo der große Jongleur der Situation sich einmal in Characteren<pb/> versuchte. Das alles ist weg und nichts regt sich.</p>
-            <p>Man kann dem <rs type="person" subtype="implied" ref="#pmb11036">Direktor</rs> keinen Vorwürfe machen. <rs type="place" ref="#pmb41240">Östreichisches</rs> kann man nicht verlangen. <rs type="person" ref="#pmb2121">Schnitzler</rs>, <rs type="person" ref="#pmb11740">Loris</rs> zu versuchen – dazu ist seine Position nicht fest genug. In <rs type="place" ref="#pmb151">Deutschland</rs> fehlt neues. An <anchor type="commentary" xml:id="KT086-1">
-                  <rs type="person" ref="#pmb11617">Hauptmann</rs> hat die <rs type="place" ref="#pmb14">Burg</rs> wahrhaftig als ihre Schuld gethan</anchor>: Sie hat ihn erst entdeckt u. sorgsam gepflegt. Das einzige Ereignis der letzten zwei Jahre<pb/> die sehr hübsche <rs type="work" ref="#pmb29825">Jugend</rs> des trefflichen <rs type="person" ref="#pmb11565">Max Halbe</rs> versagten Bedenken der Censur. Um die <anchor type="commentary" xml:id="KT086-3">
-                  <rs type="work" ref="#pmb31329">Heimat</rs> ist wahrlich nicht schade</anchor>, da man ja schon den »<anchor type="commentary" xml:id="KT086-2">
-                  <rs type="work" ref="#pmb31303">Hüttenbesitzer</rs>
-               </anchor>« spielt – wozu die schwächliche Verdeutschung?</p>
+            <p>In der »<rs type="place" ref="#pmb14">Burg</rs>« ist alles ruhig. Man hört jetzt gar nichts mehr u. fast scheint es, als hätte <hi rend="gabelsberger">seiner</hi> »<anchor type="commentary" xml:id="KT086-4"/>
+               <rs type="work" ref="#pmb31155">Niobe</rs>
+               <note type="commentary" xml:id="KT086-4h">
+                  <p>
+                     <rs type="work" ref="#pmb31155"/>Theaterstück von <rs type="person" ref="#pmb3615">Edward</rs> und <rs type="person" ref="#pmb3608">Harry Paulton</rs>, deutsch
+               bearbeitet von <rs type="person" ref="#pmb14328">Blumenthal</rs>.</p>
+               </note>« der <rs type="person" subtype="implied" ref="#pmb11036">Direktor</rs> vor dem Haße, der es <hi rend="gabelsberger">damals nicht</hi> verträgt, daß man die Schablonen verläßt, den Mut verloren u. die Ruder gezogen. <rs type="work" ref="#pmb31159">Die erste Lüge</rs>, <hi rend="gabelsberger">von der eine Zeit die</hi> Rede war, ist sachte wieder geschwunden – wie der <rs subtype="local" type="work" ref="#pmb31157">Meister Solneß</rs> geschwunden ist, der voriges Jahr angekündigt wurde, u. der <rs type="work" ref="#pmb31159">Ehrgeizige</rs>, die seltsame Komödie des <rs type="person" ref="#pmb12756">Scribe</rs>, die einzige, wo der große Jongleur der Situation sich einmal in Characteren<pb/> versuchte. Das alles ist weg und nichts regt sich.</p>
+            <p>Man kann dem <rs type="person" subtype="implied" ref="#pmb11036">Direktor</rs> keinen Vorwürfe machen. <rs type="place" ref="#pmb41240">Östreichisches</rs> kann man nicht verlangen. <rs type="person" ref="#pmb2121">Schnitzler</rs>, <rs type="person" ref="#pmb11740">Loris</rs> zu versuchen – dazu ist seine Position nicht fest genug. In <rs type="place" ref="#pmb151">Deutschland</rs> fehlt neues. An <anchor type="commentary" xml:id="KT086-1"/>
+               <rs type="person" ref="#pmb11617">Hauptmann</rs> hat die <rs type="place" ref="#pmb14">Burg</rs> wahrhaftig als ihre Schuld gethan<note type="commentary" xml:id="KT086-1h">
+                  <p>Zu dem Zeitpunkt waren drei Stücke – alle unter <rs type="person" ref="#pmb11036">Burckhard</rs> – inszeniert worden.</p>
+               </note>: Sie hat ihn erst entdeckt u. sorgsam gepflegt. Das einzige Ereignis der letzten zwei Jahre<pb/> die sehr hübsche <rs type="work" ref="#pmb29825">Jugend</rs> des trefflichen <rs type="person" ref="#pmb11565">Max Halbe</rs> versagten Bedenken der Censur. Um die <anchor type="commentary" xml:id="KT086-3"/>
+               <rs type="work" ref="#pmb31329">Heimat</rs> ist wahrlich nicht schade<note type="commentary" xml:id="KT086-3h">
+                  <p>Das dürfte eine Antwort auf eine verbreitete Kritik gewesen sein, vgl.: »<quote>Die
+                  Erfolge des <rs type="place" ref="#pmb20">Deutschen Volkstheaters</rs> waren ›<rs type="work" ref="#pmb30379">
+                           <hi rend="antiqua">Madame Sans-Gêne</hi>
+                        </rs>‹ und ›<rs type="work" ref="#pmb32726 #pmb32730">Der Herr Senator</rs>‹, das
+                     <rs type="place" ref="#pmb77">Raimund-Theater</rs> hatte seinen Trumpf an <rs type="person" ref="#pmb12899">Sudermann</rs>’s ›<rs type="work" ref="#pmb31329">Heimat</rs>‹. Daß das <rs type="place" ref="#pmb14">Burgtheater</rs> diese
+                  Comödien nicht erworben hat, wird die ernste dramaturgische Kritik niemals tadeln
+                  dürfen.</quote>« (<bibl >
+                        <rs type="person" ref="#pmb2586">Emil Granichstaedten</rs>: <rs type="work" ref="#pmb32724">Burgtheater</rs>. In: <rs type="org" ref="#pmb29270">Die
+                     Presse</rs>, Jg. 47, Nr. 176, <date instant="false">29. 6. 1894</date>, S. 1–2, hier:
+                  S. 1)</bibl>.</p>
+               </note>, da man ja schon den »<anchor type="commentary" xml:id="KT086-2"/>
+               <rs type="work" ref="#pmb31303">Hüttenbesitzer</rs>
+               <note type="commentary" xml:id="KT086-2h">
+                  <p>
+                     <rs type="person" ref="#pmb12371">Ohnet</rs>s <rs type="work" subtype="implied" ref="#pmb31303">Schauspiel</rs> seit <date instant="false">1885</date> auf dem Spielplan. Bis
+                  <date instant="false">1899</date> gab es 109 Aufführungen.</p>
+               </note>« spielt – wozu die schwächliche Verdeutschung?</p>
          </div>
       </body>
    </text>

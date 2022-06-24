@@ -13,11 +13,11 @@
             <title type="iso-date">1898-09-06</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -121,8 +121,12 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Hermann, </salute>ich war neulich in der <rs type="place" ref="#pmb561">Redaction</rs> u habe dich nicht getroffen. Auf diesem Weg also meine herzlichste Theilnahme zu dem <anchor type="commentary" xml:id="KL020-1">Hinscheiden deines <rs type="person" subtype="implied" ref="#pmb2132">Vaters</rs>
-               </anchor>.</p>
+               <salute>Lieber Hermann, </salute>ich war neulich in der <rs type="place" ref="#pmb561">Redaction</rs> u habe dich nicht getroffen. Auf diesem Weg also meine herzlichste Theilnahme zu dem <anchor type="commentary" xml:id="KL020-1"/>Hinscheiden deines <rs type="person" subtype="implied" ref="#pmb2132">Vaters</rs>
+               <note type="commentary" xml:id="KL020-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2132">Alois Bahr</rs> starb am <date instant="false">5. 9. 1898</date> in
+                  <rs type="place" ref="#pmb30">Salzburg</rs>.</p>
+               </note>.</p>
             <p>Wenn du wieder in <rs type="place" ref="#pmb50">Wien</rs> bist, sehen wir uns hoffentlich bald. Mit den herzlichsten Grüßen dein <signed>Arthur Schnitzler</signed>
             </p>
             <postscript>

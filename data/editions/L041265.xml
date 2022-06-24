@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -131,9 +131,11 @@
             <p>
                <rs type="person" ref="#pmb11740">Hugo</rs> schreibt mir, Dein neues <rs type="work" subtype="implied" ref="#pmb29985">Stück</rs> sei »prachtvoll«. Ich freu mich sehr u. wünsch Dir herzlichst Glück.</p>
             <p>
-               <rs type="person" ref="#pmb10986">Brahm</rs> hat meine <anchor type="commentary" xml:id="KL265-1">
-                  <rs type="work" subtype="implied" ref="#pmb29983">Première</rs>
-               </anchor> auf den <date>12. Dezember</date> angesetzt. Warum plötzlich diese Eile, weiß ich nicht. Er kommt Montag im <rs type="place" ref="#pmb126">Imperial</rs> an.</p>
+               <rs type="person" ref="#pmb10986">Brahm</rs> hat meine <anchor type="commentary" xml:id="KL265-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29983">Première</rs>
+               <note type="commentary" xml:id="KL265-1h">
+                  <p>Von <rs type="work" ref="#pmb29983">Der Meister</rs>.</p>
+               </note> auf den <date>12. Dezember</date> angesetzt. Warum plötzlich diese Eile, weiß ich nicht. Er kommt Montag im <rs type="place" ref="#pmb126">Imperial</rs> an.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>H.</signed>
             </closer>

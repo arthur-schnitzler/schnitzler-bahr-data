@@ -13,11 +13,11 @@
             <title type="iso-date">1919-02-04</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,7 +77,14 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1919-02-04" n="1">4/2</date> Besorgungen in der Stadt. Begegnung mit Obltn. <rs type="person" ref="#pmb27966">Sander</rs> (über Bürgerwehr, Wahlen, Unruhgefahren); Dr. <rs type="person" ref="#pmb15971">Ergas</rs> (der noch in der <rs type="place" ref="#pmb43435">Schweiz</rs> befindliche <rs type="person" subtype="implied" ref="#pmb3103">Sohn</rs>;– die aussichtslosen Zustände) – Dr. <rs type="person" ref="#pmb21724">Müller</rs> (Vater des Dichters <rs type="person" ref="#pmb12327">Hans M.</rs>;– <rs type="work" ref="#pmb30783">Schöpfer</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, <rs type="person" ref="#pmb10833">Barnowskys</rs> Unverläßlichkeiten).– Intendanz bei Dr. <rs type="person" ref="#pmb27211">Winter</rs>; er ist noch immer unsicher über seine Zukunft. Allerlei Theaterfragen.– Er kennt sich in <rs type="person" ref="#pmb10815">Bahr</rs> nicht aus; ich beruhige ihn, indem ich ihm die Wurzel des <rs type="person" ref="#pmb10815">Bahrschen</rs> Wesens als <anchor type="commentary" xml:id="KD326-2">Lausbüberei</anchor> definire, über <rs type="person" ref="#pmb11988">Karl Kraus</rs>, seine letzte <anchor type="commentary" xml:id="KD326-1">Vorlesung</anchor> mit namenlosen Beschimpfungen auf die zugrundegegangnen Central- und sonstigen Mächte – ohne das geringste Gefühl für das Unrecht und die Schurkereien auf der Gegenseite –, – mit <rs type="person" ref="#pmb10863">Richard</rs> und <rs type="person" ref="#pmb10860">Paula</rs> heim. <rs type="person" ref="#pmb10863">Rich.</rs> spricht von der feindseligen mindestens verständnislosen Stimmung des <rs type="org" ref="#pmb29639">Verlags Fischer</rs> gegen uns;– des (klugen aber verbitterten) <rs type="person" ref="#pmb11632">Heimann</rs> schlechter Einfluß; <rs type="person" ref="#pmb11324">Fi.</rs>’s Kleinlichkeiten.–</p>
+               <date when="1919-02-04" n="1">4/2</date> Besorgungen in der Stadt. Begegnung mit Obltn. <rs type="person" ref="#pmb27966">Sander</rs> (über Bürgerwehr, Wahlen, Unruhgefahren); Dr. <rs type="person" ref="#pmb15971">Ergas</rs> (der noch in der <rs type="place" ref="#pmb43435">Schweiz</rs> befindliche <rs type="person" subtype="implied" ref="#pmb3103">Sohn</rs>;– die aussichtslosen Zustände) – Dr. <rs type="person" ref="#pmb21724">Müller</rs> (Vater des Dichters <rs type="person" ref="#pmb12327">Hans M.</rs>;– <rs type="work" ref="#pmb30783">Schöpfer</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, <rs type="person" ref="#pmb10833">Barnowskys</rs> Unverläßlichkeiten).– Intendanz bei Dr. <rs type="person" ref="#pmb27211">Winter</rs>; er ist noch immer unsicher über seine Zukunft. Allerlei Theaterfragen.– Er kennt sich in <rs type="person" ref="#pmb10815">Bahr</rs> nicht aus; ich beruhige ihn, indem ich ihm die Wurzel des <rs type="person" ref="#pmb10815">Bahrschen</rs> Wesens als <anchor type="commentary" xml:id="KD326-2"/>Lausbüberei<note type="commentary" xml:id="KD326-2h">
+                  <p>
+                     <ptr target="KD065-2"/>, <ptr target="KD347-1"/>.<!-- 1919 -->
+            </p>
+               </note> definire, über <rs type="person" ref="#pmb11988">Karl Kraus</rs>, seine letzte <anchor type="commentary" xml:id="KD326-1"/>Vorlesung<note type="commentary" xml:id="KD326-1h">
+                  <p>Am <date instant="false">2. 2. 1919</date> im <rs type="place" ref="#pmb240">Großen
+                  Konzerthaussaal</rs> in <rs type="place" ref="#pmb50">Wien</rs>.</p>
+               </note> mit namenlosen Beschimpfungen auf die zugrundegegangnen Central- und sonstigen Mächte – ohne das geringste Gefühl für das Unrecht und die Schurkereien auf der Gegenseite –, – mit <rs type="person" ref="#pmb10863">Richard</rs> und <rs type="person" ref="#pmb10860">Paula</rs> heim. <rs type="person" ref="#pmb10863">Rich.</rs> spricht von der feindseligen mindestens verständnislosen Stimmung des <rs type="org" ref="#pmb29639">Verlags Fischer</rs> gegen uns;– des (klugen aber verbitterten) <rs type="person" ref="#pmb11632">Heimann</rs> schlechter Einfluß; <rs type="person" ref="#pmb11324">Fi.</rs>’s Kleinlichkeiten.–</p>
             <p>Nm. <rs type="work" ref="#pmb31377">Nachklg.</rs>
             </p>
             <p>

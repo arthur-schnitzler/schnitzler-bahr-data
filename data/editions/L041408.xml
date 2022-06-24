@@ -13,11 +13,11 @@
             <title type="iso-date">1891-12-06</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -114,7 +114,9 @@
    <text type="letter">
       <body>
          <div type="writingSession" n="1">
-            <p>Soeben schickt mir <rs type="person" ref="#pmb10815">Bahr</rs> die beiliegende <anchor type="commentary" xml:id="KL408-1">Karte</anchor>. Ich gehe jedenfalls hin.</p>
+            <p>Soeben schickt mir <rs type="person" ref="#pmb10815">Bahr</rs> die beiliegende <anchor type="commentary" xml:id="KL408-1"/>Karte<note type="commentary" xml:id="KL408-1h">
+                  <p>Nicht erhalten.</p>
+               </note>. Ich gehe jedenfalls hin.</p>
             <p>Vielleicht erwarten Sie mich gegen <hi rend="underline" n="1">4 Uhr</hi> bei sich und wir gehen dann zusammen hin.</p>
             <p>Wenn nicht, hinterlassen Sie mir eine Post.</p>
             <closer>

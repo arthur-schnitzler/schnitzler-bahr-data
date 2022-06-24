@@ -13,11 +13,11 @@
             <title type="iso-date">1898-12-14</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,7 +107,9 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Seit <anchor type="commentary" xml:id="KL223-1">Montag</anchor> will ich zu Dir, um Dir zu sagen, daß Du mir mit Deinen Zeilen eine sehr große Freude gemacht hast; leider bin ich noch immer nicht dazu gekommen und so thue ich es jetzt schriftlich, um es nicht noch länger zu verschleppen. Ich danke Dir von ganzem<pb/> Herzen. Bitte, vergiß nicht, daß ich einen Deiner <rs type="work" subtype="implied" ref="#pmb30403 #pmb29845">Einacter</rs> für die »<rs type="org" ref="#pmb29209">Zeit</rs>« haben möchte und daß es mir wichtiger wäre, bald zu wissen, wann ungefähr ich ihn bringen kann.</p>
+            <p>Seit <anchor type="commentary" xml:id="KL223-1"/>Montag<note type="commentary" xml:id="KL223-1h">
+                  <p>Das heißt seit vorgestern, dem <date instant="false">12. 12. 1898</date>.</p>
+               </note> will ich zu Dir, um Dir zu sagen, daß Du mir mit Deinen Zeilen eine sehr große Freude gemacht hast; leider bin ich noch immer nicht dazu gekommen und so thue ich es jetzt schriftlich, um es nicht noch länger zu verschleppen. Ich danke Dir von ganzem<pb/> Herzen. Bitte, vergiß nicht, daß ich einen Deiner <rs type="work" subtype="implied" ref="#pmb30403 #pmb29845">Einacter</rs> für die »<rs type="org" ref="#pmb29209">Zeit</rs>« haben möchte und daß es mir wichtiger wäre, bald zu wissen, wann ungefähr ich ihn bringen kann.</p>
             <closer>Nochmals dankend<lb/>herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

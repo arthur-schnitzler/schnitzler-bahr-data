@@ -13,11 +13,11 @@
             <title type="iso-date">1912-06-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -85,61 +85,144 @@
                   <rs type="person" ref="#pmb12303">Mozart</rs> Quintett Nr. 4</rs>, <rs type="work" ref="#pmb30371">
                   <rs type="person" ref="#pmb12729">Schubert</rs> C Quintett</rs>; <rs type="work" ref="#pmb30369">
                   <rs type="person" ref="#pmb10866">Beethoven</rs> 59, 3</rs>. Es war schön, aber zu viel, insbesondre da ich müd und hypochondrisch war.–</p>
-            <p>Rückblick auf die Erfahrungen vom 15. Mai: soweit das journalistische Echo in Betracht kommt. Im ganzen Verhalten: sehr liebenswürdig; anscheinend, nicht immer echt mit mehr Herzlichkeit, »Liebe« als Bewunderung <c rendition="#dots" n="3" place="center"/> »Nicht stark und groß« wird öfters betont; immerhin da und dort »Größe« constatirt. Menschliche »Vorzüge« gern ins Licht gerückt, <c rendition="#dots" n="3" place="center"/> »nachdenklich«, »gütig« kehrt oft wieder <c rendition="#dots" n="3" place="center"/> »Süßes Mädl«, verschwindet allmälig, »weit darüber hinausgewachsen<c rendition="#dots" n="3"/>« etc.– immerhin das Vorwiegen erotischer Probleme gern betont; hierin leistet <anchor type="commentary" xml:id="KD082-1">
-                  <rs type="work" subtype="implied" ref="#pmb31125 #pmb31199 #pmb31443">
-                     <rs type="person" ref="#pmb2167">Salten</rs>
-                  </rs>
-               </anchor> das hervorragendste. Auch »Liebe und Tod« – oft genug – dann »Liebe, Tod, Spiel<c rendition="#dots" n="3"/>« – gelegentlich das Judenproblem – von anderm (z. B. Problem der <rs type="work" ref="#pmb29863">Lebend. Stunden</rs> und dergl., Verantwortungsproblem etc.) kaum die Rede.– Die antisemitischen Blätter schweigen meist, <rs type="org" subtype="implied" ref="#pmb29201">eins</rs> (<rs type="place" ref="#pmb860">Graz</rs>) ist bemerkenswerth, weil hier ein überzeugter <anchor type="commentary" xml:id="KD082-12">
-                  <rs type="person" subtype="implied" ref="#pmb4781">Antisemit</rs>
-               </anchor> mich – <rs type="work" subtype="implied" ref="#pmb30785">als großen – jüdischen Dichter gelten läßt</rs>. Bübereien wenig; etwa »<anchor type="commentary" xml:id="KD082-10">
-                  <rs type="org" ref="#pmb29662">Scherer</rs>
-               </anchor>« mit Carikatur, <rs type="work" subtype="implied" ref="#pmb30469">Verhöhnung <rs type="person" ref="#pmb11273">Eulenbergs</rs>
+            <p>Rückblick auf die Erfahrungen vom 15. Mai: soweit das journalistische Echo in Betracht kommt. Im ganzen Verhalten: sehr liebenswürdig; anscheinend, nicht immer echt mit mehr Herzlichkeit, »Liebe« als Bewunderung <c rendition="#dots" n="3" place="center"/> »Nicht stark und groß« wird öfters betont; immerhin da und dort »Größe« constatirt. Menschliche »Vorzüge« gern ins Licht gerückt, <c rendition="#dots" n="3" place="center"/> »nachdenklich«, »gütig« kehrt oft wieder <c rendition="#dots" n="3" place="center"/> »Süßes Mädl«, verschwindet allmälig, »weit darüber hinausgewachsen<c rendition="#dots" n="3"/>« etc.– immerhin das Vorwiegen erotischer Probleme gern betont; hierin leistet <anchor type="commentary" xml:id="KD082-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31125 #pmb31199 #pmb31443">
+                  <rs type="person" ref="#pmb2167">Salten</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb31199">Artur Schnitzler. (Zum 50. Geburtstag)</rs>. In: <rs type="org" ref="#pmb48930">Fremden-Blatt</rs>, Jg. 66, Nr. 129, <date instant="false">12. 5. 1912</date>,
+                  Morgen-Blatt, S. 23</bibl>. <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb31125">Schnitzler</rs>. In: <rs type="org" ref="#pmb29560">Der
+                     Merker</rs>, Jg. 3, H. 9, 1. Mai-Heft 1912, S. 324–330</bibl>. <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb31443">Arthur Schnitzler</rs>. In: <rs type="org" ref="#pmb29212">Neue
+                     Rundschau</rs>, Jg. 23, H. 6, <date instant="false">Juni 1912</date>, S. 635–639</bibl>.</p>
+               </note> das hervorragendste. Auch »Liebe und Tod« – oft genug – dann »Liebe, Tod, Spiel<c rendition="#dots" n="3"/>« – gelegentlich das Judenproblem – von anderm (z. B. Problem der <rs type="work" ref="#pmb29863">Lebend. Stunden</rs> und dergl., Verantwortungsproblem etc.) kaum die Rede.– Die antisemitischen Blätter schweigen meist, <rs type="org" subtype="implied" ref="#pmb29201">eins</rs> (<rs type="place" ref="#pmb860">Graz</rs>) ist bemerkenswerth, weil hier ein überzeugter <anchor type="commentary" xml:id="KD082-12"/>
+               <rs type="person" subtype="implied" ref="#pmb4781">Antisemit</rs>
+               <note type="commentary" xml:id="KD082-12h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb4781">E. R. von Dombrowski</rs>: <rs type="work" ref="#pmb30785">Schauspielhaus. Schnitzler-Feier anläßlich des 50. Geburtstages
+                     des Dichters am <date instant="false">15. Mai 1912</date>
+                        </rs>. In: <rs type="org" ref="#pmb29201">Grazer Tagblatt</rs>, Jg. 22, Nr. 135,
+                     <date instant="false">17. 5. 1912</date>, S. 10</bibl>.</p>
+               </note> mich – <rs type="work" subtype="implied" ref="#pmb30785">als großen – jüdischen Dichter gelten läßt</rs>. Bübereien wenig; etwa »<anchor type="commentary" xml:id="KD082-10"/>
+               <rs type="org" ref="#pmb29662">Scherer</rs>
+               <note type="commentary" xml:id="KD082-10h">
+                  <p>
+                     <bibl >
+                        <rs type="org" ref="#pmb29662">Der Scherer</rs>, Jg. 14, Nr. 11, <date instant="false">Juni
+                     1912</date>, S. 357</bibl>: 1.) Karikatur, die <rs type="person" ref="#pmb2121">Schnitzler</rs> als Juden erkennbar macht. 2.) <rs type="person" ref="#pmb18669">I.</rs>: <rs type="work" ref="#pmb30469">Ein Huldigungsgedicht</rs> (Persiflage
+               auf <rs type="work" ref="#pmb31503">An Arthur Schnitzler</rs> von <rs type="person" ref="#pmb11273">Herbert Eulenberg</rs>). 3.) <rs type="person" ref="#pmb12823">Ottokar Stauf von der March</rs>: <rs type="work" ref="#pmb30747">Kostprobe</rs>
+               (aus dem Buch <rs type="work" ref="#pmb30747">Die Waffen hoch!</rs>). 4.) <rs type="person" ref="#pmb14281">Carl Bleibtreu</rs>: <rs type="work" ref="#pmb30771">Arthur Schnitzler</rs> (Abdruck aus <bibl >
+                        <rs type="work" ref="#pmb30771">Geschichte der deutschen National-Literatur von
+                     Goethes Tod bis zur Gegenwart</rs>. Hg. <rs type="person" ref="#pmb5000">Georg
+                     Gellert</rs>. Berlin: <rs type="org">W. Herlet</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1912</date>, II, S. 72–73</bibl>).</p>
+               </note>« mit Carikatur, <rs type="work" subtype="implied" ref="#pmb30469">Verhöhnung <rs type="person" ref="#pmb11273">Eulenbergs</rs>
                </rs>,– <rs type="work" subtype="implied" ref="#pmb30733">Abdruck aus <rs type="work" subtype="implied" ref="#pmb30771">
                      <rs type="person" ref="#pmb14281">Bleibtreu</rs>
                   </rs> und – »<rs type="work" subtype="implied" ref="#pmb30747">
                      <rs type="person" ref="#pmb12823">Stauf von der March</rs>
                   </rs>
-               </rs>«.– Überraschend freundschaftlich <anchor type="commentary" xml:id="KD082-3">
-                  <rs type="work" subtype="implied" ref="#pmb31117">
-                     <rs type="person" ref="#pmb2226">Fred</rs>
-                  </rs>
-               </anchor>; klug <anchor type="commentary" xml:id="KD082-8">
-                  <rs type="work" subtype="implied" ref="#pmb31433">
-                     <rs type="person" ref="#pmb2456">Specht</rs>
-                  </rs>
-               </anchor>, die <anchor type="commentary" xml:id="KD082-7">
-                  <rs type="work" subtype="implied" ref="#pmb31441 #pmb31439">
-                     <rs type="person" ref="#pmb12176 #pmb12170">Manns</rs>
-                  </rs>
-               </anchor>; <anchor type="commentary" xml:id="KD082-11">
-                  <rs type="work" subtype="implied" ref="#pmb30917 #pmb31113">
-                     <rs type="person" ref="#pmb11924">Kienzl</rs>
-                  </rs>
-               </anchor> und manche andre. <anchor type="commentary" xml:id="KD082-9">
-                  <rs type="work" subtype="implied" ref="#pmb30973">
-                     <rs type="person" ref="#pmb13068">Wedekind</rs>
-                  </rs>
-               </anchor> eine Fanfare – wohl mehr um andre zu ärgern; <anchor type="label" xml:id="LD082-1">herzlich und dumm</anchor>
+               </rs>«.– Überraschend freundschaftlich <anchor type="commentary" xml:id="KD082-3"/>
+               <rs type="work" subtype="implied" ref="#pmb31117">
+                  <rs type="person" ref="#pmb2226">Fred</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2226">W. Fred</rs>: <rs type="work" ref="#pmb31117">Arthur Schnitzler. Zum Fünfzigsten</rs>. In: <rs type="org" ref="#pmb29326">Montagsblatt der St. Petersburger Zeitung</rs>, Nr. 442, <date instant="false">7. (20.) 5.
+                     1912</date>, S. [1]</bibl>.</p>
+               </note>; klug <anchor type="commentary" xml:id="KD082-8"/>
+               <rs type="work" subtype="implied" ref="#pmb31433">
+                  <rs type="person" ref="#pmb2456">Specht</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-8h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2456">Richard Specht</rs>: <rs type="work" ref="#pmb31433">Schnitzler-Glossen</rs>. In: <rs type="org" ref="#pmb29560">Der
+                     Merker</rs>, Jg. 3, H. 9, 1. Mai-Heft 1912, S. 351–356</bibl>.</p>
+               </note>, die <anchor type="commentary" xml:id="KD082-7"/>
+               <rs type="work" subtype="implied" ref="#pmb31441 #pmb31439">
+                  <rs type="person" ref="#pmb12176 #pmb12170">Manns</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-7h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12170">Heinrich Mann</rs>: <rs type="work" ref="#pmb31439">Der Romancier des Theaters</rs>. In: <rs type="org" ref="#pmb29560">Der Merker</rs>, Jg. 3, H. 9, 1. Mai-Heft 1912,
+                  S. 343–344</bibl>. <bibl >
+                        <rs type="person" ref="#pmb12176">Thomas Mann</rs>: <rs type="work" ref="#pmb31441">Dank</rs>. In: Ebd., S. 344–345</bibl>.</p>
+               </note>; <anchor type="commentary" xml:id="KD082-11"/>
+               <rs type="work" subtype="implied" ref="#pmb30917 #pmb31113">
+                  <rs type="person" ref="#pmb11924">Kienzl</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-11h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11924">Hermann Kienzl</rs>: <rs type="work" ref="#pmb30917">Arthur Schnitzler. Zu des Dichters 50. Geburtstag. Ein
+                     Schattenriß</rs>. In: <rs type="org" ref="#pmb29333">Kattowitzer Zeitung</rs>,
+                  Jg. 44, Nr. 114, <date instant="false">16. 5. 1912</date>, 1. Beilage</bibl>. <bibl >
+                        <rs type="person" ref="#pmb11924">Hermann Kienzl</rs>: <rs type="work" ref="#pmb31113">Arthur Schnitzler. Zu seinem 50. Geburtstag / 15. Mai
+                  1912</rs>. In: <rs type="org" ref="#pmb29328">Das Theater</rs>, Jg. 3, H. 18,
+                     <date instant="false">16. 5. 1912</date>, S. 346–348</bibl>.</p>
+               </note> und manche andre. <anchor type="commentary" xml:id="KD082-9"/>
+               <rs type="work" subtype="implied" ref="#pmb30973">
+                  <rs type="person" ref="#pmb13068">Wedekind</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-9h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb13068">Frank Wedekind</rs>: <rs type="work" ref="#pmb30973">Arthur Schnitzler zu seinem fünfzigsten Geburtstag</rs>. In:
+                     <rs type="org" ref="#pmb29560">Der Merker</rs>, Jg. 3, H. 10, 2. Mai-Heft 1912,
+                  S. 379</bibl>.</p>
+               </note> eine Fanfare – wohl mehr um andre zu ärgern; <anchor type="label" xml:id="LD082-1">herzlich und dumm</anchor>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb30861">
                   <rs type="person" ref="#pmb10815">Bahr</rs>
-               </rs>. Persönlich ganz unbekannte, wie meist, am wärmsten, wie <anchor type="commentary" xml:id="KD082-4">
-                  <rs type="work" subtype="implied" ref="#pmb31139">
-                     <rs type="person" ref="#pmb2790">K. F. Nowak</rs>
-                  </rs>
-               </anchor>, <anchor type="commentary" xml:id="KD082-2">
-                  <rs type="work" subtype="implied" ref="#pmb31119">
-                     <rs type="person" ref="#pmb12990">Ludwig Ullmann</rs>
-                  </rs>
-               </anchor>. Gedichte von <anchor type="commentary" xml:id="KD082-5">
-                  <rs type="work" subtype="implied" ref="#pmb31503">
-                     <rs type="person" ref="#pmb11273">Eulenberg</rs>
-                  </rs>
-               </anchor> (<rs type="org" ref="#pmb29626">Zeit</rs>) und <anchor type="commentary" xml:id="KD082-6">
-                  <rs type="work" subtype="implied" ref="#pmb31271">
-                     <rs type="person" ref="#pmb12019">König</rs>
-                  </rs>
-               </anchor> (<rs type="org" ref="#pmb29560">Merker</rs>).</p>
+               </rs>. Persönlich ganz unbekannte, wie meist, am wärmsten, wie <anchor type="commentary" xml:id="KD082-4"/>
+               <rs type="work" subtype="implied" ref="#pmb31139">
+                  <rs type="person" ref="#pmb2790">K. F. Nowak</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2790">Karl Fr. Nowak</rs>: <rs type="work" ref="#pmb31139">Arthur Schnitzler. Zu seinem fünfzigsten Geburtstag, <date instant="false">15.
+                        Mai</date>
+                        </rs>. In: <rs type="org" ref="#pmb29196">Reclams Universum</rs>, Jg. 28, Nr. 33,
+                     <date instant="false">16. 5. 1912</date>, S. 209–212</bibl>.</p>
+               </note>, <anchor type="commentary" xml:id="KD082-2"/>
+               <rs type="work" subtype="implied" ref="#pmb31119">
+                  <rs type="person" ref="#pmb12990">Ludwig Ullmann</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12990">Ludwig Ullmann</rs>: <rs type="work" ref="#pmb31119">Arthur Schnitzler. Zum 15. Mai 1912, Schnitzlers fünfzigstem
+                     Geburtstag</rs>. In: <rs type="org" ref="#pmb29324">Leipziger
+                  Abendzeitung</rs>, Jg. 26, Nr. 11, <date instant="false">15. 5. 1912</date>, S. 1–2</bibl>.</p>
+               </note>. Gedichte von <anchor type="commentary" xml:id="KD082-5"/>
+               <rs type="work" subtype="implied" ref="#pmb31503">
+                  <rs type="person" ref="#pmb11273">Eulenberg</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-5h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11273">Herbert Eulenberg</rs>: <rs type="work" ref="#pmb31503">An Arthur Schnitzler. Zum fünfzigsten Geburtstag. (<date instant="false">15.
+                        Mai 1912</date>)</rs>. In: <rs type="org" ref="#pmb29626">Die Zeit</rs>,
+                  Jg. 11, Nr. 3458, <date instant="false">12. 5. 1912</date>, S. 1</bibl>.</p>
+               </note> (<rs type="org" ref="#pmb29626">Zeit</rs>) und <anchor type="commentary" xml:id="KD082-6"/>
+               <rs type="work" subtype="implied" ref="#pmb31271">
+                  <rs type="person" ref="#pmb12019">König</rs>
+               </rs>
+               <note type="commentary" xml:id="KD082-6h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12019">Otto König</rs>: <rs type="work" ref="#pmb31271">Terzinen</rs>. In: <rs type="org" ref="#pmb29560">Der Merker</rs>, Jg. 3,
+                  H. 9, 1. Mai-Heft 1912, S. 340</bibl>.</p>
+               </note> (<rs type="org" ref="#pmb29560">Merker</rs>).</p>
             <p>– Überraschungen eigentlich keine. Das Echo im ganzen lauter als ich vermutet.</p>
          </div>
       </body>

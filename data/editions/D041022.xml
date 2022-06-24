@@ -13,11 +13,11 @@
             <title type="iso-date">1892-03-03</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,9 +79,11 @@
             <p>
                <date when="1892-03-03" n="01">3/3</date> Vorm. <rs type="person" ref="#pmb14953">Mz.</rs>– Aufregung! – Abd. <rs type="person" ref="#pmb14953">Mz.</rs>– </p>
             <p>
-               <anchor type="commentary" xml:id="KD022-1">
-                  <rs type="org" subtype="implied" ref="#pmb29781">Vortragsabend</rs>
-               </anchor>. <rs type="person" ref="#pmb22759">Pollandt</rs> las von mir: »<rs type="work" ref="#pmb30181">Anfang vom Ende</rs>« und »<rs type="work" ref="#pmb31881">Tagebuchblatt</rs>« – Entsetzlich. <rs type="person" ref="#pmb2167">Salten</rs>’s »<rs type="work" ref="#pmb32488">Kaffeehaus</rs>« konnte er auch nicht lesen. <rs type="person" ref="#pmb10815">Bahr</rs> las glänzend seine »<rs type="work" ref="#pmb30187">treue Adele</rs>«.–</p>
+               <anchor type="commentary" xml:id="KD022-1"/>
+               <rs type="org" subtype="implied" ref="#pmb29781">Vortragsabend</rs>
+               <note type="commentary" xml:id="KD022-1h">
+                  <p>In der <rs type="org" ref="#pmb29781">Wiener freien Bühne</rs>.</p>
+               </note>. <rs type="person" ref="#pmb22759">Pollandt</rs> las von mir: »<rs type="work" ref="#pmb30181">Anfang vom Ende</rs>« und »<rs type="work" ref="#pmb31881">Tagebuchblatt</rs>« – Entsetzlich. <rs type="person" ref="#pmb2167">Salten</rs>’s »<rs type="work" ref="#pmb32488">Kaffeehaus</rs>« konnte er auch nicht lesen. <rs type="person" ref="#pmb10815">Bahr</rs> las glänzend seine »<rs type="work" ref="#pmb30187">treue Adele</rs>«.–</p>
          </div>
       </body>
    </text>

@@ -14,11 +14,11 @@
             <title type="iso-date">1915-06-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,12 +41,12 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="075"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AB8-7</idno>
          </publicationStmt>
          <seriesStmt>
-            <p part="N">Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
+            <p>Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
          </seriesStmt>
          <sourceDesc>
             <origDate when="1915-06" n="1">[Anfang Juni 1915]</origDate>
@@ -60,7 +60,7 @@
                         <idno>HS VM 3680 Ba</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">1 Bl., 2 S., eh. mit verschiedenen Schreibmaterialien (roter, blauer Buntstift, Bleistift und Tinte) beschriftet. Wiedergabe der ersten Seite.</p>
+                        <p>1 Bl., 2 S., eh. mit verschiedenen Schreibmaterialien (roter, blauer Buntstift, Bleistift und Tinte) beschriftet. Wiedergabe der ersten Seite.</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -81,11 +81,20 @@
       <body>
          <div type="writingSession" n="1">
             <head>
-               <anchor type="commentary" xml:id="KT075-1">
-                  <rs type="work" ref="#pmb32336">Wunder</rs>
-               </anchor>
+               <anchor type="commentary" xml:id="KT075-1"/>
+               <rs type="work" ref="#pmb32336">Wunder</rs>
+               <note type="commentary" xml:id="KT075-1h">
+                  <p>Der Sonderdruck: <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32336">Das österreichische Wunder. Einladung nach Salzburg</rs>.
+                  Stuttgart: <rs type="org">Die Lese</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">
+                           <supplied instant="false">1915</supplied>
+                        </date>
+                     </bibl>.</p>
+               </note>
             </head>
-            <p part="N">
+            <p>
                <table rows="32" cols="3">
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1">
@@ -438,12 +447,12 @@
                   </row>
                </table>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="org" ref="#pmb29348">Schaubü</rs>, <rs type="person" ref="#pmb11760">Korfiz Holm</rs> | <rs type="person" ref="#pmb13163">Theodor Wolff</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb4903">Erzh Eugen</rs> | <rs type="person" ref="#pmb3419">Ahn</rs>
                </del>

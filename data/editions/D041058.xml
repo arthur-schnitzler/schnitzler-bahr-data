@@ -13,11 +13,11 @@
             <title type="iso-date">1910-09-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,16 +80,21 @@
                <date when="1910-09-22" n="01">22/9</date> Vm. dictirt Briefe.–</p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs> ins <rs type="place" ref="#pmb85">Mautnerhaus</rs>, wo man <rs type="person" ref="#pmb11851">Kainz</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD058-1">aufgebahrt</anchor> hat. Wir kamen 1 Stunde vor dem Begräbnis.– Sein erlöstes Gesicht unter dem Glas. Er sah sonderbarer Weise <rs type="person" ref="#pmb12491">Reicher</rs> ähnlich.– Sprachen <rs type="person" ref="#pmb12968">Trebitsch</rs>, später die <rs type="person"
+               <anchor type="commentary" xml:id="KD058-1"/>aufgebahrt<note type="commentary" xml:id="KD058-1h">
+                  <p>Gestorben am <date instant="false">20. 9.</date>
+                  </p>
+               </note> hat. Wir kamen 1 Stunde vor dem Begräbnis.– Sein erlöstes Gesicht unter dem Glas. Er sah sonderbarer Weise <rs type="person" ref="#pmb12491">Reicher</rs> ähnlich.– Sprachen <rs type="person" ref="#pmb12968">Trebitsch</rs>, später die <rs type="person"
                    ref="#pmb12205 #pmb3744 #pmb11854 #pmb12208 #pmb3750 #pmb28271">Mautners</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2167">Salten</rs>. Drückten <rs type="person" ref="#pmb2273">Grethe</rs> die Hand, die starr und thränenlos dasaß.– </p>
             <p>Bei <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> zu Tisch. Mit <rs type="person" ref="#pmb12698">Julius</rs> im Auto auf den Friedhof. Regen und Wind. Das Publikum. Sprach Dr. <rs type="person" ref="#pmb11312">Feuchtwang</rs> und <rs type="person" ref="#pmb13129">Josef Winter</rs>. Warteten den Trauerzug ab, gingen dann. Welche Sinnlosigkeit. Das nachdrängende Publikum, die wichtigthuenden Polizeiorgane.– </p>
             <p>Daheim <rs type="person" ref="#pmb2668">Mirjam Beer-Hofmann</rs>, von <rs type="person" ref="#pmb2173">O.</rs> mitgebracht.– </p>
             <p>Corrigirte für die <rs type="org" ref="#pmb29496">Ö. R.</rs> »<rs type="work" ref="#pmb30207">Weites Land</rs>«, 1. A.</p>
             <p>– Mit <rs type="person" ref="#pmb2173">O.</rs> zu <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs>. Wir sprachen uns leidlich, aber der Riß ist unheilbar tief – weil nach Gesetzen der Entwicklung entstanden.– Über <rs type="person" ref="#pmb10815">Bahr</rs>, den er jetzt nicht verträgt, <rs type="person" ref="#pmb10883">Bergers</rs> Rede, u. a.– Er ging (spät) zur <rs type="place" ref="#pmb14">Burgtheater</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD058-2">
-                  <rs type="work" subtype="implied" ref="#pmb32177">Première</rs>
-               </anchor>.– </p>
+               <anchor type="commentary" xml:id="KD058-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32177">Première</rs>
+               <note type="commentary" xml:id="KD058-2h">
+                  <p>Auf dem Programm stand <rs type="person" ref="#pmb3557">Gustav Widmann</rs>: <rs type="work" ref="#pmb32177">Lysanders Mädchen</rs>.</p>
+               </note>.– </p>
             <p>– Las Abends <rs type="work" ref="#pmb30317">Frohgemut</rs> zu Ende, die ich mir von ihm mitgenommen. Hübsches Buch.</p>
             <p>– Fühle mich seelisch krank durch das Ohrenleiden. Nicht im Besitz meiner ganzen seelischen, kaum der geistigen Kräfte.</p>
          </div>

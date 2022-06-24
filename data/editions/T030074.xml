@@ -14,11 +14,11 @@
             <title type="iso-date">1923-05-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,12 +41,12 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="074"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AB7-8</idno>
          </publicationStmt>
          <seriesStmt>
-            <p part="N">Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
+            <p>Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
          </seriesStmt>
          <sourceDesc>
             <origDate when="1923-05-15" n="1">[Mitte Mai? 1923]</origDate>
@@ -60,7 +60,7 @@
                         <idno>HS VM 3518 Ba</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">hs., verso auf Brief der <orgName ref="pmb29194">Prager Presse</orgName> an Hermann Bahr, <date when="1922-12-12">12. 12. 1922</date>. Ab »<quote>P. <persName ref="pmb28780">Franziskus</persName>
+                        <p>hs., verso auf Brief der <orgName ref="pmb29194">Prager Presse</orgName> an Hermann Bahr, <date when="1922-12-12">12. 12. 1922</date>. Ab »<quote>P. <persName ref="pmb28780">Franziskus</persName>
                            </quote>« mit blauem Bunstift.</p>
                      </physDesc>
                   </msDesc>
@@ -81,9 +81,9 @@
    <text type="text">
       <body>
          <div type="writingSession" n="1">
-            <p part="N">
+            <p>
                <rs type="work" ref="#pmb30813">Selbstbildnis</rs> zu senden an</p>
-            <p part="N">
+            <p>
                <table cols="3" rows="18">
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1">Exc.</cell>
@@ -227,7 +227,7 @@
                   </row>
                </table>
             </p>
-            <p part="N">P. <rs type="person" ref="#pmb28780">Franziskus Reiter</rs>
+            <p>P. <rs type="person" ref="#pmb28780">Franziskus Reiter</rs>
                <space unit="chars" quantity="1"/>
                <rs type="org" ref="#pmb29219">Kapuzinerorden</rs>sprovinzial<lb/>
                <rs type="place" ref="#pmb763">Wien I Neuer Markt</rs>

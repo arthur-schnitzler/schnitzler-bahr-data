@@ -13,11 +13,11 @@
             <title type="iso-date">1892-05-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -118,7 +118,12 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Loris, </salute>eben erhalte ich einen Brief von <rs type="person" ref="#pmb10815">Bahr</rs>; er käme heute Nachmittag um 3 Uhr mit Ihnen zu mir. Da aber mein <rs type="person" subtype="implied" ref="#pmb12695">Papa</rs> noch <anchor type="commentary" xml:id="KL414-1">krank</anchor> ist, ordinire ich für ihn <rs type="place" ref="#pmb274">Burgring 1</rs>, und kann erst um ½ 5 <rs type="place" ref="#pmb542">Giselastraße</rs> sein. Abends bin ich im <rs type="place" ref="#pmb52">Ausstellungs<pb/>theater</rs>; können wir nicht auch nachher beisammen sein? Können Sie um ½ 5 nicht auf mich warten, so lassen Sie mir entweder eine Post zurück oder kommen Sie vielleicht mit <rs type="person" ref="#pmb10815">Bahr</rs> zu mir auf den <rs type="place" ref="#pmb274">Burgring</rs> um 3 Uhr. Grüßen Sie <rs type="person" ref="#pmb10815">Bahr</rs> und seien Sie selbst, Unsichtbarer, vielmals gegrüßt, <signed>Arth</signed>
+               <salute>Lieber Loris, </salute>eben erhalte ich einen Brief von <rs type="person" ref="#pmb10815">Bahr</rs>; er käme heute Nachmittag um 3 Uhr mit Ihnen zu mir. Da aber mein <rs type="person" subtype="implied" ref="#pmb12695">Papa</rs> noch <anchor type="commentary" xml:id="KL414-1"/>krank<note type="commentary" xml:id="KL414-1h">
+                  <p>Er hatte eine Rippen- oder Brustfellentzündung (<bibl >A. S. <rs type="work">Tb</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">24.</date> und <date instant="false">27. 4. 1892</date>
+                     </bibl>).</p>
+               </note> ist, ordinire ich für ihn <rs type="place" ref="#pmb274">Burgring 1</rs>, und kann erst um ½ 5 <rs type="place" ref="#pmb542">Giselastraße</rs> sein. Abends bin ich im <rs type="place" ref="#pmb52">Ausstellungs<pb/>theater</rs>; können wir nicht auch nachher beisammen sein? Können Sie um ½ 5 nicht auf mich warten, so lassen Sie mir entweder eine Post zurück oder kommen Sie vielleicht mit <rs type="person" ref="#pmb10815">Bahr</rs> zu mir auf den <rs type="place" ref="#pmb274">Burgring</rs> um 3 Uhr. Grüßen Sie <rs type="person" ref="#pmb10815">Bahr</rs> und seien Sie selbst, Unsichtbarer, vielmals gegrüßt, <signed>Arth</signed>
             </p>
          </div>
       </body>

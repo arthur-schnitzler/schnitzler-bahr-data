@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-30</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,7 +106,9 @@
             <p>
                <rs type="place" ref="#pmb20">Volkstheater</rs> »<rs type="work" ref="#pmb31099">Clavigo</rs>«. Nachher im <rs type="place" ref="#pmb103">Volksgarten</rs> mit <rs type="person" ref="#pmb27882">Wärndorfer</rs> und <rs type="person" ref="#pmb3280">Kolo Moser</rs>. <rs type="person" ref="#pmb11941">Klimt</rs> ist in <rs type="place" ref="#pmb40306">Italien</rs>. Gespräch über die merkwürdige Umstimmung des Publicums für <rs type="person" ref="#pmb11941">Klimt</rs>. Über meine Sehnsucht, zwei Jahre irgendwo in <rs type="place" ref="#pmb40306">Italien</rs> oder <rs type="place" ref="#pmb44293">Griechenland</rs> ruhig arbeiten zu können.</p>
             <p>–</p>
-            <p>November war ein Streitmonat, erst für <rs type="person" ref="#pmb2121">Schnitzler</rs>, dann für <rs type="person" ref="#pmb11941">Klimt</rs>. Ich innerlich zerfahren, müde, verärgert, reizbarer als ich je war, sodaß ich schon für meinen Humor fürchten muß, ungeheuer angeekelt vor <rs type="place" ref="#pmb41240">Östreich</rs>. Vielleicht wird sich das in einem Aufsatz »<anchor type="commentary" xml:id="KD446-1">Das Ende</anchor>« für <rs type="person" ref="#pmb11581">Harden</rs> entladen. – Starke Herzbeschwerden. Und solche Sehnsucht nach Sonne, Süden, blau<unclear>em</unclear> Meer mit gelben u. roten Segeln!</p>
+            <p>November war ein Streitmonat, erst für <rs type="person" ref="#pmb2121">Schnitzler</rs>, dann für <rs type="person" ref="#pmb11941">Klimt</rs>. Ich innerlich zerfahren, müde, verärgert, reizbarer als ich je war, sodaß ich schon für meinen Humor fürchten muß, ungeheuer angeekelt vor <rs type="place" ref="#pmb41240">Östreich</rs>. Vielleicht wird sich das in einem Aufsatz »<anchor type="commentary" xml:id="KD446-1"/>Das Ende<note type="commentary" xml:id="KD446-1h">
+                  <p>Nicht erschienen.</p>
+               </note>« für <rs type="person" ref="#pmb11581">Harden</rs> entladen. – Starke Herzbeschwerden. Und solche Sehnsucht nach Sonne, Süden, blau<unclear>em</unclear> Meer mit gelben u. roten Segeln!</p>
          </div>
       </body>
    </text>

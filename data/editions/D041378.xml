@@ -13,11 +13,11 @@
             <title type="iso-date">1916-08-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,8 +77,15 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1916-08-01" n="1">1/8</date> Vm. <rs type="person" ref="#pmb11740">Hugo</rs>, consultirt mich »ärztlich« wegen <rs type="person" ref="#pmb3220">Christiane</rs>. – Über <rs type="place" ref="#pmb41240">Oesterreich</rs> (»Ich bin ja gewissermaßen Patriot –«), <rs type="person" ref="#pmb11102">Conrads</rs> Unschuld an der <rs type="place" ref="#pmb40306">ital.</rs> Offensive (warum ging er nicht?), die hohe Familie. Über <rs type="person" ref="#pmb10815">Bahr</rs> – der <rs type="person" ref="#pmb11740">Hugo</rs> für die <rs type="work" ref="#pmb32464">oesterr. Bibliothek</rs> ein so clerical katholisch militantes <anchor type="commentary" xml:id="KD378-1">
-                  <rs type="work" subtype="implied" ref="#pmb30901">Büchl</rs> gab, dass – sogar <rs type="person" ref="#pmb10765">Poldi Andrian</rs> die Herausgabe widerrieth</anchor>.– Über Production; meine Stilneigungen.–</p>
+               <date when="1916-08-01" n="1">1/8</date> Vm. <rs type="person" ref="#pmb11740">Hugo</rs>, consultirt mich »ärztlich« wegen <rs type="person" ref="#pmb3220">Christiane</rs>. – Über <rs type="place" ref="#pmb41240">Oesterreich</rs> (»Ich bin ja gewissermaßen Patriot –«), <rs type="person" ref="#pmb11102">Conrads</rs> Unschuld an der <rs type="place" ref="#pmb40306">ital.</rs> Offensive (warum ging er nicht?), die hohe Familie. Über <rs type="person" ref="#pmb10815">Bahr</rs> – der <rs type="person" ref="#pmb11740">Hugo</rs> für die <rs type="work" ref="#pmb32464">oesterr. Bibliothek</rs> ein so clerical katholisch militantes <anchor type="commentary" xml:id="KD378-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30901">Büchl</rs> gab, dass – sogar <rs type="person" ref="#pmb10765">Poldi Andrian</rs> die Herausgabe widerrieth<note type="commentary" xml:id="KD378-1h">
+                  <p>
+                     <rs type="work" ref="#pmb30901">Rudigier</rs> (<bibl >Erstausgabe Kempten, München:
+                     <rs type="org">Josef Kösel</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1917</date>
+                     </bibl>). <bibl >Vgl. <rs type="work">Bw</rs> Hofmannsthal/Bahr 356–362</bibl>.</p>
+               </note>.– Über Production; meine Stilneigungen.–</p>
             <p>Nm. am <rs type="work" ref="#pmb30819">Casan.</rs>–</p>
             <p>Zu <rs type="person" ref="#pmb10788 #pmb3223">Auernheimers</rs>. Spazierg. mit ihnen und Nachtm. im <rs type="place" ref="#pmb283">Parkhotel</rs>. <rs type="person" ref="#pmb13055">Jacob</rs> mit Frau <rs type="person" ref="#pmb3227">Str.</rs> kommt. Über Krieg im allgemeinen und besondern. Flüchtlingsgeschichten. <rs type="place" ref="#pmb41240">Oesterreichisches</rs>.–</p>
          </div>

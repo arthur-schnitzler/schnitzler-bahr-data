@@ -13,11 +13,11 @@
             <title type="iso-date">1896-02-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -126,9 +126,20 @@
                <salute>Lieber Hermann,</salute>
             </opener>
             <p>herzlichen Dank für deine freundlichen Glückwünsche.</p>
-            <p>Was dich interessieren wird: <anchor type="commentary" xml:id="KL005-1">
-                  <rs type="work" subtype="implied" ref="#pmb32324">verrissen</rs> hat mich nur einer, nemlich Herr <rs type="person" ref="#pmb4398">Peschkau</rs> in den <rs type="org" ref="#pmb29207">Berl. Neuesten Nachrichten</rs>
-               </anchor>, u weißt du, was er zu diesem Behufe gethan hat? einfach <hi rend="underline" n="1">wörtlich</hi> citirt (mit Anführung der Quelle), was du über mich sagst und daraus zwingend bewiesen, dass ich weder<pb/> ein Dramatiker noch ein Dichter bin, sondern dass mir selbst die Elementarkenntnisse zu diesen beiden schönen Stellungen fehlen. – </p>
+            <p>Was dich interessieren wird: <anchor type="commentary" xml:id="KL005-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32324">verrissen</rs> hat mich nur einer, nemlich Herr <rs type="person" ref="#pmb4398">Peschkau</rs> in den <rs type="org" ref="#pmb29207">Berl. Neuesten Nachrichten</rs>
+               <note type="commentary" xml:id="KL005-1h">
+                  <p>»›<quote>
+                        <rs type="work" subtype="implied" ref="#pmb31565">Man dramatisirt Zustände, indem
+                     man Menschen in sie bringt, die sich ihnen widersetzen; dort, wo sich die
+                     Menschen mit den Dingen entzweien, fängt das Drama erst an. Aber seine
+                     Menschen, die nichts wollen, sitzen unbeweglich in ihren Zuständen drin, wie
+                     Chamäleons, die immer die Farbe ihrer Umgebung haben;</rs>
+                     </quote>‹« (<bibl >
+                        <rs type="person" ref="#pmb4398">E. Peschkau</rs>: <rs type="work" ref="#pmb32324">Deutsches Theater</rs>. In: <rs type="org" ref="#pmb29207">Berliner Neueste
+                     Nachrichten</rs>, Jg. 16, Nr. 59, <date instant="false">5. 2. 1896</date>, S. 2–3, hier:
+                  S. 3</bibl>), <ptr target="LT011-1"/>.</p>
+               </note>, u weißt du, was er zu diesem Behufe gethan hat? einfach <hi rend="underline" n="1">wörtlich</hi> citirt (mit Anführung der Quelle), was du über mich sagst und daraus zwingend bewiesen, dass ich weder<pb/> ein Dramatiker noch ein Dichter bin, sondern dass mir selbst die Elementarkenntnisse zu diesen beiden schönen Stellungen fehlen. – </p>
             <p>Sehr erfreulich waren mir Deine Mittheilungen über das <rs type="work" ref="#pmb29823">Märchen</rs> und <rs type="person" ref="#pmb12037">Langkammers</rs> Urtheil. Aber ich habe wieder sehr lebhafte Bedenken betreffs einer eventuellen Aufführung bekommen. Ich werde ja wohl bald Gelegenheit <supplied>haben</supplied>, sowohl mit dir als mit <rs type="person" ref="#pmb12037">Langkammer</rs>
                <pb/>
                <space unit="chars" quantity="1"/>darüber zu reden. Bis dahin beste Grüße und nochmals vielen Dank.</p>

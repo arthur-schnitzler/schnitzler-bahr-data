@@ -13,11 +13,11 @@
             <title type="iso-date">1896-07-04</title>
             <author ref="pmb2147">Altenberg, Peter</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -134,9 +134,14 @@
                      <supplied>He</supplied>
                   </damage>rr Hermann Bahr:</salute>
             </opener>
-            <p>Bitte, können Sie mir die Adresse verschaffen von <rs type="person" ref="#pmb2618">Hugo Ganz</rs>, <rs type="place" ref="#pmb43471">Budapest</rs>, welcher den <anchor type="commentary" xml:id="KL606-1">
-                  <rs type="work" subtype="implied" ref="#pmb32548">Essay</rs>
-               </anchor> über das Buch »<rs type="work" ref="#pmb32546">Einsame Seele</rs>« von <rs type="person" ref="#pmb28753">Neeri</rs>
+            <p>Bitte, können Sie mir die Adresse verschaffen von <rs type="person" ref="#pmb2618">Hugo Ganz</rs>, <rs type="place" ref="#pmb43471">Budapest</rs>, welcher den <anchor type="commentary" xml:id="KL606-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32548">Essay</rs>
+               <note type="commentary" xml:id="KL606-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2618">Hugo Ganz</rs>: <rs type="work" ref="#pmb32548">Die decadente Frau. Glossen zur »Anima sola« von Neera</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 8, Nr. 92, <date instant="false">4. 7.
+                     1896</date>, S. 9–10</bibl>.</p>
+               </note> über das Buch »<rs type="work" ref="#pmb32546">Einsame Seele</rs>« von <rs type="person" ref="#pmb28753">Neeri</rs>
                <!-- sic -->, in Ihrem <rs type="org" subtype="implied" ref="#pmb29209">Blatte</rs> geschrieben hat?!</p>
             <p>Die darin ausgesprochenen Ideen sind nämlich das Geheimnis meines künstlerischen und philosophischen Lebens und der »ewige« Hintergrund meiner scheinbar »alltäglichen« Sachen. Ohne Heilands-Ideen gibt es überhaupt kein Künstler-Sein. Das ist es, was <rs type="person" ref="#pmb2121">Schnitzler</rs> u. <rs type="person" ref="#pmb10863">Beer-Hoffmann</rs>
                <!-- sic --> u. den Jungen fehlt. Das Feuer brennt nicht in Ihnen, welches die<pb/> Propheten, Dichter, Märtyrer, Menschen-Erlöser, Menschen-Erzieher, entzündet hat u. über ihr eigenes gleichgiltiges Ich hinübergetragen hat in die Gegenden, wo man lächelnd für seine Gedanken, für sein Herz zu sterben bereit ist.</p>

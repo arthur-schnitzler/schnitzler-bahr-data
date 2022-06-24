@@ -13,11 +13,11 @@
             <title type="iso-date">1913-10-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -143,7 +143,11 @@
                </dateline>
                <salute>Mein lieber Hermann,</salute>
             </opener>
-            <p>dein schönes <rs type="work" subtype="implied" ref="#pmb29945">Burkhardbuch</rs>, von dem mir die <anchor type="commentary" xml:id="KL133-1">meisten Kapitel schon bekannt</anchor> waren hab ich nun als ganzes, mit neuer Ergriffenheit gelesen, und danke dir von Herzen. Wenn es überhaupt möglich ist <add place="above">einen</add> Menschen Leuten, die <subst>
+            <p>dein schönes <rs type="work" subtype="implied" ref="#pmb29945">Burkhardbuch</rs>, von dem mir die <anchor type="commentary" xml:id="KL133-1"/>meisten Kapitel schon bekannt<note type="commentary" xml:id="KL133-1h">
+                  <p>Vorabdrucke aus <rs type="work" ref="#pmb29945">Erinnerung an Burckhard</rs> waren in
+                  <rs type="org" ref="#pmb29560">Der Merker</rs>, <rs type="org" ref="#pmb29351">Neue Freie Presse</rs> und <rs type="org" ref="#pmb29212">Die neue Rundschau</rs>
+               erschienen.</p>
+               </note> waren hab ich nun als ganzes, mit neuer Ergriffenheit gelesen, und danke dir von Herzen. Wenn es überhaupt möglich ist <add place="above">einen</add> Menschen Leuten, die <subst>
                   <del rend="strikethrough">
                      <unclear>
                         <rs type="person" ref="#pmb11036">Burckhar</rs>

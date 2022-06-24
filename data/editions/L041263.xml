@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-10</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,14 +105,19 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Kannst Du mir, auf einer Correspondenzkarte, Auskunft geben, ob der Titel »<anchor type="commentary" xml:id="KL263-1">Primarius</anchor>« in <rs type="place" ref="#pmb151">Süddeutschland</rs> üblich ist und wie jemand, der bei uns Primarius heißt, in <rs type="place" ref="#pmb151">Norddeutschland</rs> genannt wird? <rs type="person" ref="#pmb10986">Brahm</rs> weiß es nicht und gibt <subst>
+            <p>Kannst Du mir, auf einer Correspondenzkarte, Auskunft geben, ob der Titel »<anchor type="commentary" xml:id="KL263-1"/>Primarius<note type="commentary" xml:id="KL263-1h">
+                  <p>Hintergrund der Anfrage <rs type="person" ref="#pmb10986">Brahm</rs>s bildet die
+               Premierenvorbereitung von <rs type="work" ref="#pmb29983">Der Meister</rs>.</p>
+               </note>« in <rs type="place" ref="#pmb151">Süddeutschland</rs> üblich ist und wie jemand, der bei uns Primarius heißt, in <rs type="place" ref="#pmb151">Norddeutschland</rs> genannt wird? <rs type="person" ref="#pmb10986">Brahm</rs> weiß es nicht und gibt <subst>
                   <del rend="strikethrough">vor</del>
                   <add place="above">an</add>
                </subst>, den Titel überhaupt nie gehört zu haben.</p>
             <p>
-               <rs type="person" ref="#pmb10986">Brahm</rs> telegrafiert mir eben um die Änderungen, die ich in meinem <rs type="work" subtype="implied" ref="#pmb29983">Stück</rs> noch machen will. Was geht da vor? Ich denke doch, daß Du zunächst daran kommst. Es wäre mir wichtig, das Datum Deiner <anchor type="commentary" xml:id="KL263-2">
-                  <rs type="work" subtype="implied" ref="#pmb29985">Première</rs>
-               </anchor> zu erfahren, so bald Du es weißt.</p>
+               <rs type="person" ref="#pmb10986">Brahm</rs> telegrafiert mir eben um die Änderungen, die ich in meinem <rs type="work" subtype="implied" ref="#pmb29983">Stück</rs> noch machen will. Was geht da vor? Ich denke doch, daß Du zunächst daran kommst. Es wäre mir wichtig, das Datum Deiner <anchor type="commentary" xml:id="KL263-2"/>
+               <rs type="work" subtype="implied" ref="#pmb29985">Première</rs>
+               <note type="commentary" xml:id="KL263-2h">
+                  <p>Von <rs type="work" ref="#pmb29985">Der einsame Weg</rs>.</p>
+               </note> zu erfahren, so bald Du es weißt.</p>
             <closer>Verzeih die Hast dieser Zeilen<lb/>Deinem abgehetzten<lb/>
                <signed>Hermann</signed>
             </closer>

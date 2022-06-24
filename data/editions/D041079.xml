@@ -13,11 +13,11 @@
             <title type="iso-date">1912-04-26</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,9 +79,13 @@
             <p>
                <date when="1912-04-26" n="2">26/4</date> Vm. <rs type="work" ref="#pmb30203">Bernhardi</rs> zu vorläufigem Ende dictirt, in leidlicher Laune. Entweder ist gar nichts damit anzufangen, dann wird es definitiv weggelegt (ich les es vorher <rs type="person" ref="#pmb2173">O.</rs> und <rs type="person" ref="#pmb10986">Brahm</rs> vor) – oder es ist was damit zu machen; dann folgt noch eine letzte Feile.</p>
             <p>– Zum Thee <rs type="person" ref="#pmb2753">Mimi Giustiniani</rs> –</p>
-            <p>Oper, <anchor type="commentary" xml:id="KD079-2">
-                  <rs type="work" ref="#pmb30365">Aida</rs>
-               </anchor>. (<rs type="person" ref="#pmb13690">Baklanoff</rs>, <rs type="person" ref="#pmb10818">Mildenburg</rs>.) <rs type="person" ref="#pmb10815">Bahr</rs> saß vor uns. »<anchor type="commentary" xml:id="KD079-1">Der Bann ist gebrochen</anchor>.« – </p>
+            <p>Oper, <anchor type="commentary" xml:id="KD079-2"/>
+               <rs type="work" ref="#pmb30365">Aida</rs>
+               <note type="commentary" xml:id="KD079-2h">
+                  <p>Oper von <rs type="person" ref="#pmb13007">Verdi</rs>.</p>
+               </note>. (<rs type="person" ref="#pmb13690">Baklanoff</rs>, <rs type="person" ref="#pmb10818">Mildenburg</rs>.) <rs type="person" ref="#pmb10815">Bahr</rs> saß vor uns. »<anchor type="commentary" xml:id="KD079-1"/>Der Bann ist gebrochen<note type="commentary" xml:id="KD079-1h">
+                  <p>Vgl. <ptr target="KD077-1"/>.</p>
+               </note>.« – </p>
             <p>Bei <rs type="place" ref="#pmb96">Meissl</rs> genachtmahlt mit <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb10860">Paula</rs>, <rs type="person" ref="#pmb2496">A. Kaufmann</rs>.–</p>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1892-02-07</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,7 +99,12 @@
                <gap reason="outOfScope"/>
             </p>
             <p>
-               <anchor type="commentary" xml:id="KL466-1">Noch eine Woche Abstinenz</anchor> ist aber vielleicht genug und wenn Sie <hi rend="underline" n="1">mir</hi> nicht absagen, erwarte ich Sie nächsten Sonntag um 4 bei <rs type="person" ref="#pmb2121">Arthur</rs>.</p>
+               <anchor type="commentary" xml:id="KL466-1"/>Noch eine Woche Abstinenz<note type="commentary" xml:id="KL466-1h">
+                  <p>Undatiert. Am <date instant="false">31. 1. 1892</date> war <rs type="person" ref="#pmb11740">Hofmannsthal</rs>, nicht aber <rs type="person" ref="#pmb10815">Bahr</rs> bei <rs type="person" ref="#pmb2121">Schnitzler</rs>, in der Woche darauf fand die Matinée
+                  <rs type="person" ref="#pmb12491">Reicher</rs> statt, am Sonntag darauf waren sie
+               wieder bei <rs type="person" ref="#pmb2121">Schnitzler</rs>. Das wird als möglicher
+               Referenztermin angenommen.</p>
+               </note> ist aber vielleicht genug und wenn Sie <hi rend="underline" n="1">mir</hi> nicht absagen, erwarte ich Sie nächsten Sonntag um 4 bei <rs type="person" ref="#pmb2121">Arthur</rs>.</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

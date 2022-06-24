@@ -13,11 +13,11 @@
             <title type="iso-date">1929-05-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,8 +77,16 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1929-05-07" n="1">7/5</date> Früh <time>½ 9</time> ins <rs type="place" ref="#pmb520">Akad. Th.</rs> »General Pr.« <rs type="work" ref="#pmb29873">Puppenspieler</rs>; recht sehr wirkend.– <rs type="person" ref="#pmb10821">Balser</rs> wäre mein Schauspieler;– nur – sagt ich zu <rs type="person" ref="#pmb5035">Brahm</rs>, hab ich leider keinen Director. (<rs type="person" ref="#pmb11659">Herterich</rs> war da und strich am »<rs type="work" ref="#pmb29913">Faun</rs>«.) – »<rs type="work" ref="#pmb31659">Schöne Seelen</rs>«, das amüsante Stück von <rs type="person" ref="#pmb2167">Salten</rs>. Er war da; ich gratulirte ihm zum Erfolg des <anchor type="commentary" xml:id="KD536-1">
-                  <rs type="work" ref="#pmb31519">Bambi</rs> in <rs type="place" ref="#pmb175">Amerika</rs> (120.000 Auflage)</anchor>. Wir verabredeten uns endlich wiederzusehen, ohne dass es uns ernst war. Die Hofr. <rs type="person" ref="#pmb2312">Z.</rs>; <rs type="person" ref="#pmb11654">Hennings</rs>, die alte <rs type="person" ref="#pmb20373">Lewinsky</rs> sprach ich auch (und sie den alten Schn<c rendition="#dots" n="3"/>). Den <rs type="work" ref="#pmb29913">Faun</rs> wartete ich nicht mehr ab.</p>
+               <date when="1929-05-07" n="1">7/5</date> Früh <time>½ 9</time> ins <rs type="place" ref="#pmb520">Akad. Th.</rs> »General Pr.« <rs type="work" ref="#pmb29873">Puppenspieler</rs>; recht sehr wirkend.– <rs type="person" ref="#pmb10821">Balser</rs> wäre mein Schauspieler;– nur – sagt ich zu <rs type="person" ref="#pmb5035">Brahm</rs>, hab ich leider keinen Director. (<rs type="person" ref="#pmb11659">Herterich</rs> war da und strich am »<rs type="work" ref="#pmb29913">Faun</rs>«.) – »<rs type="work" ref="#pmb31659">Schöne Seelen</rs>«, das amüsante Stück von <rs type="person" ref="#pmb2167">Salten</rs>. Er war da; ich gratulirte ihm zum Erfolg des <anchor type="commentary" xml:id="KD536-1"/>
+               <rs type="work" ref="#pmb31519">Bambi</rs> in <rs type="place" ref="#pmb175">Amerika</rs> (120.000 Auflage)<note type="commentary" xml:id="KD536-1h">
+                  <p>Dies im Jahr des Erscheinens und kurz nach der ersten Auflage von 75.000 Stück: <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb31519">Bambi, a Life in the Woods</rs>. Translated from the German by
+                     <rs type="person" ref="#pmb5062">Whittaker Chambers</rs> and with a Foreword by
+                     <rs type="person" ref="#pmb11398">John Galsworthy</rs>. New York: <rs type="org" ref="#pmb29648">Simon <c rendition="#kaufmannsund"/> Schuster</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1928</date>
+                     </bibl>.</p>
+               </note>. Wir verabredeten uns endlich wiederzusehen, ohne dass es uns ernst war. Die Hofr. <rs type="person" ref="#pmb2312">Z.</rs>; <rs type="person" ref="#pmb11654">Hennings</rs>, die alte <rs type="person" ref="#pmb20373">Lewinsky</rs> sprach ich auch (und sie den alten Schn<c rendition="#dots" n="3"/>). Den <rs type="work" ref="#pmb29913">Faun</rs> wartete ich nicht mehr ab.</p>
             <p>Frühlingstag.– Ass zu Mittag bei <rs type="person" ref="#pmb12435">C. P.</rs>; wir sprachen, nicht ohne Zärtlichkeit über die Krise unsrer Beziehungen,– die sich, wie sie glaubt, nur auf einer gemeinsamen Reise lösen könne.</p>
             <p>Nm. Tgb. <date>22</date> weiter gelesen und Anmerkungen dazu –</p>
             <p>Mit <rs type="person" ref="#pmb12435">C. P.</rs> Kino – <rs type="work" ref="#pmb31521">die kleine Sklavin</rs>; dann im <rs type="place" ref="#pmb113">Türkenschanzpark</rs> (innen;– Regen) soup.</p>

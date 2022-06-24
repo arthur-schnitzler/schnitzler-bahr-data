@@ -13,11 +13,11 @@
             <title type="iso-date">1895-03-25</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,9 +80,14 @@
                <date when="1895-03-25" n="2">25/3</date> Von <rs type="person" ref="#pmb14953">Mz. I.</rs> Brief. Nm. bei <rs type="person" ref="#pmb11036">Burckhard</rs>, ging ärgerlich zu ihm hinauf, kam ziemlich charmirt zurück.– Ich fragte ihn, ob er nicht angewidert sei durch die vielen Rücksichten, die er nach allen Seiten nehmen müsse? Ja, wenn ich mich nobel ausdrücken soll <c rendition="#dots" n="3" place="center"/> es ist zum Speiben, erwiderte er.– Er sprach von der <rs type="person" ref="#pmb11744">Hohenlohe</rs>, ihrem Beichtvater und manchen andern.–</p>
             <p>Bei mir <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb12740">Schwarzkopf</rs>.– Ueber <rs type="person" ref="#pmb10765">Andrians</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD145-1">
-                  <rs type="work" subtype="implied" ref="#pmb30435">Buch</rs>
-               </anchor>, das <rs type="person" ref="#pmb11740">Hugo</rs> überschätzt und über <rs type="person" ref="#pmb10815">Bahr</rs>, den er mindestens ethisch überschätzt.– </p>
+               <anchor type="commentary" xml:id="KD145-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30435">Buch</rs>
+               <note type="commentary" xml:id="KD145-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb30435">Der Garten der Erkenntnis</rs>
+                     </bibl>.</p>
+               </note>, das <rs type="person" ref="#pmb11740">Hugo</rs> überschätzt und über <rs type="person" ref="#pmb10815">Bahr</rs>, den er mindestens ethisch überschätzt.– </p>
             <p>Mit <rs type="person" ref="#pmb2378">Mz. R.</rs> bei »uns« – Zum Theil wars rasend schön, zum Theil sekkirte sie unverhältnismäßig, daß sie sich wieder anziehn und überhaupt fortgehn müßte.– Ich mußte, ungesehn von ihr, weinen, so traurig stimmten mich diese Kleinigkeiten, die doch die Keime von einem langsamen und sichern Tod sind. Der Tod ist ja sicher; man muss es nur immer wissen, selbst im ersten und üppigsten Blühn einer neuen Liebe, dann spürt man auch, wo er sitzt. Denn wie die Menschen werden auch die Beziehungen mit ihrem Tod geboren.</p>
          </div>
       </body>

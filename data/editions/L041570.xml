@@ -13,11 +13,11 @@
             <title type="iso-date">1918-02-02</title>
             <author ref="pmb12481">Redlich, Josef</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,11 +117,23 @@
                </dateline>
                <salute>Lieber Freund,</salute>
             </opener>
-            <p>Ich weiss nicht, ob ich Ihnen in meinem letzten Briefe den Empfang Ihrer frd. Sendung der jüngsten <rs type="person" ref="#pmb12471">Rathenau</rs>’schen <anchor type="commentary" xml:id="KL570-1">
-                  <rs type="work" subtype="implied" ref="#pmb32378">Schrift</rs>
-               </anchor> bestätigt habe: wenn nicht, so thue ich dies heute und verbinde damit <unclear>mn</unclear> Glückwunsch zu dem brillanten <anchor type="commentary" xml:id="KL570-2">
-                  <rs type="work" subtype="implied" ref="#pmb32290">Essay</rs>
-               </anchor> im heutigen <rs type="org" ref="#pmb29320">Wiener Journal</rs> über diese Schrift. Sie charakterisiren die Persönlichkeit <rs type="person" ref="#pmb12471">R.</rs>s höchst treffend und mit ihr die Stellung des <rs type="place" ref="#pmb168">Berlin</rs>er Judenthums. Es ist durchaus richtig, dass die Juden in <rs type="place" ref="#pmb168">Berlin</rs> sich eine geistig leitende und produktive Stellung im Leben der deutschen Nation <del rend="strikethrough">
+            <p>Ich weiss nicht, ob ich Ihnen in meinem letzten Briefe den Empfang Ihrer frd. Sendung der jüngsten <rs type="person" ref="#pmb12471">Rathenau</rs>’schen <anchor type="commentary" xml:id="KL570-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32378">Schrift</rs>
+               <note type="commentary" xml:id="KL570-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12471">Walther Rathenau</rs>: <rs type="work" ref="#pmb32378">Die neue Wirtschaft</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1918</date>
+                     </bibl>.</p>
+               </note> bestätigt habe: wenn nicht, so thue ich dies heute und verbinde damit <unclear>mn</unclear> Glückwunsch zu dem brillanten <anchor type="commentary" xml:id="KL570-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32290">Essay</rs>
+               <note type="commentary" xml:id="KL570-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32290">Tagebuch. 27. Januar</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 26, Nr. 8719, <date instant="false">10. 2. 1918</date>,
+                  S. 3</bibl>.</p>
+               </note> im heutigen <rs type="org" ref="#pmb29320">Wiener Journal</rs> über diese Schrift. Sie charakterisiren die Persönlichkeit <rs type="person" ref="#pmb12471">R.</rs>s höchst treffend und mit ihr die Stellung des <rs type="place" ref="#pmb168">Berlin</rs>er Judenthums. Es ist durchaus richtig, dass die Juden in <rs type="place" ref="#pmb168">Berlin</rs> sich eine geistig leitende und produktive Stellung im Leben der deutschen Nation <del rend="strikethrough">
                   <unclear>prod</unclear>
                </del> gesichert haben: während das <rs type="place" ref="#pmb50">Wien</rs>er Judenthum die alte <rs type="place" ref="#pmb41240">österreich</rs>ische Kultur hauptsächlich zersetzt, karrikiert und unfruchtbar gemacht hat, ohne an deren Stelle etwas Neues und Lebenskräftiges zu setzen. Freilich, in der <rs type="place" ref="#pmb41240">österr.</rs> Industrie haben die Juden durchwegs die führende Rolle gespielt, sie sind darin und im ganzen modernen Wirtschaftsleben <rs type="place" ref="#pmb41240">Oesterreichs</rs> noch ganz anders die Führer und Schöpfer <del rend="strikethrough">d</del> gewesen als ihre Glaubens- oder »Rassegenossen« in <rs type="place" ref="#pmb168">Berlin</rs>.<pb/> Jedoch im Geistigen haben sie teils nur mittelmässig teils Direkt korrumpierend gewirkt: sie haben statt Literatur Feuilletonismus gemacht, statt wirklicher Dichtung Gesellschaftssatire, übrigens auch in der müden und wenig produktiven Weise <rs type="person" ref="#pmb2121">Arthur Schnitzlers</rs>. – Was Sie über <rs type="person" ref="#pmb12471">Rathenaus</rs>
                <space unit="chars" quantity="1"/>
@@ -136,8 +148,10 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL570-1">
-                     <rs type="person" ref="#pmb2530">Seidlers</rs> Sturz ist eine der kläglichsten Affairen: die Herren Deutschnationalen haben diesen »armen Narren« gut in die Tinte gesetzt. Er wird natürlich <hi rend="underline" n="1">nicht</hi> bleiben u dies ist mir ebenso klar, wie dass die <rs type="place" ref="#pmb666">Ukraine</rs> ein ungeheurer Bluff und »fraud« ist. </anchor>
+                  <anchor type="textConst" xml:id="TL570-1"/>
+                  <rs type="person" ref="#pmb2530">Seidlers</rs> Sturz ist eine der kläglichsten Affairen: die Herren Deutschnationalen haben diesen »armen Narren« gut in die Tinte gesetzt. Er wird natürlich <hi rend="underline" n="1">nicht</hi> bleiben u dies ist mir ebenso klar, wie dass die <rs type="place" ref="#pmb666">Ukraine</rs> ein ungeheurer Bluff und »fraud« ist. <note type="textConst" xml:id="TL570-1h">
+                     <p>Auf der 1. Seite über dem Kopf hinzugefügt.</p>
+                  </note>
                </p>
             </postscript>
          </div>

@@ -13,11 +13,11 @@
             <title type="iso-date">1905-09-17</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -144,15 +144,26 @@
                <salute>lieber Hermann, </salute>für den Fall, dss ich dich nicht zu Hause treffe, schreibe ich <damage agent="hole">
                   <supplied>d</supplied>
                </damage>ir gleich.</p>
-            <p>Das gedruckte Stück »<anchor type="commentary" xml:id="KL080-2">
-                  <rs type="work" ref="#pmb29903">Zwischenspiel</rs>
-               </anchor>« und »<rs type="work" ref="#pmb29903">Der Ruf des Lebens</rs>« liegen hier bei.</p>
+            <p>Das gedruckte Stück »<anchor type="commentary" xml:id="KL080-2"/>
+               <rs type="work" ref="#pmb29903">Zwischenspiel</rs>
+               <note type="commentary" xml:id="KL080-2h">
+                  <p>Entsprechend dürfte die erste Buchausgabe auf <date instant="false">1906</date> vordatiert sein: <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29903">Das Zwischenspiel. Komödie in drei Akten</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1906</date>
+                     </bibl>.</p>
+               </note>« und »<rs type="work" ref="#pmb29903">Der Ruf des Lebens</rs>« liegen hier bei.</p>
             <p>Über das erstere ist weiter nichts zu sagen; lies es bitte und betrachte es im übrigen vorläufig sorgfältg als <hi rend="latintype">
-                  <anchor type="textConst" xml:id="TL080-1">
-                     <hi rend="underline" n="1">Mscrpt</hi>
-                  </anchor>
+                  <anchor type="textConst" xml:id="TL080-1"/>
+                  <hi rend="underline" n="1">Mscrpt</hi>
+                  <note type="textConst" xml:id="TL080-1h">
+                     <p>Unterstrichen.</p>
+                  </note>
                </hi>.</p>
-            <p>Am »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« ist noch einiges weniges zu machen. Ich bring es<pb/> dir schon heute, weil ich die Frage an dich richten möchte, ob du die <hi rend="underline" n="1">Widmung</hi> des Buches annehmen willst? Es ist vielleicht in dem Stück eine Ahnung von dem <anchor type="commentary" xml:id="KL080-1">Wunsch erfüllst<!-- sic! -->, den du anläßlich des <rs type="work" ref="#pmb29873">Puppenspielers</rs> oeffentlich aussprachst</anchor>. –</p>
+            <p>Am »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« ist noch einiges weniges zu machen. Ich bring es<pb/> dir schon heute, weil ich die Frage an dich richten möchte, ob du die <hi rend="underline" n="1">Widmung</hi> des Buches annehmen willst? Es ist vielleicht in dem Stück eine Ahnung von dem <anchor type="commentary" xml:id="KL080-1"/>Wunsch erfüllst<!-- sic! -->, den du anläßlich des <rs type="work" ref="#pmb29873">Puppenspielers</rs> oeffentlich aussprachst<note type="commentary" xml:id="KL080-1h">
+                  <p>
+                     <ptr target="LT021-1"/>, <ptr target="LL075-1"/>.</p>
+               </note>. –</p>
             <p>Schreib mir bitte ein Wort, wann wir zusammen sein könnten. Möchtes<damage agent="hole">
                   <supplied>t</supplied>
                </damage> du nicht einmal bei uns nachtmahlen? Auch meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> würde sich sosehr freuen. Oder wenn dir die <rs type="place" ref="#pmb133">Spöttelgasse</rs> unbe<pb/>quem, <rs type="place" ref="#pmb63">Hietzing</rs>? Man sieht einander doch gar zu wenig! Ich grüße dich herzlich.</p>

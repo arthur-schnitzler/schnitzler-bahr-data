@@ -13,11 +13,11 @@
             <title type="iso-date">1900-04-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,9 +102,15 @@
    <text type="card">
       <body>
          <div type="writingSession" n="1">
-            <p>dankt Dir, lieber Freund, herzlichst für Dein <anchor type="commentary" xml:id="KL227-1">
-                  <rs type="work" subtype="implied" ref="#pmb29855">Buch</rs>
-               </anchor>: Die <rs type="person" ref="#pmb12618">Sandrock</rs> ist<pb/> einfach famos!</p>
+            <p>dankt Dir, lieber Freund, herzlichst für Dein <anchor type="commentary" xml:id="KL227-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29855">Buch</rs>
+               <note type="commentary" xml:id="KL227-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29855">Reigen. Zehn Dialoge</rs>. <date instant="false">Winter
+                     1896</date>/<date instant="false">97</date>. [Privatdruck, 200 Exemplare,
+                  <date instant="false">1900</date>]</bibl>.</p>
+               </note>: Die <rs type="person" ref="#pmb12618">Sandrock</rs> ist<pb/> einfach famos!</p>
             <closer>In alter Freundschaft<lb/>
                <signed>HermannBahr</signed>
             </closer>

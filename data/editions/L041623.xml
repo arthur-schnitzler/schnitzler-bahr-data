@@ -13,11 +13,11 @@
             <title type="iso-date">1911-08-16</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,9 @@
                </dateline>
                <salute rend="center">Lieber Herr Bahr,</salute>
             </opener>
-            <p>Ihren Brief vom <date>3.</date> habe ich in <rs type="place" ref="#pmb735">Agnetendorf</rs> noch erhalten, und gestern erreichte mich der vom <date>13.</date> Gern will ich mit Ihnen annehmen, dass uns der <anchor type="commentary" xml:id="KL623-3">nächste Sommer in <rs type="place" ref="#pmb734">Bayreuth</rs> zusammenführt</anchor>; und ich bemerke <unclear>nu</unclear>
+            <p>Ihren Brief vom <date>3.</date> habe ich in <rs type="place" ref="#pmb735">Agnetendorf</rs> noch erhalten, und gestern erreichte mich der vom <date>13.</date> Gern will ich mit Ihnen annehmen, dass uns der <anchor type="commentary" xml:id="KL623-3"/>nächste Sommer in <rs type="place" ref="#pmb734">Bayreuth</rs> zusammenführt<note type="commentary" xml:id="KL623-3h">
+                  <p>Dazu kam es nicht.</p>
+               </note>; und ich bemerke <unclear>nu</unclear>
                <subst>
                   <del rend="overwritten">
                      <unclear>n</unclear>
@@ -117,15 +119,22 @@
                      <unclear>r</unclear>
                   </add>
                </subst> auch, dass ich Ihnen, ausser vielem Dank, 20 M. in Sachen <rs type="place" ref="#pmb376">Wahnfried</rs> schulde.</p>
-            <p>Nun wollen wir uns also über die Terminfrage Ihres <rs type="work" subtype="implied" ref="#pmb30085">Stückes</rs> unterhalten. Verehrter Freund, das ist ein schwieriges Problem; und der <unclear>Anspruch</unclear>, den ihr <anchor type="commentary" xml:id="KL623-1">
-                  <rs type="person" subtype="implied" ref="#pmb3419">Verleger</rs>
-               </anchor> und die Bühnen erbeten, ist überhaupt<pb/> nicht zu erfüllen<supplied>.</supplied> Ich gebe im <damage agent="hole">
+            <p>Nun wollen wir uns also über die Terminfrage Ihres <rs type="work" subtype="implied" ref="#pmb30085">Stückes</rs> unterhalten. Verehrter Freund, das ist ein schwieriges Problem; und der <unclear>Anspruch</unclear>, den ihr <anchor type="commentary" xml:id="KL623-1"/>
+               <rs type="person" subtype="implied" ref="#pmb3419">Verleger</rs>
+               <note type="commentary" xml:id="KL623-1h">
+                  <p>
+                     <rs type="person" ref="#pmb3419">Albert Ahn</rs>, der Verleger des Bühnenmanuskripts,
+               siehe weiter unten im Brief. Die Buchausgabe erschien bei <rs type="org" ref="#pmb29639">S. Fischer</rs>.</p>
+               </note> und die Bühnen erbeten, ist überhaupt<pb/> nicht zu erfüllen<supplied>.</supplied> Ich gebe im <damage agent="hole">
                   <supplied>Se</supplied>
-               </damage>pt <anchor type="commentary" xml:id="KL623-2">
-                  <rs type="work" subtype="implied" ref="#pmb31899">
-                     <rs type="person" ref="#pmb11273">Eulenbergs</rs>
-                  </rs>
-               </anchor>, im October, ca <date>14.</date>, <rs type="person" ref="#pmb2121">Schnitzlers</rs> neues <rs type="work" subtype="implied" ref="#pmb30207">Stück</rs>. Dann folgt der <rs type="person" ref="#pmb11585">Hardt</rs>, dessen »<rs type="work" ref="#pmb32526">Gudrun</rs>« ich ebenfalls vor Ihrem Stück erhielt; aber <hi rend="underline" n="1">wann</hi> dieses Dann sein wird, und zu welcher Zeit »dann« Ihr <rs type="work" subtype="implied" ref="#pmb30085">Werk</rs> herauskommen kann, das lässt sich unmöglich genau festlegen. Ich kann nur sagen, dass ich den December oder Januar dafür in Aussicht nehme. Jeder, der die <rs type="place" ref="#pmb168">Berlin</rs>er Theaterverhältnisse kennt, wird einsehen, dass ich anderes nicht anbieten kann; und es ist auch niemals von mir, in leider 17 Jahren der Direction, verlangt worden, dass ich mich von den andern Bühnen so einengen lasse; es ist vielmehr immer <rs type="place" ref="#pmb168">Berlin</rs>er Regel gewesen, dass jene sich nach uns richten. Dies bitte ich Sie also, den Herren <rs type="person" ref="#pmb3419">Ahn</rs> und Compagnie begreiflich zu machen, worauf sie sich auch gern <unclear>gleich</unclear> zur Ruhe geben wollen!– </p>
+               </damage>pt <anchor type="commentary" xml:id="KL623-2"/>
+               <rs type="work" subtype="implied" ref="#pmb31899">
+                  <rs type="person" ref="#pmb11273">Eulenbergs</rs>
+               </rs>
+               <note type="commentary" xml:id="KL623-2h">
+                  <p>
+                     <rs type="work" ref="#pmb31899">Alles um Geld</rs>.</p>
+               </note>, im October, ca <date>14.</date>, <rs type="person" ref="#pmb2121">Schnitzlers</rs> neues <rs type="work" subtype="implied" ref="#pmb30207">Stück</rs>. Dann folgt der <rs type="person" ref="#pmb11585">Hardt</rs>, dessen »<rs type="work" ref="#pmb32526">Gudrun</rs>« ich ebenfalls vor Ihrem Stück erhielt; aber <hi rend="underline" n="1">wann</hi> dieses Dann sein wird, und zu welcher Zeit »dann« Ihr <rs type="work" subtype="implied" ref="#pmb30085">Werk</rs> herauskommen kann, das lässt sich unmöglich genau festlegen. Ich kann nur sagen, dass ich den December oder Januar dafür in Aussicht nehme. Jeder, der die <rs type="place" ref="#pmb168">Berlin</rs>er Theaterverhältnisse kennt, wird einsehen, dass ich anderes nicht anbieten kann; und es ist auch niemals von mir, in leider 17 Jahren der Direction, verlangt worden, dass ich mich von den andern Bühnen so einengen lasse; es ist vielmehr immer <rs type="place" ref="#pmb168">Berlin</rs>er Regel gewesen, dass jene sich nach uns richten. Dies bitte ich Sie also, den Herren <rs type="person" ref="#pmb3419">Ahn</rs> und Compagnie begreiflich zu machen, worauf sie sich auch gern <unclear>gleich</unclear> zur Ruhe geben wollen!– </p>
             <p>Ich bin bis <date>23.</date> hier, <date>24.</date>–<date>26.</date>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb774">Hamburg, Hotel Atlantic</rs>, von 27. ab zu Hause. Alles Gute Ihnen <rs type="person" subtype="implied" ref="#pmb10818">Beiden</rs> in <rs type="place" ref="#pmb734">Bayreuth</rs>, Arien und dem unbekannten Unterwegs.</p>

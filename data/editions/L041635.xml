@@ -13,11 +13,11 @@
             <title type="iso-date">1904-08-24</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,27 +107,44 @@
                </subst> entstanden. Mit dem dritten Akt haben Sie recht: ich schrieb neulich erst an <rs type="person" ref="#pmb12504">Reinhardt</rs>, daß er schlecht ist, was dieser vorderhand<pb/> noch nicht so spürt, aber schon durch mich noch einsehen lernen muß, damit er dann seine ganze Regieenergie darauf wirft, um es zu verbergen. Ich kann es nemlich nicht ändern, ich habe mich schon so mit diesem Akt geplagt, hier ist mein Talent eben an seiner Grenze: es felt mir an plastischen Einfällen, da ich halt leider nicht der <rs type="person" ref="#pmb12968">Trebitsch</rs> bin.</p>
             <p>Über alles andere morgen. Nur um sie zu amusieren, die Urteile, die bisher vorliegen:</p>
             <p rend="inline">
-               <anchor type="commentary" xml:id="KL635-2">
-                  <rs type="person" ref="#pmb12671">Schlenther</rs>
-               </anchor>: Mein bestes Stück.</p>
+               <anchor type="commentary" xml:id="KL635-2"/>
+               <rs type="person" ref="#pmb12671">Schlenther</rs>
+               <note type="commentary" xml:id="KL635-2h">
+                  <p>
+                     <bibl >
+                        <date instant="false">25. 7. 1904</date>, <rs type="org">TMW</rs>, HS AM 23143 Ba</bibl>.</p>
+               </note>: Mein bestes Stück.</p>
             <p rend="inline">
-               <anchor type="commentary" xml:id="KL635-3">
-                  <rs type="person" ref="#pmb11036">Burckhard</rs>
-               </anchor>: Entweder ein ganz großer Erfolg oder ein Durchfall mit Skandal. <unclear>Ihm</unclear> gefällt es. (Was nichts beweist, da ihm natürlich die Tendenz sehr nahe geht)</p>
+               <anchor type="commentary" xml:id="KL635-3"/>
+               <rs type="person" ref="#pmb11036">Burckhard</rs>
+               <note type="commentary" xml:id="KL635-3h">
+                  <p>Nicht ermittelt.</p>
+               </note>: Entweder ein ganz großer Erfolg oder ein Durchfall mit Skandal. <unclear>Ihm</unclear> gefällt es. (Was nichts beweist, da ihm natürlich die Tendenz sehr nahe geht)</p>
             <p rend="inline">
-               <anchor type="commentary" xml:id="KL635-4">
-                  <rs type="person" ref="#pmb10986">Brahm</rs>
-               </anchor>: Kühl, die Technik anerkennend, ohne wirklichen Eindruck zu haben.<pb/>
+               <anchor type="commentary" xml:id="KL635-4"/>
+               <rs type="person" ref="#pmb10986">Brahm</rs>
+               <note type="commentary" xml:id="KL635-4h">
+                  <p>
+                     <bibl >
+                        <date instant="false">26. 7. 1904</date>, <rs type="org">TMW</rs>, HS AM 16005 Ba</bibl>.</p>
+               </note>: Kühl, die Technik anerkennend, ohne wirklichen Eindruck zu haben.<pb/>
             </p>
             <p rend="inline">
-               <anchor type="commentary" xml:id="KL635-5">
-                  <rs type="person" ref="#pmb12504">Reinhardt</rs>
-               </anchor>: Verrückt enthusiastisch, besonders für den letzten Akt.</p>
+               <anchor type="commentary" xml:id="KL635-5"/>
+               <rs type="person" ref="#pmb12504">Reinhardt</rs>
+               <note type="commentary" xml:id="KL635-5h">
+                  <p>
+                     <bibl >Telegramm, <rs type="org">TMW</rs>, HS AM 22319 Ba</bibl>.</p>
+               </note>: Verrückt enthusiastisch, besonders für den letzten Akt.</p>
             <p rend="inline">
                <rs type="person" ref="#pmb11752">Holländer</rs>: Mein bestes Stück, weit über <rs type="work" ref="#pmb29983">Meister</rs>, auch an der gesammten deutschen Production von heute gemessen sehr hoch. Aber Bedenken gegen den letzten Akt.</p>
             <p rend="inline">
-               <anchor type="commentary" xml:id="KL635-1">
-                  <rs type="person" ref="#pmb11740">Hugo</rs>: weiß damit gar nichts anzufangen</anchor> (was nichts beweist, weil er mir wörtlich dasselbe einmal über »<rs type="work" ref="#pmb31403">Wenn wir Toten erwachen</rs>« gesagt hat.)</p>
+               <anchor type="commentary" xml:id="KL635-1"/>
+               <rs type="person" ref="#pmb11740">Hugo</rs>: weiß damit gar nichts anzufangen<note type="commentary" xml:id="KL635-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work">Bw</rs> Hofmannsthal/Bahr 267</bibl>.</p>
+               </note> (was nichts beweist, weil er mir wörtlich dasselbe einmal über »<rs type="work" ref="#pmb31403">Wenn wir Toten erwachen</rs>« gesagt hat.)</p>
             <p>Möchten Sie das Exemplar gelegentlich <rs type="person" ref="#pmb2121">Arthur</rs> geben? Ich hätte gern, daß er es liest, und habe vorderhand Not an Abzügen. Sie kriegen dann erst ein ordentliches Buch.</p>
             <p>Aber mit dem Dichter haben Sie unrecht. Ich bin wirklich keiner. Ganz ernsthaft und ohne jede »Bescheidenheit«, die da zu dumm wäre. Aber<pb/> dies mündlich. Grüßen Sie Ihre liebe <rs type="person" subtype="implied" ref="#pmb23918">Frau</rs> und die <rs type="person" subtype="implied" ref="#pmb2922 #pmb23915">Kinder</rs> herzlichst.</p>
             <closer>In Eile<lb/>Ihr<lb/>

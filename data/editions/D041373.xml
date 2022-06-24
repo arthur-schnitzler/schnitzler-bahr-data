@@ -13,11 +13,11 @@
             <title type="iso-date">1916-04-17</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -87,9 +87,16 @@
             <p>
                <rs type="person" ref="#pmb10815">Bahrs</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD373-1">
-                  <rs type="work" ref="#pmb30897">Himmelfahrt</rs>
-               </anchor> ausgelesen. Katholisirender Roman; ein unleidliches Geschwätz.</p>
+               <anchor type="commentary" xml:id="KD373-1"/>
+               <rs type="work" ref="#pmb30897">Himmelfahrt</rs>
+               <note type="commentary" xml:id="KD373-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30897">Himmelfahrt. Roman</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1916</date>
+                     </bibl> (erschienen im <date instant="false">April 1916</date>).</p>
+               </note> ausgelesen. Katholisirender Roman; ein unleidliches Geschwätz.</p>
          </div>
       </body>
    </text>

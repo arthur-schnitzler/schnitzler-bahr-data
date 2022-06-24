@@ -14,11 +14,11 @@
             <title type="iso-date">1905-10-28</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="082"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8ABF-0</idno>
          </publicationStmt>
@@ -94,7 +94,9 @@
    <text type="article">
       <body>
          <div>
-            <p part="N">13. Oktober. Gestern, im »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«, halb amüsiert und doch wütend über die hochachtungsvolle Freude, die die Juden im Parkett und in den Logen, gerade sie, an <rs type="person" ref="#pmb2121">Schnitzlers</rs> jungem Fürsten haben, vor Wonne wedelnd und nass. Merkwürdig. Gerade sie, die doch unseren Adel kennen. Hier diese Frau, die einmal, aus Snobismus, mit einem Grafen geschlafen hat und doch wissen muss, wenn sie mit sich allein und halbwegs ehrlich gegen sich ist, dass jeder »<anchor type="commentary" xml:id="KT082-1">Bocher</anchor>« im Erotischen delikater, oder sagen wir: weniger primitiv ist. Und daneben ihr Mann, der mit Fürsten in einer Verwaltung sitzt, wo man sie ja für anrüchige Geschäfte braucht, und daher doch wissen muss, wie moralisch ahnungslos sie sind. Warum fröstelt sie also vor Ehrfurcht, wenn ein Aristokrat auf die Bühne kommt? Warum verachten sie sich so? – Mir fällt da wieder jene Geschichte ein. Ein Dichter, der Jude ist, schreibt ein Stück. Es missfällt einem Kritiker, der Jude ist; er verreisst es. Das erbittert einen anderen Dichter, der Jude ist. Und er tröstet den ersten, indem er an ihn über den Kritiker<pb/> schreibt, es sei von diesem nichts anderes zu erwarten gewesen: denn »Ihr so herrliches Werk wird kein Jude je verstehen«. – Mir ist nur um die Kinder dieser durch Reichtum verdorbenen Juden bang. Bang und leid. Und <rs type="person" ref="#pmb11673">Herzl</rs> ist tot. </p>
+            <p>13. Oktober. Gestern, im »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«, halb amüsiert und doch wütend über die hochachtungsvolle Freude, die die Juden im Parkett und in den Logen, gerade sie, an <rs type="person" ref="#pmb2121">Schnitzlers</rs> jungem Fürsten haben, vor Wonne wedelnd und nass. Merkwürdig. Gerade sie, die doch unseren Adel kennen. Hier diese Frau, die einmal, aus Snobismus, mit einem Grafen geschlafen hat und doch wissen muss, wenn sie mit sich allein und halbwegs ehrlich gegen sich ist, dass jeder »<anchor type="commentary" xml:id="KT082-1"/>Bocher<note type="commentary" xml:id="KT082-1h">
+                  <p>Jüdischer Jüngling.</p>
+               </note>« im Erotischen delikater, oder sagen wir: weniger primitiv ist. Und daneben ihr Mann, der mit Fürsten in einer Verwaltung sitzt, wo man sie ja für anrüchige Geschäfte braucht, und daher doch wissen muss, wie moralisch ahnungslos sie sind. Warum fröstelt sie also vor Ehrfurcht, wenn ein Aristokrat auf die Bühne kommt? Warum verachten sie sich so? – Mir fällt da wieder jene Geschichte ein. Ein Dichter, der Jude ist, schreibt ein Stück. Es missfällt einem Kritiker, der Jude ist; er verreisst es. Das erbittert einen anderen Dichter, der Jude ist. Und er tröstet den ersten, indem er an ihn über den Kritiker<pb/> schreibt, es sei von diesem nichts anderes zu erwarten gewesen: denn »Ihr so herrliches Werk wird kein Jude je verstehen«. – Mir ist nur um die Kinder dieser durch Reichtum verdorbenen Juden bang. Bang und leid. Und <rs type="person" ref="#pmb11673">Herzl</rs> ist tot. </p>
          </div>
       </body>
    </text>

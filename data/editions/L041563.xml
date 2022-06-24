@@ -13,11 +13,11 @@
             <title type="iso-date">1908-05-18</title>
             <author ref="pmb11324">Fischer, Samuel</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,9 +103,16 @@
                   <date>18. Mai 08</date>.</dateline>
                <salute>Lieber Herr Doktor!</salute>
             </opener>
-            <p>Ich wäre Ihnen sehr dankbar, wenn Sie einen Rezensenten selber vorschlagen würden; die litterarische Buchkritik liegt augenblicklich sehr darnieder; es wird von allen Seiten auf diesem Gebiet herumdilettiert. Die paar Leute, die wirklich etwas verstehen, schreiben meist über’s Theater. Wenn ich daran denke, wem man die Besprechung über Ihr <anchor type="commentary" xml:id="KL563-1">
-                  <rs type="work" subtype="implied" ref="#pmb29923">Buch</rs>
-               </anchor> übergeben könnte, so scheint mir <rs type="person" ref="#pmb11910">Kerr</rs> der Geeignetste. Ich bezweifle aber, ob er die Sache übernehmen würde. Wie denken Sie über <rs type="person" ref="#pmb2229">Handl</rs> oder <rs type="person" ref="#pmb2989">Polgar</rs>, über <rs type="person" ref="#pmb2167">Salten</rs> oder <rs type="person" ref="#pmb2226">Fred</rs>? Bei uns käme eventuell <rs type="person" ref="#pmb11250">Eloesser</rs>, <rs type="person" ref="#pmb12441">Poppenberg</rs>, <rs type="person" ref="#pmb13112">Paul Wiegler</rs> in Betracht. Sehr geeignet schiene mir <rs type="person" ref="#pmb10815">Bahr</rs> oder <rs type="person" ref="#pmb2167">Salten</rs>. Auch an <rs type="person" ref="#pmb10828">Hermann Bang</rs> wäre zu denken; ich fürchte aber, dass er dem milieu Ihres Romans etwas fremd gegenübersteht.</p>
+            <p>Ich wäre Ihnen sehr dankbar, wenn Sie einen Rezensenten selber vorschlagen würden; die litterarische Buchkritik liegt augenblicklich sehr darnieder; es wird von allen Seiten auf diesem Gebiet herumdilettiert. Die paar Leute, die wirklich etwas verstehen, schreiben meist über’s Theater. Wenn ich daran denke, wem man die Besprechung über Ihr <anchor type="commentary" xml:id="KL563-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29923">Buch</rs>
+               <note type="commentary" xml:id="KL563-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29923">Der Weg ins Freie. Roman</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1908</date>
+                     </bibl>.</p>
+               </note> übergeben könnte, so scheint mir <rs type="person" ref="#pmb11910">Kerr</rs> der Geeignetste. Ich bezweifle aber, ob er die Sache übernehmen würde. Wie denken Sie über <rs type="person" ref="#pmb2229">Handl</rs> oder <rs type="person" ref="#pmb2989">Polgar</rs>, über <rs type="person" ref="#pmb2167">Salten</rs> oder <rs type="person" ref="#pmb2226">Fred</rs>? Bei uns käme eventuell <rs type="person" ref="#pmb11250">Eloesser</rs>, <rs type="person" ref="#pmb12441">Poppenberg</rs>, <rs type="person" ref="#pmb13112">Paul Wiegler</rs> in Betracht. Sehr geeignet schiene mir <rs type="person" ref="#pmb10815">Bahr</rs> oder <rs type="person" ref="#pmb2167">Salten</rs>. Auch an <rs type="person" ref="#pmb10828">Hermann Bang</rs> wäre zu denken; ich fürchte aber, dass er dem milieu Ihres Romans etwas fremd gegenübersteht.</p>
             <p>Verbindlichsten Dank für die <rs type="work" ref="#pmb29931">Comtesse Mizi</rs>. Ich denke, daß mit der Versendung an die Bühnen am besten bis September gewartet werden müßte.</p>
             <p>Ob Sie <rs type="person" ref="#pmb2871">Entsch</rs> Ihre Stücke kündigen können, ohne einen rechtlichen Grund für die Aufhebung des Vertragsverhältnisses vorzubringen, bezweifle ich sehr.</p>
             <p>Für die Versendung Ihres <rs type="work" subtype="implied" ref="#pmb29923">Romans</rs> ist alles erforderliche – inclusive der Insertion in Zeitungen – vorbereitet.</p>

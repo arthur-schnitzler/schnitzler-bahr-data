@@ -13,11 +13,11 @@
             <title type="iso-date">1904-11-06</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,7 +104,9 @@
                <rs type="work" ref="#pmb31171">Scherzo in C-moll</rs>, <rs type="person" ref="#pmb10866">Beethoven</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" ref="#pmb30809">Eroica</rs>.</p>
-            <p>Abends mit <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs> und <rs type="person" ref="#pmb11036">Burckhard</rs> bei <rs type="person" ref="#pmb2121">Schnitzler</rs>, der <rs subtype="local" type="work" ref="#pmb30661">Meistersinger</rs> und <rs subtype="local" type="work" ref="#pmb30663">Coriolanouverture</rs> spielt, <rs type="person" ref="#pmb2173">Olga</rs> schwärmt für Lieder von <rs type="person" ref="#pmb12873">Theodor Streicher</rs> (der mit einer entsetzlich <anchor type="commentary" xml:id="KD471-1">schiachen</anchor>
+            <p>Abends mit <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs> und <rs type="person" ref="#pmb11036">Burckhard</rs> bei <rs type="person" ref="#pmb2121">Schnitzler</rs>, der <rs subtype="local" type="work" ref="#pmb30661">Meistersinger</rs> und <rs subtype="local" type="work" ref="#pmb30663">Coriolanouverture</rs> spielt, <rs type="person" ref="#pmb2173">Olga</rs> schwärmt für Lieder von <rs type="person" ref="#pmb12873">Theodor Streicher</rs> (der mit einer entsetzlich <anchor type="commentary" xml:id="KD471-1"/>schiachen<note type="commentary" xml:id="KD471-1h">
+                  <p>(öst. dialektal) hässlichen.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" subtype="implied" ref="#pmb28246">Frau</rs> bei <rs type="place" ref="#pmb875">Klagenfurt</rs> leben soll; er und <rs type="person" ref="#pmb12743">Schönberg</rs> interessieren mich jetzt von den <rs type="place" ref="#pmb41240">Östreichern</rs> am meisten) aus dem <rs type="work" ref="#pmb31173">Wunderhorn</rs>, ebenso für <rs type="person" ref="#pmb28247">Ansorge</rs>, über den <rs type="person" ref="#pmb11740">Hugo</rs>
                <pb/>

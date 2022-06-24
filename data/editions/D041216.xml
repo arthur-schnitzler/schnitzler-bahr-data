@@ -13,11 +13,11 @@
             <title type="iso-date">1903-04-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,9 +78,16 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1903-04-02" n="1">2/4</date> Brief Onkel <rs type="person" ref="#pmb3814">Edmund</rs>, <rs type="place" ref="#pmb43406">Amerika</rs>, soll Tournée machen.–</p>
-            <p>Bei <rs type="person" ref="#pmb10815">Bahr</rs>, woselbst der Interviewer <rs type="person" ref="#pmb2288">Deutsch-German</rs>, <anchor type="commentary" xml:id="KD216-1">Commisnatur</anchor>.– <rs type="person" ref="#pmb11201">Duse</rs> als <anchor type="commentary" xml:id="KD216-2">
-                  <rs type="work" ref="#pmb29915">Hedda</rs>
-               </anchor>; mit <rs type="person" ref="#pmb2173">O.</rs> dort.– <rs type="work" ref="#pmb29855">Reigen</rs> erscheint.</p>
+            <p>Bei <rs type="person" ref="#pmb10815">Bahr</rs>, woselbst der Interviewer <rs type="person" ref="#pmb2288">Deutsch-German</rs>, <anchor type="commentary" xml:id="KD216-1"/>Commisnatur<note type="commentary" xml:id="KD216-1h">
+                  <p>Commis: Gehilfe, insbesondere für einfache Schreibarbeiten.</p>
+               </note>.– <rs type="person" ref="#pmb11201">Duse</rs> als <anchor type="commentary" xml:id="KD216-2"/>
+               <rs type="work" ref="#pmb29915">Hedda</rs>
+               <note type="commentary" xml:id="KD216-2h">
+                  <p>Auch <rs type="person" ref="#pmb10815">Bahr</rs> besuchte diese Aufführung von <rs type="person" ref="#pmb11798">Ibsen</rs>s <rs type="work" ref="#pmb29915">Hedda
+                  Gabler</rs> (<bibl >
+                        <rs type="person" ref="#pmb10815">H. B.</rs>: <rs type="work" ref="#pmb32848">Theater, Kunst und Literatur. Carl-Theater</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 92, <date instant="false">3. 4.
+                     1903</date>, S. 9–10</bibl>).</p>
+               </note>; mit <rs type="person" ref="#pmb2173">O.</rs> dort.– <rs type="work" ref="#pmb29855">Reigen</rs> erscheint.</p>
          </div>
       </body>
    </text>

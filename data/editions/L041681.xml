@@ -13,11 +13,11 @@
             <title type="iso-date">1897-08-07</title>
             <author ref="pmb2128">Plessner, Elsa</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,7 +106,19 @@
                </subst>l<subst>
                   <del rend="overwritten">y</del>
                   <add place="inline">i</add>
-               </subst>stischen Wendungen bezüglich der »<anchor type="commentary" xml:id="KL681-1">grausamen Fülle</anchor>«. Aber insbesondere das künstlerisch geradezu unsühnbare Verbrechen, meine Arbeit auf eigene Hand und <hi rend="underline" n="1">ohne mein Wissen</hi> »<anchor type="commentary" xml:id="KL681-2">eine Parabel</anchor>« zu nennen, wo ich mit<pb/>
+               </subst>stischen Wendungen bezüglich der »<anchor type="commentary" xml:id="KL681-1"/>grausamen Fülle<note type="commentary" xml:id="KL681-1h">
+                  <p>Im <rs type="work" subtype="implied" ref="#pmb30265">Erstdruck</rs> (<bibl >
+                        <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 12, Nr. 149, <date instant="false">7. 8.
+                     1897</date>, S. 95–96</bibl>) lautet der Satz: »<quote>Ermattet von dem
+                  ziellosen Wünschen und der grausamen Fülle ruhte sie nun unbeweglich mit
+                  geschlossenen Augen – wie schlafend.</quote>« Für die Erstausgabe (<bibl >
+                        <rs type="work" ref="#pmb32230">Der gläserne Käfig. Skizzen und Novellen</rs>. <rs type="place" ref="#pmb50">Wien</rs>, <rs type="place" ref="#pmb864">Leipzig</rs>: <rs type="org" ref="#pmb29220">Leopold Weiss</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1901</date>
+                     </bibl>) wurde er nicht geändert.</p>
+               </note>«. Aber insbesondere das künstlerisch geradezu unsühnbare Verbrechen, meine Arbeit auf eigene Hand und <hi rend="underline" n="1">ohne mein Wissen</hi> »<anchor type="commentary" xml:id="KL681-2"/>eine Parabel<note type="commentary" xml:id="KL681-2h">
+                  <p>Nicht in der <rs type="work" subtype="implied" ref="#pmb32230">Erstausgabe</rs>.</p>
+               </note>« zu nennen, wo ich mit<pb/>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">wohlerwogener Absicht</hi> überhaupt keine Bezeichnung hingesetzt habe, meine Arbeit aus einer naiv-bedeutungsvollen Sphäre in die einer lehrhaften zu schubsen – – <gap reason="illegible" unit="chars" quantity="1"/> was kann ich dazu sagen? Ich habe keine andere Waffe als die, morgen Sonntag mit dem Frühesten einen Rundgang durch alle wichtigen Kaffeehäuser, <rs type="place" ref="#pmb819">Pucher</rs>, <rs type="place" ref="#pmb119">Scheidl</rs> u. s. w. zu thun, und dortselbst die mir aufoctroirten Correcturen in den aufliegenden Nummern der »<rs type="org" ref="#pmb29209">Zeit</rs>« auf eigene Hand mit Blaustift auszumerzen und dazu<pb/> ganz ehrlich und offen meinen Namen zu unterschreiben. Ich will eben mit der Redaction der »<rs type="org" ref="#pmb29209">Zeit</rs>« <hi rend="underline" n="1">keine</hi> Differenz haben wo ich eigentlich dem Himmel d. h. Herrn <rs type="person" ref="#pmb10815">Bahr</rs> und Ihnen so herzlich und bestens für die Aufnahme meiner Arbeit danke. Wenn es irgendwie Unannehmlichkeiten geben sollte, was ich kaum glaube, da ja für andere eine Lappalie, was mir bei meinem Debut eine Staatsaction ist – Sie werden mich verstehen und entschuldigen, wenn nicht rechtfertigen.<pb/>
             </p>

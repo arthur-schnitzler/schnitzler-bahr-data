@@ -13,11 +13,11 @@
             <title type="iso-date">1906-01-16</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -101,17 +101,37 @@
             <p>
                <date when="1906-01-16" n="01">16.</date>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD484-2">Brief an <rs type="person" ref="#pmb11324">Fischer</rs>
-               </anchor>, daß ich <rs type="person" ref="#pmb13014">Vollmöllers</rs> »<anchor type="commentary" xml:id="KD484-4">
-                  <rs type="work" ref="#pmb31187">Orestie</rs>
-               </anchor>« prachtvoll finde, aber <rs type="person" ref="#pmb12813">Sp.</rs> sie mit dem Hinweise auf den <rs type="place" ref="#pmb45258">Münchner</rs> Durchfall der <rs type="work" subtype="implied" ref="#pmb31187">
+               <anchor type="commentary" xml:id="KD484-2"/>Brief an <rs type="person" ref="#pmb11324">Fischer</rs>
+               <note type="commentary" xml:id="KD484-2h">
+                  <p>Nicht überliefert.</p>
+               </note>, daß ich <rs type="person" ref="#pmb13014">Vollmöllers</rs> »<anchor type="commentary" xml:id="KD484-4"/>
+               <rs type="work" ref="#pmb31187">Orestie</rs>
+               <note type="commentary" xml:id="KD484-4h">
+                  <p>Die Bearbeitung von <rs type="person" ref="#pmb3648">Aischylos’</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb31187">Orestie</rs> durch <rs type="person" ref="#pmb13014">Vollmoeller</rs> entstand <date instant="false">1904</date>/<date instant="false">1905</date>, wurde aber erst
+                  <date instant="false">1911</date> bei <rs type="org" ref="#pmb29639">S. Fischer</rs> gedruckt.</p>
+               </note>« prachtvoll finde, aber <rs type="person" ref="#pmb12813">Sp.</rs> sie mit dem Hinweise auf den <rs type="place" ref="#pmb45258">Münchner</rs> Durchfall der <rs type="work" subtype="implied" ref="#pmb31187">
                   <rs type="person" ref="#pmb28251">Willamowitzschen</rs>
-               </rs> nicht riskieren will, daß ich »<anchor type="commentary" xml:id="KD484-5">
-                  <rs type="work" ref="#pmb31189">Oedipus u. Sp.</rs>
-               </anchor>« angenommen habe, der Intendant aber sich die Entscheidung bis fünf Tage nach der <anchor type="commentary" xml:id="KD484-3">
-                  <rs type="place" ref="#pmb168">Berliner</rs> Première</anchor> vorbehalten hat, u. daß ich den »<anchor type="commentary" xml:id="KD484-1">
-                  <rs type="work" ref="#pmb29905">Ruf des Lebens</rs>
-               </anchor>« annehme.</p>
+               </rs> nicht riskieren will, daß ich »<anchor type="commentary" xml:id="KD484-5"/>
+               <rs type="work" ref="#pmb31189">Oedipus u. Sp.</rs>
+               <note type="commentary" xml:id="KD484-5h">
+                  <p>Die Empfehlung von <rs type="person" ref="#pmb11740">Hofmannsthals</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb31189">Oedipus und die Sphinx</rs> erfolgte bereits zu
+               Jahresbeginn (<bibl >
+                        <rs type="work">Bw</rs> Hofmannsthal/Bahr 304–305</bibl>). </p>
+               </note>« angenommen habe, der Intendant aber sich die Entscheidung bis fünf Tage nach der <anchor type="commentary" xml:id="KD484-3"/>
+               <rs type="place" ref="#pmb168">Berliner</rs> Première<note type="commentary" xml:id="KD484-3h">
+                  <p>Uraufführung am <date instant="false">2. 2. 1906</date>, <rs type="place" ref="#pmb3">Deutsches
+                  Theater</rs>.</p>
+               </note> vorbehalten hat, u. daß ich den »<anchor type="commentary" xml:id="KD484-1"/>
+               <rs type="work" ref="#pmb29905">Ruf des Lebens</rs>
+               <note type="commentary" xml:id="KD484-1h">
+                  <p>Es handelt sich dabei nicht um die Uraufführung; diese wird von den Zeitungen zur
+               gleichen Zeit bereits als für <date instant="false">Ende Februar</date> am <rs type="place" ref="#pmb18">Lessingtheater</rs> in <rs type="place" ref="#pmb168">Berlin</rs>
+               feststehend berichtet.</p>
+               </note>« annehme.</p>
             <p>»<rs type="work" ref="#pmb29905">Ruf der Lebens</rs>« an <rs type="person" ref="#pmb12813">Sp.</rs> geschickt, anzunehmen; Entscheidg binnen drei Wochen.</p>
          </div>
       </body>

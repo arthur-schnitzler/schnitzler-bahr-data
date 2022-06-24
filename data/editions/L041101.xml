@@ -13,11 +13,11 @@
             <title type="iso-date">1907-12-16</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -131,10 +131,17 @@
                </dateline>
                <salute>lieber Hermann,</salute>
             </opener>
-            <p>ich weiss nicht, ob du noch <anchor type="commentary" xml:id="KL101-2">in <rs type="place" ref="#pmb50">Wien</rs>
-               </anchor> bist – schreibe dir jedenfalls an deine <rs type="place" ref="#pmb50">Wr</rs> Adresse, aufsuchen könnt ich dich keineswegs, weil meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> sich eben in Reconvalescenz von einem Scharlach befindet – (doch schon gekräftigt genug, um dich herzlich zu grüßen und dir mit mir zu dem <anchor type="commentary" xml:id="KL101-1">
-                  <rs type="work" subtype="implied" ref="#pmb30021">nachtigalligen Erfolg</rs>
-               </anchor> schönstens zu gratuliren) – Also <hi rend="underline" n="2">unter uns</hi>
+            <p>ich weiss nicht, ob du noch <anchor type="commentary" xml:id="KL101-2"/>in <rs type="place" ref="#pmb50">Wien</rs>
+               <note type="commentary" xml:id="KL101-2h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> war nicht mehr in <rs type="place" ref="#pmb168">Berlin</rs>, doch möglicherweise auf dem <rs type="place" ref="#pmb189">Semmering</rs>.</p>
+               </note> bist – schreibe dir jedenfalls an deine <rs type="place" ref="#pmb50">Wr</rs> Adresse, aufsuchen könnt ich dich keineswegs, weil meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> sich eben in Reconvalescenz von einem Scharlach befindet – (doch schon gekräftigt genug, um dich herzlich zu grüßen und dir mit mir zu dem <anchor type="commentary" xml:id="KL101-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30021">nachtigalligen Erfolg</rs>
+               <note type="commentary" xml:id="KL101-1h">
+                  <p>Uraufführung von <rs type="work" ref="#pmb30021">Die gelbe Nachtigall</rs> am
+                  <date instant="false">10. 12. 1907</date> am <rs type="place" ref="#pmb3">Deutschen
+               Theater</rs>.</p>
+               </note> schönstens zu gratuliren) – Also <hi rend="underline" n="2">unter uns</hi>
                <pb/>
                <space unit="chars" quantity="1"/>formeller Antrag des <rs type="place" ref="#pmb13">Hebbeltheater</rs> liegt mir vor: <rs type="work" ref="#pmb29857">Beatrice</rs> nächste Saison, <rs type="person" ref="#pmb2303">Ritscher</rs> als Beatrice. Meine Frage an dich: hältst dus 1) für wahrscheinlich, dass <rs type="person" ref="#pmb12504">Reinhardt</rs> auf die Beatrice reflectirt<del rend="strikethrough">e</del>? 2) hältst du, im Jafalle <rs type="place" ref="#pmb3">Deutsches Theater</rs> für praktischer als <del rend="strikethrough">für</del>
                <space unit="chars" quantity="1"/>

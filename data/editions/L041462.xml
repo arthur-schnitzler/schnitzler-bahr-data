@@ -13,11 +13,11 @@
             <title type="iso-date">1930-02-06</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,11 +104,29 @@
             <p>Für die »<rs type="work" ref="#pmb30717">Comedies of words</rs>« bekomme ich immer wieder durch den Verlag <rs type="org" ref="#pmb29744">Stewart Kidd</rs> ungeheuere Honorare, welche zwischen 1–2 Dollar alle 3–4 Monate zu schwanken pflegen.<pb/> Von <rs type="person" ref="#pmb20624">Pierre Loving</rs> (natürlich nicht durch ihn persönlich) habe ich vor ein paar Monaten ein <rs type="work" subtype="implied" ref="#pmb32057">Interview</rs> mit mir aus einer <rs type="org" subtype="implied" ref="#pmb29736">amerikanischen Zeitung</rs> zugeschickt erhalten, das vor Jahren stattfand und dessen keineswegs autorisierte Veröffentlichung an Takt einiges zu wünschen übrig läßt. Außerdem hat er mich vor noch längerer Zeit ersucht für das autobiographische <rs type="work" subtype="implied" ref="#pmb32143">Buch</rs> der <rs type="person" ref="#pmb13204">Hermia zur Mühlen</rs>, <rs type="place" ref="#pmb43406">amerikanische</rs> Ausgabe, ein Vorwort zu schreiben; Sie können sich denken, daß ich mich darauf gestürzt habe.</p>
             <p>Der bei <rs type="org" ref="#pmb29745">Kennerley</rs> erschienene <rs type="work" subtype="implied" ref="#pmb29985">Band</rs> »<rs type="work" ref="#pmb29985">Lonely way</rs>«, »<rs type="work" ref="#pmb29903">Intermezzo</rs>« und »<rs type="work" ref="#pmb29931">Countess Mizi</rs>« ist seinerzeit wohl, wenn ich mich recht erinnere, nicht ohne meine Erlaubnis erschienen, doch habe ich nie, trotz häufiger Mahnung, je einen Heller Honorar dafür erhalten.</p>
             <p>Die Angelegenheit des zweiten Bandes bei <rs type="org" ref="#pmb29746">Constable</rs> (»<rs type="work" ref="#pmb30971">Casanova</rs>«, »<rs type="work" ref="#pmb30201">Graesler</rs>« und eventuell »<rs type="work" ref="#pmb30213">Hirtenflöte</rs>«) schreitet selbstverständlich nicht weiter.</p>
-            <p>Und nun zum »<rs type="work" ref="#pmb29855">Reigen</rs>«. Das <anchor type="commentary" xml:id="KL462-2">
-                  <rs type="work" subtype="implied" ref="#pmb31401">Feuilleton</rs> von <rs type="person" ref="#pmb2167">Felix Salten</rs> stand in dem damaligen Tagesblatt »<rs type="org" ref="#pmb29626">Die Zeit</rs>
-               </anchor>«. Von dem <anchor type="commentary" xml:id="KL462-3">Resultat des Rekurses</anchor>, den <rs type="person" ref="#pmb10815">Hermann Bahr</rs> in Angelegenheit der verbotenen »<rs type="work" ref="#pmb29855">Reigen</rs>«-Vorlesung an die <rs type="org" ref="#pmb29253">Statthalterei</rs> ergriff, ist auch mir nichts bekannt; wahrscheinlich wurde er abschlägig beschieden. Über den Verleger <rs type="person" ref="#pmb11374">Fritz Freund</rs> kann ich Ihnen heute nichts Näheres mehr sagen. Gute Erfahrungen habe ich nicht mit ihm gemacht. Daß er die Rekurse damals mit wirklichem Ernst behandelt hätte, ist nicht wahrscheinlich. Heute soll er als <anchor type="commentary" xml:id="KL462-5">Filmjournalist</anchor> »tätig« sein. Auf Ihren <anchor type="commentary" xml:id="KL462-4">
-                  <rs type="work" subtype="implied" ref="#pmb32151">Artikel</rs>
-               </anchor> über die Geschichte des »<rs type="work" ref="#pmb29855">Reigen</rs>« bin ich natürlich sehr neugierig. Ob sich meine <anchor type="commentary" xml:id="KL462-1">23 Thesen</anchor> in den Rahmen Ihres Artikels überhaupt fügen würden, kann ich natürlich von hier aus nicht beurteilen. Vielleicht ist es doch am besten mich persönlich als »Wortergreifer« aus dem Spiel zu lassen.</p>
+            <p>Und nun zum »<rs type="work" ref="#pmb29855">Reigen</rs>«. Das <anchor type="commentary" xml:id="KL462-2"/>
+               <rs type="work" subtype="implied" ref="#pmb31401">Feuilleton</rs> von <rs type="person" ref="#pmb2167">Felix Salten</rs> stand in dem damaligen Tagesblatt »<rs type="org" ref="#pmb29626">Die Zeit</rs>
+               <note type="commentary" xml:id="KL462-2h">
+                  <p>
+                     <ptr target="KL262-1"/>, <ptr target="D041443"/>.</p>
+               </note>«. Von dem <anchor type="commentary" xml:id="KL462-3"/>Resultat des Rekurses<note type="commentary" xml:id="KL462-3h">
+                  <p>Das Ergebnis ist nicht überliefert, <ptr target="KL262-2"/>.</p>
+               </note>, den <rs type="person" ref="#pmb10815">Hermann Bahr</rs> in Angelegenheit der verbotenen »<rs type="work" ref="#pmb29855">Reigen</rs>«-Vorlesung an die <rs type="org" ref="#pmb29253">Statthalterei</rs> ergriff, ist auch mir nichts bekannt; wahrscheinlich wurde er abschlägig beschieden. Über den Verleger <rs type="person" ref="#pmb11374">Fritz Freund</rs> kann ich Ihnen heute nichts Näheres mehr sagen. Gute Erfahrungen habe ich nicht mit ihm gemacht. Daß er die Rekurse damals mit wirklichem Ernst behandelt hätte, ist nicht wahrscheinlich. Heute soll er als <anchor type="commentary" xml:id="KL462-5"/>Filmjournalist<note type="commentary" xml:id="KL462-5h">
+                  <p>Er gab von <date instant="false">1927</date> bis <date instant="false">1938</date> die <rs type="org" ref="#pmb29383">Österreichische Film-Zeitung</rs> heraus.</p>
+               </note> »tätig« sein. Auf Ihren <anchor type="commentary" xml:id="KL462-4"/>
+               <rs type="work" subtype="implied" ref="#pmb32151">Artikel</rs>
+               <note type="commentary" xml:id="KL462-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb4412">Otto P. Schinnerer</rs>: <rs type="work" ref="#pmb32151">The History of Schnitzlers »Reigen«</rs>. In: <rs type="org" ref="#pmb29375">PMLA</rs>, Jg. 46, Nr. 3, <date instant="false">September 1931</date>,
+                  S. 839–859</bibl>.</p>
+               </note> über die Geschichte des »<rs type="work" ref="#pmb29855">Reigen</rs>« bin ich natürlich sehr neugierig. Ob sich meine <anchor type="commentary" xml:id="KL462-1"/>23 Thesen<note type="commentary" xml:id="KL462-1h">
+                  <p>Diese wurden nicht abgedruckt. Sie finden sich in einem nicht abgesandten Text für
+               die <rs type="org" ref="#pmb29351">Neue Freie Presse</rs> anlässlich der <rs type="place" ref="#pmb50">Wien</rs>er Aufführung des <rs type="work" ref="#pmb29855">Reigen</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">1922</date> (<bibl >
+                        <rs type="org">CUL</rs>, Schnitzler, A 20,14</bibl>).</p>
+               </note> in den Rahmen Ihres Artikels überhaupt fügen würden, kann ich natürlich von hier aus nicht beurteilen. Vielleicht ist es doch am besten mich persönlich als »Wortergreifer« aus dem Spiel zu lassen.</p>
             <p>Um schließlich noch von den Schicksalen meiner Werke im Ausland zu reden, so ist zu erwähnen, daß das Interesse in <rs type="place" ref="#pmb166">Frankreich</rs> und in <rs type="place" ref="#pmb40306">Italien</rs> in der letzten Zeit zweifellos zuge<pb/>nommen hat. Materiell drücken sich diese Erfolge natürlich nur in bescheidener Weise aus.</p>
             <p>Von »<rs type="work" ref="#pmb29941">Fräulein Else</rs>« als Drama ist vorläufig nicht die Rede. <rs type="person" ref="#pmb10886">Elisabeth Bergner</rs> hatte irgendwelche schwerwiegende Differenzen mit Direktor <rs type="person" ref="#pmb19421">Klein</rs>, sie hat dort den Kontrakt gelöst, ist etwas leidend, ich sprach sie vor wenigen Tagen ziemlich ausführlich in <rs type="place" ref="#pmb50">Wien</rs> (vorher auch in <rs type="place" ref="#pmb168">Berlin</rs>), sie ist jetzt in die <rs type="place" ref="#pmb43435">Schweiz</rs> gefahren, dürfte dann in <rs type="place" ref="#pmb224">London</rs> einen <rs type="work" subtype="implied" ref="#pmb32061">Tonfilm</rs> spielen und denkt daran mit »<rs type="work" ref="#pmb29941">Fräulein Else</rs>« im nächsten Herbst in <rs type="place" ref="#pmb50">Wien</rs> zu beginnen. Aber ihre Entschlüsse sind, wie Sie wissen, nicht durchaus verläßlich.</p>
             <p>Daß der Kontrakt mit <rs type="org" ref="#pmb29748">Metro Goldwyn</rs> über »<rs type="work" ref="#pmb32157">Daybreak</rs>« rechtsgiltig geworden und auch schon finanziell beglichen wurde, glaube ich Ihnen schon geschrieben zu haben.</p>

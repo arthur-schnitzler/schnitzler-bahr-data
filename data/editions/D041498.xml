@@ -13,11 +13,11 @@
             <title type="iso-date">1909-12-28</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,14 +81,27 @@
             <p>
                <date when="1909-12-28" n="2">28. 12</date>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb2121">Schnitzler</rs>. – Die letzten Tage an <anchor type="commentary" xml:id="KD498-1">
-                  <rs type="work" ref="#pmb30181">
-                     <rs type="person" ref="#pmb11384">Friedjung</rs>proceß</rs>
-               </anchor> für <rs type="person" ref="#pmb11324">Fischer</rs> diktiert. – Die große Freude an des Bischofs <anchor type="commentary" xml:id="KD498-2">
-                  <rs type="person" ref="#pmb3698">Keppler</rs>
-                  <space unit="chars" quantity="1"/>
-                  <rs type="work" subtype="implied" ref="#pmb31209">Buch</rs>
-               </anchor>. – Abends Pater <rs type="person" ref="#pmb21730">Othmar Müller</rs> aus <rs type="place" ref="#pmb329">Sankt Paul in Kärnten</rs>.</p>
+               <rs type="person" ref="#pmb2121">Schnitzler</rs>. – Die letzten Tage an <anchor type="commentary" xml:id="KD498-1"/>
+               <rs type="work" ref="#pmb30181">
+                  <rs type="person" ref="#pmb11384">Friedjung</rs>proceß</rs>
+               <note type="commentary" xml:id="KD498-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30181">Prozeß Friedjung</rs>. In: <rs type="org" ref="#pmb29212">Die
+                     neue Rundschau</rs>, Jg. 21, H. 2, <date instant="false">1. 2. 1910</date>,
+               S. 240–250</bibl>.</p>
+               </note> für <rs type="person" ref="#pmb11324">Fischer</rs> diktiert. – Die große Freude an des Bischofs <anchor type="commentary" xml:id="KD498-2"/>
+               <rs type="person" ref="#pmb3698">Keppler</rs>
+               <space unit="chars" quantity="1"/>
+               <rs type="work" subtype="implied" ref="#pmb31209">Buch</rs>
+               <note type="commentary" xml:id="KD498-2h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb31209">Mehr Freude</rs>. Von Dr. <rs type="person" ref="#pmb3698">Paul Wilhelm von Keppler</rs>. Bischof von <rs type="place" ref="#pmb49141">Rottenburg</rs>. Freiburg: <rs type="org">Herder</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1909</date>
+                     </bibl>.</p>
+               </note>. – Abends Pater <rs type="person" ref="#pmb21730">Othmar Müller</rs> aus <rs type="place" ref="#pmb329">Sankt Paul in Kärnten</rs>.</p>
          </div>
       </body>
    </text>

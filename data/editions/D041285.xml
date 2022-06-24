@@ -13,11 +13,11 @@
             <title type="iso-date">1907-04-10</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,7 +83,23 @@
             <p>(Über <rs type="person" ref="#pmb11707">Hirschfeld</rs> (<rs type="person" ref="#pmb11707">Robert</rs>), <rs type="person" ref="#pmb2989">Polgar</rs>, die Verehrer des »Bodenständigen«.)</p>
             <p>– Nm. dictirt <rs type="work" subtype="implied" ref="#pmb30615">Tragikom.</rs>–</p>
             <p>Düstre Stimmung. Herandrohendes.–</p>
-            <p>Nachm. <rs type="person" ref="#pmb27665">Ernst Goth</rs> (<rs type="place" ref="#pmb43471">Pest</rs>), der, eines <anchor type="commentary" xml:id="KD285-1">Plagiats</anchor> beschuldigt (in Nachtkritiken an <rs type="person" ref="#pmb11910">Kerr</rs> und <rs type="person" ref="#pmb10815">Bahr</rs>) mich um Empfehlungen für diese beiden ersuchte. Ich gab ihm eine Karte für <rs type="person" ref="#pmb10815">Bahr</rs>.</p>
+            <p>Nachm. <rs type="person" ref="#pmb27665">Ernst Goth</rs> (<rs type="place" ref="#pmb43471">Pest</rs>), der, eines <anchor type="commentary" xml:id="KD285-1"/>Plagiats<note type="commentary" xml:id="KD285-1h">
+                  <p>Fünf Tage zuvor hatte die <rs type="org" ref="#pmb29644">Arbeiter-Zeitung</rs> unter
+               der Überschrift <rs type="work" ref="#pmb32113">Der Kritiker im Negligé</rs>
+                  (<bibl >Jg. 19, Nr. 92, <date when="1907-04-05" instant="false">5. 4. 1907</date>, Morgenblatt,
+                  S. 4</bibl>) einen ungezeichneten Plagiatsvorwurf gebracht, demzufolge <rs type="person" ref="#pmb27665">Gòth</rs> aus dem Buch <rs type="work" ref="#pmb32215">
+                        <rs type="person" ref="#pmb11798">Henrik Ibsen</rs>s Dramen</rs> von <rs type="person" ref="#pmb9449">Emil Reich</rs> (<bibl >20 Vorlesungen, gehalten an
+                  der Universität Wien. 5., vermehrte Auflage. Dresden: <rs type="org" ref="#pmb29771">E. Pierson</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1907</date>
+                     </bibl>) abgeschrieben hätte. Ob ein zusätzlicher Plagiatsvorwurf bestand, ist nicht
+               zu klären. Möglicherweise setzte <rs type="person" ref="#pmb27665">Gòth</rs> auch nur
+               deswegen Hoffnung auf <rs type="person" ref="#pmb10815">Bahr</rs>, weil er im Februar
+               ein lobendes Feuilleton über ihn (und <rs type="person" ref="#pmb11910">Kerr</rs>)
+               verfasst hatte (<bibl >
+                        <rs type="person" ref="#pmb27665">Ernst Goth</rs>: <rs type="work" ref="#pmb32059">Zwei Kritiker</rs>. In: <rs type="org" ref="#pmb29306">Pester Lloyd</rs>,
+                  Jg. 54, Nr. 36, <date when="1907-02-10" instant="false">10. 2. 1907</date>, S. 13–14</bibl>).</p>
+               </note> beschuldigt (in Nachtkritiken an <rs type="person" ref="#pmb11910">Kerr</rs> und <rs type="person" ref="#pmb10815">Bahr</rs>) mich um Empfehlungen für diese beiden ersuchte. Ich gab ihm eine Karte für <rs type="person" ref="#pmb10815">Bahr</rs>.</p>
          </div>
       </body>
    </text>

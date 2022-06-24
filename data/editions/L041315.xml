@@ -13,11 +13,11 @@
             <title type="iso-date">1908-06-03</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -112,8 +112,17 @@
                </dateline>
                <salute rend="center">Lieber Artur!</salute>
             </opener>
-            <p>Nur geschwind herzlichsten Dank für <anchor type="commentary" xml:id="KL315-2">Deinen <rs type="work" subtype="implied" ref="#pmb29923">Roman</rs>
-               </anchor>. Darüber müssen wir einmal lange reden. Bis ich erst <anchor type="commentary" xml:id="KL315-1">mit <rs type="work" subtype="implied" ref="#pmb30619">meinem</rs> fertig</anchor> bin, in dem ich jetzt über die Ohren stecke.</p>
+            <p>Nur geschwind herzlichsten Dank für <anchor type="commentary" xml:id="KL315-2"/>Deinen <rs type="work" subtype="implied" ref="#pmb29923">Roman</rs>
+               <note type="commentary" xml:id="KL315-2h">
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> versandte laut <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl> den <rs type="work" ref="#pmb29923">Weg ins Freie</rs> am <date instant="false">2. 6.
+                  1908</date>.</p>
+               </note>. Darüber müssen wir einmal lange reden. Bis ich erst <anchor type="commentary" xml:id="KL315-1"/>mit <rs type="work" subtype="implied" ref="#pmb30619">meinem</rs> fertig<note type="commentary" xml:id="KL315-1h">
+                  <p>Bahr diktierte seinen Roman <rs type="work" ref="#pmb30619">Die Rahl</rs> vom <date when="1908-04-20" instant="false">20. 4.</date> bis zum <date when="1908-06-14" instant="false">14. 6. 1908</date> (<bibl >
+                        <rs type="org">TMW</rs>, VM 1227 Ba</bibl>).</p>
+               </note> bin, in dem ich jetzt über die Ohren stecke.</p>
             <closer>Eiligst<lb/>herzlichst<lb/>mit den allerbesten Grüßen an Deine liebe <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>Dein<lb/>
                <signed>Hermann</signed>

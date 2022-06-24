@@ -13,11 +13,11 @@
             <title type="iso-date">1901-07-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -125,11 +125,19 @@
             <opener>
                <salute>lieber Hermann</salute>
             </opener>
-            <p>es drängt mich, dir zu deinem Collegen <rs type="person" ref="#pmb12460">Poetzl</rs> wärmstens zu gratuliren. Das sind einmal mannhafte, echt <anchor type="commentary" xml:id="KL110-1">
-                  <rs type="work" subtype="implied" ref="#pmb30025">t<damage agent="hole">
-                        <supplied>e</supplied>
-                     </damage>utsche Worte</rs>
-               </anchor>! Das Herz geht einem auf, wenn man sie liest. »<rs type="work" subtype="implied" ref="#pmb30025">Es ist besser, das gute zu heucheln als es durch offenkundige Frevel<pb/> aller Art von der Tagesordnung gänzlich absetzen</rs>.« – »<rs type="work" subtype="implied" ref="#pmb30025">Es ist immer noch moralischer im Geheimen zu sündigen als auf oeffentlichem Markte mit dem Laster Arm in Arm zu gehen –</rs>« »<rs type="work" subtype="implied" ref="#pmb30025">Die Gesammtheit darf die Tugend nicht verachten, sondern muss sie heilig halten und auf ihren Schild erheben</rs>« –<pb/>
+            <p>es drängt mich, dir zu deinem Collegen <rs type="person" ref="#pmb12460">Poetzl</rs> wärmstens zu gratuliren. Das sind einmal mannhafte, echt <anchor type="commentary" xml:id="KL110-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30025">t<damage agent="hole">
+                     <supplied>e</supplied>
+                  </damage>utsche Worte</rs>
+               <note type="commentary" xml:id="KL110-1h">
+                  <seg type="lemma">teutsche Worte</seg>
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12460">Ed. Pötzl</rs>: <rs type="work" ref="#pmb30025">Lüsternheit. (Predigt in der Wüste).</rs> In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 35, Nr. 176, <date instant="false">29. 6. 1901</date>,
+                  S. 1–2</bibl>, ist eine schon im Titel erkennbare Replik auf <rs type="person" ref="#pmb10815">Bahrs</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb29959">Erotisch</rs>.</p>
+               </note>! Das Herz geht einem auf, wenn man sie liest. »<rs type="work" subtype="implied" ref="#pmb30025">Es ist besser, das gute zu heucheln als es durch offenkundige Frevel<pb/> aller Art von der Tagesordnung gänzlich absetzen</rs>.« – »<rs type="work" subtype="implied" ref="#pmb30025">Es ist immer noch moralischer im Geheimen zu sündigen als auf oeffentlichem Markte mit dem Laster Arm in Arm zu gehen –</rs>« »<rs type="work" subtype="implied" ref="#pmb30025">Die Gesammtheit darf die Tugend nicht verachten, sondern muss sie heilig halten und auf ihren Schild erheben</rs>« –<pb/>
             </p>
             <p>– So ehrlich ist die Heuchelei selten gewesen!</p>
             <closer>Leb wohl und sei herzlich gegrüßt.<lb/>Dein<lb/>

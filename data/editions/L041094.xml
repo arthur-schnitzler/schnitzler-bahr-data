@@ -13,11 +13,11 @@
             <title type="iso-date">1907-04-16</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,10 +127,17 @@
                </dateline>
             </opener>
             <p>
-               <salute>lieber Hermann, </salute>ich schlage dir vor, <anchor type="commentary" xml:id="KL094-2">Samstag</anchor> zu mir zu kommen und natürlich mit <rs type="person" subtype="implied" ref="#pmb12692 #pmb2173">uns</rs> zu speisen. Passt dir der Samstag nicht, so theil es mir bitte gleich mit, u auch <anchor type="commentary" xml:id="KL094-1">
-                  <hi rend="underline" n="1">wie lange</hi>
-                  <pb/>
-                  <space unit="chars" quantity="1"/>du überhaupt in <rs type="place" ref="#pmb50">Wien</rs> bleibst</anchor>.</p>
+               <salute>lieber Hermann, </salute>ich schlage dir vor, <anchor type="commentary" xml:id="KL094-2"/>Samstag<note type="commentary" xml:id="KL094-2h">
+                  <p>
+                     <date instant="false">20. 4.</date>
+                  </p>
+               </note> zu mir zu kommen und natürlich mit <rs type="person" subtype="implied" ref="#pmb12692 #pmb2173">uns</rs> zu speisen. Passt dir der Samstag nicht, so theil es mir bitte gleich mit, u auch <anchor type="commentary" xml:id="KL094-1"/>
+               <hi rend="underline" n="1">wie lange</hi>
+               <pb/>
+               <space unit="chars" quantity="1"/>du überhaupt in <rs type="place" ref="#pmb50">Wien</rs> bleibst<note type="commentary" xml:id="KL094-1h">
+                  <seg type="lemma">wie lange du {\dots} bleibst</seg>
+                  <p>Vgl. Kommentar zu <ptr target="KL097-1"/>, <ptr target="LKommKL097-1"/>.</p>
+               </note>.</p>
             <closer>Ich freue mich sehr dich wieder zu sehen.<lb/>Herzlichst mit Grüßen von <rs type="person" subtype="implied" ref="#pmb12692 #pmb2173">uns</rs> allen<lb/>dein<lb/>
                <signed>Arthur</signed>
             </closer>

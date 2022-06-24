@@ -13,11 +13,11 @@
             <title type="iso-date">1891-11-23</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,11 +104,16 @@
                <space unit="chars" quantity="1"/>
                <date>1891</date> – <rs type="place" ref="#pmb182">Paris</rs>
                <space unit="chars" quantity="1"/>
-               <date>1840</date> wie sie so hübsch im <rs type="work" ref="#pmb29823">Märchen</rs> ist. Und Sie machen mir wirklich eine Freude, wenn Sie hinkommen. Ja sogar die <rs type="org" ref="#pmb29212">Freie Bühne</rs> können Sie dort lesen und über <anchor type="commentary" xml:id="KL464-1">
-                  <rs type="work" subtype="implied" ref="#pmb31261">
-                     <rs type="person" ref="#pmb4804">Ola Hansson</rs>
-                  </rs>
-               </anchor> Freudenthränen weinen. – <gap reason="outOfScope"/>
+               <date>1840</date> wie sie so hübsch im <rs type="work" ref="#pmb29823">Märchen</rs> ist. Und Sie machen mir wirklich eine Freude, wenn Sie hinkommen. Ja sogar die <rs type="org" ref="#pmb29212">Freie Bühne</rs> können Sie dort lesen und über <anchor type="commentary" xml:id="KL464-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31261">
+                  <rs type="person" ref="#pmb4804">Ola Hansson</rs>
+               </rs>
+               <note type="commentary" xml:id="KL464-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb4804">Ola Hansson</rs>: <rs type="work" ref="#pmb31261">Neue Bücher. III. Hermann Bahr’s Russische Reise</rs>. In: <rs type="org" ref="#pmb29212">Die Freie Bühne</rs>, Jg. 2, Nr. 11, <date instant="false">1. 11. 1891</date>,
+                  S. 1125–1126</bibl>.</p>
+               </note> Freudenthränen weinen. – <gap reason="outOfScope"/>
             </p>
             <p>
                <gap reason="outOfScope"/>

@@ -13,11 +13,11 @@
             <title type="iso-date">1897-06-21</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -116,7 +116,16 @@
                         <rs type="person" ref="#pmb11617">Hauptmann</rs>, </cell>
                      <cell role="data" rows="1" cols="1">
                         <rs type="work" ref="#pmb31939">
-                           <anchor type="commentary" xml:id="KL210-1">Vor Sonnenaufgang</anchor>
+                           <anchor type="commentary" xml:id="KL210-1"/>Vor Sonnenaufgang<note type="commentary" xml:id="KL210-1h">
+                              <p>Von <rs type="work" ref="#pmb31735">Die versunkene Glocke. Ein deutsches
+                  Märchendrama</rs> erschien <date instant="false">1897</date> das 35. Tausend (= 35. Auflage). Die
+               vorangestellte Verlagswerbung nennt für die von <rs type="person" ref="#pmb10815">Bahr</rs> gewünschten Titel die aktuellen Auflagen: <rs type="work" ref="#pmb31939">Vor Sonnenaufgang. Soziales Drama</rs>, 6. Auflage; <rs type="work" ref="#pmb31941">College Crampton. Komödie</rs>, 3.–4. Auflage; <rs type="work" ref="#pmb31943">Der Biberpelz. Eine Diebskomödie</rs>, 3.–4. Auflage;
+                  <rs type="work" ref="#pmb31511">Hanneles Himmelfahrt. Eine Traumdichtung</rs>,
+               5.–6. Auflage; <rs type="work" ref="#pmb31877">Der Apostel</rs>
+                                 <space unit="chars" quantity="1"/>
+                                 <rs type="work" ref="#pmb32404">Bahnwärter Thiel. Novellistische Studien</rs>, 3.–4.
+               Auflage.</p>
+                           </note>
                         </rs>
                      </cell>
                   </row>
@@ -160,9 +169,20 @@
                         <rs type="person" ref="#pmb11605">Hartleben</rs>
                      </cell>
                      <cell role="data" rows="1" cols="1">
-                        <anchor type="commentary" xml:id="KL210-2">
-                           <rs type="work" ref="#pmb31995">Abgerissener Knopf</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KL210-2"/>
+                        <rs type="work" ref="#pmb31995">Abgerissener Knopf</rs>
+                        <note type="commentary" xml:id="KL210-2h">
+                           <p>Die Ausgabe <rs type="work" ref="#pmb32622">Der römische Maler</rs> (<bibl >Berlin:
+                     <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                                 <space unit="chars" quantity="1"/>
+                                 <date instant="false">1898</date>
+                              </bibl>) von <rs type="person" ref="#pmb11605">Hartleben</rs> nennt die aktuellen
+               Auflagenzahlen: <rs type="work" ref="#pmb31995">Die Geschichte vom abgerissenen
+                  Knopf</rs>, 6. Auflage; <rs type="work" ref="#pmb31993">Vom gastfreien
+               Pastor</rs>, 4. Auflage; <rs type="work" ref="#pmb31997">Meine Verse</rs>, 1.
+               Auflage; <rs type="work" ref="#pmb32001">Die Erziehung zur Ehe. Satire</rs>, 2.
+               Auflage.</p>
+                        </note>
                      </cell>
                   </row>
                   <row role="data" rows="1" cols="1">
@@ -191,9 +211,12 @@
                         <rs type="person" ref="#pmb2121">Schnitzler</rs>
                      </cell>
                      <cell role="data" rows="1" cols="1">
-                        <anchor type="commentary" xml:id="KL210-3">
-                           <rs type="work" ref="#pmb29917">Liebelei</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KL210-3"/>
+                        <rs type="work" ref="#pmb29917">Liebelei</rs>
+                        <note type="commentary" xml:id="KL210-3h">
+                           <p>Sowohl <rs type="work" ref="#pmb29917">Liebelei</rs> (<ptr target="LE003-3"/>) wie
+               auch <rs type="work" ref="#pmb30117">Sterben</rs> hielten bei der 2. Auflage.</p>
+                        </note>
                      </cell>
                   </row>
                   <row role="data" rows="1" cols="1">
@@ -209,7 +232,9 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL210-1">Noch etwas: sowohl aus <rs type="place" ref="#pmb842">Karlsbad</rs> u. <rs type="place" ref="#pmb772">Marienbad</rs> wie aus <rs type="place" ref="#pmb213">Ischl</rs> beklagen sich Bekannte bei mir, daß »<rs type="work" ref="#pmb31999">Theater</rs>« in keiner der dortigen Buchhandlungen zu haben ist. Versorgen Sie doch die Buchhändler der Badeorte mit Exemplaren. Es ist wichtig, daß man das Buch an regnerischen Tagen im Schaufenster sieht.</anchor>
+                  <anchor type="textConst" xml:id="TL210-1"/>Noch etwas: sowohl aus <rs type="place" ref="#pmb842">Karlsbad</rs> u. <rs type="place" ref="#pmb772">Marienbad</rs> wie aus <rs type="place" ref="#pmb213">Ischl</rs> beklagen sich Bekannte bei mir, daß »<rs type="work" ref="#pmb31999">Theater</rs>« in keiner der dortigen Buchhandlungen zu haben ist. Versorgen Sie doch die Buchhändler der Badeorte mit Exemplaren. Es ist wichtig, daß man das Buch an regnerischen Tagen im Schaufenster sieht.<note type="textConst" xml:id="TL210-1h">
+                     <p>Seitenverkehrt zum Text am oberen Blattrand.</p>
+                  </note>
                </p>
             </postscript>
          </div>

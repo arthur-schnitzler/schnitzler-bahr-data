@@ -13,11 +13,11 @@
             <title type="iso-date">1899-05-28</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,9 +77,17 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <anchor type="commentary" xml:id="KT087-1">
-                  <rs type="work" subtype="implied" ref="#pmb32582 #pmb32584">Revue</rs>
-               </anchor>
+               <anchor type="commentary" xml:id="KT087-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32582 #pmb32584">Revue</rs>
+               <note type="commentary" xml:id="KT087-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>, <rs type="person" ref="#pmb13082">C. Karlweis</rs>: <rs type="work" ref="#pmb32582 #pmb32584">Wenn es euch gefällt. Wiener Revue in drei Bildern und einem Vorspiel</rs>.
+                  Wien: <rs type="org" ref="#pmb29296">Carl Konegen</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1899</date>
+                     </bibl>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <hi rend="gabelsberger">geschickt</hi> an <rs type="person" ref="#pmb2202">Singer</rs>
                <hi rend="superscript">x</hi>, <rs type="person" ref="#pmb2167">Salten</rs>

@@ -13,11 +13,11 @@
             <title type="iso-date">1903-10-30</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -100,17 +100,30 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1903-10-30" n="02">30.</date> Ins Preßbureau der Polizei, wo man mir die Freigabe des »<rs type="work" ref="#pmb29855">Reigen</rs>« wahrscheinlich macht, aber auf mein Risiko, indem ich alle Consequenzen eines Skandals, den Böswillige vielleicht »arrangieren« würden, zu tragen hätte.</p>
-            <p>Liefere <rs type="person" ref="#pmb27882">Wärndorfer</rs> die Änderungen meines <rs type="work" ref="#pmb31069">Vorworts</rs> zu <anchor type="commentary" xml:id="KD436-2">
-                  <rs type="person" subtype="implied" ref="#pmb11941">
-                     <rs type="work" ref="#pmb31067 #pmb31049 #pmb31045 #pmb31043">Klimt</rs>
-                  </rs>
-               </anchor> ab.</p>
+            <p>Liefere <rs type="person" ref="#pmb27882">Wärndorfer</rs> die Änderungen meines <rs type="work" ref="#pmb31069">Vorworts</rs> zu <anchor type="commentary" xml:id="KD436-2"/>
+               <rs type="person" subtype="implied" ref="#pmb11941">
+                  <rs type="work" ref="#pmb31067 #pmb31049 #pmb31045 #pmb31043">Klimt</rs>
+               </rs>
+               <note type="commentary" xml:id="KD436-2h">
+                  <p>
+                     <bibl >[<rs type="person" ref="#pmb11036">Max Burckhard</rs>, <rs type="person" ref="#pmb10815">Hermann Bahr</rs>, <rs type="person" ref="#pmb3280">Koloman
+                     Moser</rs>, <rs type="person" ref="#pmb27882">Fritz Waerndorfer</rs>:] <rs type="work" ref="#pmb31067 #pmb31049 #pmb31045 #pmb31043">Gegen Klimt</rs>.
+                  Wien: <rs type="org">Eisenstein</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1903</date>, das gezeichnete Vorwort auf S. 3–6</bibl>. </p>
+               </note> ab.</p>
             <p>
                <anchor type="label" xml:id="LD436-1">Nachzutragen, daß mir D<hi rend="superscript">r</hi>
                   <space unit="chars" quantity="1"/>
-                  <rs type="person" ref="#pmb28148">Franz Zweybrück</rs> gestern abends sieben Uhr telephoniert hat, in einer Sitzung des Vorstandes des <rs type="place" ref="#pmb41240">Östreichischen</rs> Journalistenbundes sei berathen worden, ob die<pb/> Tatsache, daß ein Journalist, wie Hermann Bahr ist, ein pornographisches Machwerk, wie der »<rs type="work" ref="#pmb29855">Reigen</rs>« ist, öffentlich vorliest, nicht geeignet sei, die Ehre und das Ansehen des Journalistenstandes zu schädigen. Vorsitz: <rs type="person" ref="#pmb2202">Wilhelm Singer</rs>. Teilnehmer <rs type="person" ref="#pmb2962">Leitich</rs>, <rs type="person" ref="#pmb12460">Pötzl</rs>, <rs type="person" ref="#pmb11707">Robert Hirschfeld</rs>. Auf meine Frage, ob Jemand für mich gesprochen, antwortet <rs type="person" ref="#pmb28148">Zweybrück</rs>: Niemand; auch er selbst nicht. Man habe aber vorläufig nur beschlossen, mir Vorstellungen auf freundschaftlichem Wege zu machen.</anchor> Ich antworte mit dem <anchor type="commentary" xml:id="KD436-1">
-                  <rs type="work" subtype="implied" ref="#pmb31071">Götz-Citat</rs>
-               </anchor>.</p>
+                  <rs type="person" ref="#pmb28148">Franz Zweybrück</rs> gestern abends sieben Uhr telephoniert hat, in einer Sitzung des Vorstandes des <rs type="place" ref="#pmb41240">Östreichischen</rs> Journalistenbundes sei berathen worden, ob die<pb/> Tatsache, daß ein Journalist, wie Hermann Bahr ist, ein pornographisches Machwerk, wie der »<rs type="work" ref="#pmb29855">Reigen</rs>« ist, öffentlich vorliest, nicht geeignet sei, die Ehre und das Ansehen des Journalistenstandes zu schädigen. Vorsitz: <rs type="person" ref="#pmb2202">Wilhelm Singer</rs>. Teilnehmer <rs type="person" ref="#pmb2962">Leitich</rs>, <rs type="person" ref="#pmb12460">Pötzl</rs>, <rs type="person" ref="#pmb11707">Robert Hirschfeld</rs>. Auf meine Frage, ob Jemand für mich gesprochen, antwortet <rs type="person" ref="#pmb28148">Zweybrück</rs>: Niemand; auch er selbst nicht. Man habe aber vorläufig nur beschlossen, mir Vorstellungen auf freundschaftlichem Wege zu machen.</anchor> Ich antworte mit dem <anchor type="commentary" xml:id="KD436-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31071">Götz-Citat</rs>
+               <note type="commentary" xml:id="KD436-1h">
+                  <p>
+                     <rs type="person" ref="#pmb11461">Goethe</rs>: <rs type="work" ref="#pmb31071">Götz
+                  von Berlichingen</rs>, Dritter Aufzug: <quote>»Er aber, sag’s ihm, er kann mich im
+                  Arsche lecken!«</quote>
+                  </p>
+               </note>.</p>
             <p>Abends <rs type="person" ref="#pmb3275">Coquelin</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" ref="#pmb31073">Cyrano</rs>.</p>

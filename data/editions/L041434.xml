@@ -13,11 +13,11 @@
             <title type="iso-date">1895-03-27</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -123,7 +123,13 @@
                   <rs type="person" ref="#pmb11673">Herzl</rs>
                </hi> mit uns soupiren. D. h. mit Ihnen, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, mir. <rs type="person" ref="#pmb10863">Richard</rs> weiss schon, hat zugesagt; <hi rend="latintype">
                   <rs type="person" ref="#pmb10815">Bahr</rs>
-               </hi> wird soeben durch mich verständigt. Also wenn Sie können, bereiten Sie etwas Lust zum Aufbleiben für <anchor type="commentary" xml:id="KL434-1">Freitag Abend</anchor> vor.</p>
+               </hi> wird soeben durch mich verständigt. Also wenn Sie können, bereiten Sie etwas Lust zum Aufbleiben für <anchor type="commentary" xml:id="KL434-1"/>Freitag Abend<note type="commentary" xml:id="KL434-1h">
+                  <p>Ausschließlich <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> nahm an dem
+               Abendessen teil (<bibl >A. S. <rs type="work">Tb</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date when="1895-03-29" instant="false">29. 3. 1895</date>
+                     </bibl>).</p>
+               </note> vor.</p>
             <closer>Herzlich der Ihre<lb/>
                <signed>Arth</signed>
             </closer>

@@ -13,11 +13,11 @@
             <title type="iso-date">1898-06-30</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -97,9 +97,11 @@
             <p>
                <gap reason="outOfScope"/>
             </p>
-            <p>Wenn es Ihnen recht ist, komme ich Samstag Vormittag zu Ihnen (leider ohne Rad, das gestern definitiv gebrochen ist, und so geschwind kann ich kein neues haben) und wir gehen spazieren und plauschen und abends bleib ich in dem <anchor type="commentary" xml:id="KL496-1">
-                  <rs type="place" subtype="implied" ref="#pmb625">Wirtshaus</rs>
-               </anchor>, <anchor type="label" xml:id="LL496-1">wo die »<rs type="work" ref="#pmb29917">Liebelei</rs>« her</anchor> ist, über Nacht, weil ich mich für Sonntag über den ganzen Tag dem <rs type="person" ref="#pmb13082">Karlweis</rs> versprochen und verschrieben habe.</p>
+            <p>Wenn es Ihnen recht ist, komme ich Samstag Vormittag zu Ihnen (leider ohne Rad, das gestern definitiv gebrochen ist, und so geschwind kann ich kein neues haben) und wir gehen spazieren und plauschen und abends bleib ich in dem <anchor type="commentary" xml:id="KL496-1"/>
+               <rs type="place" subtype="implied" ref="#pmb625">Wirtshaus</rs>
+               <note type="commentary" xml:id="KL496-1h">
+                  <p>Vgl. Kommentar zu <ptr target="KL433-1"/>.</p>
+               </note>, <anchor type="label" xml:id="LL496-1">wo die »<rs type="work" ref="#pmb29917">Liebelei</rs>« her</anchor> ist, über Nacht, weil ich mich für Sonntag über den ganzen Tag dem <rs type="person" ref="#pmb13082">Karlweis</rs> versprochen und verschrieben habe.</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

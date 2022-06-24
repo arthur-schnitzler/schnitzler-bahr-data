@@ -13,11 +13,11 @@
             <title type="iso-date">1907-02-15</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -137,20 +137,36 @@
                   <hi rend="latintype">Bea</hi>
                </rs>. geschrieben; ich hab mich noch nicht endgiltig ausgesprochen.</p>
             <p>Bin im übrigen ziemlich fleißig und hoffe zu nächstem Herbst mit etlichem bereit zu sein.</p>
-            <p>Famos dein »<anchor type="commentary" xml:id="KL096-2">
-                  <rs type="work" ref="#pmb30015">
-                     <rs type="person" ref="#pmb11518">Grillparzer</rs>
-                  </rs>
-               </anchor>« in der <rs type="org" ref="#pmb29348">Schaubühne</rs>. Freu<damage agent="hole">
+            <p>Famos dein »<anchor type="commentary" xml:id="KL096-2"/>
+               <rs type="work" ref="#pmb30015">
+                  <rs type="person" ref="#pmb11518">Grillparzer</rs>
+               </rs>
+               <note type="commentary" xml:id="KL096-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30015">Grillparzer</rs>. In: <rs type="org" ref="#pmb29348">Die
+                     Schaubühne</rs>, Jg. 3, H. 7, <date instant="false">14. 2. 1907</date>, S. 163–170</bibl>, als
+               Vorabdruck aus <rs type="work" ref="#pmb30715">Wien</rs> gekennzeichnet.</p>
+               </note>« in der <rs type="org" ref="#pmb29348">Schaubühne</rs>. Freu<damage agent="hole">
                   <supplied>e</supplied>
-               </damage> mich auf das ganze <anchor type="commentary" xml:id="KL096-3">
-                  <rs type="work" subtype="implied" ref="#pmb30715">Buch</rs>
-               </anchor>. Was machst du nach <rs type="place" ref="#pmb168">Berlin</rs>? Sollte die <anchor type="commentary" xml:id="KL096-1">
-                  <rs type="work" subtype="implied" ref="#pmb31701">
-                     <rs type="org" ref="#pmb29351">
-                        <hi rend="latintype">Neue Freie</hi>
-                     </rs>
-                  </rs> den<pb/> Beginn deiner Wiederkehr</anchor> bedeuten? </p>
+               </damage> mich auf das ganze <anchor type="commentary" xml:id="KL096-3"/>
+               <rs type="work" subtype="implied" ref="#pmb30715">Buch</rs>
+               <note type="commentary" xml:id="KL096-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30715">Wien</rs>. Stuttgart: <rs type="org">Karl Krabbe</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1907</date> (erschienen in der <date instant="false">2. Mai-Hälfte</date>)</bibl>.</p>
+               </note>. Was machst du nach <rs type="place" ref="#pmb168">Berlin</rs>? Sollte die <anchor type="commentary" xml:id="KL096-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31701">
+                  <rs type="org" ref="#pmb29351">
+                     <hi rend="latintype">Neue Freie</hi>
+                  </rs>
+               </rs> den<pb/> Beginn deiner Wiederkehr<note type="commentary" xml:id="KL096-1h">
+                  <p>Das Feuilleton <rs type="work" ref="#pmb31701">Laiengedanken über die Wahlen in
+                  Österreich</rs> am <date instant="false">2. 2. 1907</date> (<bibl >Nr. 15249, Morgenblatt,
+                  S. 3–4</bibl>) eröffnete die bis zum Tod anhaltende Mitarbeit an der <rs type="org" ref="#pmb29351">Neuen Freien Presse</rs>.</p>
+               </note> bedeuten? </p>
             <closer>Meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> grüßt dich vielmals. Von Herzen<lb/>Dein<lb/>
                <signed>Arthur</signed>
             </closer>

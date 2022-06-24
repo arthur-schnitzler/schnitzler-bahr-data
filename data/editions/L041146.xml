@@ -13,11 +13,11 @@
             <title type="iso-date">1891-12-22</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,7 +107,13 @@
             </opener>
             <p>Bitte, teilen Sie mir wenn möglich mit, ob es Ihnen paßt, daß uns morgen <add place="above">Mittwoch</add> Abend von 6–8 (sei es bei Ihnen, oder bei mir) <rs type="person" ref="#pmb14756">Bératon</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL146-1">sein Stück</anchor> vorliest. Ich möchte Sie bitten, mich etwa bis 5 zu verständigen, da ich noch zu <rs type="person" ref="#pmb11740">Loris</rs> schicken u <rs type="person" ref="#pmb14756">Beraton</rs> Antwort sagen muß.</p>
+               <anchor type="commentary" xml:id="KL146-1"/>sein Stück<note type="commentary" xml:id="KL146-1h">
+                  <p>Unklar. Nachdem am <date instant="false">2. 5. 1892</date>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb30189">L’intruse</rs> von <rs type="person" ref="#pmb12156">Maurice Maeterlinck</rs> in <rs type="person" ref="#pmb14756">Bératons</rs>
+               Übersetzung gegeben wurde und zuvor weitere Dramen des Autors zur Inszenierung
+               angedacht waren, könnte es sich um eine Übertragung von <rs type="work" ref="#pmb31259">La Princesse Maleine</rs> handeln.</p>
+               </note> vorliest. Ich möchte Sie bitten, mich etwa bis 5 zu verständigen, da ich noch zu <rs type="person" ref="#pmb11740">Loris</rs> schicken u <rs type="person" ref="#pmb14756">Beraton</rs> Antwort sagen muß.</p>
             <p>
                <subst>
                   <del rend="overwritten">

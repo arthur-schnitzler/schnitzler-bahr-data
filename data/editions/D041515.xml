@@ -13,11 +13,11 @@
             <title type="iso-date">1931-10-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -82,9 +82,15 @@
                <rs type="person" ref="#pmb2121">
                   <hi rend="underline" n="1">Schnitzler</hi>, Arthur</rs>
                <lb/>
-               <space unit="chars" quantity="5"/>»<anchor type="commentary" xml:id="KD515-1">
-                  <rs type="work" ref="#pmb30863">Flucht in die Finsternis</rs>
-               </anchor>«.</p>
+               <space unit="chars" quantity="5"/>»<anchor type="commentary" xml:id="KD515-1"/>
+               <rs type="work" ref="#pmb30863">Flucht in die Finsternis</rs>
+               <note type="commentary" xml:id="KD515-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30863">Flucht in die Finsternis. Novelle</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1931</date>.</bibl> (Die Buchausgabe erschien in der Woche vor <rs type="person" ref="#pmb2121">Schnitzlers</rs> Tod.)</p>
+               </note>«.</p>
          </div>
       </body>
    </text>

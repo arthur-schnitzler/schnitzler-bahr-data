@@ -13,11 +13,11 @@
             <title type="iso-date">1916-01-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,11 +79,19 @@
             <p>
                <date when="1916-01-12" n="1">12/1</date> Dict. »<rs type="work" ref="#pmb30863">Wahns.</rs>«–</p>
             <p>Nm. am »<rs type="work" ref="#pmb30863">Wahns.</rs>«–</p>
-            <p>Bei <rs type="person" ref="#pmb2456 #pmb9667">Spechts</rs> Abend, <rs type="person" ref="#pmb12657 #pmb28016">Max v. Schillings</rs>, <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs>, <rs type="person" ref="#pmb10948 #pmb14250">Bittners</rs>. <rs type="person" ref="#pmb12657">Schillings</rs> erzählt von seinen <rs type="place" ref="#pmb272">Lütticher</rs> Kriegsabenteuern (Sanität und Automobilist) und von <rs type="person" ref="#pmb12504">Reinhardt</rs> Proben der <anchor type="commentary" xml:id="KD367-2">
-                  <rs type="work" ref="#pmb30907 #pmb30909">Ariadne</rs>
-               </anchor>.– <rs type="person" ref="#pmb2167">Salten</rs> u. a. von seinem Besuch in <rs type="place" ref="#pmb30">Salzburg</rs> bei <rs type="person" ref="#pmb10815">Bahr</rs> – er grüßt alle Pfaffen und sie ihn voll Devotion. (Vor wenig Tagen träumt ich: <rs type="place" ref="#pmb278">Bellaria</rs>, Begräbnis meines <rs type="person" subtype="implied" ref="#pmb12695">Vaters</rs> (»eigentlich« handelte es sich um die <anchor type="commentary" xml:id="KD367-1">
-                  <rs type="person" ref="#pmb26880">Weisse-Krise</rs>
-               </anchor> –), ich gehe hinter dem Sarg, mit <rs type="person" ref="#pmb2173">O.</rs>, ein gelbes Büchel von <rs type="person" ref="#pmb10815">Bahr</rs> in der Hand und drin lesend, gegen die <rs type="work" ref="#pmb30717">Kom. d. W.</rs>–, plötzlich 3 steile Holzstufen, über die ich stolpre – wenn <rs type="person" ref="#pmb2173">O.</rs> mich nicht gehalten –)</p>
+            <p>Bei <rs type="person" ref="#pmb2456 #pmb9667">Spechts</rs> Abend, <rs type="person" ref="#pmb12657 #pmb28016">Max v. Schillings</rs>, <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs>, <rs type="person" ref="#pmb10948 #pmb14250">Bittners</rs>. <rs type="person" ref="#pmb12657">Schillings</rs> erzählt von seinen <rs type="place" ref="#pmb272">Lütticher</rs> Kriegsabenteuern (Sanität und Automobilist) und von <rs type="person" ref="#pmb12504">Reinhardt</rs> Proben der <anchor type="commentary" xml:id="KD367-2"/>
+               <rs type="work" ref="#pmb30907 #pmb30909">Ariadne</rs>
+               <note type="commentary" xml:id="KD367-2h">
+                  <p>
+                     <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs> und <rs type="person" ref="#pmb12870">Richard Strauss</rs>: <rs type="work" ref="#pmb30907 #pmb30909">Ariadne auf Naxos</rs>.</p>
+               </note>.– <rs type="person" ref="#pmb2167">Salten</rs> u. a. von seinem Besuch in <rs type="place" ref="#pmb30">Salzburg</rs> bei <rs type="person" ref="#pmb10815">Bahr</rs> – er grüßt alle Pfaffen und sie ihn voll Devotion. (Vor wenig Tagen träumt ich: <rs type="place" ref="#pmb278">Bellaria</rs>, Begräbnis meines <rs type="person" subtype="implied" ref="#pmb12695">Vaters</rs> (»eigentlich« handelte es sich um die <anchor type="commentary" xml:id="KD367-1"/>
+               <rs type="person" ref="#pmb26880">Weisse-Krise</rs>
+               <note type="commentary" xml:id="KD367-1h">
+                  <p>
+                     <rs type="person" ref="#pmb26880">Adolf Weisse</rs> wurde im <date instant="false">Herbst 1915</date>
+               dazu gebracht, den Direktorsposten des <rs type="place" ref="#pmb20">Deutschen
+                  Volkstheaters</rs> mit Ende der Spielzeit niederzulegen.</p>
+               </note> –), ich gehe hinter dem Sarg, mit <rs type="person" ref="#pmb2173">O.</rs>, ein gelbes Büchel von <rs type="person" ref="#pmb10815">Bahr</rs> in der Hand und drin lesend, gegen die <rs type="work" ref="#pmb30717">Kom. d. W.</rs>–, plötzlich 3 steile Holzstufen, über die ich stolpre – wenn <rs type="person" ref="#pmb2173">O.</rs> mich nicht gehalten –)</p>
          </div>
       </body>
    </text>

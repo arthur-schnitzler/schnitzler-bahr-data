@@ -13,11 +13,11 @@
             <title type="iso-date">1905-09-06</title>
             <author ref="pmb10863">Beer-Hofmann, Richard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -139,9 +139,12 @@
                <salute>Lieber Hermann!</salute>
             </opener>
             <p>
-               <rs type="person" ref="#pmb2121">Arthur</rs> hat mir <date>Ende Juli</date> die Übersendung des <rs type="work" subtype="implied" ref="#pmb29999">Stückes</rs> angezeigt, so dass ich meinen musste, es läge in meiner Wohnung (als Buchpaquet verkleidet) und Auftrag gab Alles danach zu durchsuchen. In Wahrheit<pb/> aber wurde es erst am <anchor type="commentary" xml:id="KL509-1">
-                  <date>23/Aug</date>
-               </anchor> (von <rs type="place" ref="#pmb483">Reichenau</rs> glaub’ ich) an mich abgeschickt und ich habe es erst seit drei Tagen hier. Ich möchte es nun doch sehr gerne lesen – lassen Sie es mir also – (wenn es geht) noch ein paar Tage.</p>
+               <rs type="person" ref="#pmb2121">Arthur</rs> hat mir <date>Ende Juli</date> die Übersendung des <rs type="work" subtype="implied" ref="#pmb29999">Stückes</rs> angezeigt, so dass ich meinen musste, es läge in meiner Wohnung (als Buchpaquet verkleidet) und Auftrag gab Alles danach zu durchsuchen. In Wahrheit<pb/> aber wurde es erst am <anchor type="commentary" xml:id="KL509-1"/>
+               <date>23/Aug</date>
+               <note type="commentary" xml:id="KL509-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> hielt sich zu dieser Zeit in <rs type="place" ref="#pmb50">Wien</rs> auf.</p>
+               </note> (von <rs type="place" ref="#pmb483">Reichenau</rs> glaub’ ich) an mich abgeschickt und ich habe es erst seit drei Tagen hier. Ich möchte es nun doch sehr gerne lesen – lassen Sie es mir also – (wenn es geht) noch ein paar Tage.</p>
             <p>Die <rs type="place" ref="#pmb30">Salzburg</rs>er Grüsse hat <rs type="person" ref="#pmb26392">Vanjung</rs> über<pb/>bracht. Mein Sommer war nicht sehr schön, und bessert sich erst hier, wo Meer und <rs type="place" ref="#pmb462">Venedig</rs> doch sehr nachhelfen. Ich möchte bis Ende des Monates hierbleiben. Ist es ausgeschlossen, dass sich – so beim herumkramen – irgendwo ein paar vergessene Urlaubstage finden, die Sie für den <rs type="place" ref="#pmb259">Lido</rs>, <hi rend="underline" n="1">und</hi> für <rs type="place" ref="#pmb462">Venedig</rs> – und für uns benützen? <rs type="person" ref="#pmb10860">Paula</rs> und ich wären sehr froh. Wir Beide grüssen Sie von Herzen.</p>
             <closer>Ihr<lb/>
                <signed>Richard</signed>

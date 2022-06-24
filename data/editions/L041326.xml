@@ -13,11 +13,11 @@
             <title type="iso-date">1909-12-24</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,9 +108,12 @@
                </p>
                <salute rend="center">Lieber Artur!</salute>
             </opener>
-            <p>Ich freue mich sehr, dass Du Dienstag Vormittag kommen willst und man sich doch endlich, endlich wieder einmal aussprechen oder doch wenigstens gegenseitig anschauen kann, wonach mich längst stark verlangt! Ich will übrigens auch Deinen ärztlichen Rat, nicht für mich, aber für eine Figur meines neuen <anchor type="commentary" xml:id="KL326-1">
-                  <rs type="work" subtype="implied" ref="#pmb29939">Romans</rs>
-               </anchor>.</p>
+            <p>Ich freue mich sehr, dass Du Dienstag Vormittag kommen willst und man sich doch endlich, endlich wieder einmal aussprechen oder doch wenigstens gegenseitig anschauen kann, wonach mich längst stark verlangt! Ich will übrigens auch Deinen ärztlichen Rat, nicht für mich, aber für eine Figur meines neuen <anchor type="commentary" xml:id="KL326-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29939">Romans</rs>
+               <note type="commentary" xml:id="KL326-1h">
+                  <p>
+                     <rs type="work" ref="#pmb29939">O Mensch!</rs>.</p>
+               </note>.</p>
             <p>Und nun sei Dir, für Dich selbst, Deine verehrte <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> und die <rs type="person" subtype="implied" ref="#pmb12692 #pmb2238">Kinder</rs> weihnachtlich das allerschönste gewünscht!</p>
             <closer>Herzlichst<lb/>Dein alter<lb/>
                <signed>

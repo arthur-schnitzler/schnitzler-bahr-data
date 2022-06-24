@@ -13,11 +13,11 @@
             <title type="iso-date">1897-12-08</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -100,7 +100,9 @@
                </dateline>
                <salute rend="center">Lieber Salten!</salute>
             </opener>
-            <p>Ich habe <anchor type="commentary" xml:id="KL677-1">gestern</anchor> in <rs type="place" ref="#pmb860">Graz</rs> das »<rs type="work" ref="#pmb30005">Abschiedssouper</rs>«, Ihren »<rs type="work" ref="#pmb30969">Wurstelprater</rs>« und meine »<rs type="work" ref="#pmb30472">schöne Frau</rs>« gelesen und freue mich, Ihnen berichten zu können, daß Ihre Pièce einen stürmischen Erfolg hatte. Vier Mal haben mir die Leute ins Lesen hinein applaudiert und am größten war der Jubel nach der »stillen Musik« und nach dem »Kasperl«. Wollen Sie nicht in derselben Art andere <rs type="place" ref="#pmb50">Wien</rs>er<pb/> Bilder machen? Das fragt nicht blos der Vorleser, sondern der Redacteur, der gerne bald so etwas für die »<rs type="org" ref="#pmb29209">Zeit</rs>« hätte.</p>
+            <p>Ich habe <anchor type="commentary" xml:id="KL677-1"/>gestern<note type="commentary" xml:id="KL677-1h">
+                  <p>»Conférence« am <date when="1897-12-07" instant="false">7. 12. 1897</date> im <rs type="place" ref="#pmb821">Landschaftlichen Rittersaal</rs>.</p>
+               </note> in <rs type="place" ref="#pmb860">Graz</rs> das »<rs type="work" ref="#pmb30005">Abschiedssouper</rs>«, Ihren »<rs type="work" ref="#pmb30969">Wurstelprater</rs>« und meine »<rs type="work" ref="#pmb30472">schöne Frau</rs>« gelesen und freue mich, Ihnen berichten zu können, daß Ihre Pièce einen stürmischen Erfolg hatte. Vier Mal haben mir die Leute ins Lesen hinein applaudiert und am größten war der Jubel nach der »stillen Musik« und nach dem »Kasperl«. Wollen Sie nicht in derselben Art andere <rs type="place" ref="#pmb50">Wien</rs>er<pb/> Bilder machen? Das fragt nicht blos der Vorleser, sondern der Redacteur, der gerne bald so etwas für die »<rs type="org" ref="#pmb29209">Zeit</rs>« hätte.</p>
             <closer>Herzlichst grüßt<lb/>Ihr alter<lb/>
                <signed>HermannBahr</signed>
             </closer>

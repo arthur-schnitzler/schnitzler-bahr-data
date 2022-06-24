@@ -13,11 +13,11 @@
             <title type="iso-date">1902-01-25</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -138,9 +138,11 @@
          <div type="writingSession" n="1">
             <p>
                <salute>Lieber Hermann. </salute>Ich habe soeben Deinen <rs type="work" subtype="implied" ref="#pmb31379">Bericht</rs> gelesen. <rs type="org" ref="#pmb29677">Grillparzer Preis</rs>! – Ich bin entsetzt – hätte Dich der Teufel geholt – er hätte keine Dichterseele in Händen – <rs type="person" ref="#pmb2121">Schnitzler</rs> ist lau – ein bescheidenes Talentchen – <rs type="person" ref="#pmb11605">Hardleben</rs> ist aber ein <hi rend="latintype">
-                  <anchor type="textConst" xml:id="TL600-1">
-                     <hi rend="underline" n="1">Genie</hi>
-                  </anchor>
+                  <anchor type="textConst" xml:id="TL600-1"/>
+                  <hi rend="underline" n="1">Genie</hi>
+                  <note type="textConst" xml:id="TL600-1h">
+                     <p>Unterstrichen.</p>
+                  </note>
                </hi> von Gottes Gnaden.</p>
             <p>Wie konntest Du das schreiben. <rs type="work" ref="#pmb31767">Rosenmontag</rs> ist doch das Herrlichste was wir seit Jahren hatten.</p>
             <p>Ich kenne jetzt <rs type="person" ref="#pmb11605">Hartleben</rs>

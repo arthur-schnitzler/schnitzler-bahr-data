@@ -13,11 +13,11 @@
             <title type="iso-date">1892-01-17</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -122,9 +122,14 @@
                </dateline>
                <salute rend="center">Geehrter Herr! </salute>
             </opener>
-            <p>Ihr <anchor type="commentary" xml:id="KL150-1">
-                  <rs type="work" subtype="implied" ref="#pmb30257">Mitarbeiter</rs>
-               </anchor>, <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>, dessen vortreffliches <anchor type="label" xml:id="LL150-1">
+            <p>Ihr <anchor type="commentary" xml:id="KL150-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30257">Mitarbeiter</rs>
+               <note type="commentary" xml:id="KL150-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30257">Der Sohn. Aus den Papieren eines Arztes</rs>. In: <rs type="org" ref="#pmb29212">Freie Bühne</rs>, Jg. 3, H. 1, <date instant="false">1. 1.
+                     1892</date>, S. 89–94</bibl>.</p>
+               </note>, <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>, dessen vortreffliches <anchor type="label" xml:id="LL150-1">
                   <subst>
                      <del rend="overwritten">Schau</del>
                      <add place="inline">Lust</add>
@@ -133,9 +138,14 @@
                <signed>HermBahr</signed>
             </closer>
             <postscript>
-               <p>fürs <rs type="org" subtype="implied" ref="#pmb29212">zweite Heft</rs> kriegen Sie von mir einen <anchor type="commentary" xml:id="KL150-2">
-                     <rs type="work" subtype="implied" ref="#pmb32207">Aufsatz über französisches</rs>
-                  </anchor>, vielleicht Symbolismus.</p>
+               <p>fürs <rs type="org" subtype="implied" ref="#pmb29212">zweite Heft</rs> kriegen Sie von mir einen <anchor type="commentary" xml:id="KL150-2"/>
+                  <rs type="work" subtype="implied" ref="#pmb32207">Aufsatz über französisches</rs>
+                  <note type="commentary" xml:id="KL150-2h">
+                     <p>
+                        <bibl >
+                           <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32207">Satanismus</rs>. In: <rs type="org" ref="#pmb29212">Freie
+                     Bühne</rs>, Jg. 3, Nr. 4, <date instant="false">Februar 1893</date>, S. 383–388</bibl>.</p>
+                  </note>, vielleicht Symbolismus.</p>
             </postscript>
          </div>
       </body>

@@ -14,11 +14,11 @@
             <title type="iso-date">1899-03-28</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="056"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AA6-B</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>Schnitzler, A 20,9</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Typoskript, 1 Bl., 1 S. Das Zitat stammt aus dem ohne Verfasserangabe erschienenen Text <bibl>
+                        <p>ms. Typoskript, 1 Bl., 1 S. Das Zitat stammt aus dem ohne Verfasserangabe erschienenen Text <bibl>
                               <workName ref="pmb31843">Die Bauernfeld-Prämienstiftung</workName>. In: <orgName ref="pmb29424">Deutsche Zeitung</orgName>, Nr. 9787, <date when="1899-03-28">28. 3. 1899</date>, Morgen-Ausgabe, S. 5–6, hier: S. 5</bibl>.</p>
                      </physDesc>
                   </msDesc>
@@ -78,8 +78,8 @@
    <text type="manuscript">
       <body>
          <div>
-            <p part="N">Die <rs type="org" ref="#pmb29675">Bauernfeld-Prämien-Stiftung</rs> (Kuratorium: <rs type="person" ref="#pmb10883">Berger</rs>, <rs type="person" ref="#pmb2953">Hardtl</rs>, <rs type="person" ref="#pmb12061">Lewinsky</rs>, <rs type="person" ref="#pmb12258">Minor</rs>, <rs type="person" ref="#pmb28674">Weissel</rs>)</p>
-            <p part="N">Preisträger: <rs type="person" ref="#pmb12602">Saar</rs>, Schnitzler, <rs type="person" ref="#pmb13082">Karlweis</rs>, <rs type="person" ref="#pmb18308">Leo Hirschfeld</rs>
+            <p>Die <rs type="org" ref="#pmb29675">Bauernfeld-Prämien-Stiftung</rs> (Kuratorium: <rs type="person" ref="#pmb10883">Berger</rs>, <rs type="person" ref="#pmb2953">Hardtl</rs>, <rs type="person" ref="#pmb12061">Lewinsky</rs>, <rs type="person" ref="#pmb12258">Minor</rs>, <rs type="person" ref="#pmb28674">Weissel</rs>)</p>
+            <p>Preisträger: <rs type="person" ref="#pmb12602">Saar</rs>, Schnitzler, <rs type="person" ref="#pmb13082">Karlweis</rs>, <rs type="person" ref="#pmb18308">Leo Hirschfeld</rs>
                <c rendition="#dots" n="3"/> (dazu schreibt die <rs type="org" ref="#pmb29424">Deutsche Zeitung</rs>
                <space unit="chars" quantity="1"/>
                <date>28. 3. 99</date>:) <c rendition="#dots" n="4" place="center"/> »Die Verdienste Arthur Schnitzlers um die heimische Literatur bestehen lediglich darin, dass er von der geschickten manövrierenden <rs type="person" ref="#pmb10815">Bahr</rs>-Gemeinde emporgehoben, bekannt geworden ist und das <rs type="place" ref="#pmb50">Wien</rs>er Literatentum mehrmals blamiert hat<c rendition="#dots" n="3"/>

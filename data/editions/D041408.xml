@@ -13,11 +13,11 @@
             <title type="iso-date">1895-02-28</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,10 +99,20 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1895-02-28" n="01"/>Die große Novelle müßte dieses Problem unternehmen:<lb/> »<anchor type="commentary" xml:id="KD408-2">
-                  <rs type="work" subtype="implied" ref="#pmb30283">Der moderne Mensch stellt, biologisch, einen Widerspruch der Werthe dar <c rendition="#dots" n="5" place="center"/> Wir alle haben, wider Wissen, wider Willen, Werthe, Worte, Formeln, Moralen entgegengesetzter Abkunft im Leibe – wir<del rend="strikethrough">d</del> sind, physiologisch betrachtet, falsch <c rendition="#dots" n="3" place="center"/> Eine Diagnostik der modernen Seele – womit begänne sie? Mit einem resoluten Einschnitt in diese Instinkt-Widersprüchlichkeit, mit der Herauslösung ihrer Gegensatz-Werthe, mit der Vivisektion vollzogen an ihrem lehrreichsten Falle.</rs>
-               </anchor>«</p>
-            <p>Das illustrieren an dem Falle <rs type="person" ref="#pmb12618">Dilly</rs> – <rs type="person" ref="#pmb2121">Thuri</rs>. Die <anchor type="commentary" xml:id="KD408-1">Bajadere</anchor>. Sie hat von Natur das: nur dem momentanen Triebe folgen; aber sie schämt sich u. ist zerknirscht. Er predigt, daß man sich jedem Gebot der Leidenschaft mit Unschuld, mit gutem Gewissen hingeben soll; und geberdet sich bei der ersten Prüfung wie ein romantischer cocu (Duell usw)</p>
+               <date when="1895-02-28" n="01"/>Die große Novelle müßte dieses Problem unternehmen:<lb/> »<anchor type="commentary" xml:id="KD408-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30283">Der moderne Mensch stellt, biologisch, einen Widerspruch der Werthe dar <c rendition="#dots" n="5" place="center"/> Wir alle haben, wider Wissen, wider Willen, Werthe, Worte, Formeln, Moralen entgegengesetzter Abkunft im Leibe – wir<del rend="strikethrough">d</del> sind, physiologisch betrachtet, falsch <c rendition="#dots" n="3" place="center"/> Eine Diagnostik der modernen Seele – womit begänne sie? Mit einem resoluten Einschnitt in diese Instinkt-Widersprüchlichkeit, mit der Herauslösung ihrer Gegensatz-Werthe, mit der Vivisektion vollzogen an ihrem lehrreichsten Falle.</rs>
+               <note type="commentary" xml:id="KD408-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12358">Friedrich Nietzsche</rs>: <rs type="work" ref="#pmb30283">Der Fall Wagner. Ein Musikanten-Problem</rs>. 2. Auflage.
+                  Leipzig: <rs type="org">C. G. Naumann</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1892</date>, S. 57 (Epilog)</bibl>.</p>
+               </note>«</p>
+            <p>Das illustrieren an dem Falle <rs type="person" ref="#pmb12618">Dilly</rs> – <rs type="person" ref="#pmb2121">Thuri</rs>. Die <anchor type="commentary" xml:id="KD408-1"/>Bajadere<note type="commentary" xml:id="KD408-1h">
+                  <p>
+                     <ptr target="KD134-1"/>.</p>
+               </note>. Sie hat von Natur das: nur dem momentanen Triebe folgen; aber sie schämt sich u. ist zerknirscht. Er predigt, daß man sich jedem Gebot der Leidenschaft mit Unschuld, mit gutem Gewissen hingeben soll; und geberdet sich bei der ersten Prüfung wie ein romantischer cocu (Duell usw)</p>
          </div>
       </body>
    </text>

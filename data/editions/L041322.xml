@@ -13,11 +13,11 @@
             <title type="iso-date">1908-11-10</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -122,8 +122,15 @@
                   <date>10. 11.</date>
                </dateline>
             </opener>
-            <p>Ich habe Dich am <date>5.</date> in <rs type="place" ref="#pmb146">Frankfurt</rs> und gestern <anchor type="commentary" xml:id="KL322-1">in <rs type="place" ref="#pmb484">Zürich</rs>
-               </anchor> besungen, <add place="above">über</add>morgen wirst Dus auch noch nicht in <rs type="place" ref="#pmb881">Mannheim</rs>. Verschaff Dir das letzte Heft des »<rs type="org" ref="#pmb29398">Morgen</rs>«, wo ich <rs type="work" subtype="implied" ref="#pmb30089">einiges</rs> zum »<rs type="work" ref="#pmb29923">Weg ins Freie</rs>« gesagt habe.</p>
+            <p>Ich habe Dich am <date>5.</date> in <rs type="place" ref="#pmb146">Frankfurt</rs> und gestern <anchor type="commentary" xml:id="KL322-1"/>in <rs type="place" ref="#pmb484">Zürich</rs>
+               <note type="commentary" xml:id="KL322-1h">
+                  <p>Zur Lesung am <date instant="false">9. 11. 1908</date> im <rs type="org" ref="#pmb29322">Lesezirkel
+                  Hottingen</rs> ist sowohl in <rs type="person" ref="#pmb10815">Bahrs</rs> wie auch
+               in <rs type="person" ref="#pmb2121">Schnitzlers</rs> Papieren (<bibl >University of
+                  Exeter, <rs type="org">The Schnitzler Press-Cuttings Archive</rs>, Box 1/6</bibl>)
+               das Programmheft überliefert. Als Ablauf wird angegeben: »<quote>1. Über <rs type="person" ref="#pmb2121">Schnitzler</rs> 2. <rs type="person" ref="#pmb2121">Schnitzlers</rs> Novelle: ›<rs type="work" ref="#pmb29833">Die
+                     Toten schweigen</rs>‹</quote>«.</p>
+               </note> besungen, <add place="above">über</add>morgen wirst Dus auch noch nicht in <rs type="place" ref="#pmb881">Mannheim</rs>. Verschaff Dir das letzte Heft des »<rs type="org" ref="#pmb29398">Morgen</rs>«, wo ich <rs type="work" subtype="implied" ref="#pmb30089">einiges</rs> zum »<rs type="work" ref="#pmb29923">Weg ins Freie</rs>« gesagt habe.</p>
             <closer>Mit vielen Grüßen an Deine liebe <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>herzlichst<lb/>
                <signed>Hermann</signed>

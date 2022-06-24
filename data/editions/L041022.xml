@@ -13,11 +13,11 @@
             <title type="iso-date">1913-04-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -97,7 +97,13 @@
             <p>Sehr geehrter Herr. Im Princip sehr einverstanden. Aber wollen Sie nicht <hi rend="latintype">
                   <rs type="person" ref="#pmb10815">Bahr</rs>
                </hi> und den andern zur Unterzeichnung des Aufrufs bestimmten Personen vorschlagen, zugleich mit der Unterschrift eine Summe zu zeichnen? Es gäbe der Sache mehr Gewicht und bessere Chancen. Wenn der Aufruf auch etwas später erscheinen müßte.</p>
-            <p>Und noch eins: Wollen wir nicht den Passus: <supplied>»</supplied>Es empört uns« abändern in »<anchor type="commentary" xml:id="KL022-1">Es ergreift und beschämt uns</anchor>«. Und wenn Sie und <hi rend="latintype">
+            <p>Und noch eins: Wollen wir nicht den Passus: <supplied>»</supplied>Es empört uns« abändern in »<anchor type="commentary" xml:id="KL022-1"/>Es ergreift und beschämt uns<note type="commentary" xml:id="KL022-1h">
+                  <p>Diese Formulierung findet sich im veröffentlichten Aufruf für <rs type="person" ref="#pmb11763">Arno Holz</rs> zu dessen 50. Geburtstag am <date when="1913-04-26" instant="false">26. 4. 1913</date>, den sowohl <rs type="person" ref="#pmb10815">Bahr</rs> wie
+                  <rs type="person" ref="#pmb2121">Schnitzler</rs> mit unterzeichneten. Das
+               Korrespondenzstück ist in <rs type="person" ref="#pmb10815">Bahrs</rs> Nachlass unter
+                  <rs type="person" ref="#pmb2121">Schnitzler</rs> überliefert, deutet also eine
+               gemeinsame Involvierung in den Text an.</p>
+               </note>«. Und wenn Sie und <hi rend="latintype">
                   <rs type="person" ref="#pmb10815">Bahr</rs>
                </hi>, wie ich hoffe, mit dem ersten Vorschlag einverstanden sind, sollte es nach »tilgen« nicht heißen »die die Unterzeichneten hiermit eröffnen« oder ähnlich? </p>
             <closer>Mit vorzüglicher Hochachtung<lb/>

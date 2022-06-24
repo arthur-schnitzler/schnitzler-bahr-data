@@ -13,11 +13,11 @@
             <title type="iso-date">1895-01-27</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,10 +77,16 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1895-01-27" n="1">27/1</date> Sonntag. Weder an <anchor type="commentary" xml:id="KD132-1">mich noch an <rs type="person" ref="#pmb2167">Salten</rs> Nachricht von <rs type="person" ref="#pmb12618">Dilly</rs>
-               </anchor>. Nm. in der <anchor type="commentary" xml:id="KD132-2">
-                  <rs type="work" ref="#pmb30421">Fledermaus</rs>
-               </anchor> (Oper). <rs type="person" ref="#pmb10815">Bahr</rs> hatte an mich teleph.</p>
+               <date when="1895-01-27" n="1">27/1</date> Sonntag. Weder an <anchor type="commentary" xml:id="KD132-1"/>mich noch an <rs type="person" ref="#pmb2167">Salten</rs> Nachricht von <rs type="person" ref="#pmb12618">Dilly</rs>
+               <note type="commentary" xml:id="KD132-1h">
+                  <p>Sie und <rs type="person" ref="#pmb2167">Salten</rs> hatten in der Nacht vom
+                  <date instant="false">22.</date> auf den <date instant="false">23.</date> miteinander geschlafen. <rs type="person" ref="#pmb2121">Schnitzler</rs> erfuhr es am selben Tag.</p>
+               </note>. Nm. in der <anchor type="commentary" xml:id="KD132-2"/>
+               <rs type="work" ref="#pmb30421">Fledermaus</rs>
+               <note type="commentary" xml:id="KD132-2h">
+                  <p>
+                     <rs type="work" ref="#pmb30421">Die Fledermaus</rs>, Operette von <rs type="person" ref="#pmb12867">Johann Strauß</rs>.</p>
+               </note> (Oper). <rs type="person" ref="#pmb10815">Bahr</rs> hatte an mich teleph.</p>
             <p>– Nm., wie <rs type="person" ref="#pmb2167">Salten</rs> bei mir, kam <rs type="person" ref="#pmb11740">Hugo</rs>, schien schon was zu wissen, lachte und war komisch. <rs type="person" ref="#pmb10863">Richard</rs> kam. Durch diese vielfach geheimkomödienhaft verwickelte sonderbare Stimmung und viel Lachen. <rs type="person" ref="#pmb10863">Richard</rs>, immer der Psycholog, sagte mir ins Ohr. Ihre Heiterkeit ist sonderbar – so wie wenn die <rs type="person" ref="#pmb12618">Sandrock</rs> Sie betrogen hätte.– Wir vier in den <rs type="place" ref="#pmb107">Sophiensaal</rs>, volksthüml. Concert, Tanzkränzchen. Dann ohne <rs type="person" ref="#pmb11740">Hugo</rs> zum <rs type="place" ref="#pmb108">Schwender</rs> und in ein Nachtcaffee; es war eine melanchol. Drahrerei.</p>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1895-03-17</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,12 +79,26 @@
             <p>
                <date when="1895-03-17" n="1">17/3</date> Sonntag.– Las das <rs type="work" subtype="implied" ref="#pmb30435">Buch</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb10765">Andrians</rs>.– Spuren eines Künstlers, schöne Vergleiche.– Keine Gestaltung, Affectation, Unklarheiten, – unreifer <rs type="person" ref="#pmb11740">Loris</rs> – nicht <anchor type="commentary" xml:id="KD143-2">
-                  <rs type="work" subtype="implied" ref="#pmb32338">reifer <rs type="person" ref="#pmb11461">Goethe</rs>
-                  </rs>
-               </anchor>, wie <rs type="person" ref="#pmb10815">Bahr</rs> sagte.– Es mit »<anchor type="commentary" xml:id="KD143-3">
-                  <rs type="work" ref="#pmb30437">Kind</rs>
-               </anchor>« oder »<rs type="work" ref="#pmb30117">Sterben</rs>« <anchor type="commentary" xml:id="KD143-1">vergleichen</anchor> ist dumm und frech.– Bei <rs type="person" ref="#pmb10863">Richard</rs> mit <rs type="person" ref="#pmb2167">Salten</rs> soupirt.– Brief von <rs type="person" ref="#pmb14953">Mz. I</rs> und <rs type="person" ref="#pmb2453">Olga</rs> für morgen.–</p>
+               <rs type="person" ref="#pmb10765">Andrians</rs>.– Spuren eines Künstlers, schöne Vergleiche.– Keine Gestaltung, Affectation, Unklarheiten, – unreifer <rs type="person" ref="#pmb11740">Loris</rs> – nicht <anchor type="commentary" xml:id="KD143-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32338">reifer <rs type="person" ref="#pmb11461">Goethe</rs>
+               </rs>
+               <note type="commentary" xml:id="KD143-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32338">Der Garten der Erkenntnis</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 2, H. 24, <date instant="false">16. 3. 1895</date>,
+                  S. 171–172, hier: S. 172</bibl>.</p>
+               </note>, wie <rs type="person" ref="#pmb10815">Bahr</rs> sagte.– Es mit »<anchor type="commentary" xml:id="KD143-3"/>
+               <rs type="work" ref="#pmb30437">Kind</rs>
+               <note type="commentary" xml:id="KD143-3h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb30437">Das Kind</rs>. In: <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>
+                        <!-- sic! -->: <rs type="work" ref="#pmb32832">Novellen</rs>. Berlin: <rs type="org">Freund <c rendition="#kaufmannsund"/> Jeckel (Carl Freund)</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1893</date>, S. 6–84</bibl>.</p>
+               </note>« oder »<rs type="work" ref="#pmb30117">Sterben</rs>« <anchor type="commentary" xml:id="KD143-1"/>vergleichen<note type="commentary" xml:id="KD143-1h">
+                  <p>Diese Vergleiche nicht in <rs type="person" ref="#pmb10815">Bahr</rs>s <rs type="work" subtype="implied" ref="#pmb32338">Text</rs>.</p>
+               </note> ist dumm und frech.– Bei <rs type="person" ref="#pmb10863">Richard</rs> mit <rs type="person" ref="#pmb2167">Salten</rs> soupirt.– Brief von <rs type="person" ref="#pmb14953">Mz. I</rs> und <rs type="person" ref="#pmb2453">Olga</rs> für morgen.–</p>
          </div>
       </body>
    </text>

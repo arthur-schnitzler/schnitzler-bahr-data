@@ -13,11 +13,11 @@
             <title type="iso-date">1920-08-14</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,9 +79,14 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1920-08-14" n="01">14.</date> K. – Schön. – <anchor type="commentary" xml:id="KD588-1">
-                  <rs type="work" ref="#pmb30347">letter</rs> für <rs type="org" ref="#pmb29705">Mercury</rs>
-               </anchor> Oktober (<rs type="person" ref="#pmb11024">Bruckner</rs>
+               <date when="1920-08-14" n="01">14.</date> K. – Schön. – <anchor type="commentary" xml:id="KD588-1"/>
+               <rs type="work" ref="#pmb30347">letter</rs> für <rs type="org" ref="#pmb29705">Mercury</rs>
+               <note type="commentary" xml:id="KD588-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30347">A letter from Germany</rs>. In: <rs type="org" ref="#pmb29705">The London Mercury</rs>, Jg. 2, H. 12, <date instant="false">Oktober 1920</date>,
+                  S. 735–737</bibl>.</p>
+               </note> Oktober (<rs type="person" ref="#pmb11024">Bruckner</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb13152">Wolf</rs>
                <space unit="chars" quantity="1"/>
@@ -89,11 +94,24 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11342">Fontane</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb28765">Grünewald</rs>); geht heut ab. Ebenso <anchor type="commentary" xml:id="KD588-2">
-                  <rs type="work" subtype="implied" ref="#pmb30121">
-                     <rs type="org" subtype="implied" ref="#pmb29320">Journaltagb</rs> 29</rs>.</anchor> Ferner <anchor type="commentary" xml:id="KD588-3">
-                  <rs type="work" subtype="implied" ref="#pmb30125">Burgtheaterbüchl</rs>
-               </anchor>
+               <rs type="person" ref="#pmb28765">Grünewald</rs>); geht heut ab. Ebenso <anchor type="commentary" xml:id="KD588-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30121">
+                  <rs type="org" subtype="implied" ref="#pmb29320">Journaltagb</rs> 29</rs>.<note type="commentary" xml:id="KD588-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30121">Tagebuch. 7. August. 8. August. 10. August</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 28, Nr. 9632,
+                     <date instant="false">29. 8. 1920</date>, S. 6</bibl>.</p>
+               </note> Ferner <anchor type="commentary" xml:id="KD588-3"/>
+               <rs type="work" subtype="implied" ref="#pmb30125">Burgtheaterbüchl</rs>
+               <note type="commentary" xml:id="KD588-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30125">Burgtheater</rs>. Wien, Berlin: <rs type="org">Wiener
+                     literarische Anstalt</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1920</date> (Theater und Kultur. Hg. von <rs type="person" ref="#pmb4012">Richard Smekal</rs> unter Mitwirkung von <rs type="person" ref="#pmb10815">Hermann Bahr</rs> und <rs type="person" ref="#pmb11740">Hugo von
+                     Hofmannsthal</rs>)</bibl>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb28792">Rainalter</rs>, Mahnung<pb/> Einreiseamts für D<hi rend="superscript">r</hi>
                <space unit="chars" quantity="1"/>

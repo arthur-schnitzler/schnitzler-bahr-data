@@ -13,11 +13,11 @@
             <title type="iso-date">1904-12-04</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,17 +102,30 @@
          <div type="writingSession" n="1">
             <opener>
                <dateline rend="right">
-                  <date>4. <anchor type="textConst" xml:id="TL286-1">11.</anchor> 04</date>
+                  <date>4. <anchor type="textConst" xml:id="TL286-1"/>11.<note type="textConst" xml:id="TL286-1h">
+                        <p>Schreibirrtum, durch den Inhalt auf Dezember zu datieren.</p>
+                     </note> 04</date>
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
             <p>Bitte, kannst Du mir den »<rs type="work" ref="#pmb29873">Puppenspieler</rs>« gedruckt schicken? Ich möchte, wenn es mir zusammengeht, über den Schnitzlerabend ausführlicher schreiben. Dazu wäre es mir allerdings sehr lieb, das Buch noch vor Donnerstag zu kriegen. Ja?</p>
-            <p>Sehr gern möchte ich Dich auch endlich wieder sehen. Allerdings bin ich wenig frei, da ich mich nun mit einer gewiß törichten <anchor type="commentary" xml:id="KL286-2">Leidenschaft</anchor>, der ich aber momentan so viel unsagbares Glück verdanke, wie ich nie im Leben kannte (<anchor type="label" xml:id="LL286-1">vielleicht wird man so ganz transparenter Seligkeiten erst im Angesicht des Todes fähig</anchor>), aufs Hören von Musik geworfen habe, wovon ich dann manchmal in einer Ermattung mit<pb/> vollständigem Versagen und Versiegen jeder Kraft zurückbleibe. Vita minima, die auch ihre schönen Schauder hat. Wie eben jetzt, sonst würde ich Dir diesen Unsinn nicht schreiben, enfin ich wollte sagen: ich möchte Dich gern wiedersehen und hoffe bald zu Dir zu kommen. Und was würdest Du zu der Idee sagen: zu Weihnachten uns in <rs type="place" ref="#pmb186">Lueg</rs>
+            <p>Sehr gern möchte ich Dich auch endlich wieder sehen. Allerdings bin ich wenig frei, da ich mich nun mit einer gewiß törichten <anchor type="commentary" xml:id="KL286-2"/>Leidenschaft<note type="commentary" xml:id="KL286-2h">
+                  <p>Die Bekanntschaft mit seiner späteren zweiten Frau, der Opernsängerin <rs type="person" ref="#pmb10818">Anna von Mildenburg</rs>.</p>
+               </note>, der ich aber momentan so viel unsagbares Glück verdanke, wie ich nie im Leben kannte (<anchor type="label" xml:id="LL286-1">vielleicht wird man so ganz transparenter Seligkeiten erst im Angesicht des Todes fähig</anchor>), aufs Hören von Musik geworfen habe, wovon ich dann manchmal in einer Ermattung mit<pb/> vollständigem Versagen und Versiegen jeder Kraft zurückbleibe. Vita minima, die auch ihre schönen Schauder hat. Wie eben jetzt, sonst würde ich Dir diesen Unsinn nicht schreiben, enfin ich wollte sagen: ich möchte Dich gern wiedersehen und hoffe bald zu Dir zu kommen. Und was würdest Du zu der Idee sagen: zu Weihnachten uns in <rs type="place" ref="#pmb186">Lueg</rs>
                <space unit="chars" quantity="1"/>
                <add place="above">am <geogName type="lake">Wolfgangsee</geogName>
-               </add> zu treffen, wo ich ein paar <anchor type="commentary" xml:id="KL286-3">Tage beim <rs type="person" ref="#pmb11036">Burckhard</rs>
-               </anchor> hausen will? Ich wollte eigentlich nach <rs type="place" ref="#pmb505">Athen</rs>, aber da müßte ich am 20. von <rs type="place" ref="#pmb873">Triest</rs> weg und <anchor type="commentary" xml:id="KL286-1">am <date>22.</date> ist der <rs type="work" ref="#pmb29897">Tristan</rs>
-               </anchor>, der für mich jetzt – ganz real und ganz physisch gesprochen – das höchste Wolsein ist, mehr als Sonne und Meer.</p>
+               </add> zu treffen, wo ich ein paar <anchor type="commentary" xml:id="KL286-3"/>Tage beim <rs type="person" ref="#pmb11036">Burckhard</rs>
+               <note type="commentary" xml:id="KL286-3h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> fährt am <date instant="false">24.</date> und bleibt bis
+                  <date instant="false">27. 12. 1904</date> und verpasst <rs type="person" ref="#pmb2121">Schnitzler</rs> knapp.</p>
+               </note> hausen will? Ich wollte eigentlich nach <rs type="place" ref="#pmb505">Athen</rs>, aber da müßte ich am 20. von <rs type="place" ref="#pmb873">Triest</rs> weg und <anchor type="commentary" xml:id="KL286-1"/>am <date>22.</date> ist der <rs type="work" ref="#pmb29897">Tristan</rs>
+               <note type="commentary" xml:id="KL286-1h">
+                  <p>Die Aufführung von <rs type="work" ref="#pmb29897">Tristan und Isolde</rs> war noch
+               am <date instant="false">8. 12. 1904</date> für den 22. angesetzt (vgl. <bibl >Brief H. B. an <rs type="person" ref="#pmb10818">Anna Mildenburg</rs>, <date instant="false">8. 12. 1904</date>,
+                     <rs type="org">TMW</rs>, AM 43853 BaM</bibl>), wurde aber auf den
+                  <date instant="false">23.</date> verschoben.</p>
+               </note>, der für mich jetzt – ganz real und ganz physisch gesprochen – das höchste Wolsein ist, mehr als Sonne und Meer.</p>
             <closer>Entschuldige den verworrenen Ton dieses Briefes, grüße Frau <rs type="person" ref="#pmb2173">Olga</rs> und den <rs type="person" ref="#pmb12692">Heinrich</rs> herzlichst und sei es selbst von<lb/>Deinem<lb/>
                <signed>Hermann</signed>
             </closer>

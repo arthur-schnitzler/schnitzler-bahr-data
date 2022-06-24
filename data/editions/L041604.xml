@@ -13,11 +13,11 @@
             <title type="iso-date">1895-02-04</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -133,7 +133,9 @@
                <p>
                   <hi rend="underline" n="1">Hermann</hi> – <hi rend="underline" n="2">hilf</hi> mir – ich bitte Dich.</p>
                <p>
-                  <anchor type="textConst" xml:id="TL604-1">Schreib mir zwei Worte des Trostes.</anchor>
+                  <anchor type="textConst" xml:id="TL604-1"/>Schreib mir zwei Worte des Trostes.<note type="textConst" xml:id="TL604-1h">
+                     <p>Entlang des Seitenrands.</p>
+                  </note>
                </p>
             </postscript>
          </div>

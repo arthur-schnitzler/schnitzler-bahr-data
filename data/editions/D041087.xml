@@ -13,11 +13,11 @@
             <title type="iso-date">1893-07-24</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,9 +80,15 @@
                <date when="1893-07-24" n="02">24/7</date> Begegne <rs type="person" ref="#pmb14953">Mz.</rs>, die eben zu mir geht.– Finde dann im Kastl verzweifelnden Zettel an mich. »Verzweifelt steh ich da, mit wahnsinnigen Geberden, nur einmal soll mir Gott ein bischen helfen, nur einmal, ich kann den Leiden nicht, ich kann dem fürchterlichen Elend nicht entgegensehen das meiner wartet. Ueberall überall wohin ich blicke sind Merksteine meiner Seligkeit. Ach Arthur Arthur Arthur was erinnert mich nicht an dich, wie ein Kind hab ich alles zusammengetragen was du mit deinen Engelshänden berührt. Hilf mir ach ich bitte hilf mir. Du bist ja so gut so gut so gut bitte bitte bitte bitte mein ganzes Leben soll ein Gebet sein helfe mir helf mir ein bischen nur es raubt mir die Luft zum athmen, ich möchte fort weit fort ich möchte noch was von dir so kann ich nicht ich flehe zu dir wie zu meinem Vater, laß mich nicht so entsetzlich untergehen, du mein Vater!–«</p>
             <p>Abds. <rs type="place" ref="#pmb75 #pmb957">Brühl</rs> (Bic.).</p>
             <p>
-               <anchor type="commentary" xml:id="KD087-1">
-                  <rs type="work" subtype="implied" ref="#pmb30267">Artikel</rs>
-               </anchor>
+               <anchor type="commentary" xml:id="KD087-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30267">Artikel</rs>
+               <note type="commentary" xml:id="KD087-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11707">L. A. Terne (Dr. Rob. Hirschfeld)</rs>: <rs type="work" ref="#pmb30267">Zwei Freunde Burckhards</rs>. In: <rs type="org">Wiener Sonn- und Montags-Zeitung</rs>, Jg. 31, Nr. 30, <date instant="false">24. 7.
+                     1893</date>, S. 1–3</bibl>. Kein allgemeiner Angriff, sondern auf Besprechungen
+               des <rs type="place" ref="#pmb14">Burgtheaters</rs> der beiden.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11701">Hirschfeld</rs> gegen <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb13088">Wengraf</rs> (<rs type="org" ref="#pmb29525">S. u. M. Ztg.</rs>).</p>
          </div>

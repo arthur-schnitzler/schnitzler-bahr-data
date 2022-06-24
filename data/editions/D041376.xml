@@ -13,11 +13,11 @@
             <title type="iso-date">1916-07-20</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,8 +79,14 @@
             <p>
                <date when="1916-07-20" n="1">20/7</date> Regen.– Kurzes Gespräch am See mit Dr. <rs type="person" ref="#pmb3217">Breuer</rs> – (dem alten). Sonderbar dass zwischen gewissen Menschen immer eine Art Befangenheitsverhältnis bestehen bleibt – (besonders zwischen solchen, die sich innerlich gegenseitig unrecht thun und es wissen).–</p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs> über <rs type="place" ref="#pmb415">Ausseer</rs> Zustände. (<rs type="person" ref="#pmb13055">Wassermanns</rs>
-               <anchor type="commentary" xml:id="KD376-1">Vorlesungen seiner ersten <rs type="work" subtype="implied" ref="#pmb32846">Romancapitel</rs>
-               </anchor>. »Kinder, ich bin ein riesiger Dichter.« Katholisirender Snobism im Hause <rs type="person" ref="#pmb11740">H.</rs>;– mit Schwärmerei für die »<rs type="work" ref="#pmb30897">Himmelfahrt</rs>« von <rs type="person" ref="#pmb10815">Bahr</rs>.–) Nm. am <rs type="person" subtype="implied" ref="#pmb3145">Casan.</rs> (»<rs type="work" subtype="implied" ref="#pmb30819">Die Wiederkehr</rs>«).–</p>
+               <anchor type="commentary" xml:id="KD376-1"/>Vorlesungen seiner ersten <rs type="work" subtype="implied" ref="#pmb32846">Romancapitel</rs>
+               <note type="commentary" xml:id="KD376-1h">
+                  <p>Im <date instant="false">Februar 1916</date> las <rs type="person" ref="#pmb13055">Wassermann</rs> in
+                  <rs type="place" ref="#pmb45258">München</rs> das Schlusskapitel von <rs type="work" ref="#pmb32846">Olivia oder Die unsichtbare Lampe</rs> vor, weitere
+               Lesungen ließen sich nicht eruieren. (Der Text erschien zwischen
+                  <date instant="false">September</date> und <date instant="false">November</date> in <rs type="org" ref="#pmb29632">Velhagen <c rendition="#kaufmannsund"/> Klasings Monatsheften</rs>, aber zu
+               Lebzeiten des Autors nicht in Buchform).</p>
+               </note>. »Kinder, ich bin ein riesiger Dichter.« Katholisirender Snobism im Hause <rs type="person" ref="#pmb11740">H.</rs>;– mit Schwärmerei für die »<rs type="work" ref="#pmb30897">Himmelfahrt</rs>« von <rs type="person" ref="#pmb10815">Bahr</rs>.–) Nm. am <rs type="person" subtype="implied" ref="#pmb3145">Casan.</rs> (»<rs type="work" subtype="implied" ref="#pmb30819">Die Wiederkehr</rs>«).–</p>
             <p>
                <rs type="person" ref="#pmb12579">Rothschild</rs> der Geiger, nach dem Nachtm.; über <rs type="person" ref="#pmb13055">Wass.</rs>, <rs type="work" ref="#pmb30899">Gänsemännchen</rs> etc.</p>
          </div>

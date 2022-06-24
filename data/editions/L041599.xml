@@ -13,11 +13,11 @@
             <title type="iso-date">1894-08-17</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,14 +106,20 @@
                <salute>Lieber Freund Hermann!</salute>
             </opener>
             <p>So sachte fange ich nun an zu glauben das bei Dir jegliche Hoffnung aufzugeben ist. Dein heutiges Schreiben beweißt mir, <add place="above">wie</add> arg Dein Gehirn beschädigt ist – –</p>
-            <p>Dein erster Gedanke ist – »Ihr schwelgt und jubelt«. Ha Ha – Du Thor – Du kleines Schäfchen ohne Wolle – da giebt’s nichts zu jubeln – und noch viel weniger zu schwelgen! – Ja – wenn es von mir abhinge – aber Du vergißt <anchor type="commentary" xml:id="KL599-1">am <rs type="person" ref="#pmb2121">Thuri</rs>
-               </anchor> – daß süße Engelsgesicht ist immer grantig und momentan sehr böse auf mich. Er ist noch nicht da – in vier Stunden soll er kommen – ich bebe und zittere, wenn ich daran dencke diesen einzigen<pb/> Lieblin<damage agent="hole">
+            <p>Dein erster Gedanke ist – »Ihr schwelgt und jubelt«. Ha Ha – Du Thor – Du kleines Schäfchen ohne Wolle – da giebt’s nichts zu jubeln – und noch viel weniger zu schwelgen! – Ja – wenn es von mir abhinge – aber Du vergißt <anchor type="commentary" xml:id="KL599-1"/>am <rs type="person" ref="#pmb2121">Thuri</rs>
+               <note type="commentary" xml:id="KL599-1h">
+                  <p>Unsichere Anwendung des Wiener Dialekts: »vergisst an X« für »vergisst auf den
+               X«?</p>
+               </note> – daß süße Engelsgesicht ist immer grantig und momentan sehr böse auf mich. Er ist noch nicht da – in vier Stunden soll er kommen – ich bebe und zittere, wenn ich daran dencke diesen einzigen<pb/> Lieblin<damage agent="hole">
                   <supplied>g</supplied>
                </damage> wiederzuseh’n. Ki<damage agent="hole">
                   <supplied>nd</supplied>
                </damage> – ich muß auf die Luft – ich halts nicht aus! – – Drei Stunden später.</p>
-            <p>So – jetzt wird das Kind bald hier sein! – Ich habe mir <rs type="place" ref="#pmb30">Salzburg</rs> angeseh’n – finde daß Städtchen sehr niedlich, aber nicht besonders aufregend. <rs type="person" ref="#pmb12621">Willy</rs> weilt momentan in <rs type="place" ref="#pmb715">Ischl – Elisabeth Hotel</rs> und hat daß zweifelhafte Vergnügen sicher Baron <rs type="person" ref="#pmb2397">Springer</rs>, <rs type="person" ref="#pmb2150">Julius Bauer</rs> Herr <rs type="person" ref="#pmb28732">Dumba</rs> und <rs type="person" ref="#pmb28735">Scziraky</rs> da zu seh’n. – Ich werde hier so sechs bis acht Tage bleiben und werde dann wohl nach <rs type="place" ref="#pmb50">Wien</rs> fahren. Ich soll in <rs type="place" ref="#pmb213">Ischl</rs> noch gastiren aber mich ekelt diese Bagage dort so an, daß ich mich wohl drücken werde. Das verwahrloßte <anchor type="commentary" xml:id="KL599-4">Ehepaar <rs type="person" ref="#pmb11441 #pmb22098">Girardi</rs>
-               </anchor> sorgt ja genügend für künstlerische Genüsse – zu was brauch ich da diesen Trotteln zu ergötzen. – </p>
+            <p>So – jetzt wird das Kind bald hier sein! – Ich habe mir <rs type="place" ref="#pmb30">Salzburg</rs> angeseh’n – finde daß Städtchen sehr niedlich, aber nicht besonders aufregend. <rs type="person" ref="#pmb12621">Willy</rs> weilt momentan in <rs type="place" ref="#pmb715">Ischl – Elisabeth Hotel</rs> und hat daß zweifelhafte Vergnügen sicher Baron <rs type="person" ref="#pmb2397">Springer</rs>, <rs type="person" ref="#pmb2150">Julius Bauer</rs> Herr <rs type="person" ref="#pmb28732">Dumba</rs> und <rs type="person" ref="#pmb28735">Scziraky</rs> da zu seh’n. – Ich werde hier so sechs bis acht Tage bleiben und werde dann wohl nach <rs type="place" ref="#pmb50">Wien</rs> fahren. Ich soll in <rs type="place" ref="#pmb213">Ischl</rs> noch gastiren aber mich ekelt diese Bagage dort so an, daß ich mich wohl drücken werde. Das verwahrloßte <anchor type="commentary" xml:id="KL599-4"/>Ehepaar <rs type="person" ref="#pmb11441 #pmb22098">Girardi</rs>
+               <note type="commentary" xml:id="KL599-4h">
+                  <p>
+                     <rs type="person" ref="#pmb11441">Alexander Girardi</rs> und <rs type="person" ref="#pmb22098">Helene Odilon</rs>.</p>
+               </note> sorgt ja genügend für künstlerische Genüsse – zu was brauch ich da diesen Trotteln zu ergötzen. – </p>
             <p>Du Hermann noch, noch eine halbe Stunde. – Hast Du einen Schimmer wie mein Herz fliegt? –<pb/>
             </p>
             <p>Da möchtest D<damage agent="hole">
@@ -128,13 +134,20 @@
          <div type="writingSession" n="2">
             <p>Deine boshafte Bemerkung – ob <rs type="person" ref="#pmb12621">Willy</rs> meine Tugend beschirmt, finde ich entschieden den heutigen Verhältnissen nicht angemessen? Wo ist die Tugend die da bei mir beschirmt werden sollte? Gott sei Dank ist man darüber erhaben – Das ginge mir noch ab! – Ich sende Dir heute noch ein Bildchen – Du siehst – Du bist nicht der einzige Idiotisch angelegte Mensch – mit <hi rend="underline" n="1">dem</hi>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL599-2">zeugel</anchor> bin ich herumgefahren. – Solche Hörnchen wie die zwei Böcklein haben – werde ich später einmal meinem Männchen aufsetzen. Die geben aus – was?? –<pb/>
+               <anchor type="commentary" xml:id="KL599-2"/>zeugel<note type="commentary" xml:id="KL599-2h">
+                  <p>Fahrzeug. Hier wohl, als nicht überlieferte Beilage, eine Fotografie <rs type="person" ref="#pmb12618">Sandrocks</rs> auf einem von Ziegen gezogenen
+               Leiterwagen. <bibl >Vgl. die Abbildung im <rs type="work">Bw</rs> Schnitzler/Sandrock,
+                  nach S. 64</bibl>.</p>
+               </note> bin ich herumgefahren. – Solche Hörnchen wie die zwei Böcklein haben – werde ich später einmal meinem Männchen aufsetzen. Die geben aus – was?? –<pb/>
             </p>
             <p>Ich hoffe noch von Dir ein Schreiben hieher zu erhalten – – wenn <rs type="person" ref="#pmb2121">Arthur</rs> kommt – werde ich ihn von Dir grüssen! –</p>
             <closer>Also, auf baldiges enormes Wiederseh’n.<lb/>Herzlichst der<lb/>Deinige. </closer>
             <postscript>
                <p>
-                  <rs type="person" ref="#pmb2591">Kristel</rs> übersendet Dir tausend Grüsse auch <rs type="person" subtype="implied" ref="#pmb2589">Mama</rs>. Beide weilen noch in <rs type="place" ref="#pmb772">Marienbad</rs>. – Was macht Herr <anchor type="commentary" xml:id="KL599-3">Wächter</anchor>? Ich habe jetzt auch einen süßen Spitz – häßlich wie seine Herrin aber lieb! – Was hast Du über <rs type="work" ref="#pmb31329">Heimath</rs> gesagt? Warum warst Du so beleidigend mir nicht einmal zu gratuliren? Am 19 August habe ich Geburtstag – da kannst Du mir schreiben.– –<space unit="chars" quantity="5"/>
+                  <rs type="person" ref="#pmb2591">Kristel</rs> übersendet Dir tausend Grüsse auch <rs type="person" subtype="implied" ref="#pmb2589">Mama</rs>. Beide weilen noch in <rs type="place" ref="#pmb772">Marienbad</rs>. – Was macht Herr <anchor type="commentary" xml:id="KL599-3"/>Wächter<note type="commentary" xml:id="KL599-3h">
+                     <p>
+                        <ptr target="KL597-1"/>.</p>
+                  </note>? Ich habe jetzt auch einen süßen Spitz – häßlich wie seine Herrin aber lieb! – Was hast Du über <rs type="work" ref="#pmb31329">Heimath</rs> gesagt? Warum warst Du so beleidigend mir nicht einmal zu gratuliren? Am 19 August habe ich Geburtstag – da kannst Du mir schreiben.– –<space unit="chars" quantity="5"/>
                   <signed>
                      <unclear>Bab</unclear>.</signed>
                </p>

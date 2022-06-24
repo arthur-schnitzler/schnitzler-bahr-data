@@ -13,11 +13,11 @@
             <title type="iso-date">1922-06-09</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -134,9 +134,15 @@
                <salute>Lieber Arthur!</salute>
             </opener>
             <p>Herzlichsten Dank für Deine mich herzlichst erfreuende Karte! Ich hatte vor, Dir zu diesem ominösen Tag, der mir am End auch noch bevorsteht, nicht blos öffentlich, sondern auch direkt zu sagen, ein welch wichtiger Besitz meines Lebens Dein Vorhandensein ist: ein Reichtum. Aber es ging beim besten Willen nicht. Auszudrücken, was ich wirklich empfinde, war nie meine starke Seite und je älter ich werde, desto mehr kommt mir alles, so bald es ausgesprochen wird, verlogen vor.</p>
-            <p>Ich denke den ganzen Sommer (außer am <date>11.–13. August</date>, wo ich <anchor type="commentary" xml:id="KL347-2">nach <rs type="place" ref="#pmb30">Salzburg</rs>
-               </anchor>, und am <date>27.–30. August</date>, wo ich <anchor type="commentary" xml:id="KL347-1">nach <rs type="place" ref="#pmb882">Heidelberg</rs>
-               </anchor> soll) hier <supplied>zu</supplied> sein und es wäre mir eine große Freude, Dich endlich wiederzusehen.</p>
+            <p>Ich denke den ganzen Sommer (außer am <date>11.–13. August</date>, wo ich <anchor type="commentary" xml:id="KL347-2"/>nach <rs type="place" ref="#pmb30">Salzburg</rs>
+               <note type="commentary" xml:id="KL347-2h">
+                  <p>Zur Eröffnung der <rs type="org" ref="#pmb29300">Salzburger Festspiele</rs>. Seine
+                  <rs type="person" subtype="implied" ref="#pmb10818">Frau</rs> war für <rs type="person" ref="#pmb11740">Hofmannsthal</rs>s <rs type="work" ref="#pmb30839">Das Salzburger große Welttheater</rs> engagiert.</p>
+               </note>, und am <date>27.–30. August</date>, wo ich <anchor type="commentary" xml:id="KL347-1"/>nach <rs type="place" ref="#pmb882">Heidelberg</rs>
+               <note type="commentary" xml:id="KL347-1h">
+                  <p>Er trat, etwas später, als er hier andeutet, erst am <date instant="false">3. 9.</date> als Redner am
+                  <rs type="org" ref="#pmb29301">Verbandstag katholischer Akademiker</rs> auf.</p>
+               </note> soll) hier <supplied>zu</supplied> sein und es wäre mir eine große Freude, Dich endlich wiederzusehen.</p>
             <closer>Herzlichst Dein alter<lb/>
                <signed>Hermann</signed>
             </closer>

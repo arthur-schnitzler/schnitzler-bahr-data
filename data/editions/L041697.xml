@@ -15,11 +15,11 @@
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <author ref="pmb11359">Georg von Franckenstein</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -141,9 +141,18 @@
             <p>Was sein Bicycle nicht erfreut</p>
             <p>Die Bremse wohl sehr wichtig ist</p>
             <p>Weil sonst man in den Graben schießt. <add place="mixed">
-                  <anchor type="commentary" xml:id="KL697-1">
-                     <rs type="person" ref="#pmb11740">Hugo</rs>
-                  </anchor>
+                  <anchor type="commentary" xml:id="KL697-1"/>
+                  <rs type="person" ref="#pmb11740">Hugo</rs>
+                  <note type="commentary" xml:id="KL697-1h">
+                     <p>Als Beschriftung der stürzenden Person auf der Bleistiftzeichnung gewertet. Es ließe
+               sich auch als Unterschrift <rs type="person" ref="#pmb11740">Hofmannsthals</rs>
+               deuten. Im <bibl >
+                           <rs type="work">Tb</rs>
+                        </bibl> nennt <rs type="person" ref="#pmb2121">Schnitzler</rs> diesen und zusätzlich
+               die Mutter <rs type="person" ref="#pmb24233">Franziska Schlesinger</rs> als weitere
+               Teilnehmer der Radtour, übergeht jedoch <rs type="person" ref="#pmb5115">Fritz
+                  Schlesinger</rs>.</p>
+                  </note>
                </add>
             </p>
             <closer>

@@ -14,11 +14,11 @@
             <title type="iso-date">1908-12-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,12 +41,12 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="071"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AB4-B</idno>
          </publicationStmt>
          <seriesStmt>
-            <p part="N">Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
+            <p>Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
          </seriesStmt>
          <sourceDesc>
             <origDate when="1908-12" n="1">Anfang Dezember 1908</origDate>
@@ -60,7 +60,7 @@
                         <idno>HS VM 2624 Ba</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">1 Bl., 2 S., hs. <persName ref="pmb27910">Clarus</persName> und Bahr, Tinte und blauer Buntstift</p>
+                        <p>1 Bl., 2 S., hs. <persName ref="pmb27910">Clarus</persName> und Bahr, Tinte und blauer Buntstift</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -80,150 +80,150 @@
    <text type="text">
       <body>
          <div type="writingSession" n="1">
-            <p part="N">
+            <p>
                <handShift scribe="pmb27910"/>
                <rs type="work" ref="#pmb31097">Buch der Jugend</rs>. <handShift scribe="pmb10815"/>an </p>
-            <p part="N">
+            <p>
                <handShift scribe="pmb27910"/>
                <rs type="person" ref="#pmb11527">Grossmann</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb3213 #pmb3406">Münz</rs>.</p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11324">Fischer</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb12481">Redlich</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11036">Burckhard</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2167">Salten</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb3021">Sternberg</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb10788">Auernheimer</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb10875">Benedikt</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11941">Klimt</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2121">Schnitzler</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2947">Epstein</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2202">Singer</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2150">Bauer</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11284">Eysoldt</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2303">Ritscher</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb24838">Senders</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11851">Kainz</rs>.</p>
-            <p part="N">
+            <p>
                <handShift scribe="pmb10815"/>
                <rs type="person" ref="#pmb17780">Hamburger</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb28124">Anna</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2229">Handl</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb28256">Magda</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb13163">Theodor Wolff</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb12101">Siegfrid Löwy</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb3861">Hofmiller</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2226">Fred</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb12387">Orlik</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="org" ref="#pmb29764">Monisten</rs>
             </p>
-            <p part="N">Frau <rs type="person" ref="#pmb28344">Stähelin-Baechtold</rs>
+            <p>Frau <rs type="person" ref="#pmb28344">Stähelin-Baechtold</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb12504">Reinhardt</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb12548">Roller</rs>
                <pb/>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb12031">Gustav Landauer</rs>
                </del>
                <space unit="chars" quantity="7"/>Geschickt an <rs type="person" ref="#pmb12011">Kvapil</rs>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb11273">Herbert Eulenberg</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb2229">Handl–Mazzetti</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb16449">Francé</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb11061">Bölsche</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="org" ref="#pmb29790">Cosmos</rs>
                </del>
             </p>
-            <p part="N">Noch erst <hi rend="gabelsberger">zu</hi> schicken an <del rend="strikethrough">
+            <p>Noch erst <hi rend="gabelsberger">zu</hi> schicken an <del rend="strikethrough">
                   <rs type="person" ref="#pmb11972">Korngold</rs>
                </del>.</p>
-            <p part="N">An <del rend="strikethrough">
+            <p>An <del rend="strikethrough">
                   <rs type="person" ref="#pmb12056">Levetzow</rs>
                </del>, <del rend="strikethrough">
                   <unclear>
                      <rs type="person" ref="#pmb2202">Singer</rs>
                   </unclear>
                </del>.</p>
-            <p part="N">Noch schicken an <del rend="strikethrough">
+            <p>Noch schicken an <del rend="strikethrough">
                   <rs type="person" ref="#pmb10977">Bodmer</rs>
                </del>.</p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb38364">Wolf Heine</rs>
                </del>, <del rend="strikethrough">
@@ -232,10 +232,10 @@
                   <rs type="person" ref="#pmb12906">Suttner</rs>
                </del>
             </p>
-            <p part="N">erledigt <del rend="strikethrough">
+            <p>erledigt <del rend="strikethrough">
                   <rs type="person" ref="#pmb4525">Kamla</rs>
                </del> (<rs type="place" ref="#pmb863">Düsseldorf</rs>)</p>
-            <p part="N">Noch an <rs type="person" ref="#pmb11916">Kessler</rs>, <rs type="person" ref="#pmb2292">Gerty</rs>
+            <p>Noch an <rs type="person" ref="#pmb11916">Kessler</rs>, <rs type="person" ref="#pmb2292">Gerty</rs>
             </p>
          </div>
       </body>

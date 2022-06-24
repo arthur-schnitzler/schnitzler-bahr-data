@@ -13,11 +13,11 @@
             <title type="iso-date">1908-11-05</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,9 +106,16 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2121">Schnitzler</rs> (<del rend="strikethrough">
                   <gap quantity="5" reason="illegible" unit="chars"/>
-               </del> 1600 Personen) mit ein paar Leuten, darunter eine Frau <rs type="person" ref="#pmb3508">Mennzel</rs>, alt, <rs type="person" ref="#pmb11461">Goethe</rs>-Enthusiastin, Ur-<rs type="place" ref="#pmb146">Frankfurt</rs>erin, stolz auf die »kleinen Familien«, zu denen <rs type="person" ref="#pmb11461">Goethes</rs> gehörten. Erzält reizend von <rs type="place" ref="#pmb932">Malcesine</rs>, wo sie kürzlich <rs type="person" ref="#pmb11461">Goethe</rs> nachgegangen ist. Ihre komische Wut auf <anchor type="commentary" xml:id="KD497-1">
-                  <rs type="person" ref="#pmb10992">Brandes</rs>, der in einem Vortrag über <rs type="person" ref="#pmb3124">Voltaires</rs> Verhaftg in <rs type="place" ref="#pmb146">Frankfurt</rs>
-               </anchor> sich unehrerbietig über den <rs type="place" ref="#pmb146">Frankfurt</rs>er Senat geäußert. <rs type="person" ref="#pmb11740">Hofmannsthal</rs> mag sie nicht: er »seufzt« mir gar zu viel.</p>
+               </del> 1600 Personen) mit ein paar Leuten, darunter eine Frau <rs type="person" ref="#pmb3508">Mennzel</rs>, alt, <rs type="person" ref="#pmb11461">Goethe</rs>-Enthusiastin, Ur-<rs type="place" ref="#pmb146">Frankfurt</rs>erin, stolz auf die »kleinen Familien«, zu denen <rs type="person" ref="#pmb11461">Goethes</rs> gehörten. Erzält reizend von <rs type="place" ref="#pmb932">Malcesine</rs>, wo sie kürzlich <rs type="person" ref="#pmb11461">Goethe</rs> nachgegangen ist. Ihre komische Wut auf <anchor type="commentary" xml:id="KD497-1"/>
+               <rs type="person" ref="#pmb10992">Brandes</rs>, der in einem Vortrag über <rs type="person" ref="#pmb3124">Voltaires</rs> Verhaftg in <rs type="place" ref="#pmb146">Frankfurt</rs>
+               <note type="commentary" xml:id="KD497-1h">
+                  <p>
+                     <bibl >Vgl. <rs type="person" ref="#pmb10992">Georg Brandes</rs>: <rs type="work" ref="#pmb32842">Voltaire in seinem Verhältnis zu Friedrich dem Grossen und Jean
+                     Jacques Rousseau</rs>. Berlin: <rs type="org">Marquard <c rendition="#kaufmannsund"/> Co.</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1909</date>
+                     </bibl>.</p>
+               </note> sich unehrerbietig über den <rs type="place" ref="#pmb146">Frankfurt</rs>er Senat geäußert. <rs type="person" ref="#pmb11740">Hofmannsthal</rs> mag sie nicht: er »seufzt« mir gar zu viel.</p>
          </div>
       </body>
    </text>

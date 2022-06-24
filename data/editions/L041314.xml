@@ -13,11 +13,11 @@
             <title type="iso-date">1907-12-23</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -114,11 +114,15 @@
                   <del rend="overwritten">t</del>
                   <add place="inline">b</add>
                </subst>läuen, wovon ich aus Erfahrung weiß, daß ichs kann. Wenn es schließlich trotzdem scheußlich wird, können wir nichts<pb/> dafür. <hi rend="underline" n="1">Garantieren</hi> könnte ich für die <rs type="person" ref="#pmb11791">Höflich</rs> ja auch nicht, die freilich einen vagen Schimmer von Seele oder Poesie oder wie man das nennt für die Rolle hätte, den das Chaotische, das die <rs type="person" ref="#pmb2303">Ritscher</rs> sehr stark hat, vielleicht nicht völlig ersetzen kann.</p>
-            <p>Ich selbst habe vor Ansteckungen gar keine Furcht, muß aber auf meine <anchor type="commentary" xml:id="KL314-1">
-                  <rs type="person" subtype="implied" ref="#pmb10818">
-                     <rs type="person" subtype="implied" ref="#pmb13682 #pmb28618">Frauen</rs>
-                  </rs>
-               </anchor> Rücksicht nehmen, hoffe jedoch, da ich frühestens erst am <date>15. Januar</date> zu <rs type="person" ref="#pmb12504">Reinhardt</rs> zurückkehre, daß Deine<pb/> liebe <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>, der ich das Allerbeste wünsche, <subst>
+            <p>Ich selbst habe vor Ansteckungen gar keine Furcht, muß aber auf meine <anchor type="commentary" xml:id="KL314-1"/>
+               <rs type="person" subtype="implied" ref="#pmb10818">
+                  <rs type="person" subtype="implied" ref="#pmb13682 #pmb28618">Frauen</rs>
+               </rs>
+               <note type="commentary" xml:id="KL314-1h">
+                  <p>Gemeint ist in jedem Fall seine Partnerin <rs type="person" ref="#pmb10818">Anna von
+                  Mildenburg</rs>, eventuell mit ihrer Gesellschafterin <rs type="person" ref="#pmb28618">Eugenie Roth</rs>. Vielleicht inkludiert er auch seine erste Frau,
+                  <rs type="person" ref="#pmb13682">Rosa</rs>, mit der er noch verheiratet war.</p>
+               </note> Rücksicht nehmen, hoffe jedoch, da ich frühestens erst am <date>15. Januar</date> zu <rs type="person" ref="#pmb12504">Reinhardt</rs> zurückkehre, daß Deine<pb/> liebe <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>, der ich das Allerbeste wünsche, <subst>
                   <del rend="overwritten">
                      <unclear>s</unclear>
                   </del>

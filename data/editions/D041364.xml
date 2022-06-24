@@ -13,11 +13,11 @@
             <title type="iso-date">1915-01-23</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,11 +79,25 @@
             <p>
                <date when="1915-01-23" n="1">23/1</date> Vm. bei <rs type="person" ref="#pmb12740">Gustav</rs>. U. a. über <rs type="person" ref="#pmb3145">Casanova</rs>. Er glaubt ihm nicht; und der <rs type="person" subtype="implied" ref="#pmb24648">Bruder</rs> findet ihn »oberflächlich«.– <rs type="person" ref="#pmb12740">Gustav</rs> als originaler Skeptiker »um jeden Preis« ist immer möglich (wenn auch manchmal etwas enervirend),– <rs type="person" ref="#pmb24648">Max</rs> aber! – Skeptiker aus zweiter Hand sind unleidlich.</p>
             <p>– Nm. am <rs type="work" ref="#pmb30881">Fliederbusch</rs>. Es klärt sich einigermaßen.</p>
-            <p>Las <rs type="person" ref="#pmb10815">Bahrs</rs> neuen Schwank (<anchor type="commentary" xml:id="KD364-1">
-                  <rs type="work" ref="#pmb30883">Seifensieder</rs>
-               </anchor>), der am Schluss einfach wie vertrottelt wirkt;– von <rs type="person" ref="#pmb2167">Salten</rs> eine ganz hübsche Novelle »<anchor type="commentary" xml:id="KD364-2">
-                  <rs type="work" ref="#pmb30885">Abschied im Sturm</rs>
-               </anchor>«.</p>
+            <p>Las <rs type="person" ref="#pmb10815">Bahrs</rs> neuen Schwank (<anchor type="commentary" xml:id="KD364-1"/>
+               <rs type="work" ref="#pmb30883">Seifensieder</rs>
+               <note type="commentary" xml:id="KD364-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30883">Der muntere Seifensieder. Ein Schwank aus der deutschen
+                     Mobilmachung</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1915</date>
+                     </bibl>.</p>
+               </note>), der am Schluss einfach wie vertrottelt wirkt;– von <rs type="person" ref="#pmb2167">Salten</rs> eine ganz hübsche Novelle »<anchor type="commentary" xml:id="KD364-2"/>
+               <rs type="work" ref="#pmb30885">Abschied im Sturm</rs>
+               <note type="commentary" xml:id="KD364-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb30885">Abschied im Sturm. Novelle</rs>. In: <rs type="org" ref="#pmb29496">Österreichische Rundschau</rs>, Bd. 41, H. 6, <date instant="false">15. 12.
+                     1914</date>, S. 301–310; Bd. 42, H. 1, <date instant="false">1. 1. 1915</date>, S. 37–46; H. 2,
+                     <date instant="false">15. 1. 1915</date>, S. 107–114</bibl>.</p>
+               </note>«.</p>
          </div>
       </body>
    </text>

@@ -13,11 +13,11 @@
             <title type="iso-date">1903-07-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -137,11 +137,18 @@
             </p>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL058-1">Prächtig war dein <anchor type="commentary" xml:id="KL058-1">
-                        <rs type="work" ref="#pmb29895">Dialog</rs>
-                     </anchor> in der <rs type="org" ref="#pmb29212">
-                        <hi rend="latintype">N. D. R</hi>
-                     </rs>! –</anchor>
+                  <anchor type="textConst" xml:id="TL058-1"/>Prächtig war dein <anchor type="commentary" xml:id="KL058-1"/>
+                  <rs type="work" ref="#pmb29895">Dialog</rs>
+                  <note type="commentary" xml:id="KL058-1h">
+                     <p>
+                        <bibl >
+                           <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb29895">Dialog vom Tragischen</rs>. In: <rs type="org" ref="#pmb29212">Neue deutsche Rundschau</rs>, Jg. 14, H. 7, Juli 1903, S. 716–736</bibl>.</p>
+                  </note> in der <rs type="org" ref="#pmb29212">
+                     <hi rend="latintype">N. D. R</hi>
+                  </rs>! –<note type="textConst" xml:id="TL058-1h">
+                     <seg type="lemma">Prächtig war {\dots} N. D. R! –</seg>
+                     <p>Verkehrt zum Text unten auf der ersten Seite.</p>
+                  </note>
                </p>
             </postscript>
          </div>

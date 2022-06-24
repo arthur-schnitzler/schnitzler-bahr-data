@@ -13,11 +13,11 @@
             <title type="iso-date">1894-06-10</title>
             <author ref="pmb10863">Beer-Hofmann, Richard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,9 +107,13 @@
                <salute>Lieber Hugo! </salute>
                <space unit="chars" quantity="5"/>Bin von <rs type="place" ref="#pmb45258">München</rs> zurück. Der Fürstin <rs type="person" ref="#pmb4514">C.</rs> habe ich am Tage vor meiner Abreise einen Besuch gemacht, sie lag zu Bette, u. ich gab daher nur meine Karte ab. <rs type="person" ref="#pmb12319">Muther</rs> habe ich zweimal im <rs type="place" ref="#pmb642">Kupferstichkab.</rs> aufgesucht u. gesprochen. Ein dritter Besuch in seiner Wohnung kreuzte sich mit seinem Besuch bei mir. <rs type="person" ref="#pmb11643">Th. Th. Heine</rs> haben <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb2121">Schnitzler</rs> u. ich im Atelier aufgesucht. <rs type="person" ref="#pmb10815">Bahr</rs> wird Ihnen erzählt haben. Im allgemeinen aber soll man, wenn man mit »<hi rend="italic">Menschen aus denen ästhetische wahrhafte Bildung einem näher treten kann</hi>« (<anchor type="commentary" xml:id="KL528-1">Brief von Loris</anchor>) nicht zu zweit, oder gar zu dritt sein; – das habe ich gelernt. Sonst waren die paar Tage in <rs type="place" ref="#pmb45258">München</rs>
+               <rs type="person" ref="#pmb2121">Schnitzler</rs> u. ich im Atelier aufgesucht. <rs type="person" ref="#pmb10815">Bahr</rs> wird Ihnen erzählt haben. Im allgemeinen aber soll man, wenn man mit »<hi rend="italic">Menschen aus denen ästhetische wahrhafte Bildung einem näher treten kann</hi>« (<anchor type="commentary" xml:id="KL528-1"/>Brief von Loris<note type="commentary" xml:id="KL528-1h">
+                  <p>Zitat aus dem Brief vom <date instant="false">29. 5. [1894]</date> (<bibl >S. 30</bibl>).</p>
+               </note>) nicht zu zweit, oder gar zu dritt sein; – das habe ich gelernt. Sonst waren die paar Tage in <rs type="place" ref="#pmb45258">München</rs>
                <space unit="chars" quantity="1"/>
-               <hi rend="italic">sehr schön und angenehm</hi>. <rs type="person" ref="#pmb2121">Arthur</rs> hat sich einen Tag hier aufgehalten, und ist dann nach <rs type="place" ref="#pmb643">Hall</rs>, und dürfte <anchor type="commentary" xml:id="KL528-2">Dienst.</anchor> in <rs type="place" ref="#pmb50">Wien</rs> sein. Man müßte auch länger irgendwo sein, um einander näher zu kommen. In <rs type="place" ref="#pmb45258">München</rs> gab’s zuviel zu sehen.</p>
+               <hi rend="italic">sehr schön und angenehm</hi>. <rs type="person" ref="#pmb2121">Arthur</rs> hat sich einen Tag hier aufgehalten, und ist dann nach <rs type="place" ref="#pmb643">Hall</rs>, und dürfte <anchor type="commentary" xml:id="KL528-2"/>Dienst.<note type="commentary" xml:id="KL528-2h">
+                  <p>Dienstag war der <date instant="false">12.</date>, er kam aber bereits am Vortag an.</p>
+               </note> in <rs type="place" ref="#pmb50">Wien</rs> sein. Man müßte auch länger irgendwo sein, um einander näher zu kommen. In <rs type="place" ref="#pmb45258">München</rs> gab’s zuviel zu sehen.</p>
             <closer>Herzlichst<lb/>Ihr <signed>Richard</signed>
             </closer>
          </div>

@@ -13,11 +13,11 @@
             <title type="iso-date">1901-03-13</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,11 +106,15 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich bin morgen Vormittag heraußen, doch nur bis 12, wo ich ins <anchor type="commentary" xml:id="KL234-2">
-                  <rs type="place" ref="#pmb21">Künstlerhaus</rs>
-               </anchor> muß. <date>Freitag</date>, <date>Samstag</date> unbestimmt, wegen <anchor type="commentary" xml:id="KL234-1">
-                  <rs type="place" ref="#pmb7">Secession</rs>
-               </anchor>. Ganz sicher <date>Dienstag</date>, den ganzen Vormittag. Hast Du was Dringendes, so morgen oder <date>Samstag</date> um 6 in meiner <rs type="place" ref="#pmb683">Redaction</rs>.</p>
+            <p>Ich bin morgen Vormittag heraußen, doch nur bis 12, wo ich ins <anchor type="commentary" xml:id="KL234-2"/>
+               <rs type="place" ref="#pmb21">Künstlerhaus</rs>
+               <note type="commentary" xml:id="KL234-2h">
+                  <p>Am Samstag, <date instant="false">16. 3.</date>, eröffnete die 23. Jahresausstellung.</p>
+               </note> muß. <date>Freitag</date>, <date>Samstag</date> unbestimmt, wegen <anchor type="commentary" xml:id="KL234-1"/>
+               <rs type="place" ref="#pmb7">Secession</rs>
+               <note type="commentary" xml:id="KL234-1h">
+                  <p>Am Freitag, <date instant="false">15. 3.</date>, eröffnete die 10. Jahresausstellung.</p>
+               </note>. Ganz sicher <date>Dienstag</date>, den ganzen Vormittag. Hast Du was Dringendes, so morgen oder <date>Samstag</date> um 6 in meiner <rs type="place" ref="#pmb683">Redaction</rs>.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

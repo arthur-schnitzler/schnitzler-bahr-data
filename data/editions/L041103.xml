@@ -13,11 +13,11 @@
             <title type="iso-date">1908-01-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -131,11 +131,22 @@
                </dateline>
             </opener>
             <p>
-               <salute>mein lieber Hermann, </salute>erst heut dank ich dir für deinen guten Brief vom 23. v. M. Mit <anchor type="commentary" xml:id="KL103-3">
-                  <rs type="place" ref="#pmb13">Hebbelth</rs> hab ich abgeschlossen</anchor> – doch hör ich von <rs type="person" ref="#pmb2235">Valentin</rs>s <anchor type="commentary" xml:id="KL103-1">Gesundheitszustand</anchor> ungünstiges. (Und über das Theater selbst<subst>
+               <salute>mein lieber Hermann, </salute>erst heut dank ich dir für deinen guten Brief vom 23. v. M. Mit <anchor type="commentary" xml:id="KL103-3"/>
+               <rs type="place" ref="#pmb13">Hebbelth</rs> hab ich abgeschlossen<note type="commentary" xml:id="KL103-3h">
+                  <p>
+                     <ptr target="L041101"/>.</p>
+               </note> – doch hör ich von <rs type="person" ref="#pmb2235">Valentin</rs>s <anchor type="commentary" xml:id="KL103-1"/>Gesundheitszustand<note type="commentary" xml:id="KL103-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2235">Richard Vallentin</rs> starb am <date instant="false">14. 1.
+                  1908</date>.</p>
+               </note> ungünstiges. (Und über das Theater selbst<subst>
                   <del rend="overwritten">, </del>
                   <add place="inline"> (</add>
-               </subst>unter uns) nichts sehr hoffnungsreiches.) Meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> liegt noch, die Contumaz dauert etwa noch 10–14 Tage. Schreib mir<pb/> ein Wort, <anchor type="commentary" xml:id="KL103-2">wann du nach <rs type="place" ref="#pmb168">Berlin</rs> fährst</anchor>. Wie gern spräch ich dich bald wieder. Herzliche Grüße.</p>
+               </subst>unter uns) nichts sehr hoffnungsreiches.) Meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> liegt noch, die Contumaz dauert etwa noch 10–14 Tage. Schreib mir<pb/> ein Wort, <anchor type="commentary" xml:id="KL103-2"/>wann du nach <rs type="place" ref="#pmb168">Berlin</rs> fährst<note type="commentary" xml:id="KL103-2h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> begann am <date when="1908-01-18" instant="false">18. 1.
+                  1908</date> den vierten (und letzten) zweimonatigen Aufenthalt bei <rs type="person" ref="#pmb12504">Max Reinhardt</rs> in <rs type="place" ref="#pmb168">Berlin</rs>.</p>
+               </note>. Wie gern spräch ich dich bald wieder. Herzliche Grüße.</p>
             <closer>Dein<lb/>
                <signed>Arthur</signed>
             </closer>

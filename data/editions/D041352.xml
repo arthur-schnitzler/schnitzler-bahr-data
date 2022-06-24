@@ -13,11 +13,11 @@
             <title type="iso-date">1913-06-29</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -82,10 +82,20 @@
                <space unit="chars" quantity="1"/>
                <rs type="work" ref="#pmb30857">Zusammenbruch</rs> ausgelesen.–</p>
             <p>
-               <anchor type="commentary" xml:id="KD352-2">
-                  <rs type="person" ref="#pmb2229">Handls</rs> »<rs type="work" ref="#pmb31243">
-                     <rs type="person" ref="#pmb10815">Bahr</rs>
-                  </rs>«</anchor>, dann das »<rs type="work" subtype="implied" ref="#pmb30859">Bahrbuch</rs>« durchgeblättert. <anchor type="commentary" xml:id="KD352-1">Las wieder</anchor> seinen »<rs type="work" ref="#pmb30861">Glückwunsch</rs>« an mich.– So keine Ahnung von mir zu haben! – Niemand hat es so leicht auf der Welt als der Feuilletonist – niemand so schwer als der Dichter.–</p>
+               <anchor type="commentary" xml:id="KD352-2"/>
+               <rs type="person" ref="#pmb2229">Handls</rs> »<rs type="work" ref="#pmb31243">
+                  <rs type="person" ref="#pmb10815">Bahr</rs>
+               </rs>«<note type="commentary" xml:id="KD352-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2229">Willi Handl</rs>: <rs type="work" ref="#pmb31243">Hermann Bahr</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1913</date>
+                     </bibl>.</p>
+               </note>, dann das »<rs type="work" subtype="implied" ref="#pmb30859">Bahrbuch</rs>« durchgeblättert. <anchor type="commentary" xml:id="KD352-1"/>Las wieder<note type="commentary" xml:id="KD352-1h">
+                  <p>Das heißt den Abdruck im <rs type="work" ref="#pmb30859">Hermann Bahr-Buch</rs>,
+               S. 249–253. <ptr target="LD082-1"/>.</p>
+               </note> seinen »<rs type="work" ref="#pmb30861">Glückwunsch</rs>« an mich.– So keine Ahnung von mir zu haben! – Niemand hat es so leicht auf der Welt als der Feuilletonist – niemand so schwer als der Dichter.–</p>
          </div>
       </body>
    </text>

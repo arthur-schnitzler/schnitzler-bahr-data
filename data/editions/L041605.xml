@@ -13,11 +13,11 @@
             <title type="iso-date">1894-11-06</title>
             <author ref="pmb2450">Fels, Friedrich Michael</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,18 +106,36 @@
             </opener>
             <p>
                <rs type="person" ref="#pmb10815">Hermann Bahr</rs> hat den Artikel »<rs type="place" ref="#pmb745">Skandinavien</rs> in <rs type="place" ref="#pmb151">Deutschland</rs>« abgelehnt, weil er nicht aktuell genug sei und deshalb vor 3–4 Monaten nicht erscheinen könne. Da er selbstredend! gar nicht annahm, daß ich so lange warten werde, habe ich auch nichts gesagt, obgleich ich herzlich froh gewesen wäre, wenn er dann erschienen wäre; ich werde froh sein müßen, wenn er anderswo so bald erscheint. Aber man muß den Leuten <add place="above">die</add> Ausreden nicht zu schwer machen. Von Artikeln war keine Rede mehr; dagegen sagte <rs type="person" ref="#pmb10815">Bahr</rs>, er werde mir Buchbesprechungen und zwar von literarhistorischen Werken – von andern verstehe ich wohl zu wenig – übertragen; ich nahm mit Dank an und habe nun die Hoffnung, wenns sehr gut geht, in einem Jahr drei Rezensionen schreiben zu dürfen und damit<pb/> 5fl zu verdienen. Hingehen werde ich wohl kaum mehr, da er, als ich gemeldet wurde, obgleich ich auf heute 4 Uhr von ihm bestellt war, laut aufseufzte und <unclear>vernehmlich</unclear> sagte »So lassen Sie ihn in Gottes Namen herein.« – </p>
-            <p>Den Artikel werde ich morgen nach <rs type="place" ref="#pmb168">Berlin</rs> schicken, den <anchor type="commentary" xml:id="KL605-1">bekannten Weg</anchor>: zuerst <rs type="org" ref="#pmb29631">Zukunft</rs>, dann <rs type="org" ref="#pmb29807">Nation</rs>, dann <rs type="org" subtype="implied" ref="#pmb29331">Tante Voss</rs>, dann <rs type="org" ref="#pmb29808">Gegenwart</rs>, dann <c rendition="#dots" n="3" place="center"/> wer weiss, wohin noch. Den von <anchor type="commentary" xml:id="KL605-7">
-                  <rs type="person" ref="#pmb2416">David</rs>
-               </anchor> refusierten <anchor type="commentary" xml:id="KL605-2">
-                  <rs type="person" ref="#pmb4688">Sealsfield</rs>artikel</anchor> bringe ich <anchor type="commentary" xml:id="KL605-3">
-                  <rs type="person" ref="#pmb12987">Uhl</rs>
-               </anchor>, dann <anchor type="commentary" xml:id="KL605-4">
-                  <rs type="person" ref="#pmb12460">Pötzl</rs>
-               </anchor>, dann <anchor type="commentary" xml:id="KL605-5">
-                  <rs type="person" ref="#pmb24705">Schönthan</rs>
-               </anchor>, dann <anchor type="commentary" xml:id="KL605-6">
-                  <rs type="person" ref="#pmb2586">Granichstädten</rs>
-               </anchor>
+            <p>Den Artikel werde ich morgen nach <rs type="place" ref="#pmb168">Berlin</rs> schicken, den <anchor type="commentary" xml:id="KL605-1"/>bekannten Weg<note type="commentary" xml:id="KL605-1h">
+                  <p>Im Brief vom <date instant="false">26. 11. 1894</date> an <rs type="person" ref="#pmb2121">Schnitzler</rs> (<bibl >
+                        <rs type="org">DLA</rs>
+                     </bibl>) schreibt er, dass der Text gekürzt in der <rs type="org" ref="#pmb29646">Kölnischen Zeitung</rs> erscheinen werde.</p>
+               </note>: zuerst <rs type="org" ref="#pmb29631">Zukunft</rs>, dann <rs type="org" ref="#pmb29807">Nation</rs>, dann <rs type="org" subtype="implied" ref="#pmb29331">Tante Voss</rs>, dann <rs type="org" ref="#pmb29808">Gegenwart</rs>, dann <c rendition="#dots" n="3" place="center"/> wer weiss, wohin noch. Den von <anchor type="commentary" xml:id="KL605-7"/>
+               <rs type="person" ref="#pmb2416">David</rs>
+               <note type="commentary" xml:id="KL605-7h">
+                  <p>Das heißt der <rs type="org" ref="#pmb29670">Wiener Allgemeinen Zeitung</rs>.</p>
+               </note> refusierten <anchor type="commentary" xml:id="KL605-2"/>
+               <rs type="person" ref="#pmb4688">Sealsfield</rs>artikel<note type="commentary" xml:id="KL605-2h">
+                  <p>Möglicherweise wurde dieser zur Einleitung von <bibl >
+                        <rs type="person" ref="#pmb4688">Charles Sealsfield</rs>: <rs type="work" ref="#pmb32728">Das Kajütenbuch oder nationale Charakteristiken</rs>. Hg. und
+                  eingel. von <rs type="person" ref="#pmb2450">Friedrich M. Fels</rs>. <rs type="place" ref="#pmb872">Stuttgart</rs>: <rs type="org" ref="#pmb29666">Philipp Reclam Jun.</rs> [o. J.]</bibl>.</p>
+               </note> bringe ich <anchor type="commentary" xml:id="KL605-3"/>
+               <rs type="person" ref="#pmb12987">Uhl</rs>
+               <note type="commentary" xml:id="KL605-3h">
+                  <p>Das heißt der <rs type="org" ref="#pmb29310">Wiener Zeitung</rs>.</p>
+               </note>, dann <anchor type="commentary" xml:id="KL605-4"/>
+               <rs type="person" ref="#pmb12460">Pötzl</rs>
+               <note type="commentary" xml:id="KL605-4h">
+                  <p>Das heißt dem <rs type="org" ref="#pmb29414">Neuen Wiener Tagblatt</rs>.</p>
+               </note>, dann <anchor type="commentary" xml:id="KL605-5"/>
+               <rs type="person" ref="#pmb24705">Schönthan</rs>
+               <note type="commentary" xml:id="KL605-5h">
+                  <p>Das heißt dem <rs type="org" ref="#pmb29312">Wiener Tagblatt</rs>.</p>
+               </note>, dann <anchor type="commentary" xml:id="KL605-6"/>
+               <rs type="person" ref="#pmb2586">Granichstädten</rs>
+               <note type="commentary" xml:id="KL605-6h">
+                  <p>Das heißt der <rs type="org" ref="#pmb29270">Presse</rs>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <c rendition="#dots" n="3" place="center"/> dann gehe ich in die Provinz, nach <rs type="place" ref="#pmb833">Brünn</rs> und <rs type="place" ref="#pmb44176">Olmütz</rs>; vielleicht, dass man ihn in <rs type="person" ref="#pmb4688">Sealsfield</rs>s Heimat nimmt, und 3fl sind besser als nichts.</p>
             <closer>Besten Gruß<lb/>

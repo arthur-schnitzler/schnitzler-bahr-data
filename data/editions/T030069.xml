@@ -14,11 +14,11 @@
             <title type="iso-date">1908-11-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,12 +41,12 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="069"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AB2-D</idno>
          </publicationStmt>
          <seriesStmt>
-            <p part="N">Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
+            <p>Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
          </seriesStmt>
          <sourceDesc>
             <origDate when="1908-11-15" n="1">Mitte November 1908</origDate>
@@ -60,7 +60,7 @@
                         <idno>HS VM 2623 Ba</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">1 Bl., 2 S., hs. <persName ref="pmb27910">Clarus</persName> und Bahr, Bleistift und Tinte.</p>
+                        <p>1 Bl., 2 S., hs. <persName ref="pmb27910">Clarus</persName> und Bahr, Bleistift und Tinte.</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -79,9 +79,9 @@
    <text type="text">
       <body>
          <div type="writingSession" n="1">
-            <p part="N">
+            <p>
                <rs type="work" ref="#pmb30619">Rahl</rs> an:</p>
-            <p part="N">
+            <p>
                <handShift scribe="pmb27910"/>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb10875">Benedikt</rs>
@@ -107,14 +107,14 @@
                <space unit="chars" quantity="1"/>
                <add place="below">
                   <handShift scribe="pmb10815"/>Statt seiner an <rs type="person" ref="#pmb12920">Tann-Bergler</rs> geschickt</add>.</p>
-            <p part="N">
+            <p>
                <handShift scribe="pmb27910"/>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb2545">Görner</rs>
                </del>, <del rend="strikethrough">
                   <rs type="person" ref="#pmb3576">Freysauff</rs>
                </del>.</p>
-            <p part="N">
+            <p>
                <handShift scribe="pmb10815"/>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb10883">Baron Berger</rs>
@@ -130,7 +130,7 @@
                   <rs type="person" ref="#pmb2167">Salten</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <unclear>
                      <rs type="person" ref="#pmb3579">Jacobson</rs>
@@ -141,41 +141,41 @@
                   <rs type="person" ref="#pmb12101">Siegfried Löwy</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb13163">Theodor Wolff</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb4528">Schröder</rs>
                <space unit="chars" quantity="7"/>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb10788">Auernheimer</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb2947">Epstein</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11324">Fischer</rs> soll gleich an <rs type="person" ref="#pmb3579">Jacobsohn</rs>
             </p>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb11910">Kerr</rs>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb2229">Handl</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <gap quantity="10" reason="illegible" unit="chars"/>
                </del>
                <pb/>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb2226">Fred</rs>
                </del>
@@ -184,7 +184,7 @@
                   <rs type="person" ref="#pmb12387">Orlik</rs>
                </del>
             </p>
-            <p part="N">In <rs type="place" ref="#pmb168">Berlin</rs>
+            <p>In <rs type="place" ref="#pmb168">Berlin</rs>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">selbst</hi> bei <rs type="person" ref="#pmb11324">Fischer</rs> Widmungen einschreiben an <del rend="strikethrough">
                   <rs type="person" ref="#pmb11036">Burckhard</rs>
@@ -247,7 +247,7 @@
                   <rs type="person" ref="#pmb28344">Staehelin-Baechtold</rs>
                </del>
             </p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb28124">Anna</rs>
                </del>
@@ -255,7 +255,7 @@
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb12906">Suttner</rs>
                </del> –</p>
-            <p part="N">
+            <p>
                <del rend="strikethrough">
                   <rs type="person" ref="#pmb10977">Bodmer</rs>
                </del>

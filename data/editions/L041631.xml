@@ -117,8 +117,10 @@
                </dateline>
                <salute rend="center">Lieber Richard!</salute>
             </opener>
-            <p>Ich wollte fast noch zu Ihnen kommen, da <anchor type="commentary" xml:id="KL631-1">starb der arme <rs type="person" ref="#pmb2161">Bukovics</rs>
-               </anchor>, das sind böse Tage für mich, ich mache <!-- sic! -->dann so bald als möglich wegzufahren, hoffentlich schon morgen abends, nach <rs type="place" ref="#pmb44016">Holland</rs>, ans Meer.</p>
+            <p>Ich wollte fast noch zu Ihnen kommen, da <anchor type="commentary" xml:id="KL631-1"/>starb der arme <rs type="person" ref="#pmb2161">Bukovics</rs>
+               <note type="commentary" xml:id="KL631-1h">
+                  <p>Am <date instant="false">4. 7. 1905</date>.</p>
+               </note>, das sind böse Tage für mich, ich mache <!-- sic! -->dann so bald als möglich wegzufahren, hoffentlich schon morgen abends, nach <rs type="place" ref="#pmb44016">Holland</rs>, ans Meer.</p>
             <p>
                <rs type="person" ref="#pmb2121">Arthur</rs> wird Ihnen, so bald er es gelesen hat, gelegentlich das Manuscript meines neuen <rs type="work" subtype="implied" ref="#pmb29999">Stückes</rs> schicken – haben Sie Zeit und Lust, so sehen Sie sichs einmal an.</p>
             <p>Grüßen Sie Frau <rs type="person" ref="#pmb10860">Paula</rs> und die <rs type="person" subtype="implied" ref="#pmb2534 #pmb2668 #pmb13923">Kinder</rs> herzlichst.</p>

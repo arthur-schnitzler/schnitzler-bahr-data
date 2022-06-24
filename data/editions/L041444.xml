@@ -13,11 +13,11 @@
             <title type="iso-date">1903-09-27</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -118,9 +118,12 @@
                </dateline>
             </opener>
             <p>
-               <salute>lieber, </salute>ich vergesse nun schon 6mal, <del rend="strikethrough">daß</del> Sie zu erinnern, daß Sie mir die <anchor type="commentary" xml:id="KL444-1">
-                  <rs type="work" subtype="implied" ref="#pmb30637">Photographie</rs>
-               </anchor> (die gleiche wie der <rs type="person" ref="#pmb10815">Bahr</rs> hat) versprochen haben.<space unit="chars" quantity="15"/> Sehr schön war es gestern abend, in den lieben Zimmern, das Kind, das schöne Singen, und alles zusammen. Sie können sich vielleicht kaum vorstellen, wie sehr einem ein paar Lieder von einer schönen jungen Stimme freuen, wenn<pb/> man immerfort das Gefühl hat, zu wenig Musik zu hören, wie wir.<space unit="chars" quantity="15"/> Aber spielen darf sie nicht dabei, es geniert einen in der Erinnerung fast noch mehr wie im Augenblick selbst, und so wunderbar es ist, die Reflexe eines Liedes auf der Stirn und in den Augen eines Singenden mehr noch zu fühlen als zu sehen, so sehr<pb/> verletzt es wirklich die Bescheidenheit der Natur und der Kunst zugleich, wenn man beim Singen agiert.</p>
+               <salute>lieber, </salute>ich vergesse nun schon 6mal, <del rend="strikethrough">daß</del> Sie zu erinnern, daß Sie mir die <anchor type="commentary" xml:id="KL444-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30637">Photographie</rs>
+               <note type="commentary" xml:id="KL444-1h">
+                  <p>
+                     <ptr target="L041060"/>.</p>
+               </note> (die gleiche wie der <rs type="person" ref="#pmb10815">Bahr</rs> hat) versprochen haben.<space unit="chars" quantity="15"/> Sehr schön war es gestern abend, in den lieben Zimmern, das Kind, das schöne Singen, und alles zusammen. Sie können sich vielleicht kaum vorstellen, wie sehr einem ein paar Lieder von einer schönen jungen Stimme freuen, wenn<pb/> man immerfort das Gefühl hat, zu wenig Musik zu hören, wie wir.<space unit="chars" quantity="15"/> Aber spielen darf sie nicht dabei, es geniert einen in der Erinnerung fast noch mehr wie im Augenblick selbst, und so wunderbar es ist, die Reflexe eines Liedes auf der Stirn und in den Augen eines Singenden mehr noch zu fühlen als zu sehen, so sehr<pb/> verletzt es wirklich die Bescheidenheit der Natur und der Kunst zugleich, wenn man beim Singen agiert.</p>
             <p>Auf Wiedersehen Samstag.</p>
             <closer>Von Herzen<lb/>
                <signed>Hugo.</signed>

@@ -13,11 +13,11 @@
             <title type="iso-date">1904-01-31</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -110,7 +110,20 @@
                <p>2.) Geht <rs type="person" ref="#pmb12504">Reinhardt</rs> heuer nach <rs type="place" ref="#pmb50">Wien</rs> gastieren? </p>
                <p>3.) Ist <rs type="person" ref="#pmb11617">Hauptmann</rs>
                   <space unit="chars" quantity="1"/>
-                  <anchor type="commentary" xml:id="KL637-1">ernstlich krank?</anchor>
+                  <anchor type="commentary" xml:id="KL637-1"/>ernstlich krank?<note type="commentary" xml:id="KL637-1h">
+                     <p>
+                        <bibl >Vgl. <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 38, Nr. 27,
+                     <date instant="false">27. 1. 1904</date>, S. 11</bibl>: »<quote>Aus <rs type="place" ref="#pmb168">Berlin</rs> wird uns telegraphiert: <rs type="person" ref="#pmb11617">Gerhart <hi rend="spaced_out">Hauptmann</hi>
+                           </rs>, der kürzlich von <rs type="place" ref="#pmb735">Agnetendorf</rs> ankam, ist
+                  in <rs type="person" ref="#pmb10986">Brahms</rs> Wohnung, wo er zeitweiligen
+                  Aufenthalt nahm, nicht unbedenklich <hi rend="spaced_out">erkrankt</hi>. Er wird
+                  nach erhoffter Wiederherstellung eine Reise nach dem Süden
+                     antreten<supplied instant="false">.</supplied>
+                        </quote>« <rs type="person" ref="#pmb10815">Bahr</rs> hatte am <date instant="false">29. 1.</date> an
+                  <rs type="person" ref="#pmb11617">Hauptmann</rs> geschrieben. Dieser laborierte
+               für rund eine Woche an einer Magenverstimmung (<bibl >Peter Sprengel: <rs type="work">Hermann Bahr und Gerhart Hauptmann in Briefen und anderen Zeugnissen</rs>.
+                  Erg. von Martin Anton Müller, 2013, S. 5–6 http://univie.ac.at/bahr</bibl>).</p>
+                  </note>
                </p>
             </postscript>
          </div>

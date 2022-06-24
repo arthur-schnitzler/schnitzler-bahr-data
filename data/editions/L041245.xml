@@ -13,11 +13,11 @@
             <title type="iso-date">1902-01-09</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -114,7 +114,9 @@
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">nicht</hi>;</p>
             <p>2) <rs type="person" ref="#pmb12671">Schlenther</rs> bezeichnet es als absolut falsch, wenn man meine, Schnitzler sei durch die <rs type="work" ref="#pmb29853">Gustl</rs>-Affaire <rs type="place" ref="#pmb14">burgtheaterunfähig</rs> geworden; diese Auffassung bestehe weder in der Intendanz noch bei ihm selbst; die »<rs type="work" ref="#pmb29863">Lebendigen Stunden</rs>« kenne er leider nicht.</p>
-            <p>Ich <anchor type="commentary" xml:id="KL245-1">fahre in einer Stunde ab</anchor>. Überleg Dir, bis<pb/> ich wiederkomme, ob ich nicht doch mit den <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">Stücken</rs> resolut hingehen darf.</p>
+            <p>Ich <anchor type="commentary" xml:id="KL245-1"/>fahre in einer Stunde ab<note type="commentary" xml:id="KL245-1h">
+                  <p>Zur Premiere von <rs type="work" ref="#pmb29881">Der Krampus</rs> in <rs type="place" ref="#pmb506">Hamburg</rs>.</p>
+               </note>. Überleg Dir, bis<pb/> ich wiederkomme, ob ich nicht doch mit den <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">Stücken</rs> resolut hingehen darf.</p>
             <closer>Herzlichst<lb/>
                <signed>Hermann</signed>
             </closer>

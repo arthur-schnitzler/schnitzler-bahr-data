@@ -13,11 +13,11 @@
             <title type="iso-date">1906-01-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,10 +79,23 @@
             <p>
                <date when="1906-01-14" n="1">14/1</date> S. Früh ½ 9 erscheint der kleine <rs type="person" ref="#pmb11230">Ehrenstein</rs>; verstört, blass. »In allen Zeitungen steht über mich. In Ihrer Nov. <rs type="work" ref="#pmb30683">Weissagung</rs> komm ich vor – <c rendition="#dots" n="3"/>in der gestrigen <rs type="work" subtype="implied" ref="#pmb31415">Feuill</rs>. von <rs type="person" ref="#pmb11260">Otto Ernst</rs>.–« <c rendition="#dots" n="3"/>Ich bin eilig – muss zu einer Verhandlung.– »Ich weiss, über mich <c rendition="#dots" n="3"/>« <c rendition="#dots" n="3"/>Ich lege ihm die Hand auf die Schulter: Ich denke, Sie haben einige Sympathie für mich, vertrauen mir.– »Ja, Sympathie und doch Antipathie <c rendition="#dots" n="3"/>« <c rendition="#dots" n="3"/>Gehen Sie ins freie, dann nach Haus <c rendition="#dots" n="3" place="center"/> »Zu Haus erschießen sich alle Leute <c rendition="#dots" n="3"/>« u. s. w<c rendition="#dots" n="3"/> »Ich bin eine Incarnation des <rs type="work" subtype="implied" ref="#pmb30683">Dionysos</rs>
                <c rendition="#dots" n="3"/>« Er ging; ich wollte anfangs was unternehmen – aber Eile und Leichtfertigkeit hielten mich ab.–</p>
-            <p>In die »<rs type="org" ref="#pmb29752">Concordia</rs>« – <anchor type="commentary" xml:id="KD266-2">Verhandlung gegen <rs type="person" ref="#pmb2167">Salten</rs> und <rs type="person" ref="#pmb11406">Ludaßy</rs>
-               </anchor> sollte stattfinden. Sprach <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb11406">Ludaßy</rs>, <rs type="person" ref="#pmb16902">Olga Ludaßy</rs>; Buchh. <rs type="person" ref="#pmb25491">Stern</rs> (über <rs type="person" ref="#pmb11374">Freund</rs> etc.), <rs type="person" ref="#pmb3021">Sternberg</rs> (<rs type="work" ref="#pmb30683">Weissagung</rs>, <rs type="person" ref="#pmb10875">Benedikt</rs>), <rs type="person" ref="#pmb11707">Rob. Hirschfeld</rs> (<anchor type="commentary" xml:id="KD266-1">
-                  <rs type="work" ref="#pmb30683">Weissagung</rs>
-               </anchor>, <rs type="person" ref="#pmb11024">Bruckner</rs>), <rs type="person" ref="#pmb2570">Lothar</rs> (<rs type="work" ref="#pmb30631">Harlekin</rs> in <rs type="place" ref="#pmb224">London</rs>), <rs type="person" ref="#pmb10815">Bahr</rs> (<rs type="place" ref="#pmb45258">Münchner</rs> Angriffe) und x andre.– Verhandlung vertagt.–</p>
+            <p>In die »<rs type="org" ref="#pmb29752">Concordia</rs>« – <anchor type="commentary" xml:id="KD266-2"/>Verhandlung gegen <rs type="person" ref="#pmb2167">Salten</rs> und <rs type="person" ref="#pmb11406">Ludaßy</rs>
+               <note type="commentary" xml:id="KD266-2h">
+                  <p>
+                     <rs type="person" ref="#pmb2167">Salten</rs> hatte wegen Ehrenbeleidigung die
+               Interessenvertretung der Schriftsteller <rs type="org" ref="#pmb29752">Concordia</rs>
+               angerufen, die sich allerdings für nicht zuständig erklärte; es folgte eine Klage bei
+               Gericht (<bibl >
+                        <rs type="org" ref="#pmb29382">Wiener Montags-Journal</rs>, Jg. 24, Nr. 1245,
+                     <date instant="false">18. 12. 1905</date>, S. 3</bibl>).</p>
+               </note> sollte stattfinden. Sprach <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb11406">Ludaßy</rs>, <rs type="person" ref="#pmb16902">Olga Ludaßy</rs>; Buchh. <rs type="person" ref="#pmb25491">Stern</rs> (über <rs type="person" ref="#pmb11374">Freund</rs> etc.), <rs type="person" ref="#pmb3021">Sternberg</rs> (<rs type="work" ref="#pmb30683">Weissagung</rs>, <rs type="person" ref="#pmb10875">Benedikt</rs>), <rs type="person" ref="#pmb11707">Rob. Hirschfeld</rs> (<anchor type="commentary" xml:id="KD266-1"/>
+               <rs type="work" ref="#pmb30683">Weissagung</rs>
+               <note type="commentary" xml:id="KD266-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30683">Die Weissagung. Erzählung</rs>. In: <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>, Nr. 14850, <date instant="false">24. 12. 1905</date>,
+                  Morgen-Blatt, S. 31–38</bibl>.</p>
+               </note>, <rs type="person" ref="#pmb11024">Bruckner</rs>), <rs type="person" ref="#pmb2570">Lothar</rs> (<rs type="work" ref="#pmb30631">Harlekin</rs> in <rs type="place" ref="#pmb224">London</rs>), <rs type="person" ref="#pmb10815">Bahr</rs> (<rs type="place" ref="#pmb45258">Münchner</rs> Angriffe) und x andre.– Verhandlung vertagt.–</p>
             <p>Ins <rs type="place" ref="#pmb40">Josefst. th.</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2601">Jarno</rs>, Hr. und Frau <rs type="person" ref="#pmb11718 #pmb18345">Hochsinger</rs>. Über die projektirte Vorstellung. (<rs type="work" ref="#pmb29951">Wurstl</rs>.) Mit <rs type="person" ref="#pmb2601">Jarno</rs> über allerlei, was man dazu geben könnte.</p>

@@ -13,11 +13,11 @@
             <title type="iso-date">1914-06-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -150,7 +150,15 @@
                   <date>12. 6. 1914</date>.</dateline>
                <salute>Lieber Hermann.</salute>
             </opener>
-            <p>Wie Dir ja bekannt ist war der »<rs type="work" ref="#pmb29855">Reigen</rs>« bisher in <rs type="place" ref="#pmb151">Deutschland</rs> ein verbotenes Buch. Nun soll von dem Verlag <rs type="org" ref="#pmb29369">J. Singer <c rendition="#kaufmannsund"/> Co.</rs>, <rs type="place" ref="#pmb168">Berlin</rs>, eine <anchor type="commentary" xml:id="KL132-1">Neuauflage</anchor> veröffentlicht werden, deren Beschlagnahme vorauszusehen ist, und es kommt dem Verlag darauf an bei einem eventuell bevorstehenden Prozess etliche <anchor type="commentary" xml:id="KL132-2">Gutachten</anchor> zur Verfügung zu haben. Solche von <rs type="person" ref="#pmb12092">Liszt</rs>, <rs type="person" ref="#pmb2263">Lilienthal</rs>, <rs type="person" ref="#pmb11273">Eulenburg</rs>, <rs type="person" ref="#pmb12778">Simmel</rs>, <rs type="person" ref="#pmb12068">Liebermann</rs>, <rs type="person" ref="#pmb11391">Fulda</rs> liegen schon vor (in zum Teil ganz überraschend günstigem Sinne, muss ich sagen); und da der Verlag doch gern auch aus <rs type="place" ref="#pmb41240">Oesterreich</rs> etwas in der Art möchte vorweisen können, so fiel mir ein, dass vor Jahren, als dir einmal die öffentliche Vorlesung des »<rs type="work" ref="#pmb29855">Reigen</rs>« untersagt wurde, <rs type="person" ref="#pmb11036">Burckhardt</rs> einen Rekurs eingebracht hat, der sich vielleicht noch in Deinem Besitze finden mag. Ich frage Dich nun, ob Du dem Verlag <rs type="org" ref="#pmb29369">J. Singer</rs>, wenn er sich<pb/> mit entsprechender Bitte an Dich wenden sollte, jenes Schriftstück zu eventueller Benützung vor Gericht auszufolgen geneigt wärest? </p>
+            <p>Wie Dir ja bekannt ist war der »<rs type="work" ref="#pmb29855">Reigen</rs>« bisher in <rs type="place" ref="#pmb151">Deutschland</rs> ein verbotenes Buch. Nun soll von dem Verlag <rs type="org" ref="#pmb29369">J. Singer <c rendition="#kaufmannsund"/> Co.</rs>, <rs type="place" ref="#pmb168">Berlin</rs>, eine <anchor type="commentary" xml:id="KL132-1"/>Neuauflage<note type="commentary" xml:id="KL132-1h">
+                  <p>Titelauflage der Erstausgabe im <rs type="org" ref="#pmb29636">Wiener Verlag</rs>,
+               erschienen ohne Jahresangabe. Selbst die Verlagswerbung deutet auf das ursprüngliche
+               Erscheinen (»<quote>Im gleichen Verlag erscheint von <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>
+                     </quote>«), ebenso die Hinweise auf die Auflage: »<quote>44.–46.
+               Tausend</quote>«.</p>
+               </note> veröffentlicht werden, deren Beschlagnahme vorauszusehen ist, und es kommt dem Verlag darauf an bei einem eventuell bevorstehenden Prozess etliche <anchor type="commentary" xml:id="KL132-2"/>Gutachten<note type="commentary" xml:id="KL132-2h">
+                  <p>Die Briefe der Genannten und ein weiterer von <rs type="person" ref="#pmb11581">Maximilian Harden</rs> finden sich in der Mappe <bibl >B 128 in der <rs type="org">CUL</rs> (»Opinions on Reigen«)</bibl>.</p>
+               </note> zur Verfügung zu haben. Solche von <rs type="person" ref="#pmb12092">Liszt</rs>, <rs type="person" ref="#pmb2263">Lilienthal</rs>, <rs type="person" ref="#pmb11273">Eulenburg</rs>, <rs type="person" ref="#pmb12778">Simmel</rs>, <rs type="person" ref="#pmb12068">Liebermann</rs>, <rs type="person" ref="#pmb11391">Fulda</rs> liegen schon vor (in zum Teil ganz überraschend günstigem Sinne, muss ich sagen); und da der Verlag doch gern auch aus <rs type="place" ref="#pmb41240">Oesterreich</rs> etwas in der Art möchte vorweisen können, so fiel mir ein, dass vor Jahren, als dir einmal die öffentliche Vorlesung des »<rs type="work" ref="#pmb29855">Reigen</rs>« untersagt wurde, <rs type="person" ref="#pmb11036">Burckhardt</rs> einen Rekurs eingebracht hat, der sich vielleicht noch in Deinem Besitze finden mag. Ich frage Dich nun, ob Du dem Verlag <rs type="org" ref="#pmb29369">J. Singer</rs>, wenn er sich<pb/> mit entsprechender Bitte an Dich wenden sollte, jenes Schriftstück zu eventueller Benützung vor Gericht auszufolgen geneigt wärest? </p>
             <closer>Mit herzlichem Gruss<lb/>Dein<lb/>
                <signed>
                   <handShift/>Arthur</signed>

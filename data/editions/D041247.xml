@@ -13,11 +13,11 @@
             <title type="iso-date">1904-12-23</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,7 +83,12 @@
             <p>Abd. <rs type="place" ref="#pmb44">Riedhof</rs> mit <rs type="person" ref="#pmb2173">O.</rs>– <rs type="person" ref="#pmb2167">Salten</rs>.– Über <rs type="person" ref="#pmb11391">Fuldas</rs> Klage gegen <rs type="person" ref="#pmb10815">Bahr</rs> (<rs type="person" ref="#pmb10815">Bahr</rs>: »<rs type="work" subtype="implied" ref="#pmb30045">gieriger Jobber</rs>«), über meinen <rs type="work" subtype="implied" ref="#pmb30983">
                   <rs type="person" ref="#pmb11813">Jacobsohn</rs>
                   <space unit="chars" quantity="1"/>
-                  <anchor type="commentary" xml:id="KD247-1">Artikel</anchor>
+                  <anchor type="commentary" xml:id="KD247-1"/>Artikel<note type="commentary" xml:id="KD247-1h">
+                     <p>
+                        <bibl >
+                           <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30983">Der Fall Jacobsohn</rs>. In: <rs type="org" ref="#pmb29631">Die
+                     Zukunft</rs>, Bd. 49, <date instant="false">17. 12. 1904</date>, S. 401–404</bibl>.</p>
+                  </note>
                </rs>.</p>
          </div>
       </body>

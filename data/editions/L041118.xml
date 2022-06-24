@@ -13,11 +13,11 @@
             <title type="iso-date">1910-10-08</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -162,7 +162,15 @@
                   <date>8. 10. 1910</date>.</dateline>
             </opener>
             <p>
-               <salute>Lieber Hermann. </salute>Ein gewisser Dr. <rs type="person" ref="#pmb2242">Cesare Levi</rs> möchte Dein <rs type="work" ref="#pmb29933">Konzert</rs> ins <rs type="place" ref="#pmb40306">Italienische</rs> übersetzen. Zu seiner Empfehlung kann ich nur sagen, dass in seiner <anchor type="commentary" xml:id="KL118-1">Uebersetzung</anchor>
+               <salute>Lieber Hermann. </salute>Ein gewisser Dr. <rs type="person" ref="#pmb2242">Cesare Levi</rs> möchte Dein <rs type="work" ref="#pmb29933">Konzert</rs> ins <rs type="place" ref="#pmb40306">Italienische</rs> übersetzen. Zu seiner Empfehlung kann ich nur sagen, dass in seiner <anchor type="commentary" xml:id="KL118-1"/>Uebersetzung<note type="commentary" xml:id="KL118-1h">
+                  <p>
+                     <rs type="work" ref="#pmb30033">Il matrimonio d’Anatolio (Anatols
+                  Hochzeitsmorgen)</rs>, <rs type="work" ref="#pmb30005">Cena d’addio
+                  (Abschiedssouper)</rs>, <rs type="work" ref="#pmb29869">Letteratura
+                  (Literatur)</rs>, <rs type="work" ref="#pmb29873">Il burattinaio (Der
+                  Puppenspieler)</rs> und <rs type="work" ref="#pmb29877">L’ultime maschere (Die
+                  letzten Masken)</rs>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="work"
                    subtype="implied"

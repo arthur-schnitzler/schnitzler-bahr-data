@@ -13,11 +13,11 @@
             <title type="iso-date">1906-10-16</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,11 @@
             <p>Ich sende Dir beiliegend einen kleinen <rs type="work" subtype="implied" ref="#pmb30007">Akt</rs> mit der Frage, ob Du was dagegen hast, dass ich ihm, wenn er gedruckt wird, die folgende Widmung vorsetze:</p>
             <p rend="center">»In Erinnerung an meinen lieben Anatol«.</p>
             <p>Mir ist nämlich folgendes passiert: Ich schrieb den Akt »nach einer wahren Begebenheit« (worüber gelegentlich einmal mündlich), eigentlich nur, weil ich Spass an der weiblichen Figur fand; nun teilt mir <rs type="person" ref="#pmb11036">Burckhard</rs> mit, dass es eigentlich das <rs type="work" ref="#pmb30005">Abschiedsouper</rs> ist, ich erschrecke, denke nach und –<pb/> kann es nicht läugnen. Du wirst mir glauben, dass es unbewusst war. Ich möchte aber doch jedenfalls öffentlich irgendwie den wahren Autor nennen: daher die Widmung.</p>
-            <p>Ich lasse Deiner lieben <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> herzlichst für die <anchor type="commentary" xml:id="KL303-1">Bilder</anchor> danken und werde mich sehr freuen, wenn sie mir erlaubt, ihr <anchor type="commentary" xml:id="KL303-2">gelegentlich eines zu bringen</anchor>.</p>
+            <p>Ich lasse Deiner lieben <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> herzlichst für die <anchor type="commentary" xml:id="KL303-1"/>Bilder<note type="commentary" xml:id="KL303-1h">
+                  <p>Nicht ermittelt.</p>
+               </note> danken und werde mich sehr freuen, wenn sie mir erlaubt, ihr <anchor type="commentary" xml:id="KL303-2"/>gelegentlich eines zu bringen<note type="commentary" xml:id="KL303-2h">
+                  <p>Eventuell <ptr target="I041002"/>?</p>
+               </note>.</p>
             <closer>Mit vielen herzlichen Grüssen<lb/>Dein<lb/>
                <signed>
                   <handShift scribe="pmb10815"/>Hermann</signed>

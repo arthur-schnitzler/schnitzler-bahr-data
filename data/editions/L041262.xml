@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-09</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,9 +106,14 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich habe gestern Dein »<rs type="work" ref="#pmb29893">Excentric</rs>« vorgelesen und die Leute haben über das liebenswürdige Fräulein de la Rosière so gebrüllt, daß ich wirklich bisweilen eine Minute lang warten mußte, bis sie sich so weit gefaßt hatten, mich wieder anzuhören. Die Geschichte ist köstlich und zum Vorlesen ideal. Ich schicke Dir das Heft mit derselben Post zurück, ich habe mir die betr. Nummer der <anchor type="commentary" xml:id="KL262-3">
-                  <rs type="org" ref="#pmb29408">Jugend</rs>
-               </anchor> bereits verschafft.</p>
+            <p>Ich habe gestern Dein »<rs type="work" ref="#pmb29893">Excentric</rs>« vorgelesen und die Leute haben über das liebenswürdige Fräulein de la Rosière so gebrüllt, daß ich wirklich bisweilen eine Minute lang warten mußte, bis sie sich so weit gefaßt hatten, mich wieder anzuhören. Die Geschichte ist köstlich und zum Vorlesen ideal. Ich schicke Dir das Heft mit derselben Post zurück, ich habe mir die betr. Nummer der <anchor type="commentary" xml:id="KL262-3"/>
+               <rs type="org" ref="#pmb29408">Jugend</rs>
+               <note type="commentary" xml:id="KL262-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29893">Excentric</rs>. In: <rs type="org" ref="#pmb29408">Jugend</rs>,
+                  Jg. 7, Nr. 30, <date instant="false">[16.] 7. 1902</date>, S. 492–496</bibl>.</p>
+               </note> bereits verschafft.</p>
             <p>Noch etwas, ganz aufrichtig. Da Du keine Sitze von mir verlangt hast, habe ich Dir keine <subst>
                   <del rend="overwritten">
                      <gap quantity="1" reason="illegible" unit="chars"/>
@@ -116,10 +121,16 @@
                   <add place="inline">g</add>
                </subst>eschickt, weil mir das von mir immer so furchtbar aufdringlich vorkommt, Jemandem ungebeten Sitze zu schicken, der dann am End erst seine Köchin anflehen muß, sie zu benützen.<pb/>
             </p>
-            <p>Anbei findest Du den <anchor type="commentary" xml:id="KL262-2">Rek<unclear>o</unclear>urs, der am <date>5. d.</date> der <rs type="org" ref="#pmb29253">Statthalterei</rs> überreicht worden ist</anchor>. Er ist von mir mit <rs type="person" ref="#pmb11036">Burckhard</rs> berathen und dann von diesem verfaßt worden, was aber, nach seinem Wunsch, nicht bekannt werden soll. Versuche, den Rekurs in irgend eine <rs type="place" ref="#pmb50">Wiener</rs> Zeitung zu bringen, sind durchaus misglückt. Überlege, ob Du ihn eventuell der nächsten Auflage des <rs type="work" ref="#pmb29855">Reigens</rs> vordrucken würdest. Sag aber nur offen Nein, wenn es Dir nicht paßt.</p>
+            <p>Anbei findest Du den <anchor type="commentary" xml:id="KL262-2"/>Rek<unclear>o</unclear>urs, der am <date>5. d.</date> der <rs type="org" ref="#pmb29253">Statthalterei</rs> überreicht worden ist<note type="commentary" xml:id="KL262-2h">
+                  <p>
+                     <ptr target="KL462-3"/>.</p>
+               </note>. Er ist von mir mit <rs type="person" ref="#pmb11036">Burckhard</rs> berathen und dann von diesem verfaßt worden, was aber, nach seinem Wunsch, nicht bekannt werden soll. Versuche, den Rekurs in irgend eine <rs type="place" ref="#pmb50">Wiener</rs> Zeitung zu bringen, sind durchaus misglückt. Überlege, ob Du ihn eventuell der nächsten Auflage des <rs type="work" ref="#pmb29855">Reigens</rs> vordrucken würdest. Sag aber nur offen Nein, wenn es Dir nicht paßt.</p>
             <p>
-               <anchor type="commentary" xml:id="KL262-1">
-                  <rs type="person" ref="#pmb2167">Salten</rs> tust Du glaub ich unrecht</anchor>. Du mußt nur doch die für ihn unglaublich heikle und gefährliche Situation bedenken, in der er geschrieben hat. Aber darüber mündlich.</p>
+               <anchor type="commentary" xml:id="KL262-1"/>
+               <rs type="person" ref="#pmb2167">Salten</rs> tust Du glaub ich unrecht<note type="commentary" xml:id="KL262-1h">
+                  <p>Das könnte auf ein verlorenes Korrespondenzstück hinweisen. Zum Inhalt siehe die
+               Antwort <rs type="person" ref="#pmb2121">Schnitzlers</rs>.</p>
+               </note>. Du mußt nur doch die für ihn unglaublich heikle und gefährliche Situation bedenken, in der er geschrieben hat. Aber darüber mündlich.</p>
             <closer>Mit den besten Grüßen an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>herzlichst Dein<lb/>
                <signed>Hermann</signed>

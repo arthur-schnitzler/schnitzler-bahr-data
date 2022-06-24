@@ -13,11 +13,11 @@
             <title type="iso-date">1893-09-27</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,9 +80,14 @@
                <date when="1893-09-27" n="2">27/9</date> In der <rs type="org" ref="#pmb29424">dtsch. Ztg</rs>. – <rs type="work" subtype="implied" ref="#pmb30271">Artikel von <rs type="person" ref="#pmb10815">Bahr</rs>
                </rs> über <rs type="person" ref="#pmb26121">Torresani</rs>, mich, <rs type="person" ref="#pmb11740">Loris</rs>. Ich sei ein großer Virtuos auf kleinem Ton; jedoch apporteur du neuf, etc.;– ich war ärgerlich.– Im <rs type="org" ref="#pmb29329">Berl. Tagbl.</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD088-1">
-                  <rs type="work" subtype="implied" ref="#pmb30273">Correspondenz aus Wien</rs>
-               </anchor>, von Dr. S. einem hochbegabten jungen Wr. Arzt werde ein <rs type="work" subtype="implied" ref="#pmb29823">Stück</rs> aufgeführt.</p>
+               <anchor type="commentary" xml:id="KD088-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30273">Correspondenz aus Wien</rs>
+               <note type="commentary" xml:id="KD088-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb28517">Wilhelm Hermann</rs>: <rs type="work" ref="#pmb30273">Saisonbeginn. (Von unserem Korrespondenten)</rs>. In: <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, Jg. 22, Nr. 490, <date instant="false">26.
+                     9. 1893</date>, Erstes Beiblatt, S. [1–2]</bibl>.</p>
+               </note>, von Dr. S. einem hochbegabten jungen Wr. Arzt werde ein <rs type="work" subtype="implied" ref="#pmb29823">Stück</rs> aufgeführt.</p>
             <p>– Brief von <rs type="person" ref="#pmb14953">Mz.</rs>–</p>
          </div>
       </body>

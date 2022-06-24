@@ -13,11 +13,11 @@
             <title type="iso-date">1892-03-27</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -149,12 +149,17 @@
                <hi rend="underline" n="1">Er</hi>. Den Einfluss merkt man auch deutlich <c rendition="#dots" n="2" place="center"/> ich will nicht gerade sagen, daß Sie abgeschrieben haben<c rendition="#dots" n="4"/>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TL413-1">!!.Ich.</anchor>
+               <anchor type="textConst" xml:id="TL413-1"/>!!.Ich.<note type="textConst" xml:id="TL413-1h">
+                  <p>verkehrt zum Text.</p>
+               </note>
                <supplied>«</supplied>
             </p>
             <p>Herzlichst der Ihre, und kommen Sie Dienstag gef. zur <rs type="person" ref="#pmb10815">
                   <hi rend="latintype">Bahr</hi>
-               </rs>’schen <anchor type="commentary" xml:id="KL413-1">Mystik</anchor>!</p>
+               </rs>’schen <anchor type="commentary" xml:id="KL413-1"/>Mystik<note type="commentary" xml:id="KL413-1h">
+                  <p>Gemeint ist <rs type="person" ref="#pmb10815">Bahrs</rs> Vortrag über »Symbolismus«,
+               den er am <date instant="false">29. 3.</date> bei der Veranstaltung der <rs type="org" ref="#pmb29781">Freien Bühne</rs> hielt.</p>
+               </note>!</p>
          </div>
       </body>
    </text>

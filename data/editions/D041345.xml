@@ -13,11 +13,11 @@
             <title type="iso-date">1922-05-09</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,17 +79,37 @@
             <p>
                <date when="1922-05-09" n="1">9/5</date> früh Ankunft <rs type="place" ref="#pmb168">Berlin</rs>.– <rs type="place" ref="#pmb245">Hotel Esplanade</rs>. Die Hausdame des 1. Stockes erinnert sich, daß ich zuletzt mit <rs type="person" ref="#pmb2173">O.</rs> dagewohnt, zu ihrem Concert.– <rs type="person" ref="#pmb2774">Dora M.</rs> holt mich im Hotel ab.– <rs type="person" ref="#pmb11324">Verlag Fischer</rs>. <rs type="person" ref="#pmb11324">Fischer</rs> zeigt mir die neue <rs type="work" subtype="implied" ref="#pmb30313">Ges. Ausgabe</rs>. Lerne <rs type="person" ref="#pmb11515">Greiner</rs> kennen. Geschäftliches.–</p>
             <p>Mittagesse bei <rs type="person" ref="#pmb3064 #pmb2774">Michaelis’</rs>. Die <rs type="person" subtype="implied" ref="#pmb21415 #pmb27995 #pmb27999">drei Buben</rs>.–</p>
-            <p>Lese Nm. die <anchor type="commentary" xml:id="KD345-1">
-                  <rs type="org" ref="#pmb29212">N. R.</rs>
-               </anchor> mit den großentheils sehr hübschen <rs type="work"
+            <p>Lese Nm. die <anchor type="commentary" xml:id="KD345-1"/>
+               <rs type="org" ref="#pmb29212">N. R.</rs>
+               <note type="commentary" xml:id="KD345-1h">
+                  <p>
+                     <bibl >
+                        <rs type="org" ref="#pmb29212">Die neue Rundschau</rs>, Jg. 33, Nr. 5, <date instant="false">1. 5.
+                     1922</date>
+                     </bibl>.</p>
+               </note> mit den großentheils sehr hübschen <rs type="work"
                    subtype="implied"
-                   ref="#pmb31483 #pmb31481 #pmb31479 #pmb31477 #pmb31475 #pmb31473 #pmb31471 #pmb31469 #pmb31467 #pmb31465 #pmb31463 #pmb31461 #pmb31459 #pmb31457 #pmb31455">Grüßen zu meinem Geburtstag</rs>. (<anchor type="commentary" xml:id="KD345-2">
-                  <rs type="work" subtype="implied" ref="#pmb31235">
-                     <rs type="person" ref="#pmb2456">Specht</rs>
-                  </rs>
-               </anchor>, <anchor type="commentary" xml:id="KD345-3">
-                  <rs type="person" ref="#pmb10788">Auernheimer</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb10955">Blei</rs>, <rs type="person" ref="#pmb11324">Fischer</rs>, <rs type="person" ref="#pmb11327">Flake</rs>, <rs type="person" ref="#pmb2771">Friedell</rs>, <rs type="person" ref="#pmb11617">Hauptmann</rs>, <rs type="person" ref="#pmb11740">Hofmannsthal</rs>, <rs type="person" ref="#pmb11752">Hollaender</rs>, <rs type="person" ref="#pmb11910">Kerr</rs>, <rs type="person" ref="#pmb12170">Heinrich Mann</rs>, <rs type="person" ref="#pmb12176">Th. Mann</rs>, <rs type="person" ref="#pmb13055">Wassermann</rs>, <rs type="person" ref="#pmb13094">Werfel</rs>, <rs type="person" ref="#pmb13212">Zweig</rs>
-               </anchor>.)</p>
+                   ref="#pmb31483 #pmb31481 #pmb31479 #pmb31477 #pmb31475 #pmb31473 #pmb31471 #pmb31469 #pmb31467 #pmb31465 #pmb31463 #pmb31461 #pmb31459 #pmb31457 #pmb31455">Grüßen zu meinem Geburtstag</rs>. (<anchor type="commentary" xml:id="KD345-2"/>
+               <rs type="work" subtype="implied" ref="#pmb31235">
+                  <rs type="person" ref="#pmb2456">Specht</rs>
+               </rs>
+               <note type="commentary" xml:id="KD345-2h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb31235">Arthur Schnitzler</rs>, S. 488–498</bibl>
+               (Vorabdruck).</p>
+               </note>, <anchor type="commentary" xml:id="KD345-3"/>
+               <rs type="person" ref="#pmb10788">Auernheimer</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb10955">Blei</rs>, <rs type="person" ref="#pmb11324">Fischer</rs>, <rs type="person" ref="#pmb11327">Flake</rs>, <rs type="person" ref="#pmb2771">Friedell</rs>, <rs type="person" ref="#pmb11617">Hauptmann</rs>, <rs type="person" ref="#pmb11740">Hofmannsthal</rs>, <rs type="person" ref="#pmb11752">Hollaender</rs>, <rs type="person" ref="#pmb11910">Kerr</rs>, <rs type="person" ref="#pmb12170">Heinrich Mann</rs>, <rs type="person" ref="#pmb12176">Th. Mann</rs>, <rs type="person" ref="#pmb13055">Wassermann</rs>, <rs type="person" ref="#pmb13094">Werfel</rs>, <rs type="person" ref="#pmb13212">Zweig</rs>
+               <note type="commentary" xml:id="KD345-3h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#31455">Arthur Schnitzler zu seinem sechzigsten Geburtstag
+                        (<date instant="false">15. Mai 1922</date>)</rs>, S. 498–513, mit Beiträgen von <rs type="person" ref="#pmb10788">Auernheimer</rs> (S. 498), <rs type="person" ref="#pmb10815">Bahr</rs> (S. 499–501), <rs type="person" ref="#pmb10955">Blei</rs> (S. 501), <rs type="person" ref="#pmb11324">Fischer</rs>
+                  (S. 501–502), <rs type="person" ref="#pmb11327">Flake</rs> (S. 502–503), <rs type="person" ref="#pmb2771">Friedell</rs> (S. 503–504), <rs type="person" ref="#pmb11617">Hauptmann</rs> (S. 504), <rs type="person" ref="#pmb11740">Hofmannsthal</rs> (S. 504–505), <rs type="person" ref="#pmb11752">Hollaender</rs> (S. 505–506), <rs type="person" ref="#pmb11910">Kerr</rs>
+                  (S. 506), <rs type="person" ref="#pmb12170">Heinrich Mann</rs> (S. 506), <rs type="person" ref="#pmb12176">Thomas Mann</rs> (S. 506–507), <rs type="person" ref="#pmb13055">Wassermann</rs> (S. 507–508), <rs type="person" ref="#pmb13094">Werfel</rs> (S. 508–510), <anchor type="commentary" xml:id="LKommKD345-3">
+                           <rs type="person" ref="#pmb13212">Zweig</rs> (S. 510–513)</anchor>
+                     </bibl>.</p>
+               </note>.)</p>
             <p>Mit <rs type="person" ref="#pmb3064 #pmb2774">Michaelis’</rs> im <rs type="place" ref="#pmb13">Königgr. Theater</rs>, »<rs type="work" ref="#pmb30835">die wunderlichen Abenteuer des Kapellm. Kreisler</rs>« – nur technisch decorativ interessant.– Bei <rs type="place" ref="#pmb247">Stallmann</rs> genachtm.</p>
          </div>
       </body>

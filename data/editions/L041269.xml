@@ -13,11 +13,11 @@
             <title type="iso-date">1904-01-29</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -112,7 +112,15 @@
                <space unit="chars" quantity="1"/>z<damage agent="water">
                   <supplied>u</supplied>
                </damage> sitzen. Ich tue übrigens nichts, ohne vorher <rs type="person" ref="#pmb2216">Ortner</rs> zu schreiben.</p>
-            <p>Der »<rs type="work" ref="#pmb29985">einsame Weg</rs>« kam gestern an und wurde sogleich gelesen. Wunderbar finde ich, wie Du da von der Peripherie der Menschheit, an welcher sich die meisten Stücke sonst herumbewegen, in die Mitte ihres geistigen Lebens kommst, nemlich unseres geistigen Lebens, der Sachen, um die wir uns heute allein noch kümmern können. (Wobei ich mich an einen Satz <rs type="person" ref="#pmb12156">Maeterlincks</rs> von dem <anchor type="commentary" xml:id="KL269-1">still an seinem Tische sitzenden Greise</anchor> und an manches erinnere, was in meinem <rs type="work" ref="#pmb29895">Dialog vom Tragischen</rs> gefordert wird). Allerdings<pb/> hat mir gestern, beim ersten eiligen Lesen und in meiner jetzigen geistigen Trübung, im dramatischen Ductus etwas gefehlt, ich kann es nicht anders sagen, als daß mir die Bewegung des Stückes einige Male abzubrechen und sich dann auf eine mir nicht gleich verständliche Art wieder zu sammeln oder zu ersetzen schien. Ich lese es nun aber in ein paar Tagen wieder und mit diesen Bemerkungen ist wol überhaupt mehr mein elender Zustand als das Stück kritisiert.</p>
+            <p>Der »<rs type="work" ref="#pmb29985">einsame Weg</rs>« kam gestern an und wurde sogleich gelesen. Wunderbar finde ich, wie Du da von der Peripherie der Menschheit, an welcher sich die meisten Stücke sonst herumbewegen, in die Mitte ihres geistigen Lebens kommst, nemlich unseres geistigen Lebens, der Sachen, um die wir uns heute allein noch kümmern können. (Wobei ich mich an einen Satz <rs type="person" ref="#pmb12156">Maeterlincks</rs> von dem <anchor type="commentary" xml:id="KL269-1"/>still an seinem Tische sitzenden Greise<note type="commentary" xml:id="KL269-1h">
+                  <p>In <rs type="work" ref="#pmb32406">À propos de Solness le Constructeur</rs> (<bibl >
+                        <rs type="org" ref="#pmb29706">Le Figaro</rs>, Jg. 40, Ser. 3, Nr. 92, <date instant="false">2. 4.
+                     1894</date>, S. 1</bibl>, <bibl >späterer Titel <rs type="work" ref="#pmb32406">Le Tragique quotidien</rs>
+                     </bibl>) schreibt <rs type="person" ref="#pmb12156">Maeterlinck</rs> über das
+               »tiefere Leben« eines Alten, der in seinem Stuhl versucht seine Umgebung zu
+               begreifen, im Vergleich beispielsweise zu einem Liebhaber, der die Geliebte
+               erwürgt.</p>
+               </note> und an manches erinnere, was in meinem <rs type="work" ref="#pmb29895">Dialog vom Tragischen</rs> gefordert wird). Allerdings<pb/> hat mir gestern, beim ersten eiligen Lesen und in meiner jetzigen geistigen Trübung, im dramatischen Ductus etwas gefehlt, ich kann es nicht anders sagen, als daß mir die Bewegung des Stückes einige Male abzubrechen und sich dann auf eine mir nicht gleich verständliche Art wieder zu sammeln oder zu ersetzen schien. Ich lese es nun aber in ein paar Tagen wieder und mit diesen Bemerkungen ist wol überhaupt mehr mein elender Zustand als das Stück kritisiert.</p>
             <closer>Grüß <rs type="person" ref="#pmb10986">Brahm</rs> und wen ich sonst in <rs type="place" ref="#pmb168">Berlin</rs> kenne, empfiel<!-- sic! --> mich Deiner <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> und sei herzlichst gegrüßt von<lb/>Deinem alten<lb/>
                <signed>Hermann</signed>
             </closer>

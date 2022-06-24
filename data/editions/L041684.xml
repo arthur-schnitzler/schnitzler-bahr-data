@@ -13,11 +13,11 @@
             <title type="iso-date">1904-12-21</title>
             <author ref="pmb11391">Fulda, Ludwig</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -125,12 +125,26 @@
                   <del rend="overwritten">e</del>
                   <add place="inline">E</add>
                </subst>twas in Versen.)</p>
-            <p>Aus dem <anchor type="commentary" xml:id="KL684-2">
-                  <rs type="work" subtype="implied" ref="#pmb32418">Artikel</rs>
-               </anchor> von <rs type="person" ref="#pmb11581">Harden</rs> über <rs type="person" ref="#pmb11813">Jacobsohn</rs>
-               <pb/> erfuhr ich, daß Herr <rs type="person" ref="#pmb10815">Hermann Bahr</rs> mich einen »<rs type="work" subtype="implied" ref="#pmb30045">gierigen Jobber</rs>« genannt hat, der »<rs type="work" subtype="implied" ref="#pmb30045">mit Meinungen wie mit alten Hosen hausirt</rs>.« Und zwar befindet sich diese Injurie – wohl der äußerste Rekord an Unanständigkeit – nicht etwa in einer Kritik über mich, sondern zurückgreifend in einer <anchor type="commentary" xml:id="KL684-3">
-                  <rs type="work" subtype="implied" ref="#pmb30045">Besprechung</rs>
-               </anchor> des <rs type="person" ref="#pmb11260">Otto Ernst</rs>’schen <rs type="work" subtype="implied" ref="#pmb32416">Stückes</rs>. Ich möchte nun gern einmal festgestellt sehen, wie weit die persönliche Beschimpfung und Beschmutzung eines unbescholtenen Menschen unter dem Deckmantel der literarischen Kritik getrieben werden darf. Und darum habe ich durch meinen <rs type="place" ref="#pmb50">Wien</rs>er <rs type="person" subtype="implied" ref="#pmb27714">Anwalt</rs> gegen Herrn <rs type="person" ref="#pmb10815">Bahr</rs> die <anchor type="commentary" xml:id="KL684-1">Beleidigungsklage</anchor> erheben lassen.–</p>
+            <p>Aus dem <anchor type="commentary" xml:id="KL684-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32418">Artikel</rs>
+               <note type="commentary" xml:id="KL684-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11581">Maximilian Harden</rs>: <rs type="work" ref="#pmb32418">Der kleine Jacobsohn</rs>. In: <rs type="org" ref="#pmb29631">Die Zukunft</rs>, Bd. 49, <date instant="false">10. 12. 1904</date>, S. 370–379, hier:
+                  S. 377</bibl>.</p>
+               </note> von <rs type="person" ref="#pmb11581">Harden</rs> über <rs type="person" ref="#pmb11813">Jacobsohn</rs>
+               <pb/> erfuhr ich, daß Herr <rs type="person" ref="#pmb10815">Hermann Bahr</rs> mich einen »<rs type="work" subtype="implied" ref="#pmb30045">gierigen Jobber</rs>« genannt hat, der »<rs type="work" subtype="implied" ref="#pmb30045">mit Meinungen wie mit alten Hosen hausirt</rs>.« Und zwar befindet sich diese Injurie – wohl der äußerste Rekord an Unanständigkeit – nicht etwa in einer Kritik über mich, sondern zurückgreifend in einer <anchor type="commentary" xml:id="KL684-3"/>
+               <rs type="work" subtype="implied" ref="#pmb30045">Besprechung</rs>
+               <note type="commentary" xml:id="KL684-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30045">Bannermann. (Schauspiel in drei Aufzügen von Otto Ernst. Zum
+                     erstenmal aufgeführt im Burgtheater am 26. November 1904)</rs>. In: <rs type="org" ref="#pmb29421">Österreichische Volks-Zeitung</rs>, Jg. 50, Nr. 329,
+                     <date instant="false">27. 11. 1904</date>, S. 5</bibl>.</p>
+               </note> des <rs type="person" ref="#pmb11260">Otto Ernst</rs>’schen <rs type="work" subtype="implied" ref="#pmb32416">Stückes</rs>. Ich möchte nun gern einmal festgestellt sehen, wie weit die persönliche Beschimpfung und Beschmutzung eines unbescholtenen Menschen unter dem Deckmantel der literarischen Kritik getrieben werden darf. Und darum habe ich durch meinen <rs type="place" ref="#pmb50">Wien</rs>er <rs type="person" subtype="implied" ref="#pmb27714">Anwalt</rs> gegen Herrn <rs type="person" ref="#pmb10815">Bahr</rs> die <anchor type="commentary" xml:id="KL684-1"/>Beleidigungsklage<note type="commentary" xml:id="KL684-1h">
+                  <p>
+                     <ptr target="D041263"/>.</p>
+               </note> erheben lassen.–</p>
             <p>Alle guten Wünsche zum Fest und zu Ihrem geplanten Ausflug ins <rs type="place" ref="#pmb697">Salzburgische</rs>. Im Vorfrühling möchte ich wohl gerne südwärts. Doch haben meine Pläne noch keine bestimmte Form angenommen; ich weiß nicht einmal, ob ich sie überhaupt werde verwirklichen können. Und Sie? </p>
             <p>Hoffentlich sieht man Sie, noch ehe der Winter zu Ende geht, noch einmal in <rs type="place" ref="#pmb168">Berlin</rs>, und zwar diesmal mit Ihrer lieben <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>.</p>
             <closer>Mit herzlichen Grüßen für Sie <rs type="person" subtype="implied" ref="#pmb2173">Beide</rs>

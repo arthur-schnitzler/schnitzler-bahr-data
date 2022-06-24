@@ -13,11 +13,11 @@
             <title type="iso-date">1906-06-21</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -109,10 +109,15 @@
                </dateline>
                <salute rend="center">Lieber Artur!</salute>
             </opener>
-            <p>Ich wollte immer noch zu Dir, war aber die letzte Zeit so gehetzt, daß es nie ging. Den »<anchor type="commentary" xml:id="KL300-1">
-                  <rs type="work" ref="#pmb29913">Faun</rs>
-               </anchor>« hast Du wol bekommen. Ich möchte gern gelegentlich ein durchaus aufrichtiges, rücksichtsloses Wort von Dir darüber hören. Und dann bitte ich Dich, es, wenn Dus gelesen hast, an <rs type="person" ref="#pmb2167">Salten</rs> nach <rs type="place" ref="#pmb168">Berlin</rs> zu schicken. Ich fahre <anchor type="commentary" xml:id="KL300-2">morgen nach <rs type="place" ref="#pmb462">Venedig</rs>
-               </anchor>. Nachrichten an meine <rs type="place" ref="#pmb220">Wiener<pb/> Adresse</rs> kommen mir immer nach. Vielleicht könnten wir uns im August irgendwo treffen. Grüß Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> herzlichst und nimm die besten Wünsche für einen frohen Sommer von </p>
+            <p>Ich wollte immer noch zu Dir, war aber die letzte Zeit so gehetzt, daß es nie ging. Den »<anchor type="commentary" xml:id="KL300-1"/>
+               <rs type="work" ref="#pmb29913">Faun</rs>
+               <note type="commentary" xml:id="KL300-1h">
+                  <p>Fertiggestellt am <date instant="false">5. 6. 1906</date> (<bibl >H. B. <rs type="work">TSN</rs>
+                  V,16</bibl>).</p>
+               </note>« hast Du wol bekommen. Ich möchte gern gelegentlich ein durchaus aufrichtiges, rücksichtsloses Wort von Dir darüber hören. Und dann bitte ich Dich, es, wenn Dus gelesen hast, an <rs type="person" ref="#pmb2167">Salten</rs> nach <rs type="place" ref="#pmb168">Berlin</rs> zu schicken. Ich fahre <anchor type="commentary" xml:id="KL300-2"/>morgen nach <rs type="place" ref="#pmb462">Venedig</rs>
+               <note type="commentary" xml:id="KL300-2h">
+                  <p>Er fuhr am <date instant="false">23.</date> los und blieb bis <date instant="false">Ende Juli</date>.</p>
+               </note>. Nachrichten an meine <rs type="place" ref="#pmb220">Wiener<pb/> Adresse</rs> kommen mir immer nach. Vielleicht könnten wir uns im August irgendwo treffen. Grüß Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> herzlichst und nimm die besten Wünsche für einen frohen Sommer von </p>
             <closer>Deinem alten<lb/>
                <signed>Hermann</signed>
             </closer>

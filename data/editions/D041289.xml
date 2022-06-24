@@ -13,11 +13,11 @@
             <title type="iso-date">1907-10-08</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,9 +83,12 @@
             <p>Nm. am <rs type="work" subtype="implied" ref="#pmb29923">Roman</rs>.–</p>
             <p>
                <rs type="person" ref="#pmb10788">Auernheimer</rs> kommt; über <rs type="person" ref="#pmb10875">Benedikt</rs>; etc.–</p>
-            <p>Las <rs type="person" ref="#pmb10815">Bahrs</rs> »<rs type="work" ref="#pmb30021">gelbe Nachtigall</rs>«. Angeschwollene Anekdote, mit einigen lustigen, in der Charakteristik einer <rs type="person" ref="#pmb11851">Kainzfigur</rs> auch bedeutungsvolleren Einzelheiten; im ganzen wirr.– Glaube, dass mir das Stück mein <anchor type="commentary" xml:id="KD289-1">
-                  <rs type="work" subtype="implied" ref="#pmb31429">Schauspielerstück</rs>
-               </anchor> unmöglich (?) macht.</p>
+            <p>Las <rs type="person" ref="#pmb10815">Bahrs</rs> »<rs type="work" ref="#pmb30021">gelbe Nachtigall</rs>«. Angeschwollene Anekdote, mit einigen lustigen, in der Charakteristik einer <rs type="person" ref="#pmb11851">Kainzfigur</rs> auch bedeutungsvolleren Einzelheiten; im ganzen wirr.– Glaube, dass mir das Stück mein <anchor type="commentary" xml:id="KD289-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31429">Schauspielerstück</rs>
+               <note type="commentary" xml:id="KD289-1h">
+                  <p>Aus dem Stoffplan wurde <rs type="work" ref="#pmb31429">Die große Szene</rs> aus dem
+               Zyklus <rs type="work" ref="#pmb30717">Komödie der Worte</rs>.</p>
+               </note> unmöglich (?) macht.</p>
          </div>
       </body>
    </text>

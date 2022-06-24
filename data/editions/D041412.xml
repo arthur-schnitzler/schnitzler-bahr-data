@@ -13,11 +13,11 @@
             <title type="iso-date">1901-05-11</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -138,43 +138,62 @@
             </p>
             <p>–</p>
             <p>
-               <anchor type="textConst" xml:id="TD412-1">
-                  <table cols="2" rows="4">
-                     <row role="data" rows="1" cols="1">
-                        <cell role="data" rows="1" cols="1">
-                           <rs type="org" ref="#pmb29414">Neues Wr Tagblatt</rs>
-                        </cell>
-                     </row>
-                     <row role="data" rows="1" cols="1">
-                        <cell role="data" rows="1" cols="1">Morgenblatt vom</cell>
-                        <cell role="data" rows="1" cols="1">
-                           <date>25. November</date> (<anchor type="commentary" xml:id="KD412-1">
-                              <rs type="work" subtype="implied" ref="#pmb30995">
-                                 <rs type="person" ref="#pmb12899">Sudermann</rs>
-                              </rs>
-                           </anchor>)</cell>
-                     </row>
-                     <row role="data" rows="1" cols="1">
-                        <cell role="data" rows="1" cols="1">u. –„–</cell>
-                        <cell role="data" rows="1" cols="1">
-                           <date>5. December 1900</date> (<anchor type="commentary" xml:id="KD412-2">
-                              <rs type="work" subtype="implied" ref="#pmb30997">
-                                 <rs type="person" ref="#pmb2121">Schnitzler</rs>
-                              </rs>
-                           </anchor>)</cell>
-                     </row>
-                     <row role="data" rows="1" cols="1">
-                        <cell role="data" rows="1" cols="1">Morgenbl vom</cell>
-                        <cell role="data" rows="1" cols="1">
-                           <anchor type="commentary" xml:id="KD412-3">
-                              <rs type="work" subtype="implied" ref="#pmb31381">
-                                 <date>1. Januar 1901</date>
-                              </rs>
-                           </anchor>
-                        </cell>
-                     </row>
-                  </table>
-               </anchor>
+               <anchor type="textConst" xml:id="TD412-1"/>
+               <table cols="2" rows="4">
+                  <row role="data" rows="1" cols="1">
+                     <cell role="data" rows="1" cols="1">
+                        <rs type="org" ref="#pmb29414">Neues Wr Tagblatt</rs>
+                     </cell>
+                  </row>
+                  <row role="data" rows="1" cols="1">
+                     <cell role="data" rows="1" cols="1">Morgenblatt vom</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <date>25. November</date> (<anchor type="commentary" xml:id="KD412-1"/>
+                        <rs type="work" subtype="implied" ref="#pmb30995">
+                           <rs type="person" ref="#pmb12899">Sudermann</rs>
+                        </rs>
+                        <note type="commentary" xml:id="KD412-1h">
+                           <p>
+                              <bibl >
+                                 <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30995">
+                                    <rs type="work" ref="#pmb31391">Johannisfeuer</rs>. Schauspiel in vier Akten
+                     von <rs type="person" ref="#pmb12899">Hermann Sudermann</rs>. Zum ersten Male
+                     aufgeführt am <date instant="false">24. November 1900</date>
+                                 </rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 34,
+                  Nr. 324, <date instant="false">25. 11. 1900</date>, S. 2–4</bibl>.</p>
+                        </note>)</cell>
+                  </row>
+                  <row role="data" rows="1" cols="1">
+                     <cell role="data" rows="1" cols="1">u. –„–</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <date>5. December 1900</date> (<anchor type="commentary" xml:id="KD412-2"/>
+                        <rs type="work" subtype="implied" ref="#pmb30997">
+                           <rs type="person" ref="#pmb2121">Schnitzler</rs>
+                        </rs>
+                        <note type="commentary" xml:id="KD412-2h">
+                           <p>
+                              <ptr target="T030012"/>.</p>
+                        </note>)</cell>
+                  </row>
+                  <row role="data" rows="1" cols="1">
+                     <cell role="data" rows="1" cols="1">Morgenbl vom</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <anchor type="commentary" xml:id="KD412-3"/>
+                        <rs type="work" subtype="implied" ref="#pmb31381">
+                           <date>1. Januar 1901</date>
+                        </rs>
+                        <note type="commentary" xml:id="KD412-3h">
+                           <p>
+                              <bibl >
+                                 <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31381">Der Beruf der Zukunft</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 35, Nr. 1, <date instant="false">1. 1. 1901</date>,
+                  S. 1–3</bibl>.</p>
+                        </note>
+                     </cell>
+                  </row>
+               </table>
+               <note type="textConst" xml:id="TD412-1h">
+                  <p>Mit Schrägstrich gestrichen.</p>
+               </note>
             </p>
             <p>–</p>
             <p>An den »<rs type="org" ref="#pmb29650">Tag</rs>«</p>

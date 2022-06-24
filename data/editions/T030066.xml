@@ -14,11 +14,11 @@
             <title type="iso-date">1931-12-10</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="066"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AAF-2</idno>
          </publicationStmt>
@@ -86,7 +86,7 @@
             <head type="sub">
                <hi rend="antiqua">Novelle. <rs type="org" ref="#pmb29639">S. Fischer, Verlag, Berlin</rs>. M. 4.80 Leinen.</hi>
             </head>
-            <p part="N">
+            <p>
                <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> kam 1862, ich 1863 zur Welt, aber 1866 bei <rs type="place" ref="#pmb49089">Sadowa</rs> versank sie. Wir scheuten seitdem das neue Licht, das fortan leuchtete, nun begann unsere Flucht aus dem Hellen, die »<rs type="work" ref="#pmb30863">Flucht in die Finsternis</rs>«. Warnung begleitete seitdem alle unsere Schritte. »<rs type="work" ref="#pmb30955">Die dreifache Warnung</rs>« hat <rs type="person" ref="#pmb2121">Schnitzler</rs> eine Sammlung von Novellen getauft. (Erschienen in <rs type="org" ref="#pmb29666">Reclams Universal-Bibliothek</rs> Nr. 6458.) Ein Hauch tiefer Melancholie lag seit <rs type="place" ref="#pmb49089">Sadowa</rs> auf uns, er tat uns ganz gut, es war dadurch gesorgt, daß unser eingeborener Übermut einen Dämpfer empfing; die Dosis war freilich unnötig stark. <signed>
                   <hi rend="antiqua">Hermann Bahr.</hi>
                </signed>

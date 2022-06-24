@@ -13,11 +13,11 @@
             <title type="iso-date">1913-05-06</title>
             <author ref="pmb13212">Zweig, Stefan</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -129,7 +129,9 @@
             <opener>
                <dateline rend="right">
                   <rs type="place" ref="#pmb50">Wien</rs>, <date>
-                     <anchor type="textConst" xml:id="TL566-1">5.</anchor> Mai 1913</date>
+                     <anchor type="textConst" xml:id="TL566-1"/>5.<note type="textConst" xml:id="TL566-1h">
+                        <p>richtig: 6.</p>
+                     </note> Mai 1913</date>
                </dateline>
                <salute rend="center">Lieber und verehrter Herr Bahr!</salute>
             </opener>
@@ -153,8 +155,12 @@
                </damage>
                <space unit="chars" quantity="1"/>
                <add place="above">in etwa 14 Tagen</add> eine Rede<pb/> halten (von der ich nicht weiss, ob Sie Ihnen lieb oder unlieb sein wird<del rend="strikethrough">)</del>
-               <add place="inline">,</add> die aber in erster Linie doch der jungen Leute willen und meinem eigenen Bedürfnis willen gehalten werden soll), und um diese Rede zur Feier zu ergänzen, <anchor type="commentary" xml:id="KL566-1">ähnlich wie bei der <rs type="person" ref="#pmb11617">Hauptmanns</rs>
-               </anchor>, soll nachher aus Ihren Werken etwa eine halbe Stunde vorgelesen werden. Wir müssen <del rend="strikethrough">noch</del> da <add place="above">nun</add> überlegen, was wir aus der Fülle Ihrer Bücher wählen sollen und wissen m<subst>
+               <add place="inline">,</add> die aber in erster Linie doch der jungen Leute willen und meinem eigenen Bedürfnis willen gehalten werden soll), und um diese Rede zur Feier zu ergänzen, <anchor type="commentary" xml:id="KL566-1"/>ähnlich wie bei der <rs type="person" ref="#pmb11617">Hauptmanns</rs>
+               <note type="commentary" xml:id="KL566-1h">
+                  <p>Zum 50. Geburtstag <rs type="person" ref="#pmb11617">Gerhart Hauptmanns</rs> hatte
+               die <rs type="org" ref="#pmb29752">Concordia</rs> am <date instant="false">17. 11. 1912</date> ein
+               Festbankett veranstaltet.</p>
+               </note>, soll nachher aus Ihren Werken etwa eine halbe Stunde vorgelesen werden. Wir müssen <del rend="strikethrough">noch</del> da <add place="above">nun</add> überlegen, was wir aus der Fülle Ihrer Bücher wählen sollen und wissen m<subst>
                   <del rend="overwritten">
                      <unclear>i</unclear>rt</del>
                   <add place="inline">it</add>

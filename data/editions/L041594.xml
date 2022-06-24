@@ -13,11 +13,11 @@
             <title type="iso-date">1903-03-30</title>
             <author ref="pmb12460">Pötzl, Eduard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,9 +104,20 @@
                   <rs type="place" ref="#pmb50">Wien</rs>, am <date>30. März 1903</date>.</dateline>
                <salute rend="center">Lieber Kollege!</salute>
             </opener>
-            <p>Ich fürchte, dass es überhaupt nicht angeht, über <rs type="person" ref="#pmb2121">Schnitzler</rs>’s »<rs type="work" ref="#pmb29855">Reigen</rs>« ein Feuilleton in unserem <rs type="org" subtype="implied" ref="#pmb29414">Blatte</rs> zu schreiben. Ich kenne das Werk, es ist sehr unterhaltend, aber nur für – Herren. Ich glaube, dass man es uns sehr übelnehmen würde, wenn wir über dieses Buch ein, wie ich bei Ihren Beziehungen zu <rs type="person" ref="#pmb2121">Schnitzler</rs> nicht zweifeln kann, anpreisendes Feuilleton brächten. Wir werden uns daher begnügen müssen, sein Erscheinen auf dem Büchermarkt zu <anchor type="commentary" xml:id="KL594-1">notifizieren</anchor> und im übrigen es der guten Fama zu überlassen, dass das Buch Verbreitung finde.</p>
-            <p>Dass Ihr Herz sich wieder unangenehm geregt hat, erachte ich als eine gerechte Strafe für Ihre <anchor type="commentary" xml:id="KL594-2">
-                  <rs type="person" ref="#pmb3467">Duncan</rs>-Begeisterung</anchor>. Mit dem Verschwinden der <rs type="person" ref="#pmb3467">Duncan</rs> aus <rs type="place" ref="#pmb50">Wien</rs> wird hoffentlich auch Ihr Herz wieder in Ordnung kommen.</p>
+            <p>Ich fürchte, dass es überhaupt nicht angeht, über <rs type="person" ref="#pmb2121">Schnitzler</rs>’s »<rs type="work" ref="#pmb29855">Reigen</rs>« ein Feuilleton in unserem <rs type="org" subtype="implied" ref="#pmb29414">Blatte</rs> zu schreiben. Ich kenne das Werk, es ist sehr unterhaltend, aber nur für – Herren. Ich glaube, dass man es uns sehr übelnehmen würde, wenn wir über dieses Buch ein, wie ich bei Ihren Beziehungen zu <rs type="person" ref="#pmb2121">Schnitzler</rs> nicht zweifeln kann, anpreisendes Feuilleton brächten. Wir werden uns daher begnügen müssen, sein Erscheinen auf dem Büchermarkt zu <anchor type="commentary" xml:id="KL594-1"/>notifizieren<note type="commentary" xml:id="KL594-1h">
+                  <p>Das geschah am <date instant="false">5. 4. 1903</date> (<bibl >
+                        <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 94,
+                  S. 12</bibl>): »<quote>* <rs type="person" ref="#pmb2121">Arthur <hi rend="spaced_out">Schnitzler</hi>
+                        </rs>s neues Buch <rs type="work" ref="#pmb29855">
+                           <hi rend="spaced_out">Reigen</hi>
+                        </rs> ist soeben im <rs type="org" ref="#pmb29636">Wiener Verlag</rs>
+                  erschienen.</quote>«</p>
+               </note> und im übrigen es der guten Fama zu überlassen, dass das Buch Verbreitung finde.</p>
+            <p>Dass Ihr Herz sich wieder unangenehm geregt hat, erachte ich als eine gerechte Strafe für Ihre <anchor type="commentary" xml:id="KL594-2"/>
+               <rs type="person" ref="#pmb3467">Duncan</rs>-Begeisterung<note type="commentary" xml:id="KL594-2h">
+                  <p>
+                     <ptr target="D041426"/>.</p>
+               </note>. Mit dem Verschwinden der <rs type="person" ref="#pmb3467">Duncan</rs> aus <rs type="place" ref="#pmb50">Wien</rs> wird hoffentlich auch Ihr Herz wieder in Ordnung kommen.</p>
             <closer>Mit vielen Grüssen<lb/>Ihr freundschaftlich ergebener<lb/>
                <signed>
                   <handShift/>EPötzl</signed>

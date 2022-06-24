@@ -13,11 +13,11 @@
             <title type="iso-date">1897-11-12</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,9 +105,17 @@
                </dateline>
             </opener>
             <p>
-               <salute>Lieber und verehrter Bahr, </salute> von <rs type="person" ref="#pmb2121">Schnitzler</rs> erfahre ich, dass die Vorlesung des »<anchor type="commentary" xml:id="KL569-1">
-                  <rs type="work" ref="#pmb30969">Wurstelpraters</rs>
-               </anchor>« so nahe bevorsteht, worüber ich mich natürlich herzlich freue. Da möchte ich gerne den bisherigen Titel, der nicht von mir und gar zu journalistisch ist, ändern, und statt »<rs type="work" ref="#pmb30969">Quer durch den Wurstelprater</rs>« lieber sagen »Wurstelprater.« Glauben Sie nicht auch? Wenn ich vorher wüsste, was Sie für Striche machen, wäre es mir lieb. Vielleicht können wir uns in den nächsten Tagen einmal für ein paar Minuten sprechen.</p>
+               <salute>Lieber und verehrter Bahr, </salute> von <rs type="person" ref="#pmb2121">Schnitzler</rs> erfahre ich, dass die Vorlesung des »<anchor type="commentary" xml:id="KL569-1"/>
+               <rs type="work" ref="#pmb30969">Wurstelpraters</rs>
+               <note type="commentary" xml:id="KL569-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb30969">Quer durch den Wurstelprater</rs>. In: <rs type="org" ref="#pmb29670">Wiener Allgemeine Zeitung</rs>, Jg. 16, Nr. 5174, <date instant="false">2. 6.
+                     1895</date>, Pfingst-Beilage, S. [1]–[4] und Nr. 5179, <date instant="false">9. 6. 1895</date>,
+                  S. 2–4</bibl> (mit Illustrationen von <rs type="person" ref="#pmb4785">Theo
+                  Zasche</rs>). Das Vortragsmanuskript in Nachlass <rs type="person" ref="#pmb10815">Bahrs</rs> (<bibl >
+                        <rs type="org">TMW</rs>, HS VM 782 Ba</bibl>).</p>
+               </note>« so nahe bevorsteht, worüber ich mich natürlich herzlich freue. Da möchte ich gerne den bisherigen Titel, der nicht von mir und gar zu journalistisch ist, ändern, und statt »<rs type="work" ref="#pmb30969">Quer durch den Wurstelprater</rs>« lieber sagen »Wurstelprater.« Glauben Sie nicht auch? Wenn ich vorher wüsste, was Sie für Striche machen, wäre es mir lieb. Vielleicht können wir uns in den nächsten Tagen einmal für ein paar Minuten sprechen.</p>
             <closer>Herzlich Ihr ergebener<lb/>
                <signed>Felix Salten</signed>
             </closer>

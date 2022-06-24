@@ -13,11 +13,11 @@
             <title type="iso-date">1911-11-08</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -85,7 +85,10 @@
             <p>Direktor <rs type="person" ref="#pmb3949">Koehne</rs> kam gleichfalls; zu »<rs type="work" ref="#pmb29935">Anatol</rs>« ins <rs type="place" ref="#pmb645">Schauspielhaus</rs>. <rs type="person" ref="#pmb20080">Lang</rs>, der als <rs type="work" subtype="implied" ref="#pmb30207">Aigner</rs> schlecht war, als <rs type="work" subtype="implied" ref="#pmb29935">Anatol</rs> amusant. <rs type="person" ref="#pmb13143">Wlach</rs> (<rs type="work" subtype="implied" ref="#pmb29935">Max</rs>) anständig, die <rs type="person" ref="#pmb21216">May</rs> als <rs type="work" subtype="implied" ref="#pmb30163">Gabriele</rs> wieder auffallend; sagte ihr einiges darauf bezüglich. Die <rs type="person" ref="#pmb2938">Elsinger</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb30033">Ilona</rs>, gut. Mußte, wie gestern und vorgestern auch, nach Schluß mich bedanken; auch nach dem <rs type="work" ref="#pmb30005">Abschiedsouper</rs>, bei dem ich selbst viel lachen mußte, besonders über den Kellner.– </p>
-            <p>Im Hotel nachtmahlten wir mit <rs type="person" ref="#pmb11561">Hagemann</rs>, <rs type="person" ref="#pmb3949">Koehne</rs> und <rs type="person" subtype="implied" ref="#pmb19488">Frau</rs>, und der <rs type="person" ref="#pmb2938">Elsinger</rs>. Sie sprach von einem Stück »wo sich der Sohn am Schluß erschießt – oder was<c rendition="#dots" n="3"/>«. Die Idee wurde aufgegriffen, auch <anchor type="commentary" xml:id="KD529-1">hier</anchor> zum »<rs type="work" ref="#pmb30085">Tänzchen</rs>« »<rs type="work" ref="#pmb29931">Comtesse Mizi</rs>« zu geben, mit der <rs type="person" ref="#pmb2938">Elsinger</rs>.–</p>
+            <p>Im Hotel nachtmahlten wir mit <rs type="person" ref="#pmb11561">Hagemann</rs>, <rs type="person" ref="#pmb3949">Koehne</rs> und <rs type="person" subtype="implied" ref="#pmb19488">Frau</rs>, und der <rs type="person" ref="#pmb2938">Elsinger</rs>. Sie sprach von einem Stück »wo sich der Sohn am Schluß erschießt – oder was<c rendition="#dots" n="3"/>«. Die Idee wurde aufgegriffen, auch <anchor type="commentary" xml:id="KD529-1"/>hier<note type="commentary" xml:id="KD529-1h">
+                  <p>
+                     <rs type="place" ref="#pmb645">Deutsches Schauspielhaus, Hamburg</rs>.</p>
+               </note> zum »<rs type="work" ref="#pmb30085">Tänzchen</rs>« »<rs type="work" ref="#pmb29931">Comtesse Mizi</rs>« zu geben, mit der <rs type="person" ref="#pmb2938">Elsinger</rs>.–</p>
          </div>
       </body>
    </text>

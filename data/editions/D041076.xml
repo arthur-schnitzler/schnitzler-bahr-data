@@ -13,11 +13,11 @@
             <title type="iso-date">1912-01-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,11 +78,22 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1912-01-14" n="01">14/1</date> S. Mit <rs type="person" ref="#pmb2173">O.</rs> spazieren. Sonnenwintertag. Skiläufer, Rodelleute, schönes Bild beim »<rs type="place" ref="#pmb634">Johann</rs>«.</p>
-            <p>Nach Tisch <rs type="person" ref="#pmb10815">Bahr</rs>. (Erzählt von Frau <rs type="person" ref="#pmb2757">Munk</rs>, ihrem Telephoniren gleich nach dem <anchor type="commentary" xml:id="KD076-2">Selbstmord der <rs type="person" subtype="implied" ref="#pmb21676">Tochter</rs>
-               </anchor> (wegen <rs type="person" ref="#pmb11281">Hans H. Ewers</rs>
-               <c rendition="#dots" n="3"/>): »Was sagen Sie zu dem <anchor type="commentary" xml:id="KD076-1">
-                  <rs type="work" subtype="implied" ref="#pmb31695">Buch</rs>
-               </anchor> –?«) Mit <rs type="person" ref="#pmb10815">Bahr</rs>, während <rs type="person" ref="#pmb10986">Brahm</rs> zu Hause schläft, zur <geogName type="place" ref="pmb94">Meiereiwiese</geogName> (Reste des Stafettenskilaufs). Über Vorlesungen und Vorlesungsprogramme. Unintimes Gespräch.– </p>
+            <p>Nach Tisch <rs type="person" ref="#pmb10815">Bahr</rs>. (Erzählt von Frau <rs type="person" ref="#pmb2757">Munk</rs>, ihrem Telephoniren gleich nach dem <anchor type="commentary" xml:id="KD076-2"/>Selbstmord der <rs type="person" subtype="implied" ref="#pmb21676">Tochter</rs>
+               <note type="commentary" xml:id="KD076-2h">
+                  <p>
+                     <rs type="person" ref="#pmb21676">Ria Munk</rs> erschoss sich am <date instant="false">28. 12.
+                  1911</date>.</p>
+               </note> (wegen <rs type="person" ref="#pmb11281">Hans H. Ewers</rs>
+               <c rendition="#dots" n="3"/>): »Was sagen Sie zu dem <anchor type="commentary" xml:id="KD076-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31695">Buch</rs>
+               <note type="commentary" xml:id="KD076-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11281">Hanns Heinz Ewers</rs>: <rs type="work" ref="#pmb31695">Alraune. Die Geschichte eines lebenden Wesens</rs>. München:
+                     <rs type="org">Georg Müller</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1911</date> (erschienen spätestens <date instant="false">Anfang Dezember</date>)</bibl>.</p>
+               </note> –?«) Mit <rs type="person" ref="#pmb10815">Bahr</rs>, während <rs type="person" ref="#pmb10986">Brahm</rs> zu Hause schläft, zur <geogName type="place" ref="pmb94">Meiereiwiese</geogName> (Reste des Stafettenskilaufs). Über Vorlesungen und Vorlesungsprogramme. Unintimes Gespräch.– </p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs>, <rs type="person" ref="#pmb13648 #pmb13644">Bachrachs</rs>, <rs type="person" ref="#pmb23061 #pmb23062">Rappaports</rs> zurück.</p>
             <p>– <rs type="person" ref="#pmb13055">Wassermann</rs> liest in seinem Zimmer Frau <rs type="person" ref="#pmb13644">Bachrach</rs>, <rs type="person" ref="#pmb2753">Mimi</rs>, <rs type="person" ref="#pmb13653">Stephi</rs>, <rs type="person" ref="#pmb2173">Olga</rs> und mir den Anfang seines neuen kleinen Romans <rs type="work" ref="#pmb30359">Der Mann von 40 Jahren</rs> vor.– </p>
             <p>Nach dem Nachtmahl Billard mit ihm.</p>

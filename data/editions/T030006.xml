@@ -14,11 +14,11 @@
             <title type="iso-date">1929-03-31</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="006"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A75-3</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>Schnitzler, A 7,2</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Typoskript, 1 Bl., 1 S., mit hs. Unterstreichungen und einem ergänzten Apostroph in Bleistift.</p>
+                        <p>ms. Typoskript, 1 Bl., 1 S., mit hs. Unterstreichungen und einem ergänzten Apostroph in Bleistift.</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -78,21 +78,33 @@
       <body>
          <div>
             <head>
-               <anchor type="commentary" xml:id="KT006-1">Aus dem <rs type="work" ref="#pmb31559">Tagebuch</rs>
-               </anchor>
+               <anchor type="commentary" xml:id="KT006-1"/>Aus dem <rs type="work" ref="#pmb31559">Tagebuch</rs>
+               <note type="commentary" xml:id="KT006-1h">
+                  <p>Das Zitat entnommen aus: <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31559">Tagebuch. 14. März</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 37, Nr. 12700, <date when="1929-03-31" instant="false">31. 3.
+                     1920</date>, S. 22–23</bibl>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">von <rs type="person" ref="#pmb10815">Bahr</rs>
                </hi>, <date>31. März 1929</date>, <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>.</head>
-            <p part="N">Anlässlich <anchor type="commentary" xml:id="KT006-2">
-                  <rs type="person" ref="#pmb28448">Cajetan Bernvilles</rs>
-                  <add place="inline">’</add> Schrift »<rs type="work" ref="#pmb31721">
-                     <hi rend="underline" n="1">Ueber das Leben der heiligen </hi>
-                     <rs type="person" ref="#pmb28452">
-                        <hi rend="underline" n="1">Therese, vom Kinde Jesu</hi>
-                     </rs>
+            <p>Anlässlich <anchor type="commentary" xml:id="KT006-2"/>
+               <rs type="person" ref="#pmb28448">Cajetan Bernvilles</rs>
+               <add place="inline">’</add> Schrift »<rs type="work" ref="#pmb31721">
+                  <hi rend="underline" n="1">Ueber das Leben der heiligen </hi>
+                  <rs type="person" ref="#pmb28452">
+                     <hi rend="underline" n="1">Therese, vom Kinde Jesu</hi>
                   </rs>
-               </anchor>.«</p>
-            <p part="N">»<c rendition="#dots" n="4" place="center"/> doch dass sie jetzt bis in die kleinsten <rs type="place" ref="#pmb314">bayrischen</rs> und <rs type="place" ref="#pmb41240">österreichischen</rs> Landorte hinein vom Volke verehrt wird, ja dass in keiner Dorfkirche ja fast schon auch in keinem Gebetbuch ihr Bild fehlt, ist seltsam. Gerade die Bilder befremden <del rend="strikethrough">ujn</del> unseren Geschmack zunächst, sie süsseln, man hat den Eindruck: sie kokettieren mit dem lieben Gott. Erst wer die Heilige näher kennen lernt, sei es aus Schilderungen ihres Lebens, sei es durch unmittelbaren Verkehr mit ihr im Gebet wird der hohen Kraft inne, die von ihr ausstrahlt.« </p>
+               </rs>
+               <note type="commentary" xml:id="KT006-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb28448">Gaëtan Bernoville</rs>: <rs type="work" ref="#pmb31721">Die heilige Therese vom Kinde Jesu</rs>. Aus dem Französischen
+                  von <rs type="person" ref="#pmb28929">Max Lorenz</rs>. München: <rs type="org" ref="#pmb29341">Kösel <c rendition="#kaufmannsund"/> Pustet</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1928</date>
+                     </bibl>.</p>
+               </note>.«</p>
+            <p>»<c rendition="#dots" n="4" place="center"/> doch dass sie jetzt bis in die kleinsten <rs type="place" ref="#pmb314">bayrischen</rs> und <rs type="place" ref="#pmb41240">österreichischen</rs> Landorte hinein vom Volke verehrt wird, ja dass in keiner Dorfkirche ja fast schon auch in keinem Gebetbuch ihr Bild fehlt, ist seltsam. Gerade die Bilder befremden <del rend="strikethrough">ujn</del> unseren Geschmack zunächst, sie süsseln, man hat den Eindruck: sie kokettieren mit dem lieben Gott. Erst wer die Heilige näher kennen lernt, sei es aus Schilderungen ihres Lebens, sei es durch unmittelbaren Verkehr mit ihr im Gebet wird der hohen Kraft inne, die von ihr ausstrahlt.« </p>
          </div>
       </body>
    </text>

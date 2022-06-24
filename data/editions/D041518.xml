@@ -13,11 +13,11 @@
             <title type="iso-date">1894-01-28</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,9 +77,14 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1894-01-28" n="01">28/1</date> S. Nm. in der <rs type="work" ref="#pmb31279">Waise</rs>, die <rs type="person" ref="#pmb12618">Dilly</rs> spielte.– Bei mir <rs type="person" ref="#pmb2420">Schik</rs>, <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb10863">Richard</rs>;– las <anchor type="commentary" xml:id="KD518-1">
-                  <rs type="work" ref="#pmb30389">Halbzwei</rs>
-               </anchor> vor, das sehr gefiel.– Bei <rs type="person" ref="#pmb12618">Dilly</rs>
+               <date when="1894-01-28" n="01">28/1</date> S. Nm. in der <rs type="work" ref="#pmb31279">Waise</rs>, die <rs type="person" ref="#pmb12618">Dilly</rs> spielte.– Bei mir <rs type="person" ref="#pmb2420">Schik</rs>, <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb10863">Richard</rs>;– las <anchor type="commentary" xml:id="KD518-1"/>
+               <rs type="work" ref="#pmb30389">Halbzwei</rs>
+               <note type="commentary" xml:id="KD518-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30389">Halbzwei</rs>. In: <rs type="org" ref="#pmb29440">Die
+                     Gesellschaft</rs>, Jg. 13, H. 4, <date instant="false">1. 4. 1897</date>, S. 42–49</bibl>.</p>
+               </note> vor, das sehr gefiel.– Bei <rs type="person" ref="#pmb12618">Dilly</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb13856">Theo</rs>, <rs type="person" ref="#pmb2420">Schik</rs>, ich,– ungemütlich, gezwungen, Pausen, früh weg.– Bei <rs type="place" ref="#pmb419">Streitberger</rs> soupirt, <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb2420">Schik</rs>, <rs type="person" ref="#pmb12740">Schwarzkopf</rs>, <rs type="person" ref="#pmb18273 #pmb28279">Hiller’s</rs>.</p>
          </div>

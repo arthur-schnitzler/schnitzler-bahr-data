@@ -13,11 +13,11 @@
             <title type="iso-date">1905-06-05</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,8 +79,11 @@
             <p>
                <date when="1905-06-05" n="1">5/6</date> Vm. mit <rs type="person" ref="#pmb2173">O.</rs> in der <rs type="place" ref="#pmb75 #pmb957">Brühl</rs> bei <rs type="person" ref="#pmb2315">Liesl</rs>; <rs type="person" ref="#pmb12837">Steinrück</rs> war auf einen Tag da.–</p>
             <p>Nm. <rs type="person" ref="#pmb13055">Wassermann</rs> da; über <rs type="work" ref="#pmb30233">Charolais</rs> und <rs type="person" ref="#pmb12170">H. Mann</rs>. <rs type="person" ref="#pmb13055">W.</rs> sehr übelwollend.–</p>
-            <p>Abds. bei <rs type="work" ref="#pmb29901">Sanna</rs> (<rs type="person" ref="#pmb12504">Reinhardt</rs>-Gastspiel); glänzende Aufführung. Die <rs type="person" ref="#pmb11791">Höflich</rs> erster Rang.– Kam ins <anchor type="commentary" xml:id="KD525-1">Schwanken wegen meiner <rs type="work" subtype="implied" ref="#pmb29903 #pmb29905">Stücke</rs>
-               </anchor>, weiss nicht, wie ich sie auf <rs type="person" ref="#pmb10986">Brahm</rs> und <rs type="person" ref="#pmb12504">Reinh.</rs> vertheilen soll. (<rs type="person" ref="#pmb2299">Sorma</rs>, <rs type="person" ref="#pmb11791">Höflich</rs> –)</p>
+            <p>Abds. bei <rs type="work" ref="#pmb29901">Sanna</rs> (<rs type="person" ref="#pmb12504">Reinhardt</rs>-Gastspiel); glänzende Aufführung. Die <rs type="person" ref="#pmb11791">Höflich</rs> erster Rang.– Kam ins <anchor type="commentary" xml:id="KD525-1"/>Schwanken wegen meiner <rs type="work" subtype="implied" ref="#pmb29903 #pmb29905">Stücke</rs>
+               <note type="commentary" xml:id="KD525-1h">
+                  <p>
+                     <bibl >Vgl. <rs type="work">Bw</rs> Schnitzler/Brahm 175–176</bibl>.</p>
+               </note>, weiss nicht, wie ich sie auf <rs type="person" ref="#pmb10986">Brahm</rs> und <rs type="person" ref="#pmb12504">Reinh.</rs> vertheilen soll. (<rs type="person" ref="#pmb2299">Sorma</rs>, <rs type="person" ref="#pmb11791">Höflich</rs> –)</p>
             <p>– Genachtm. bei »<rs type="place" ref="#pmb460">Seidl</rs>« mit <rs type="person" ref="#pmb12968">Trebitsch</rs>.– Er erzählte allerlei halbwahres aus <rs type="place" ref="#pmb182">Paris</rs> und viel erlognes über sich.–</p>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1906-02-03</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -136,7 +136,9 @@
                <pb/>
                <space unit="chars" quantity="1"/>anders bestimmen könnte? In diesem Fa<damage agent="hole">
                   <supplied>lle</supplied>
-               </damage> möchte ich einen Antrag des <rs type="place" ref="#pmb11">Münchner Schauspielhauses</rs> (der <rs type="person" ref="#pmb11324">Fischer</rs> schon seit Wochen vorliegt) vorläufg <anchor type="commentary" xml:id="KL090-1">dilatorisch</anchor> behandeln.</p>
+               </damage> möchte ich einen Antrag des <rs type="place" ref="#pmb11">Münchner Schauspielhauses</rs> (der <rs type="person" ref="#pmb11324">Fischer</rs> schon seit Wochen vorliegt) vorläufg <anchor type="commentary" xml:id="KL090-1"/>dilatorisch<note type="commentary" xml:id="KL090-1h">
+                  <p>Verzögernd.</p>
+               </note> behandeln.</p>
             <closer>Herzlichst<lb/>dein<lb/>
                <signed>A.</signed>
             </closer>

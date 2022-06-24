@@ -13,11 +13,11 @@
             <title type="iso-date">1905-08-03</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -122,7 +122,9 @@
          <div type="writingSession" n="1">
             <opener>
                <dateline rend="right">
-                  <date>3. <anchor type="textConst" xml:id="TL291-1">7.</anchor> 05</date>
+                  <date>3. <anchor type="textConst" xml:id="TL291-1"/>7.<note type="textConst" xml:id="TL291-1h">
+                        <p>Schreibirrtum.</p>
+                     </note> 05</date>
                </dateline>
             </opener>
             <p>Dich u Deine liebe <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> grüßt herzlichst </p>

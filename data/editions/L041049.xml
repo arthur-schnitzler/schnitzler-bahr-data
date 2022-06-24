@@ -13,11 +13,11 @@
             <title type="iso-date">1902-05-16</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,8 +127,14 @@
             </opener>
             <p>bevor ich zu dir hinauskomme, dir für deinen guten schönen Brief zu danken, wollte ich dir heute schon sagen, wie herzlich er mich gefreut hat – und dass die Blumen, d<damage agent="hole">
                   <supplied>ie</supplied>
-               </damage> du mir <add place="inline">ge</add>schickt hast, mindestens ebenso wohl u herrlich duften als wenn sie von einem weiblichen Wesen kämen – und je<pb/>denfalls zu den freundlichsten Enttäuschungen gehören, die mir geworden sind – Noch mehreres wollte ich dir schreiben, was aber zu lesen dir heute die Stimmung fehlen wird, denn eben lese ich dass deine <anchor type="commentary" xml:id="KL049-1">
-                  <rs type="person" subtype="implied" ref="#pmb27667">Mutter</rs> gestorben</anchor> ist, und so kann ich für heute nichts anderes mehr sagen, als dass ich dich bitte, an die innigste<pb/> Theilnahme eines Menschen zu glauben, der dein Freund <hi rend="underline" n="1">geworden</hi> ist. Und was man so allmälig wurde, bleibt man – besonders in unseren Jahren. Nicht mehr für heute. Ich hoffe dich bald zu sehen.</p>
+               </damage> du mir <add place="inline">ge</add>schickt hast, mindestens ebenso wohl u herrlich duften als wenn sie von einem weiblichen Wesen kämen – und je<pb/>denfalls zu den freundlichsten Enttäuschungen gehören, die mir geworden sind – Noch mehreres wollte ich dir schreiben, was aber zu lesen dir heute die Stimmung fehlen wird, denn eben lese ich dass deine <anchor type="commentary" xml:id="KL049-1"/>
+               <rs type="person" subtype="implied" ref="#pmb27667">Mutter</rs> gestorben<note type="commentary" xml:id="KL049-1h">
+                  <p>
+                     <rs type="person" ref="#pmb27667">Mina Bahr</rs> starb am <date instant="false">15. 5. 1902</date> in
+                  <rs type="place" ref="#pmb30">Salzburg</rs>. Eine Meldung brachte etwa die <bibl >
+                        <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>, Nr. 13551, <date instant="false">16. 5.
+                     1902</date>, Abendblatt, S. 2</bibl>.</p>
+               </note> ist, und so kann ich für heute nichts anderes mehr sagen, als dass ich dich bitte, an die innigste<pb/> Theilnahme eines Menschen zu glauben, der dein Freund <hi rend="underline" n="1">geworden</hi> ist. Und was man so allmälig wurde, bleibt man – besonders in unseren Jahren. Nicht mehr für heute. Ich hoffe dich bald zu sehen.</p>
             <closer>In Treue dein<lb/>
                <signed>Arthur</signed>
             </closer>

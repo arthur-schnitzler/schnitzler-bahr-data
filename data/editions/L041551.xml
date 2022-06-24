@@ -13,11 +13,11 @@
             <title type="iso-date">1896-05-03</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,7 +106,11 @@
                <salute>Verehrter Herr Bahr!</salute>
             </opener>
             <p>
-               <rs type="person" ref="#pmb2121">Schnitzler</rs> sowol wie <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> glauben, dass die von Ihnen <anchor type="commentary" xml:id="KL551-1">vorgeschlagene Art</anchor> sehr gut ist. Nur meinen sie, – und ich glaube, dass sie darin Recht haben, man dürfe bei einem Menschen von jener Natur sich auf mündliche Auseinandersetzungen <del rend="strikethrough">
+               <rs type="person" ref="#pmb2121">Schnitzler</rs> sowol wie <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> glauben, dass die von Ihnen <anchor type="commentary" xml:id="KL551-1"/>vorgeschlagene Art<note type="commentary" xml:id="KL551-1h">
+                  <p>Die genaueren Hintergründe des Duells, das <rs type="person" ref="#pmb2167">Salten</rs> mit dem Journalisten <rs type="person" ref="#pmb3579">Leopold
+                  Jacobson</rs> anstrebte und bei dem <rs type="person" ref="#pmb10815">Bahr</rs>
+               Sekundant war, konnten nicht ermittelt werden.</p>
+               </note> sehr gut ist. Nur meinen sie, – und ich glaube, dass sie darin Recht haben, man dürfe bei einem Menschen von jener Natur sich auf mündliche Auseinandersetzungen <del rend="strikethrough">
                   <unclear>sich</unclear>
                </del> nicht verlaßen. Sie meinen, dass der in Rede stehende <rs type="person" subtype="implied" ref="#pmb3579">Herr</rs> seine Lection von Ihnen entweder im Beisein von Zeugen empfangen soll, oder dass man ihm schreibt, was man ihm zu sagen hat, und dieses Schreiben von Zeugen fertigen läßt. Ferner sprechen sie sich dagegen aus, diesen <rs type="person" subtype="implied" ref="#pmb3579">Mann</rs> in eine Wohnung oder in ein Redactionslocal zu bestellen.</p>
             <p>Vielleicht theilten Sie mir inzwischen auch Ihre Entschlüße mit, und sagen mir, wo ich Sie bald sprechen kann.</p>

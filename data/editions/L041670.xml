@@ -13,11 +13,11 @@
             <title type="iso-date">1921-12-03</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -121,7 +121,9 @@
             <p>
                <rs type="person" ref="#pmb13041">Walter</rs> getroffen, der mir von selbst einige sehr warme, sehr teilnehmende, sehr menschliche Worte über mein Schicksal sagte.</p>
             <p>Was Du von <rs type="person" ref="#pmb10815">Bahr</rs> in Deinem Brief sagst, mag auf seine frühere Zeit stimmen: Du wirst ihn ganz verändert finden, er ist klar, bestimmt und sachlich, aber höchst sachlich geworden, da er <hi rend="underline" n="1">sich selbst</hi> im wahrsten Sinn gefunden hat,– darum geht ja so viel Gutes und Befestigendes von ihm aus.</p>
-            <p>Ich muss Dir einmal eine Geschichte von ihm und <rs type="person" ref="#pmb2381">Shaw</rs> erzälen,– in der er voll Selbsterkenntnis dieser seiner gelegentlichen feuilletonistischen Seite gegenübersteht,– sehr amüsant. Auch sagte er neulich so ausgezeichnete Dinge über die menschliche<pb/> Bosheit,– über die Verführung der geistigen Bosheit, Beispiele <rs type="person" ref="#pmb3124">Voltaire</rs>, <rs type="person" ref="#pmb4823">Friedrich d. Grosse</rs>,– und anschliessend, der <rs type="person" ref="#pmb11740">Hugerl</rs>, und er selbst,– er hat sich einen <anchor type="commentary" xml:id="KL670-1">Witz</anchor> sehr vorgeworfen, den er neulich hier auf eine Demimondaine gemacht hat, die ein Herr hier heiraten wollte, und mit diesem rasch die Runde machenden Witz – ist die Dame wahrscheinlich unmöglich gemacht worden. Er hat keine Spur von Scheinheiligkeit, aber er hat mit grossem Ernst an sich gearbeitet, und wenn ein Mensch durch den Katholicismus oder sonst was <hi rend="underline" n="1">so weit</hi> werden kann, dann ist auch <hi rend="underline" n="1">das Mittel</hi> gut zu heissen, das ihm auf diesen Weg verholfen hat.</p>
+            <p>Ich muss Dir einmal eine Geschichte von ihm und <rs type="person" ref="#pmb2381">Shaw</rs> erzälen,– in der er voll Selbsterkenntnis dieser seiner gelegentlichen feuilletonistischen Seite gegenübersteht,– sehr amüsant. Auch sagte er neulich so ausgezeichnete Dinge über die menschliche<pb/> Bosheit,– über die Verführung der geistigen Bosheit, Beispiele <rs type="person" ref="#pmb3124">Voltaire</rs>, <rs type="person" ref="#pmb4823">Friedrich d. Grosse</rs>,– und anschliessend, der <rs type="person" ref="#pmb11740">Hugerl</rs>, und er selbst,– er hat sich einen <anchor type="commentary" xml:id="KL670-1"/>Witz<note type="commentary" xml:id="KL670-1h">
+                  <p>Nicht ermittelt.</p>
+               </note> sehr vorgeworfen, den er neulich hier auf eine Demimondaine gemacht hat, die ein Herr hier heiraten wollte, und mit diesem rasch die Runde machenden Witz – ist die Dame wahrscheinlich unmöglich gemacht worden. Er hat keine Spur von Scheinheiligkeit, aber er hat mit grossem Ernst an sich gearbeitet, und wenn ein Mensch durch den Katholicismus oder sonst was <hi rend="underline" n="1">so weit</hi> werden kann, dann ist auch <hi rend="underline" n="1">das Mittel</hi> gut zu heissen, das ihm auf diesen Weg verholfen hat.</p>
             <p>Von der <rs type="person" ref="#pmb12160">Alma</rs> hab ich ein paar <hi rend="underline" n="1">sehr</hi> liebe Zeilen, in denen sie eber nichts von ihrer Krankheit erzält.</p>
             <p>Alles Gute und Herzliche, Arthur, auch zu der <rs type="work" subtype="implied" ref="#pmb29863">Première</rs> am Mittwoch. Deiner <rs type="person" subtype="implied" ref="#pmb2461">Schwester</rs> schreib ich bald, so bald ich kann, sie hat mir die Festlichkeiten sehr ausführliche geschildert. Küss meine geliebten <rs type="person" subtype="implied" ref="#pmb12692 #pmb2238">Kinder</rs>, sie sollen mir schreiben.</p>
             <closer>Innigst <signed>O.</signed>

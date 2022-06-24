@@ -13,11 +13,11 @@
             <title type="iso-date">1905-09-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -126,7 +126,10 @@
                </dateline>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Ich hab nun auch das <rs type="work" ref="#pmb29903">Zwischenspiel</rs> gelesen, mit einem sehr großen artistischen Vergnügen. Es ist eine reizende Comödie und ich finde es wunderbar, wie Du in die Form des alten <rs type="place" ref="#pmb14">Burgtheater</rs>stücks die feinste Psychologie und unsere neuesten Probleme gebracht hast. Mich stört nur manchmal der (gewiß beabsichtigte) <anchor type="commentary" xml:id="KL295-1">Cafehauston</anchor> zwischen den beiden Freunden, eine Art von philosophisch<space unit="chars" quantity="1"/>
+            <p>Ich hab nun auch das <rs type="work" ref="#pmb29903">Zwischenspiel</rs> gelesen, mit einem sehr großen artistischen Vergnügen. Es ist eine reizende Comödie und ich finde es wunderbar, wie Du in die Form des alten <rs type="place" ref="#pmb14">Burgtheater</rs>stücks die feinste Psychologie und unsere neuesten Probleme gebracht hast. Mich stört nur manchmal der (gewiß beabsichtigte) <anchor type="commentary" xml:id="KL295-1"/>Cafehauston<note type="commentary" xml:id="KL295-1h">
+                  <p>
+                     <ptr target="KT014-2"/>.</p>
+               </note> zwischen den beiden Freunden, eine Art von philosophisch<space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb50">wienerisch</rs> jüdischer Schnoddrigkeit, die in früheren Jahren mir vielleicht noch geläufiger als Dir war, aber seien wir froh, daß es vorbei ist! Mehr noch stört mich Dein <rs type="work" subtype="implied" ref="#pmb29903">Fürst</rs>. Warum mußt Du einen sich in einer heiklen Situation sehr nett benehmenden Menschen in eine Kaste versetzen, in welcher Roheit die Regel, sittlicher Takt unbekannt ist? Und wie unangenehm wird einem die Frau, die sich von so einem hofieren läßt! Aber dies alles mündlich. Könnte ich nicht nächste Woche einmal Vormittag auf ein paar Stunden zu Dir kommen? An Abenden macht sichs zu schwer. Grüß Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> herzlichst! <signed>H.</signed>
             </p>
          </div>

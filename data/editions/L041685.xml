@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-10</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,15 @@
                   <rs type="place" ref="#pmb168">Berlin</rs>
                   <space unit="chars" quantity="1"/>
                   <date when="1904-02">
-                     <anchor type="commentary" xml:id="KL685-1">Feber</anchor> 904</date>. </p>
+                     <anchor type="commentary" xml:id="KL685-1"/>Feber<note type="commentary" xml:id="KL685-1h">
+                        <p>
+                           <bibl >
+                              <rs type="work">Tb</rs>
+                              <space unit="chars" quantity="1"/>
+                              <date instant="false">10. 2. 1904</date>
+                           </bibl>: »<quote>Nm. bei <rs type="person" ref="#pmb11324">Fischer</rs>, Bücher des
+                     <rs type="work" ref="#pmb29985">E. W.</rs> verschickt –</quote>«.</p>
+                     </note> 904</date>. </p>
             </postscript>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1893-04-21</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -116,15 +116,25 @@
             <opener>
                <salute>Lieber Hugo,</salute>
             </opener>
-            <p>beifolgende Briefe, erster <anchor type="commentary" xml:id="KL429-1">von <rs type="person" ref="#pmb2450">
-                     <hi rend="latintype">Fels</hi>
-                  </rs>
-               </anchor> zweiter <anchor type="commentary" xml:id="KL429-2">von Frau <rs type="person" ref="#pmb4329">
-                     <hi rend="latintype">Clara Schreiber</hi>
-                  </rs>
-               </anchor>, an die ich unsern Freund empfohlen habe, die Gattin des Dr. <rs type="person" ref="#pmb24499">
+            <p>beifolgende Briefe, erster <anchor type="commentary" xml:id="KL429-1"/>von <rs type="person" ref="#pmb2450">
+                  <hi rend="latintype">Fels</hi>
+               </rs>
+               <note type="commentary" xml:id="KL429-1h">
+                  <p>In einem Brief vom <date instant="false">20. 4. 1893</date> (<bibl >
+                        <rs type="org">DLA</rs>, A:Schnitzler, 85.1.2956</bibl>) schreibt <rs type="person" ref="#pmb2450">Fels</rs>, dass er zum Monatsende nach <rs type="place" ref="#pmb50">Wien</rs> und mit <date instant="false">1. 5.</date> bei der <rs type="org" ref="#pmb29424">Deutschen Zeitung</rs> beginnen könne. Er würde dann
+               ein Drittel oder Viertel des Einkommens dazu verwenden, seine Schulden in <rs type="place" ref="#pmb43520">Meran</rs> zu begleichen.</p>
+               </note> zweiter <anchor type="commentary" xml:id="KL429-2"/>von Frau <rs type="person" ref="#pmb4329">
+                  <hi rend="latintype">Clara Schreiber</hi>
+               </rs>
+               <note type="commentary" xml:id="KL429-2h">
+                  <p>Sie bittet um Hilfe, <rs type="person" ref="#pmb2450">Fels</rs> habe nun seit acht
+               Wochen sein Logis nicht bezahlt und er würde behaupten, kein Geld zu haben (<bibl >
+                        <rs type="org">CUL</rs>, Schnitzler, B 385</bibl>).</p>
+               </note>, an die ich unsern Freund empfohlen habe, die Gattin des Dr. <rs type="person" ref="#pmb24499">
                   <hi rend="latintype">Schreiber</hi>
-               </rs>, Curarzt in <rs type="place" ref="#pmb43520">Meran</rs>, – sind auch für Sie von Interesse. Ich bitte Sie, sich vielleicht an <rs type="person" ref="#pmb10815">Bahr</rs> zu wenden, was Sie ja von uns dreien am <anchor type="commentary" xml:id="KL429-3">leichtesten</anchor> u besten können,<pb/> und mich so rasch als möglich von dem Ausfall Ihrer Bemühungen zu unterrichten, sowie die beiden Briefe mir zurückzuschicken.</p>
+               </rs>, Curarzt in <rs type="place" ref="#pmb43520">Meran</rs>, – sind auch für Sie von Interesse. Ich bitte Sie, sich vielleicht an <rs type="person" ref="#pmb10815">Bahr</rs> zu wenden, was Sie ja von uns dreien am <anchor type="commentary" xml:id="KL429-3"/>leichtesten<note type="commentary" xml:id="KL429-3h">
+                  <p>Sie wohnten beide in der <rs type="place" ref="#pmb76">Salesianergasse 12</rs>.</p>
+               </note> u besten können,<pb/> und mich so rasch als möglich von dem Ausfall Ihrer Bemühungen zu unterrichten, sowie die beiden Briefe mir zurückzuschicken.</p>
             <closer>Ich bin mit herzlichen Grüßen<lb/>Ihr <signed>Arthur</signed>
             </closer>
          </div>

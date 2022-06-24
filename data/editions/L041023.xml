@@ -13,11 +13,11 @@
             <title type="iso-date">1898-12-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -129,7 +129,15 @@
                   </damage>sche</rs>. Den »<rs type="work" ref="#pmb29843">Kakadu</rs>« hat die <rs type="org" ref="#pmb29212">F<damage agent="hole">
                      <supplied>rei</supplied>
                   </damage>e Bühne</rs> schon (»<rs type="org" ref="#pmb29212">Die <hi rend="latintype">Neue Deutsche Rundschau</hi>
-               </rs>« mein’ ich); er soll, während der Recurs wegen der <anchor type="commentary" xml:id="KL023-3">Freigabe</anchor> im Gang ist, an der »<rs type="place" ref="#pmb17">Freien Bühne</rs>« in <rs type="place" ref="#pmb168">Berlin</rs> aufgeführt werden. Jedenfalls ist nun mein ganzer <rs type="work" subtype="implied" ref="#pmb32562">Einakter Abend</rs> hinausgeschoben. So ist es vorläufig noch verfrüht, dir von der »<rs type="work" ref="#pmb29845">Gefährtin</rs>«, einem dieser Einakter, zu reden, den ich<pb/> keineswegs <anchor type="label" xml:id="LL023-1">
+               </rs>« mein’ ich); er soll, während der Recurs wegen der <anchor type="commentary" xml:id="KL023-3"/>Freigabe<note type="commentary" xml:id="KL023-3h">
+                  <p>Nachdem es am <rs type="place" ref="#pmb14">Burgtheater</rs> am <date instant="false">1. 3.
+                  1899</date> zum ersten Mal gegeben worden war, wurde es in der <rs type="place" ref="#pmb50">Wien</rs>er Einrichtung (Umbenennung einer Figur, Kürzung von
+               Freiheitsrufen) in <rs type="place" ref="#pmb168">Berlin</rs> erneut der Zensur
+               eingereicht und diese »<quote>hat soeben das Stück in dieser Form zur Aufführung
+                  freigegeben</quote>« (<bibl >
+                        <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, Jg. 28, Nr. 136, <date instant="false">15.
+                     3. 1899</date>, Morgen-Ausgabe, S. 3</bibl>).</p>
+               </note> im Gang ist, an der »<rs type="place" ref="#pmb17">Freien Bühne</rs>« in <rs type="place" ref="#pmb168">Berlin</rs> aufgeführt werden. Jedenfalls ist nun mein ganzer <rs type="work" subtype="implied" ref="#pmb32562">Einakter Abend</rs> hinausgeschoben. So ist es vorläufig noch verfrüht, dir von der »<rs type="work" ref="#pmb29845">Gefährtin</rs>«, einem dieser Einakter, zu reden, den ich<pb/> keineswegs <anchor type="label" xml:id="LL023-1">
                   <hi rend="underline" n="1">vor</hi>
                </anchor> der Aufführg erscheinen lassen möchte, den ich aber bi<damage agent="hole">
                   <supplied>sh</supplied>
@@ -138,12 +146,22 @@
                </damage>fst meine <rs type="org" ref="#pmb29206">
                   <hi rend="latintype">Kosmopolis</hi>-Honorarforderungen</rs> durchzusetzen – das wäre sehr schön – denn die <rs type="org" ref="#pmb29206">
                   <hi rend="latintype">Kosmopolis</hi>
-               </rs> ist <anchor type="commentary" xml:id="KL023-2">verkracht und schuldet mir ungezählte Mark</anchor>. Also versuch’s<subst>
+               </rs> ist <anchor type="commentary" xml:id="KL023-2"/>verkracht und schuldet mir ungezählte Mark<note type="commentary" xml:id="KL023-2h">
+                  <p>
+                     <rs type="org" ref="#pmb29206">Cosmopolis</rs> erschien mehrsprachig und monatlich,
+               zum ersten Mal im <date instant="false">Januar 1896</date>, zum letzten Mal im <date instant="false">November
+                  1898</date>. Zum finalen Heft hat <rs type="person" ref="#pmb2121">Schnitzler</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb30403">Paracelsus</rs> (<bibl >Bd. 12, H. 35,
+                  S. 489–527</bibl>) beigesteuert.</p>
+               </note>. Also versuch’s<subst>
                   <del rend="strikethrough">, –</del>
                   <add place="overwritten">.</add>
                </subst>
             </p>
-            <p>– Auf baldige <anchor type="commentary" xml:id="KL023-1">Gratulationsrevanche</anchor> im <rs type="place" ref="#pmb20">Volkstheater</rs>.</p>
+            <p>– Auf baldige <anchor type="commentary" xml:id="KL023-1"/>Gratulationsrevanche<note type="commentary" xml:id="KL023-1h">
+                  <p>Premiere der ersten <rs type="place" ref="#pmb50">Wiener</rs> Inszenierung von <rs type="work" ref="#pmb30127">Der Star</rs> am <date instant="false">10. 12. 1897</date>.</p>
+               </note> im <rs type="place" ref="#pmb20">Volkstheater</rs>.</p>
             <closer>Herzlichen Gruss. Dein <signed>Arthur Sch.</signed>
             </closer>
             <postscript>

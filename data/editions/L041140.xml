@@ -13,11 +13,11 @@
             <title type="iso-date">1930-02-16</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -133,16 +133,31 @@
             </opener>
             <p>
                <salute>Mein lieber Hermann, </salute>nach so langer Zeit <rs type="work" subtype="implied" ref="#pmb31847">hör</rs> ich wieder was von dir – und da verleihst du mir gleich den <rs type="org" ref="#pmb29675">Nobelpreis</rs>!</p>
-            <p>Ich fühle ganz wie du: dass <rs type="person" ref="#pmb11740">Hugo</rs> derjenige gewesen ist, der ihn hätte bekommen müssen. Leider könnte ich diesmal nicht wieder aussprechen – wie seinerzeit als ich (noch dazu für das <rs type="work" ref="#pmb29903">Zwischenspiel</rs>!) den <anchor type="commentary" xml:id="KL140-2">
-                  <rs type="org" ref="#pmb29677">Grillparzerpreis</rs> erhielt</anchor>, dass der eigentlich <rs type="person" ref="#pmb11740">Hofmannsthal</rs> gebühre. Auch damit hast du recht: »<hi rend="underline" n="1">melden</hi> werd ich <add place="above">mich</add> nicht, vielleicht weniger aus Bescheidenheit, als aus Bequemlichkeit« und einer immer wachsenden<pb/> Gleichgiltigkeit gegen alle Arten von äußeren »Ehrungen« u was man so nennt.</p>
+            <p>Ich fühle ganz wie du: dass <rs type="person" ref="#pmb11740">Hugo</rs> derjenige gewesen ist, der ihn hätte bekommen müssen. Leider könnte ich diesmal nicht wieder aussprechen – wie seinerzeit als ich (noch dazu für das <rs type="work" ref="#pmb29903">Zwischenspiel</rs>!) den <anchor type="commentary" xml:id="KL140-2"/>
+               <rs type="org" ref="#pmb29677">Grillparzerpreis</rs> erhielt<note type="commentary" xml:id="KL140-2h">
+                  <p>
+                     <date instant="false">1908</date>, vgl. Kommentar zu <ptr target="KL104-1"/>.</p>
+               </note>, dass der eigentlich <rs type="person" ref="#pmb11740">Hofmannsthal</rs> gebühre. Auch damit hast du recht: »<hi rend="underline" n="1">melden</hi> werd ich <add place="above">mich</add> nicht, vielleicht weniger aus Bescheidenheit, als aus Bequemlichkeit« und einer immer wachsenden<pb/> Gleichgiltigkeit gegen alle Arten von äußeren »Ehrungen« u was man so nennt.</p>
             <p>D<subst>
                   <del rend="overwritten">as</del>
                   <add place="inline">ein</add>
                </subst> »<rs type="work" ref="#pmb30047">Tagebuch</rs>
                <supplied>«</supplied>
                <space unit="chars" quantity="1"/>
-               <anchor type="label" xml:id="LL140-1">les ich natürlich immer</anchor> – so bedürfte es also kaum einer <anchor type="commentary" xml:id="KL140-3">freundlichen persönlichen Bemerkung</anchor>, – und umso mehr dank ich dir. Ich weiss nicht, ob du meine kleinen Bücher »<rs type="work" ref="#pmb30051">Geist im Wort und in der That</rs>«, u mein <rs type="work" ref="#pmb30053">Buch der Sprüche u Bedenken</rs> erhalten hast – ich würde sie dir gern schicken, auf die Gefahr hin, dass du mit vielem nicht einverstanden sein wirst.</p>
-            <p>Es wär schön wenn man einander wieder sähe <c rendition="#dots" n="2" place="center"/> »<anchor type="commentary" xml:id="KL140-1">Einer von uns wird es einmal bedauern</anchor>
+               <anchor type="label" xml:id="LL140-1">les ich natürlich immer</anchor> – so bedürfte es also kaum einer <anchor type="commentary" xml:id="KL140-3"/>freundlichen persönlichen Bemerkung<note type="commentary" xml:id="KL140-3h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> ließ regelmäßig seine Kolumne den darin
+               behandelten Personen zukommen. Diese Textstelle deutet an, dass das <rs type="work" ref="#pmb31847">Tagebuch. 10. Januar</rs> in einer Fassung mit einem
+               handschriftlichen Gruß im Besitz <rs type="person" ref="#pmb2121">Schnitzlers</rs>
+               gewesen sein dürfte. In seinen Zeitungsausschnitten (heute in <rs type="place" ref="#pmb1001">Exeter</rs>) findet sich aber nur ein Abzug, auf dem sich außer
+               einem Datumsvermerk von <rs type="person" ref="#pmb2121">Schnitzler</rs> keine
+               Beschriftung findet (<bibl >University of Exeter, <rs type="org">Schnitzler Press
+                     Cuttings Archive</rs>, Box 42/2</bibl>).</p>
+               </note>, – und umso mehr dank ich dir. Ich weiss nicht, ob du meine kleinen Bücher »<rs type="work" ref="#pmb30051">Geist im Wort und in der That</rs>«, u mein <rs type="work" ref="#pmb30053">Buch der Sprüche u Bedenken</rs> erhalten hast – ich würde sie dir gern schicken, auf die Gefahr hin, dass du mit vielem nicht einverstanden sein wirst.</p>
+            <p>Es wär schön wenn man einander wieder sähe <c rendition="#dots" n="2" place="center"/> »<anchor type="commentary" xml:id="KL140-1"/>Einer von uns wird es einmal bedauern<note type="commentary" xml:id="KL140-1h">
+                  <p>
+                     <ptr target="KL109-1"/>, <ptr target="LL319-1"/>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <c rendition="#dots" n="2" place="center"/>« wie <rs type="person" ref="#pmb11740">Hugo</rs> immer sagte. – </p>
             <closer>Ich grüße dich herzlich in alter Freundschaft<lb/>Dein<lb/>

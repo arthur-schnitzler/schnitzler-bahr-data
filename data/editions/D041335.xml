@@ -13,11 +13,11 @@
             <title type="iso-date">1924-07-03</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,7 +78,10 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1924-07-03" n="1">3/7</date> Allein im Coupé die Nacht bis <rs type="place" ref="#pmb45258">München</rs>.–</p>
-            <p>Von <rs type="place" ref="#pmb45258">München</rs> bis <rs type="place" ref="#pmb30">Salzburg</rs> mit <rs type="person" ref="#pmb3130">Cl. Franckenstein</rs> und <rs type="person" subtype="implied" ref="#pmb27976">Frau</rs> (er ist jetzt wieder <anchor type="commentary" xml:id="KD335-1">Intendant</anchor>);– wir plaudern über <rs type="person" ref="#pmb11740">Hugo</rs>, <rs type="person" ref="#pmb10765">Andrian</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, u. s. w.–</p>
+            <p>Von <rs type="place" ref="#pmb45258">München</rs> bis <rs type="place" ref="#pmb30">Salzburg</rs> mit <rs type="person" ref="#pmb3130">Cl. Franckenstein</rs> und <rs type="person" subtype="implied" ref="#pmb27976">Frau</rs> (er ist jetzt wieder <anchor type="commentary" xml:id="KD335-1"/>Intendant<note type="commentary" xml:id="KD335-1h">
+                  <p>Er war Ende April zum Leiter des <rs type="place" ref="#pmb9">Münchner
+                  Nationaltheaters (ehemals Hoftheater)</rs> ernannt worden.</p>
+               </note>);– wir plaudern über <rs type="person" ref="#pmb11740">Hugo</rs>, <rs type="person" ref="#pmb10765">Andrian</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>, u. s. w.–</p>
             <p>
                <rs type="place" ref="#pmb30">Salzburg</rs>. <rs type="place" ref="#pmb230">Oest. Hof</rs>.– Nm. müd im Zimmer.</p>
             <p>Hr. <rs type="person" ref="#pmb19444">Klobasser</rs> (seit 30 Jahren flüchtig bekannt) jetzt in <rs type="place" ref="#pmb30">S.</rs> ansässig gibt mir »aus Verehrung« rothe und weiße Alpenrosen.</p>

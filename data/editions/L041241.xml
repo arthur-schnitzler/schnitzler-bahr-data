@@ -13,11 +13,11 @@
             <title type="iso-date">1901-10-21</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,7 +106,11 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich theile Deine Bedenken betr. »<rs type="work" ref="#pmb29873">Puppenspieler</rs>« – da wir leider <rs type="person" ref="#pmb12265">Mitterwurzer</rs> nicht haben. Die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">Stücke</rs> sind seit acht Tagen bei <rs type="person" ref="#pmb2161">Bukovics</rs>, der mir gestern sagte, mit der Lectüre fertig zu sein und Dich <anchor type="commentary" xml:id="KL241-1">heute</anchor> aufsuchen zu wollen.</p>
+            <p>Ich theile Deine Bedenken betr. »<rs type="work" ref="#pmb29873">Puppenspieler</rs>« – da wir leider <rs type="person" ref="#pmb12265">Mitterwurzer</rs> nicht haben. Die <rs type="work" subtype="implied" ref="#pmb29865 #pmb29869 #pmb29957">Stücke</rs> sind seit acht Tagen bei <rs type="person" ref="#pmb2161">Bukovics</rs>, der mir gestern sagte, mit der Lectüre fertig zu sein und Dich <anchor type="commentary" xml:id="KL241-1"/>heute<note type="commentary" xml:id="KL241-1h">
+                  <p>Am Folgetag suchte <rs type="person" ref="#pmb2121">Schnitzler</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="person" ref="#pmb2161">Bukovics</rs> auf.</p>
+               </note> aufsuchen zu wollen.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Herm</signed>
             </closer>

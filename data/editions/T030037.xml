@@ -14,11 +14,11 @@
             <title type="iso-date">1932-03-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="037"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A93-0</idno>
          </publicationStmt>
@@ -80,12 +80,17 @@
       <body>
          <div>
             <head>Zur Judenfrage</head>
-            <p part="N">Das Urteil über die »Juden«, um das Sie mich befragen, wird kein unbefangenes sein, denn meine besten, meine liebsten Jugendfreunde sind Juden: <rs type="person" ref="#pmb2121">Schnitzler</rs>, <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs> sind Juden. »Minderwertig« kann man eine Rasse doch kaum nennen, die solche Früchte zeitigt. Auch ich war in meiner Jugend gelegentlich Antisemit. <rs type="person" ref="#pmb11673">Theodor Herzl</rs> war mir ein lieber Freund, wir wohnten eine Zeit lang einander nahe und gingen an schönen Tagen gern stundenlang immer um die <rs type="place" ref="#pmb526">Votivkirche</rs> herum und stimmten darin überein, daß der Jude dem Arier unerträglich werden muß, wenn Juden sich anmaßen, Deutsche zu sein oder gar Führer der Deutschen. <rs type="person" ref="#pmb11673">Herzl</rs> gehörte in seiner Jugend derselben <rs type="org" subtype="implied" ref="#pmb29294">Burschenschaft</rs> an wie ich: ihr<pb/>
+            <p>Das Urteil über die »Juden«, um das Sie mich befragen, wird kein unbefangenes sein, denn meine besten, meine liebsten Jugendfreunde sind Juden: <rs type="person" ref="#pmb2121">Schnitzler</rs>, <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs> sind Juden. »Minderwertig« kann man eine Rasse doch kaum nennen, die solche Früchte zeitigt. Auch ich war in meiner Jugend gelegentlich Antisemit. <rs type="person" ref="#pmb11673">Theodor Herzl</rs> war mir ein lieber Freund, wir wohnten eine Zeit lang einander nahe und gingen an schönen Tagen gern stundenlang immer um die <rs type="place" ref="#pmb526">Votivkirche</rs> herum und stimmten darin überein, daß der Jude dem Arier unerträglich werden muß, wenn Juden sich anmaßen, Deutsche zu sein oder gar Führer der Deutschen. <rs type="person" ref="#pmb11673">Herzl</rs> gehörte in seiner Jugend derselben <rs type="org" subtype="implied" ref="#pmb29294">Burschenschaft</rs> an wie ich: ihr<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="person" subtype="implied" ref="#pmb4165">
-                  <anchor type="commentary" xml:id="KT037-1">Führer</anchor>
+                  <anchor type="commentary" xml:id="KT037-1"/>Führer<note type="commentary" xml:id="KT037-1h">
+                     <p>Im Abschiedsbrief begründete <rs type="person" ref="#pmb4165">Paul Porges von
+                  Portheim</rs> seinen Suizid damit, dass ein erfolgreicher Abschluss des Studiums
+               unwahrscheinlich geworden sei (<bibl >
+                           <rs type="work">ÖKeA</rs> 175–177</bibl>).</p>
+                  </note>
                </rs> war Jude, doch dieser Jude setzte den Antrag durch, fortan Juden oder auch nur, wie man das damals hieß: Judenstämmlingen, den Einlaß in unsere Burschenschaft zu verwehren. Nachdem er das durchgesetzt hatte, war er konsequent genug und erschoß sich.</p>
-            <p part="N">Von Ihren Fragen antworte ich auf die erste (»Sind die Juden eine minderwertige Rasse?«) also: Minderwertig keineswegs; die zweite (»Sind die Juden Schädlinge der Wirtschaft?«) entzieht sich meiner Erfahrung, ich verstehe von Wirtschaftsproblemen nichts. Daß die Juden die <rs type="place" ref="#pmb151">deutsche</rs> Kultur zerstören sollen, scheint mir eine Beleidigung dieser Kultur, sie wird sich in allen Gefahren behaupten. Daß Gestalten wie <rs type="person" ref="#pmb11640">Heinrich Heine</rs> verächtlich sind, wird niemand leugnen, so wenig, wie die Reihe opferfreudiger hochgesinnter Juden.</p>
+            <p>Von Ihren Fragen antworte ich auf die erste (»Sind die Juden eine minderwertige Rasse?«) also: Minderwertig keineswegs; die zweite (»Sind die Juden Schädlinge der Wirtschaft?«) entzieht sich meiner Erfahrung, ich verstehe von Wirtschaftsproblemen nichts. Daß die Juden die <rs type="place" ref="#pmb151">deutsche</rs> Kultur zerstören sollen, scheint mir eine Beleidigung dieser Kultur, sie wird sich in allen Gefahren behaupten. Daß Gestalten wie <rs type="person" ref="#pmb11640">Heinrich Heine</rs> verächtlich sind, wird niemand leugnen, so wenig, wie die Reihe opferfreudiger hochgesinnter Juden.</p>
          </div>
       </body>
    </text>

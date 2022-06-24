@@ -13,11 +13,11 @@
             <title type="iso-date">1893-12-15</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -140,7 +140,10 @@
                <salute>lieber!</salute>
             </opener>
             <p>
-               <anchor type="commentary" xml:id="KL425-1">Dem <rs type="person" ref="#pmb10815">Bahr</rs> geht es sehr schlecht</anchor>. Vielleicht sind Sie so lieb, ihn im Lauf des Tages zu besuchen. Bitte läuten Sie aber in meiner Wohnung an und verlangen Sie <rs type="person" ref="#pmb10815">Bahrs</rs> Schlüssel, damit er Ihnen nicht aufsperren muss.</p>
+               <anchor type="commentary" xml:id="KL425-1"/>Dem <rs type="person" ref="#pmb10815">Bahr</rs> geht es sehr schlecht<note type="commentary" xml:id="KL425-1h">
+                  <p>Eine nahezu wortgleiche Karte schreibt er an <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> (<bibl >Hugo von Hofmannsthal, Richard Beer-Hofmann: <rs type="work">Briefwechsel</rs>. Hg. Eugene Weber. <rs type="place" ref="">Frankfurt am Main</rs>: <rs type="org">S. Fischer</rs> 1972,
+               S. 29</bibl>).</p>
+               </note>. Vielleicht sind Sie so lieb, ihn im Lauf des Tages zu besuchen. Bitte läuten Sie aber in meiner Wohnung an und verlangen Sie <rs type="person" ref="#pmb10815">Bahrs</rs> Schlüssel, damit er Ihnen nicht aufsperren muss.</p>
             <closer>Herzlich<lb/>
                <signed>Hugo.</signed>
             </closer>

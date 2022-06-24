@@ -132,9 +132,11 @@
                </dateline>
             </opener>
             <p>
-               <salute>lieber Hermann, </salute>nun fangen meine <anchor type="commentary" xml:id="KL084-1">
-                  <rs type="work" subtype="implied" ref="#pmb29903">Proben</rs>
-               </anchor> an, da ich eben vom <rs type="place" ref="#pmb189">Semmering</rs> zurück bin, und mit den Vormittagen ist es wieder nichts. Könnte man sich nicht doch vielleicht an einem Abend, in <rs type="place" ref="#pmb63">Hietzing</rs> etwa, zum Nachtmahl, wenn du einmal kein Theater hast, treffen? Anfang nächster Woche? – Sonst müßten wir<pb/> unser Wiedersehen auf die <date>zweite Oktoberhälfte</date> verschieben. Was mir sehr leid wäre.</p>
+               <salute>lieber Hermann, </salute>nun fangen meine <anchor type="commentary" xml:id="KL084-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29903">Proben</rs>
+               <note type="commentary" xml:id="KL084-1h">
+                  <p>Zu <rs type="work" ref="#pmb29903">Zwischenspiel</rs>.</p>
+               </note> an, da ich eben vom <rs type="place" ref="#pmb189">Semmering</rs> zurück bin, und mit den Vormittagen ist es wieder nichts. Könnte man sich nicht doch vielleicht an einem Abend, in <rs type="place" ref="#pmb63">Hietzing</rs> etwa, zum Nachtmahl, wenn du einmal kein Theater hast, treffen? Anfang nächster Woche? – Sonst müßten wir<pb/> unser Wiedersehen auf die <date>zweite Oktoberhälfte</date> verschieben. Was mir sehr leid wäre.</p>
             <p>Bitte dich schick mir nur gütigst den »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« zurück. –</p>
             <closer>Herzlichst, mit vielen Grüßen auch von <rs type="person" ref="#pmb2173">Olga</rs>
                <lb/>dein<lb/>

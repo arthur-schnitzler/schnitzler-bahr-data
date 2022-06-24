@@ -13,11 +13,11 @@
             <title type="iso-date">1896-03-14</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,9 @@
             </opener>
             <p>besten Dank für <anchor type="label" xml:id="LL183-1">Deine Zeilen</anchor>. Ich sehe ein, was Du sagst, und wi<damage agent="ink">
                   <supplied>ll</supplied>
-               </damage> Dir durchaus nicht <anchor type="commentary" xml:id="KL183-1">drängend die Stimmung</anchor> verderben. Jedenfalls halte ich das am <date>4. April</date> erscheinende <rs type="org" subtype="implied" ref="#pmb29209">Osterheft</rs> für Dich frei und eventuell auch das nächste. Angenehm wäre es mir, wenn Du mich etwa bis zum <date>23. d.</date> benachrichtigen wolltest, wie meine Chancen stehen.</p>
+               </damage> Dir durchaus nicht <anchor type="commentary" xml:id="KL183-1"/>drängend die Stimmung<note type="commentary" xml:id="KL183-1h">
+                  <p>Um welchen Text es sich handeln könnte, ist unklar.</p>
+               </note> verderben. Jedenfalls halte ich das am <date>4. April</date> erscheinende <rs type="org" subtype="implied" ref="#pmb29209">Osterheft</rs> für Dich frei und eventuell auch das nächste. Angenehm wäre es mir, wenn Du mich etwa bis zum <date>23. d.</date> benachrichtigen wolltest, wie meine Chancen stehen.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

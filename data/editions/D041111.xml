@@ -13,11 +13,11 @@
             <title type="iso-date">1894-07-28</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,9 +77,14 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1894-07-28" n="2">28/7</date> Mit <rs type="person" ref="#pmb10815">Bahr</rs>, dem ich »<rs type="work" ref="#pmb30389">Halb zwei</rs>« und »<anchor type="commentary" xml:id="KD111-1">
-                  <rs type="work" ref="#pmb30391">Ueberspannte Person</rs>
-               </anchor>« vorlas, im <rs type="place" ref="#pmb103">Volksg.</rs> soup. Wunderschöner Brief von <rs type="person" ref="#pmb14953">Mz.</rs>
+               <date when="1894-07-28" n="2">28/7</date> Mit <rs type="person" ref="#pmb10815">Bahr</rs>, dem ich »<rs type="work" ref="#pmb30389">Halb zwei</rs>« und »<anchor type="commentary" xml:id="KD111-1"/>
+               <rs type="work" ref="#pmb30391">Ueberspannte Person</rs>
+               <note type="commentary" xml:id="KD111-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30391">Die überspannte Person</rs>. In: <rs type="org" ref="#pmb29714">Simplicissimus</rs>, Jg. 1, H. 3, <date instant="false">18. 4. 1896</date>, S. 3,
+               6</bibl>.</p>
+               </note>« vorlas, im <rs type="place" ref="#pmb103">Volksg.</rs> soup. Wunderschöner Brief von <rs type="person" ref="#pmb14953">Mz.</rs>
             </p>
          </div>
       </body>

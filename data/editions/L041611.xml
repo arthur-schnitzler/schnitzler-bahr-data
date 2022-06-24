@@ -13,11 +13,11 @@
             <title type="iso-date">1922-05-29</title>
             <author ref="pmb13212">Zweig, Stefan</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -113,7 +113,10 @@
          </div>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber verehrter Herr Bahr</salute>, aus <rs type="place" ref="#pmb50">Wien</rs> einen ersten Gruß nach <rs type="place" ref="#pmb45258">München</rs>! Und nun eine Verständigung: im <rs type="org" ref="#pmb29803">Dorotheum</rs> findet ab 6 Juni eine <anchor type="commentary" xml:id="KL611-1">Autografenversteigerung</anchor> statt, in der eine Reihe <hi rend="underline" n="2">an</hi> Sie gerichtete Briefe versteigert werden und zwar solche von <rs type="person" ref="#pmb4026">Paul Bourget</rs>, <rs type="person" ref="#pmb13082">Karlweiß</rs>, <rs type="person" ref="#pmb2121">Artur Schnitzler</rs>. Sollte es sich da um Gestohlenes handeln, so haben Sie das Recht den Verkauf zu inhibieren und Ihr Eigentum zurückzufordern. Ich hatte einmal mit einem Dedicationsexemplar an mich eine ähnliche Affaire</p>
+               <salute>Lieber verehrter Herr Bahr</salute>, aus <rs type="place" ref="#pmb50">Wien</rs> einen ersten Gruß nach <rs type="place" ref="#pmb45258">München</rs>! Und nun eine Verständigung: im <rs type="org" ref="#pmb29803">Dorotheum</rs> findet ab 6 Juni eine <anchor type="commentary" xml:id="KL611-1"/>Autografenversteigerung<note type="commentary" xml:id="KL611-1h">
+                  <p>Die »2. Autographenversteigerung« fand vom <date when="1922-06-06" instant="false">6. 6.</date> bis
+               zum <date when="1922-06-10" instant="false">10. 6. 1922</date> statt. Katalog nicht ermittelt.</p>
+               </note> statt, in der eine Reihe <hi rend="underline" n="2">an</hi> Sie gerichtete Briefe versteigert werden und zwar solche von <rs type="person" ref="#pmb4026">Paul Bourget</rs>, <rs type="person" ref="#pmb13082">Karlweiß</rs>, <rs type="person" ref="#pmb2121">Artur Schnitzler</rs>. Sollte es sich da um Gestohlenes handeln, so haben Sie das Recht den Verkauf zu inhibieren und Ihr Eigentum zurückzufordern. Ich hatte einmal mit einem Dedicationsexemplar an mich eine ähnliche Affaire</p>
             <p>Ich bin jetzt bis <subst>
                   <del rend="overwritten">8</del>
                   <add place="inline">9</add>

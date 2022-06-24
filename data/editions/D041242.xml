@@ -13,11 +13,11 @@
             <title type="iso-date">1904-10-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,9 +80,12 @@
                <date when="1904-10-12" n="1">12/10</date> Vm. Schneider, Einkäufe. Bei <rs type="person" ref="#pmb18345">Rosa Hochsinger</rs> über Besetzung meiner Stücke etc.– Sie sprach manierirt von der Vergangenheit (die so harmlos war als möglich) und zeigte mir u. a. ein Gedicht, das ich ihr s. Z. 1887 aus <rs type="place" ref="#pmb920">Rüdesheim</rs> geschickt – und das ich nie für meines erkannt hätte.–</p>
             <p>Nm. <rs type="work" ref="#pmb29903">N. E.</rs>– Herr <rs type="person" ref="#pmb27939">Matern</rs> bei mir; wegen <rs type="work" ref="#pmb29985">Eins. Weg</rs>.–</p>
             <p>
-               <anchor type="commentary" xml:id="KD242-1">
-                  <rs type="place" ref="#pmb20">Volksth.</rs>, <rs type="work" ref="#pmb30645">Candida</rs>
-               </anchor> – mit <rs type="person" ref="#pmb2173">O.</rs>
+               <anchor type="commentary" xml:id="KD242-1"/>
+               <rs type="place" ref="#pmb20">Volksth.</rs>, <rs type="work" ref="#pmb30645">Candida</rs>
+               <note type="commentary" xml:id="KD242-1h">
+                  <p>Die Premiere von <rs type="person" ref="#pmb2381">Shaw</rs>s Stück am <date instant="false">8. 10.
+                  1904</date>.</p>
+               </note> – mit <rs type="person" ref="#pmb2173">O.</rs>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb44">Riedhof</rs>. Später <rs type="person" ref="#pmb12968">Trebitsch</rs>. <rs type="person" ref="#pmb18308">Feld</rs> im Theater; <rs type="person" ref="#pmb11851">Kainz</rs> abgeneigt die 3 neuen Rollen zu studieren.– <rs type="person" ref="#pmb12968">Trebitsch</rs>: <rs type="person" ref="#pmb10815">Bahrs</rs> Absicht, den <rs type="work" subtype="implied" ref="#pmb29985">Julian Fichtner</rs> zu spielen.</p>
          </div>

@@ -14,11 +14,11 @@
             <title type="iso-date">1893-01-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="048"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A9E-5</idno>
          </publicationStmt>
@@ -79,28 +79,56 @@
       <body>
          <div>
             <head>
-               <anchor type="commentary" xml:id="KT048-2">
-                  <rs type="person" ref="#pmb11036">Burckhard</rs> und <rs type="person" ref="#pmb11391">Fulda</rs>
-               </anchor>.</head>
-            <p part="N">Wir haben neulich die <anchor type="commentary" xml:id="KT048-4">
-                  <rs type="work" subtype="implied" ref="#pmb32568">Erklärung</rs> des Herrn <rs type="person" ref="#pmb11391">
-                     <hi rend="spaced_out">Fulda</hi>
-                  </rs> gegen das <rs type="place" ref="#pmb14">Burgtheater</rs> und die <rs type="work" subtype="implied" ref="#pmb32568">Antwort</rs> des Directors Dr. <rs type="person" ref="#pmb11036">
-                     <hi rend="spaced_out">Burckhard</hi>
-                  </rs>
-               </anchor> mitgetheilt. Die widerliche Angelegenheit, in der alles gute Recht für die Direction und wider den hochmüthigen, erweislich unaufrichtigen und gegen den Vater seines Ruhmes so undankbaren Autor steht, wäre damit erledigt, wenn sich nicht die kleine, aber desto lautere Clique des <rs type="place" ref="#pmb168">Berlin</rs>er Literaten, das lärmende Rudel von Verkannten aus den <rs type="place" ref="#pmb579">Berliner Cafés Bellevue</rs> und <rs type="place" ref="#pmb400">Kaiserhof</rs>, in ihrem <rs type="org" subtype="implied" ref="#pmb29329">Blättchen</rs> krampfhaft bemühte, sie zu einer »<anchor type="commentary" xml:id="KT048-5">
-                  <rs type="work" subtype="implied" ref="#pmb32420">Sensation</rs>
-               </anchor>« aufzubauschen. Auch ein gelesenes Journal, die <rs type="org" ref="#pmb29722">Münchener Allgemeine Zeitung</rs>, ist einem solchen <anchor type="commentary" xml:id="KT048-6">
-                  <rs type="work" subtype="implied" ref="#pmb32422">Selbstberichterstatter</rs>
-               </anchor> auf den Leim gegangen, und das sonst ernsthafte Blatt bringt einen sehr scurrilen <rs type="work" subtype="implied" ref="#pmb32422">Artikel</rs>, der gleich die <hi rend="spaced_out">Boycottirung der </hi>
+               <anchor type="commentary" xml:id="KT048-2"/>
+               <rs type="person" ref="#pmb11036">Burckhard</rs> und <rs type="person" ref="#pmb11391">Fulda</rs>
+               <note type="commentary" xml:id="KT048-2h">
+                  <p>Der Text liefert <rs type="person" ref="#pmb11988">Karl Kraus</rs> den Impuls für <rs type="work" ref="#pmb32466">Zur Ueberwindung des Hermann Bahr</rs> (<bibl >
+                        <rs type="org" ref="#pmb29440">Die Gesellschaft</rs>, Jg. 9, Mai 1893,
+                  S. 627–636</bibl>).</p>
+               </note>.</head>
+            <p>Wir haben neulich die <anchor type="commentary" xml:id="KT048-4"/>
+               <rs type="work" subtype="implied" ref="#pmb32568">Erklärung</rs> des Herrn <rs type="person" ref="#pmb11391">
+                  <hi rend="spaced_out">Fulda</hi>
+               </rs> gegen das <rs type="place" ref="#pmb14">Burgtheater</rs> und die <rs type="work" subtype="implied" ref="#pmb32568">Antwort</rs> des Directors Dr. <rs type="person" ref="#pmb11036">
+                  <hi rend="spaced_out">Burckhard</hi>
+               </rs>
+               <note type="commentary" xml:id="KT048-4h">
+                  <p>
+                     <bibl >[O. V.:] <rs type="work" ref="#pmb32568">Director Burckhard und Ludwig
+                     Fulda</rs>. In: <rs type="org" ref="#pmb29424">Deutsche Zeitung</rs>, Jg. 23,
+                  Nr. 7563, 17. 1. 1893, S. 5–6</bibl>.</p>
+               </note> mitgetheilt. Die widerliche Angelegenheit, in der alles gute Recht für die Direction und wider den hochmüthigen, erweislich unaufrichtigen und gegen den Vater seines Ruhmes so undankbaren Autor steht, wäre damit erledigt, wenn sich nicht die kleine, aber desto lautere Clique des <rs type="place" ref="#pmb168">Berlin</rs>er Literaten, das lärmende Rudel von Verkannten aus den <rs type="place" ref="#pmb579">Berliner Cafés Bellevue</rs> und <rs type="place" ref="#pmb400">Kaiserhof</rs>, in ihrem <rs type="org" subtype="implied" ref="#pmb29329">Blättchen</rs> krampfhaft bemühte, sie zu einer »<anchor type="commentary" xml:id="KT048-5"/>
+               <rs type="work" subtype="implied" ref="#pmb32420">Sensation</rs>
+               <note type="commentary" xml:id="KT048-5h">
+                  <p>
+                     <bibl >[O. V.:] <rs type="work" ref="#pmb32420">Theater, Kunst, Wissenschaft [Aus Wien
+                     meldet uns ein Privat-Telegramm]</rs>. In: <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, Jg. 22, Nr. 30, <date instant="false">17. 1. 1893</date>,
+                  Morgen-Ausgabe, S. 3</bibl>.</p>
+               </note>« aufzubauschen. Auch ein gelesenes Journal, die <rs type="org" ref="#pmb29722">Münchener Allgemeine Zeitung</rs>, ist einem solchen <anchor type="commentary" xml:id="KT048-6"/>
+               <rs type="work" subtype="implied" ref="#pmb32422">Selbstberichterstatter</rs>
+               <note type="commentary" xml:id="KT048-6h">
+                  <p>
+                     <bibl >[O. V.:] <rs type="work" ref="#pmb32422">Ludwig Fulda gegen das Wiener
+                     Burgtheater</rs>. In: <rs type="org" ref="#pmb29722">Allgemeine Zeitung</rs>,
+                  Jg. 95, Nr. 17, <date instant="false">17. 1. 1893</date>, Abendblatt, S. 1–2</bibl>.</p>
+               </note> auf den Leim gegangen, und das sonst ernsthafte Blatt bringt einen sehr scurrilen <rs type="work" subtype="implied" ref="#pmb32422">Artikel</rs>, der gleich die <hi rend="spaced_out">Boycottirung der </hi>
                <rs type="place" ref="#pmb14">
                   <hi rend="spaced_out">Wiener Burg</hi>
                </rs>
                <hi rend="spaced_out">
-                  <space unit="chars" quantity="1"/>durch die deutschen Autoren</hi> verlangt – »<rs type="place" ref="#pmb151">deutsch</rs>« heißt hier: vom <rs type="place" ref="#pmb581">Leipziger Platze</rs> bis zur <rs type="place" ref="#pmb582">Mohrenstraße</rs>. Wer den zudringlichen Eifer kennt, mit dem die <rs type="place" ref="#pmb168">Berlin</rs>er Fabrikanten dramatischer Producte und ihre »Reisenden« bei jedem eventuellen Director der <rs type="place" ref="#pmb14">Burg</rs> unabweislich hausieren, weiß, wie wenig leider diese so verlockende Drohung ernst zu nehmen ist; Herr <rs type="person" ref="#pmb11391">Fulda</rs>, der in <rs type="place" ref="#pmb50">Wien</rs> erst für die außer<rs type="place" ref="#pmb400">kaiserhof</rs>ische Welt entdeckt worden ist, ganz wie Herr <anchor type="commentary" xml:id="KT048-1">
-                  <rs type="person" ref="#pmb11617">Hauptmann</rs> von Director <rs type="person" ref="#pmb11036">Burckhard</rs> aus den Coulissen</anchor> der »<rs type="place" ref="#pmb17">Freien Bühne</rs>« in das helle Licht des ersten deutschen Theaters gezogen wurde, wird sicherlich selber der erste sein, der mit seinem nächsten Stücke wieder betteln kommt Aber vielleicht merkt Herr Director <rs type="person" ref="#pmb11036">Burckhard</rs> die Lehre und erinnert sich, daß es auch in <rs type="place" ref="#pmb50">Wien</rs> Dichter gibt, wenn sie freilich nicht <anchor type="commentary" xml:id="KT048-3">
-                  <rs type="person" ref="#pmb12261">Misch</rs> und <rs type="person" ref="#pmb12296">Moser</rs>
-               </anchor>, sondern nur <rs type="person" ref="#pmb12362">Nissel</rs> und <rs type="person" ref="#pmb12602">Saar</rs>, <rs type="person" ref="#pmb12740">Schwarzkopf</rs> und <rs type="person" ref="#pmb13082">Karlweis</rs>, <rs type="person" ref="#pmb2416">David</rs> und <rs type="person" ref="#pmb2121">Schnitzler</rs> heißen. <signed>
+                  <space unit="chars" quantity="1"/>durch die deutschen Autoren</hi> verlangt – »<rs type="place" ref="#pmb151">deutsch</rs>« heißt hier: vom <rs type="place" ref="#pmb581">Leipziger Platze</rs> bis zur <rs type="place" ref="#pmb582">Mohrenstraße</rs>. Wer den zudringlichen Eifer kennt, mit dem die <rs type="place" ref="#pmb168">Berlin</rs>er Fabrikanten dramatischer Producte und ihre »Reisenden« bei jedem eventuellen Director der <rs type="place" ref="#pmb14">Burg</rs> unabweislich hausieren, weiß, wie wenig leider diese so verlockende Drohung ernst zu nehmen ist; Herr <rs type="person" ref="#pmb11391">Fulda</rs>, der in <rs type="place" ref="#pmb50">Wien</rs> erst für die außer<rs type="place" ref="#pmb400">kaiserhof</rs>ische Welt entdeckt worden ist, ganz wie Herr <anchor type="commentary" xml:id="KT048-1"/>
+               <rs type="person" ref="#pmb11617">Hauptmann</rs> von Director <rs type="person" ref="#pmb11036">Burckhard</rs> aus den Coulissen<note type="commentary" xml:id="KT048-1h">
+                  <p>
+                     <rs type="work" ref="#pmb29879">Einsame Menschen</rs>, Premiere <date instant="false">6. 12.
+                  1891</date>, und <rs type="work" ref="#pmb31941">College Crampton</rs>, Premiere
+                  <date instant="false">8. 2. 1892</date>.</p>
+               </note> der »<rs type="place" ref="#pmb17">Freien Bühne</rs>« in das helle Licht des ersten deutschen Theaters gezogen wurde, wird sicherlich selber der erste sein, der mit seinem nächsten Stücke wieder betteln kommt Aber vielleicht merkt Herr Director <rs type="person" ref="#pmb11036">Burckhard</rs> die Lehre und erinnert sich, daß es auch in <rs type="place" ref="#pmb50">Wien</rs> Dichter gibt, wenn sie freilich nicht <anchor type="commentary" xml:id="KT048-3"/>
+               <rs type="person" ref="#pmb12261">Misch</rs> und <rs type="person" ref="#pmb12296">Moser</rs>
+               <note type="commentary" xml:id="KT048-3h">
+                  <p>
+                     <rs type="person" ref="#pmb12261">Robert Misch</rs>, <rs type="person" ref="#pmb12296">Gustav von Moser</rs>: <rs type="work" ref="#pmb32702 #pmb32704">Fräulein Frau</rs>, Premiere am <rs type="place" ref="#pmb14">Burgtheater</rs> am
+                  <date instant="false">19. 5. 1892</date> und bis <date instant="false">1. 7. 1893</date> auf dem Spielplan.</p>
+               </note>, sondern nur <rs type="person" ref="#pmb12362">Nissel</rs> und <rs type="person" ref="#pmb12602">Saar</rs>, <rs type="person" ref="#pmb12740">Schwarzkopf</rs> und <rs type="person" ref="#pmb13082">Karlweis</rs>, <rs type="person" ref="#pmb2416">David</rs> und <rs type="person" ref="#pmb2121">Schnitzler</rs> heißen. <signed>
                   <hi rend="antiqua">H. B.</hi>
                </signed>
             </p>

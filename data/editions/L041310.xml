@@ -13,11 +13,11 @@
             <title type="iso-date">1907-04-27</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,7 +127,12 @@
                   <date>27. 4</date>
                </dateline>
             </opener>
-            <p>Ich fahre eben auf den <rs type="place" ref="#pmb413">Semmering (Südbahnhotel)</rs>, um <anchor type="commentary" xml:id="KL310-2">Dienstag</anchor> Früh von dort mit dem Frühschnellzug nach <rs type="place" ref="#pmb873">Triest</rs> zu fahren. <anchor type="commentary" xml:id="KL310-1">Komm mit!</anchor> In diesem Fall erwartet bis Montag Mittag telegrafische Nachricht</p>
+            <p>Ich fahre eben auf den <rs type="place" ref="#pmb413">Semmering (Südbahnhotel)</rs>, um <anchor type="commentary" xml:id="KL310-2"/>Dienstag<note type="commentary" xml:id="KL310-2h">
+                  <p>
+                     <date instant="false">30. 4. 1907</date>.</p>
+               </note> Früh von dort mit dem Frühschnellzug nach <rs type="place" ref="#pmb873">Triest</rs> zu fahren. <anchor type="commentary" xml:id="KL310-1"/>Komm mit!<note type="commentary" xml:id="KL310-1h">
+                  <p>Einen inhaltlich und sprachlich beinahe identischen Brief schreibt <rs type="person" ref="#pmb10815">Bahr</rs> am selben Tag an <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>.</p>
+               </note> In diesem Fall erwartet bis Montag Mittag telegrafische Nachricht</p>
             <closer>Dein<lb/>
                <signed>Hermann B</signed>
             </closer>

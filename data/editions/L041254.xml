@@ -13,11 +13,11 @@
             <title type="iso-date">1903-03-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,7 +104,21 @@
                </dateline>
                <salute rend="center">Lieber Arthur,</salute>
             </opener>
-            <p>ich kann aus unserer <anchor type="commentary" xml:id="KL254-1">Depesche</anchor> nicht recht erkennen, wies eigentlich ergangen ist, freue mich aber sehr, daß die Leute Dein <rs type="work" subtype="implied" ref="#pmb29857">Schmerzenskind</rs> wenigstens endlich einmal gesehen haben, und hoffe für <rs type="place" ref="#pmb168">Berlin</rs>, daß sich doch ein paar Kritiker finden werden, die seine Schönheit merken.</p>
+            <p>ich kann aus unserer <anchor type="commentary" xml:id="KL254-1"/>Depesche<note type="commentary" xml:id="KL254-1h">
+                  <p>
+                     <bibl >Vgl. <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 66,
+                     <date when="1903-03-08" instant="false">8. 3. 1903</date>, S. 11</bibl>: »<quote>Aus <rs type="place" ref="#pmb168">Berlin</rs> wird uns telegraphiert: Im <rs type="place" ref="#pmb3">
+                           <hi rend="spaced_out">Deutschen Theater</hi>
+                        </rs> fand <rs type="person" ref="#pmb2121">
+                           <hi rend="spaced_out">Schnitzlers</hi>
+                        </rs> ›<rs type="work" ref="#pmb29857">
+                           <hi rend="spaced_out">Schleier der Beatrice</hi>
+                        </rs>‹ bei vortrefflicher Darstellung eine geteilte Aufnahme. Das starke und
+                  tiefsinnige Stück interessierte ersichtlich, aber man fand, daß es zu sehr mit
+                  konventionellen Theatermitteln arbeite. Nach jedem Aktschlusse kämpften Beifall
+                  und Zischen ungemein lebhaft. Der Dichter konnte wiederholt
+               erscheinen.</quote>«</p>
+               </note> nicht recht erkennen, wies eigentlich ergangen ist, freue mich aber sehr, daß die Leute Dein <rs type="work" subtype="implied" ref="#pmb29857">Schmerzenskind</rs> wenigstens endlich einmal gesehen haben, und hoffe für <rs type="place" ref="#pmb168">Berlin</rs>, daß sich doch ein paar Kritiker finden werden, die seine Schönheit merken.</p>
             <p>Ich liege seit vierzehn Tagen wieder, eine Ligatur eitert.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>

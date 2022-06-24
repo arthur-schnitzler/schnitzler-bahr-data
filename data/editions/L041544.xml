@@ -13,11 +13,11 @@
             <title type="iso-date">1908-02-27</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,11 +104,14 @@
             </opener>
             <p>es tut mir sehr leid, daß wir Sie hier nicht sehen können, aber Ihre Gründe müssen natürlich entscheiden. Ich denke am 5. oder 6. auf ca. acht Tage fortzugehen, zur Erholung, weiß noch nicht recht wohin. Vor dem <rs type="place" ref="#pmb50">Wien</rs>er Lärm fürcht ich mich doch; und ob es in der Nähe <rs type="place" ref="#pmb50">Wien</rs>s eine Möglichkeit gäbe, <rs type="place" ref="#pmb468">europäisch</rs> zu existieren weiß ich nicht. Außerdem kann ich eigentlich nur auf ebenem Terrain hausen, ich habe mir, vor 2 Monaten schon, eine Muskelzerrung geleistet, die noch nicht ganz verspurlost ist und bei jedem bergauf und bergab sich beschwert. Ich habe für <rs type="place" ref="#pmb50">Wien</rs> noch nicht abgeschlossen, es kann möglicherweise jeden Tag dazu kommen. Geschieht es und werden Sie mit dem <hi rend="italic">
                   <rs type="work" ref="#pmb29905">Ruf</rs>
-               </hi> nach Wunsch fertig, so steht einer Aufführung und einer trefflichen <rs type="person" ref="#pmb2556">Orloff</rs>-Leistung meinerseits nichts im Wege. Wir haben bis jetzt nur <rs type="work" ref="#pmb30021">Die gelbe Nachtigall</rs> als Novität und allenfalls diesen von Ihnen gemißachteten <anchor type="commentary" xml:id="KL544-1">
-                  <rs type="person" ref="#pmb18286">
-                     <rs type="work" subtype="implied" ref="#pmb32232">Hinnerk</rs>
-                  </rs>
-               </anchor>.</p>
+               </hi> nach Wunsch fertig, so steht einer Aufführung und einer trefflichen <rs type="person" ref="#pmb2556">Orloff</rs>-Leistung meinerseits nichts im Wege. Wir haben bis jetzt nur <rs type="work" ref="#pmb30021">Die gelbe Nachtigall</rs> als Novität und allenfalls diesen von Ihnen gemißachteten <anchor type="commentary" xml:id="KL544-1"/>
+               <rs type="person" ref="#pmb18286">
+                  <rs type="work" subtype="implied" ref="#pmb32232">Hinnerk</rs>
+               </rs>
+               <note type="commentary" xml:id="KL544-1h">
+                  <p>
+                     <rs type="work" ref="#pmb32232">Närrische Welt</rs>, Komödie in drei Akten.</p>
+               </note>.</p>
             <p>Ich freue mich, Sie so arbeitslustig zu wissen und bin begierig, was sich, bei so trefflich-weisen Vorsätzen, gestalten wird.</p>
             <closer>Ihrigst <signed>O. B.</signed>
             </closer>

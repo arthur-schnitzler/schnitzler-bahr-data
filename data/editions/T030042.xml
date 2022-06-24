@@ -14,11 +14,11 @@
             <title type="iso-date">1931-10-25</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="042"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A98-B</idno>
          </publicationStmt>
@@ -83,9 +83,16 @@
             <head>
                <rs type="person" ref="#pmb2121">Artur Schnitzler</rs>.</head>
             <head type="sub">Nachruf von <hi rend="bold">Hermann Bahr</hi>, Mitglied der preußischen Dichterakademie</head>
-            <p part="N">
-               <rs type="person" ref="#pmb2121">Artur Schnitzler</rs> wuchs in den sechziger Jahren auf, in der Zeit der <anchor type="commentary" xml:id="KT042-1">Schlacht von <rs type="place" ref="#pmb49089">Sadowa</rs>
-               </anchor>, deren Ergebnis alle Hoffnungen <rs type="place" ref="#pmb41240">Oesterreichs</rs> knickte. Seit <rs type="place" ref="#pmb41240">Oesterreich</rs> im Abendland nicht mehr mitzusprechen oder gar mitzuwirken hatte, mußte jugendlicher Tatkraft ein Blitzableiter gegeben werden. Ich selbst hielt es daheim einfach nicht mehr aus, <anchor type="commentary" xml:id="KT042-2">fuhr zunächst nach</anchor>
+            <p>
+               <rs type="person" ref="#pmb2121">Artur Schnitzler</rs> wuchs in den sechziger Jahren auf, in der Zeit der <anchor type="commentary" xml:id="KT042-1"/>Schlacht von <rs type="place" ref="#pmb49089">Sadowa</rs>
+               <note type="commentary" xml:id="KT042-1h">
+                  <p>Weswegen <rs type="person" ref="#pmb10815">Bahr</rs> die ›Schlacht von <rs type="place" ref="#pmb22">Königgrätz</rs>‹ mit dem weniger verbreiteten Namen
+               referenziert, ist unklar. Bei der Schlacht am <date instant="false">3. 3. 1866</date> erlitt die <rs type="place" ref="#pmb41240">österreichische</rs> Armee eine durch ihre außen- wie
+               innenpolitischen Implikationen folgenreiche Niederlage.</p>
+               </note>, deren Ergebnis alle Hoffnungen <rs type="place" ref="#pmb41240">Oesterreichs</rs> knickte. Seit <rs type="place" ref="#pmb41240">Oesterreich</rs> im Abendland nicht mehr mitzusprechen oder gar mitzuwirken hatte, mußte jugendlicher Tatkraft ein Blitzableiter gegeben werden. Ich selbst hielt es daheim einfach nicht mehr aus, <anchor type="commentary" xml:id="KT042-2"/>fuhr zunächst nach<note type="commentary" xml:id="KT042-2h">
+                  <p>
+                     <ptr target="T030083"/>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb168">Berlin</rs>, dann nach <rs type="place" ref="#pmb182">Paris</rs>, <rs type="place" ref="#pmb914">Madrid</rs>, <rs type="place" ref="#pmb951">Tanger</rs> und landete schließlich doch wieder daheim, in der »<rs type="org" ref="#pmb29417">Modernen Dichtung</rs>«, hier sollten alle Begabungen sich entfalten können. Stadtberühmt war damals vor allem durch die Pracht seiner Krawatten Dr. <rs type="person" ref="#pmb10863">Richard Beer-Hofmann</rs>, und bald stellte sich ein Gymnasiast ein, der unter dem Namen <rs type="person" ref="#pmb11740">Loris</rs> schrieb: <rs type="person" ref="#pmb11740">Hugo v. Hofmannsthal</rs>. Eine Reihe von Werken <rs type="person" ref="#pmb2121">Schnitzlers</rs> lebt noch immer heiter fort, und man kann dreist voraussagen, daß »<rs type="work" ref="#pmb29935">Anatol</rs>
                <supplied>«</supplied>, »<rs type="work" ref="#pmb29917">Liebelei</rs>«, »<rs type="work" ref="#pmb29899">Freiwild</rs>«, »<rs type="work" ref="#pmb29855">Reigen</rs>«, »<rs type="work" ref="#pmb29985">Der einsame Weg</rs>«, »<rs type="work" ref="#pmb30775">Der Gang zum Weiher</rs>« und das »<rs type="work" ref="#pmb30053">Buch der Sprüche</rs>«, mögen sie zuweilen eine Zeitlang vergessen sein, doch immer wieder fröhlichen Urstand feiern werden.</p>

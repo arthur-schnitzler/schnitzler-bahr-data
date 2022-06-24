@@ -13,11 +13,11 @@
             <title type="iso-date">1895-09-15</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -167,8 +167,11 @@
                </rs> sprach neulich das erste Mal von der Sache: »Ich hab ja nur zufällig durch den <rs type="person" ref="#pmb10815">Bahr</rs> von der Sache erfahren <c rendition="#dots" n="2" place="center"/> aber ich werd ihr schon begreiflich machen, dass das beim <rs type="place" ref="#pmb14">Burgtheater</rs> nicht geht – besonders <hi rend="underline" n="1">sie</hi>
                <c rendition="#dots" n="3"/> Freilich mit Ketten kann ich sie nicht auf die Bühne zerren.« – Man war bei <rs type="person" ref="#pmb14179">
                   <hi rend="latintype">Besezny</hi>
-               </rs>, ihm erzählen, wie dumm und ordinär mein <rs type="work" subtype="implied" ref="#pmb29917">Stück</rs> sei. – Unser Freund <rs type="person" ref="#pmb2416">J. J. David</rs>: Ich werde <anchor type="commentary" xml:id="KL381-1">vielleicht <rs type="work" subtype="implied" ref="#pmb31905">durch<pb/>fallen</rs>
-               </anchor>, der <hi rend="latintype">Schnitzler</hi> aber doch ganz gewiss.–</p>
+               </rs>, ihm erzählen, wie dumm und ordinär mein <rs type="work" subtype="implied" ref="#pmb29917">Stück</rs> sei. – Unser Freund <rs type="person" ref="#pmb2416">J. J. David</rs>: Ich werde <anchor type="commentary" xml:id="KL381-1"/>vielleicht <rs type="work" subtype="implied" ref="#pmb31905">durch<pb/>fallen</rs>
+               <note type="commentary" xml:id="KL381-1h">
+                  <p>
+                     <rs type="work" ref="#pmb31905">Ein Regentag</rs>, Uraufführung im <rs type="place" ref="#pmb20">Deutschen Volkstheater</rs> am <date instant="false">12. 10. 1895</date>.</p>
+               </note>, der <hi rend="latintype">Schnitzler</hi> aber doch ganz gewiss.–</p>
             <p>– <rs type="person" ref="#pmb12816">
                   <hi rend="latintype">Speidel</hi>
                </rs> zu <rs type="person" ref="#pmb2157">
@@ -180,7 +183,9 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11740">
                   <hi rend="latintype">Hugo</hi>
-               </rs>s <anchor type="commentary" xml:id="KL381-2">neulich im Kaffeehaus</anchor>. <rs type="person" ref="#pmb11740">
+               </rs>s <anchor type="commentary" xml:id="KL381-2"/>neulich im Kaffeehaus<note type="commentary" xml:id="KL381-2h">
+                  <p>Am <date instant="false">12. 9. 1895</date>.</p>
+               </note>. <rs type="person" ref="#pmb11740">
                   <hi rend="latintype">Hugo</hi>
                </rs> ritt durch <rs type="place" ref="#pmb50">Wien</rs>; sie standen beim <rs type="place" ref="#pmb549">Tegethoffmonument</rs> und schauten zu. Er war in <rs type="place" ref="#pmb49823">Göding</rs> sehr unglücklich; die Manöver sollen<pb/> ihm enorm gefallen haben. Jetzt ist er in <rs type="place" ref="#pmb840">Bruck</rs>.–<space unit="chars" quantity="5"/>Gesprochen: <rs type="person" ref="#pmb2167">
                   <hi rend="latintype">Salten</hi>

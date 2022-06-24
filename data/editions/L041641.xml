@@ -13,11 +13,11 @@
             <title type="iso-date">1904-01-27</title>
             <author ref="pmb12968">Trebitsch, Siegfried</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,8 +106,10 @@
             </opener>
             <p>Vielen Dank für Ihren lieben Brief, und doch: bitte schreiben Sie mir <hi rend="underline" n="1">öfter</hi>, aber <hi rend="underline" n="1">kürzer</hi>, da Sie das so anstrengt. Denken Sie <hi rend="underline" n="1">nur</hi> an Ihre Gesundheit und <hi rend="underline" n="1">glauben</hi> Sie an eine Genesung; dann wird alles viel schneller werden; wir müssen Sie frisch und gesund und kampf-und-schaffensfroh wiederhaben. Die <rs type="person" ref="#pmb2299">Sorma</rs> – <rs type="work" ref="#pmb30127">Star</rs> Sache liegt mir sehr am Herzen, denn der deutsche <rs type="person" ref="#pmb2381">Bernard Shaw</rs> steht mir noch näher als der englische Hermann Bahr. ich habe die <rs type="person" ref="#pmb2299">Sorma</rs> bei der gestrigen Probe kennen gelernt und finde<pb/> sie charmant. Aber ich will keinen Schlag in’s Wasser thun, weshalb ich <hi rend="underline" n="1">noch</hi>
                <space unit="chars" quantity="1"/>
-               <hi rend="underline" n="1">nicht</hi> über den <rs type="work" ref="#pmb30127">Star</rs> mit ihr sprechen will. Erst <hi rend="underline" n="1">nach</hi> der <rs type="work" ref="#pmb29841">Schlachtenl.</rs> Première! bis wir besser bekannt sind und sie sich ein klein wenig für mich interessirt! Dann kann ich mir den <rs type="work" ref="#pmb30127">Star</rs> vielleicht einfach als Andenken ausbitten. Jedenfalls machen Sie sich, bitte keine Sorgen; der <rs type="work" ref="#pmb29983">Meister</rs> Erfolg (<anchor type="commentary" xml:id="KL641-1">auch bei <rs type="person" ref="#pmb10883">Berger</rs>
-               </anchor>) enthebt Sie erstens solcher gewiss auf lange, und ich werde schon nichts vergessen, auch die »<rs type="work" ref="#pmb29885">Wienerinnen</rs>« nicht, die <rs type="person" ref="#pmb2121">Schnitzler</rs>
+               <hi rend="underline" n="1">nicht</hi> über den <rs type="work" ref="#pmb30127">Star</rs> mit ihr sprechen will. Erst <hi rend="underline" n="1">nach</hi> der <rs type="work" ref="#pmb29841">Schlachtenl.</rs> Première! bis wir besser bekannt sind und sie sich ein klein wenig für mich interessirt! Dann kann ich mir den <rs type="work" ref="#pmb30127">Star</rs> vielleicht einfach als Andenken ausbitten. Jedenfalls machen Sie sich, bitte keine Sorgen; der <rs type="work" ref="#pmb29983">Meister</rs> Erfolg (<anchor type="commentary" xml:id="KL641-1"/>auch bei <rs type="person" ref="#pmb10883">Berger</rs>
+               <note type="commentary" xml:id="KL641-1h">
+                  <p>Siehe Kommentar zu <ptr target="KL638-1"/>.</p>
+               </note>) enthebt Sie erstens solcher gewiss auf lange, und ich werde schon nichts vergessen, auch die »<rs type="work" ref="#pmb29885">Wienerinnen</rs>« nicht, die <rs type="person" ref="#pmb2121">Schnitzler</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb12140">Löwenfeld</rs>, den ich auch recht gut kenne, empfehlen sollte. sonst will ich’s thun – aber <rs type="person" ref="#pmb2121">Arthur</rs> würde es <hi rend="underline" n="1">nicht</hi> leicht abschlagen,<pb/> das weiß ich.<space unit="chars" quantity="5"/>ich werde hier sehr nervös gemacht. Der <rs type="work" subtype="implied" ref="#pmb29841">
                   <rs type="person" subtype="implied" ref="#pmb4769">Napoleon</rs>
@@ -123,11 +125,15 @@
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">Abfall</hi> bei <rs type="person" ref="#pmb10986">Brahm</rs>
             </p>
-            <p>3. Ebenso <anchor type="commentary" xml:id="KL641-2">
-                  <rs type="work" subtype="implied" ref="#pmb29989">
-                     <rs type="person" ref="#pmb2425">Dörmann</rs>
-                  </rs> in <rs type="place" ref="#pmb45258">München</rs>
-               </anchor>.</p>
+            <p>3. Ebenso <anchor type="commentary" xml:id="KL641-2"/>
+               <rs type="work" subtype="implied" ref="#pmb29989">
+                  <rs type="person" ref="#pmb2425">Dörmann</rs>
+               </rs> in <rs type="place" ref="#pmb45258">München</rs>
+               <note type="commentary" xml:id="KL641-2h">
+                  <p>
+                     <rs type="work" ref="#pmb29989">Der Herr von Abadessa. Ein Abenteurerstück in drei
+                  Akten</rs>, Premiere am <date instant="false">20. 1. 1904</date> im <rs type="place" ref="#pmb9">Hoftheater</rs>.</p>
+               </note>.</p>
             <p>Sobald ich wieder was weiß, schreibe ich wieder. Ihre Grüße werden innigst erwidert. (<rs type="person" ref="#pmb3025">Kahane</rs> sah ich noch nicht)</p>
             <closer>Herzlichst in warmer Zuneigung Ihr sehr getreuer <signed>Trebitsch</signed>
             </closer>

@@ -13,11 +13,11 @@
             <title type="iso-date">1905-10-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -139,7 +139,9 @@
                </damage> sein müßte, und zu dem mir alle Elemente in geheimnisvoller Weise schon in diesem seltsamen Akt zu liegen scheinen.</p>
             <p>Darf ich dir bei dieser Gelegenheit gleich für <rs type="work" subtype="implied" ref="#pmb30003">deine lieben Worte</rs> in der <rs type="org" ref="#pmb29421">Volkszeitg</rs> die Hand drücken?</p>
             <p>
-               <anchor type="commentary" xml:id="KL087-1">Sonntag oder Montag</anchor> fahr ich fort, auf einige Tage nur, dann auf Wiedersehen.</p>
+               <anchor type="commentary" xml:id="KL087-1"/>Sonntag oder Montag<note type="commentary" xml:id="KL087-1h">
+                  <p>Am Montag, dem <date instant="false">16. 10. 1905</date>, fuhr er mit <rs type="person" ref="#pmb10986">Brahm</rs> auf den <rs type="place" ref="#pmb189">Semmering</rs>.</p>
+               </note> fahr ich fort, auf einige Tage nur, dann auf Wiedersehen.</p>
             <closer>Von Herzen dein <signed>A.</signed>
             </closer>
          </div>

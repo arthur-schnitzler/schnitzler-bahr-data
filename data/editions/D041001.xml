@@ -13,11 +13,11 @@
             <title type="iso-date">1892-01-24</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,9 +78,11 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1892-01-24" n="01">24/1</date> Sonntag.– Vorm. <rs type="person" ref="#pmb14953">Mz.</rs>– Abds. bei ihr.– Dort <rs type="person" ref="#pmb27553">Flor.</rs> Zw. Kartenpartie der vier: <rs type="person" subtype="implied" ref="#pmb27771">Mutter</rs>, <rs type="person" subtype="implied" ref="#pmb14953">Tochter</rs>, <rs type="person" subtype="implied" ref="#pmb14950">Bruder</rs> und <rs type="person" ref="#pmb27553">Florian</rs>. Der »Umweltschauder«!– Zärtlichkeit und Sinnlichkeit umgibt mich nicht genug.–</p>
-            <p>Nm. <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb2167">Salten</rs> und <rs type="person" ref="#pmb10815">Bahr</rs> bei mir. Der <rs type="person" subtype="implied" ref="#pmb2566">deutsche Kaiser</rs> verbietet den Offizieren den Besuch der <anchor type="commentary" xml:id="KD001-1">
-                  <rs type="work" ref="#pmb30255">Ehre</rs>
-               </anchor> und will, daß kein real. Stück in <rs type="place" ref="#pmb50">Wien</rs> bei der <rs type="place" ref="#pmb52">Theaterausstellung</rs> aufgeführt wird.</p>
+            <p>Nm. <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb2167">Salten</rs> und <rs type="person" ref="#pmb10815">Bahr</rs> bei mir. Der <rs type="person" subtype="implied" ref="#pmb2566">deutsche Kaiser</rs> verbietet den Offizieren den Besuch der <anchor type="commentary" xml:id="KD001-1"/>
+               <rs type="work" ref="#pmb30255">Ehre</rs>
+               <note type="commentary" xml:id="KD001-1h">
+                  <p>Von <rs type="person" ref="#pmb12899">Sudermann</rs>.</p>
+               </note> und will, daß kein real. Stück in <rs type="place" ref="#pmb50">Wien</rs> bei der <rs type="place" ref="#pmb52">Theaterausstellung</rs> aufgeführt wird.</p>
             <p>Habe <rs type="person" ref="#pmb12491">Reicher</rs> auf neuerliche Aufforderung <rs type="person" ref="#pmb14328">Blumenthals</rs> wegen Aufnahme des <rs type="work" ref="#pmb29823">Märchen</rs> ins Ausstellungs-Repertoire geschrieben.</p>
             <p>Im Probeheft der <rs type="org" ref="#pmb29212">Fr. Bühne</rs> »<rs type="work" ref="#pmb30257">Sohn</rs>« von mir und ein <rs type="work" subtype="implied" ref="#pmb30259">Aufsatz von <rs type="person" ref="#pmb10815">Bahr</rs> über <rs type="person" ref="#pmb11740">Loris</rs>
                </rs>.</p>

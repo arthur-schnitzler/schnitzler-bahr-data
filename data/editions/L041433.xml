@@ -13,11 +13,11 @@
             <title type="iso-date">1894-06-16</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -145,8 +145,16 @@
             <p>
                <salute>lieber, </salute>ich werde dem <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL433-1">das Mitgehen</anchor> ausreden.</p>
-            <p>Wenn es <hi rend="underline" n="1">unzweifelhaft</hi> hübsch ist, weder drohend noch regnerisch, erwart ich Sie um Punkt <anchor type="commentary" xml:id="KL433-3">¼ 4</anchor> unter den Arkaden der <rs type="place" ref="#pmb15">Oper</rs>, wo die <rs type="place" ref="#pmb571">Guttmann’sche <anchor type="commentary" xml:id="KL433-2">Kalienhandlung</anchor>
+               <anchor type="commentary" xml:id="KL433-1"/>das Mitgehen<note type="commentary" xml:id="KL433-1h">
+                  <p>Nach <rs type="place" ref="#pmb968">Mödling</rs> zu <rs type="person" ref="#pmb24686">Christine Schönberger</rs>, der Wirtstochter des »<rs type="place" ref="#pmb625">Goldenen Stern</rs>«. Diese dürfte in der <rs type="work" ref="#pmb29917">Liebelei</rs> porträtiert sein, <ptr target="KL496-1"/> und <bibl >Valerie
+                  Reichert-Heidt: <rs type="work">Das Urbild der Christine</rs>. In: <rs type="org">Neues Österreich</rs>, Jg. 11, Nr. 3208, <date when="1955-11-13" instant="false">13. 11.
+                     1955</date>, S. 17–18</bibl>.</p>
+               </note> ausreden.</p>
+            <p>Wenn es <hi rend="underline" n="1">unzweifelhaft</hi> hübsch ist, weder drohend noch regnerisch, erwart ich Sie um Punkt <anchor type="commentary" xml:id="KL433-3"/>¼ 4<note type="commentary" xml:id="KL433-3h">
+                  <p>15 Uhr 45.</p>
+               </note> unter den Arkaden der <rs type="place" ref="#pmb15">Oper</rs>, wo die <rs type="place" ref="#pmb571">Guttmann’sche <anchor type="commentary" xml:id="KL433-2"/>Kalienhandlung<note type="commentary" xml:id="KL433-2h">
+                     <p>Gemeint: Musikalienhandlung.</p>
+                  </note>
                </rs> ist. Recht? Dadurch ersparen wir ½ Stunde.</p>
             <closer>Ihr<lb/>
                <signed>Hugo.</signed>

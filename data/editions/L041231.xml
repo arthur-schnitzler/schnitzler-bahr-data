@@ -13,11 +13,11 @@
             <title type="iso-date">1900-12-21</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -116,8 +116,13 @@
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
             <p>
-               <rs type="person" ref="#pmb2161">Bukovics</rs> sagt mir, es sei über den <anchor type="commentary" xml:id="KL231-1">
-                  <rs type="place" ref="#pmb20">Volkstheater</rs>abend</anchor> dieses Jahr noch nichts beschlossen. Ich mache Dich nur aufmerksam, daß bei dem späten Anfang (½ 11), der elenden Bühne (meistens <rs type="place" ref="#pmb19">Ronacher</rs>) u. der kaum zu bändigenden Tanzlust hier nur<pb/> ganz einfache u. rohe Sachen wirken.</p>
+               <rs type="person" ref="#pmb2161">Bukovics</rs> sagt mir, es sei über den <anchor type="commentary" xml:id="KL231-1"/>
+               <rs type="place" ref="#pmb20">Volkstheater</rs>abend<note type="commentary" xml:id="KL231-1h">
+                  <p>Ein jährlich stattfindender Abend in einem angemieteten Veranstaltungssaal mit
+               speziellem Programm. <date instant="false">1901</date> fand er am <date instant="false">9. 3.</date> in den <rs type="place" ref="#pmb107">Sophiensälen</rs> statt. Vor der Eröffnung der
+               Tanzfläche wurden Lieder gesungen und das Mimodrama <rs type="work" ref="#pmb32688">Die Hand</rs> von <rs type="person" ref="#pmb10879">Henri Berény</rs>
+               gegeben.</p>
+               </note> dieses Jahr noch nichts beschlossen. Ich mache Dich nur aufmerksam, daß bei dem späten Anfang (½ 11), der elenden Bühne (meistens <rs type="place" ref="#pmb19">Ronacher</rs>) u. der kaum zu bändigenden Tanzlust hier nur<pb/> ganz einfache u. rohe Sachen wirken.</p>
             <p>Für die lieben Worte Deines Briefes danke ich Dir sehr und bin, Dir das Beste wünschend,</p>
             <closer>Dein alter<lb/>
                <signed>Hermann</signed>

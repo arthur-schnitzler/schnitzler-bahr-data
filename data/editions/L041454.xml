@@ -13,11 +13,11 @@
             <title type="iso-date">1902-09-30</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,8 +124,10 @@
             <p>Leben Sie und Ihrigen wohl. Hoffentlich arbeiten Sie viel und schön.<space unit="chars" quantity="5"/>Ihr <signed>Hugo</signed>.</p>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL454-1">Adresse: <rs type="place" ref="#pmb623">Hôtel Hassler Rom</rs>
-                  </anchor>
+                  <anchor type="textConst" xml:id="TL454-1"/>Adresse: <rs type="place" ref="#pmb623">Hôtel Hassler Rom</rs>
+                  <note type="textConst" xml:id="TL454-1h">
+                     <p>Entlang des rechten Seitenrandes.</p>
+                  </note>
                </p>
             </postscript>
          </div>

@@ -13,11 +13,11 @@
             <title type="iso-date">1892-05-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,7 +79,10 @@
             <p>
                <date when="1892-05-02" n="01">2/5</date> Symbolist. Vorstellung im <rs type="place" ref="#pmb40">Josefst.-Th.</rs> (<rs type="person" ref="#pmb14953">Mz.</rs> war bei <rs type="place" ref="#pmb19">Ronacher</rs>) <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD024-1">Vortrag</anchor>, und <rs type="work" ref="#pmb30189">L’Intruse</rs> von <rs type="person" ref="#pmb12156">Maeterlinck</rs>.–</p>
+               <anchor type="commentary" xml:id="KD024-1"/>Vortrag<note type="commentary" xml:id="KD024-1h">
+                  <p>
+                     <ptr target="KT040-4"/>.</p>
+               </note>, und <rs type="work" ref="#pmb30189">L’Intruse</rs> von <rs type="person" ref="#pmb12156">Maeterlinck</rs>.–</p>
             <p>Nachher wollten wir zusammenbleiben, aber es war eigen – wie alles auseinander bröckelte.–</p>
          </div>
       </body>

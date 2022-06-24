@@ -13,11 +13,11 @@
             <title type="iso-date">1901-11-02</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,9 +99,16 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1901-11-02" n="01"/>An <rs type="person" ref="#pmb3379">Langen</rs> für <anchor type="commentary" xml:id="KD416-1">
-                  <rs type="work" ref="#pmb29887">Apostel</rs>
-               </anchor> Adressen geschickt:<lb/>
+               <date when="1901-11-02" n="01"/>An <rs type="person" ref="#pmb3379">Langen</rs> für <anchor type="commentary" xml:id="KD416-1"/>
+               <rs type="work" ref="#pmb29887">Apostel</rs>
+               <note type="commentary" xml:id="KD416-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb29887">Der Apostel. Schauspiel in drei Aufzügen</rs>. München: <rs type="org" ref="#pmb29654">Albert Langen</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1901</date>
+                     </bibl>.</p>
+               </note> Adressen geschickt:<lb/>
                <rs type="person" ref="#pmb10986">Brahm</rs>, <rs type="person" ref="#pmb12078">Lindau</rs>, <rs type="person" ref="#pmb11581">Harden</rs>, <rs type="person" ref="#pmb3382">Levysohn</rs>, <rs type="person" ref="#pmb3386">Mautner</rs>, <rs type="person" ref="#pmb3390">Schönhoff</rs>, <rs type="person" ref="#pmb11910">Kerr</rs>, <rs type="person" ref="#pmb11597 #pmb3394">Hart</rs>, <rs type="person" ref="#pmb12237">R. M. Meyer</rs>, <rs type="person" ref="#pmb12678">Erich Schmidt</rs>, <rs type="person" ref="#pmb38364">Wolf Heine</rs>, <rs type="person" ref="#pmb12319">Muther</rs>, <rs type="person" ref="#pmb3400">Koch</rs>, <rs type="person" ref="#pmb3403">Lichtwark</rs>, <rs type="person" ref="#pmb10992">Brandes</rs>, <rs type="person" ref="#pmb2400">Björnson</rs>, <rs type="person" ref="#pmb12096">Litzmann</rs>, <rs type="person" ref="#pmb3368">Olbrich</rs>, <rs type="person" ref="#pmb11402">Ganghofer</rs>, <rs type="person" ref="#pmb11711">Hirth</rs>, <rs type="person" ref="#pmb2801">Henri Albert</rs>,</p>
             <p>–</p>
             <p>

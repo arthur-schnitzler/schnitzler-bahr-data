@@ -13,11 +13,11 @@
             <title type="iso-date">1895-02-18</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -119,15 +119,25 @@
                </subst>me dann Donnerstag von der Bahn direkt in die <rs type="org" ref="#pmb29801">Musik <c rendition="#kaufmannsund"/> Theatergesellschaft</rs>, wir uns treffen können.<pb/>
             </p>
             <p>Ich könnte jetzt sehr glücklich sein, wenn ich durch diese freundlichen Straßen mit einem Mädel ginge, das ich wirklich liebe. So aber ärgere ich mich ausschließlich, wenn ich mich nicht langweile. Morgen will ich ein paar Leute aufsuchen, da ich ja heute schon ein Zimmer für <rs type="person" ref="#pmb3784">Lotte</rs> aufgenommen habe,<pb/> mich also <hi rend="underline" n="1">damit</hi> nicht weiter aufzuhalten brauche.</p>
-            <p>Ein Brief von Ihnen, der nicht schon unterwegs ist, träfe mich nicht mehr hier. Wenn etwas Wichtiges geschehen ist, dann telegrafiren Sie mir ja ohnedies noch separat. Sobald <rs type="person" ref="#pmb10986">Brahm</rs> Ihnen den <anchor type="commentary" xml:id="KL370-1">Contract</anchor> gesendet <c rendition="#kaufmannsund"/> Sie diese Sache in die Zeitungen geben, vergessen sie nicht, auch<pb/>
+            <p>Ein Brief von Ihnen, der nicht schon unterwegs ist, träfe mich nicht mehr hier. Wenn etwas Wichtiges geschehen ist, dann telegrafiren Sie mir ja ohnedies noch separat. Sobald <rs type="person" ref="#pmb10986">Brahm</rs> Ihnen den <anchor type="commentary" xml:id="KL370-1"/>Contract<note type="commentary" xml:id="KL370-1h">
+                  <p>Für das Aufführungsrecht für <rs type="work" ref="#pmb29917">Liebelei</rs> am <rs type="place" ref="#pmb3">Deutschen Theater</rs>. Der Vertrag dürfte zu dem
+               Zeitpunkt bereits eingelangt sein (<bibl >
+                        <rs type="work">Bw</rs> Schnitzler/Brahm 4</bibl>).</p>
+               </note> gesendet <c rendition="#kaufmannsund"/> Sie diese Sache in die Zeitungen geben, vergessen sie nicht, auch<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11406">Ludassy</rs> zu verständigen.</p>
             <p>Haben Sie <rs type="person" ref="#pmb10815">Bahrs</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL370-2">
-                  <rs type="work" subtype="implied" ref="#pmb31911">Artikel <rs type="person" ref="#pmb12618">A. S.</rs>
-                  </rs>
-               </anchor> gelesen? Ich habe ihn noch Samstag Abend im Theater gesprochen und er war wieder beängstigend freundlich.</p>
+               <anchor type="commentary" xml:id="KL370-2"/>
+               <rs type="work" subtype="implied" ref="#pmb31911">Artikel <rs type="person" ref="#pmb12618">A. S.</rs>
+               </rs>
+               <note type="commentary" xml:id="KL370-2h">
+                  <seg type="lemma">Artikel A. S.</seg>
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31911">Adele Sandrock</rs>. In: <rs type="org" ref="#pmb29209">Die
+                     Zeit</rs>, Bd. 2, Nr. 20, <date instant="false">16. 2. 1895</date>, S. 108–109</bibl>.</p>
+               </note> gelesen? Ich habe ihn noch Samstag Abend im Theater gesprochen und er war wieder beängstigend freundlich.</p>
             <p>Leben Sie wol, und grüßen <rs type="person" ref="#pmb10860">Beer Hofmann</rs> + <rs type="person" ref="#pmb11740">Loris</rs>. Auf Wiedersehen</p>
             <closer>Herzlichst Ihr<lb/>
                <signed>Salten</signed>

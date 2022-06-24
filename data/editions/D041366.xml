@@ -13,11 +13,11 @@
             <title type="iso-date">1915-12-10</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,18 +79,41 @@
             <p>
                <date when="1915-12-10" n="1">10/12</date> Vm. Dr. <rs type="person" ref="#pmb12556">Rosenbaum</rs>; über den Stand der <rs type="place" ref="#pmb20">Volkstheater</rs>angelegenheit. Chancen <rs type="person" ref="#pmb12971">Treßlers</rs>, <rs type="person" ref="#pmb11426">Geyers</rs>, <rs type="person" ref="#pmb3183">Rundts</rs>, <rs type="person" ref="#pmb11771">Holzers</rs>.–</p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs> zu <rs type="person" ref="#pmb13055 #pmb13058">Wassermanns</rs>, wo Dr. <rs type="person" ref="#pmb3186">Simon</rs> aus <rs type="place" ref="#pmb146">Frankfurt a. M.</rs>, ein sehr kluger Mann, der wohl politisch-handelspolitisch hier weilt und mit dem es eine erregte Discussion gab. Er als Vertreter des »Staatsgedankens« gegen mich als »Individualisten etc.«. »Tod fürs Vaterland etc<c rendition="#dots" n="3"/>« Ich mußte ihm erwidern: »Die Probe aufs Exempel steht aus.« Er: Es wär ein harter Kampf gewesen; aber er sei schließlich zur Überzeugung gekommen – er nütze dem Vaterland mehr,– wenn er nicht ins Feld, sondern zu Hause etc. Ich: »Geb ich Ihnen ohne weiters zu – <hi rend="italic">Sie</hi> aber hatten selbst die Entscheidung – hunderttausende der gleichen Ansicht werden nicht gefragt, <hi rend="italic">müssen</hi> in den Schützengraben, auch wenn sie daheim<c rendition="#dots" n="3"/>« Hier flüchtete er ins »innre Gefühl« – die heilige Freistatt, wo der Verfolger vor dem Thor stehen bleiben muss.</p>
-            <p>Abends zu <rs type="person" ref="#pmb11740">Hugo</rs> (sein Zimmer bei <rs type="person" ref="#pmb2527 #pmb3190">Oppenheimers</rs>) zum <anchor type="commentary" xml:id="KD366-1">Tod seines <rs type="person" subtype="implied" ref="#pmb11737">Vaters</rs>
-               </anchor> ihm condoliren. Er sprach von seinen letzten Tagen, von seiner <anchor type="commentary" xml:id="KD366-3">verstorbnen <rs type="person" subtype="implied" ref="#pmb18404">Mutter</rs>
-               </anchor>, in Thränen. Allerlei Erinnerungen. Bald wieder ins lebendigere. Von <rs type="person" ref="#pmb12870">Strauss</rs>, dessen einleuchtender Persönlichkeit. Die <rs type="work" subtype="implied" ref="#pmb30077">
+            <p>Abends zu <rs type="person" ref="#pmb11740">Hugo</rs> (sein Zimmer bei <rs type="person" ref="#pmb2527 #pmb3190">Oppenheimers</rs>) zum <anchor type="commentary" xml:id="KD366-1"/>Tod seines <rs type="person" subtype="implied" ref="#pmb11737">Vaters</rs>
+               <note type="commentary" xml:id="KD366-1h">
+                  <p>
+                     <rs type="person" ref="#pmb11737">Hugo von Hofmannsthal</rs> (senior) verschied am
+                  <date instant="false">8. 12. 1915</date>.</p>
+               </note> ihm condoliren. Er sprach von seinen letzten Tagen, von seiner <anchor type="commentary" xml:id="KD366-3"/>verstorbnen <rs type="person" subtype="implied" ref="#pmb18404">Mutter</rs>
+               <note type="commentary" xml:id="KD366-3h">
+                  <p>
+                     <rs type="person" ref="#pmb18404">Anna Maria Hofmannsthal</rs> war bereits am
+                  <date instant="false">22. 3. 1904</date> verstorben.</p>
+               </note>, in Thränen. Allerlei Erinnerungen. Bald wieder ins lebendigere. Von <rs type="person" ref="#pmb12870">Strauss</rs>, dessen einleuchtender Persönlichkeit. Die <rs type="work" subtype="implied" ref="#pmb30077">
                   <rs type="org" ref="#pmb29646">Köln. Zeitung</rs> gegen mich, <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>
-               </rs> – als politic. zu behandeln, <rs type="person" ref="#pmb11740">Hugo</rs> will darüber schreiben. <rs type="person" ref="#pmb2292">Gerty</rs> kommt. Wir schauen uns die Bilder seines <anchor type="commentary" xml:id="KD366-2">
-                  <rs type="work" subtype="implied" ref="#pmb30891">
-                     <rs type="person" ref="#pmb5071">Prinz Eugen</rs> Buchs</rs>
-               </anchor> an. Im Salon <rs type="person" ref="#pmb2527 #pmb3190">Oppenheimer</rs>; der <anchor type="commentary" xml:id="KD366-4">
-                  <rs type="work" subtype="implied" ref="#pmb32904 #pmb32902">
-                     <rs type="person" ref="#pmb28012">Breughel</rs>
-                  </rs>
-               </anchor>.–</p>
+               </rs> – als politic. zu behandeln, <rs type="person" ref="#pmb11740">Hugo</rs> will darüber schreiben. <rs type="person" ref="#pmb2292">Gerty</rs> kommt. Wir schauen uns die Bilder seines <anchor type="commentary" xml:id="KD366-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30891">
+                  <rs type="person" ref="#pmb5071">Prinz Eugen</rs> Buchs</rs>
+               <note type="commentary" xml:id="KD366-2h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb30891">Prinz Eugen der edle Ritter. Sein Leben in
+                     Bildern</rs>. Erzählt von <rs type="person" ref="#pmb11740">Hugo von
+                     Hofmannsthal</rs>. 12 Original-Lithographien von <rs type="person" ref="#pmb5059">Franz Wacik</rs>. Wien: <rs type="org">L. W. Seidel <c rendition="#kaufmannsund"/> Sohn</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1915</date>
+                     </bibl>.</p>
+               </note> an. Im Salon <rs type="person" ref="#pmb2527 #pmb3190">Oppenheimer</rs>; der <anchor type="commentary" xml:id="KD366-4"/>
+               <rs type="work" subtype="implied" ref="#pmb32904 #pmb32902">
+                  <rs type="person" ref="#pmb28012">Breughel</rs>
+               </rs>
+               <note type="commentary" xml:id="KD366-4h">
+                  <p>Bei der »Schleißheimer Versteigerung«, die <date instant="false">1852</date> stattfand, wurden als
+               Lot 611 und 612 zwei Arbeiten auf Holz von <rs type="person" ref="#pmb28012">Pieter
+                  Brueghels d. Ä.</rs> angeboten, beide <rs type="work" ref="#pmb32902 #pmb32904">Bauernfest</rs> betitelt. Der Käufer wird als »Oppenheimer« identifiziert und
+               könnte aus der Familie <rs type="person" ref="#pmb2527">Felix Oppenheimers</rs>
+               stammen.</p>
+               </note>.–</p>
          </div>
       </body>
    </text>

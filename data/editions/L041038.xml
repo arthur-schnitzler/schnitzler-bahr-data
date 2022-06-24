@@ -13,11 +13,11 @@
             <title type="iso-date">1901-03-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -123,10 +123,25 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>mein lieber Hermann, </salute>es handelt sich um nichts wichtiges; vielleicht kann ich also <date>Dienstg</date> Vormittg zu dir – ohne dich im geringsten zu binden. Eines kann ich dir vielleicht gleich hier sagen, wobei ich dich bitte, gelegentlich zu <rs type="person" ref="#pmb2161">Bukovis</rs> davon zu reden. <anchor type="commentary" xml:id="KL038-2">Mein Einakterabend wird bestehen</anchor> aus »<rs type="work" ref="#pmb29869">Literatur</rs>«, einem <anchor type="commentary" xml:id="KL038-1">
-                  <rs type="work" subtype="implied" ref="#pmb29865">andern</rs>, der halb fertig ist ziemlich phantastisch</anchor> und<pb/> einem <anchor type="commentary" xml:id="KL038-3">
-                  <rs type="work" cert="low" subtype="implied" ref="#pmb29877">dritten</rs>
-               </anchor> – den ich noch nicht begonnen habe. –</p>
+               <salute>mein lieber Hermann, </salute>es handelt sich um nichts wichtiges; vielleicht kann ich also <date>Dienstg</date> Vormittg zu dir – ohne dich im geringsten zu binden. Eines kann ich dir vielleicht gleich hier sagen, wobei ich dich bitte, gelegentlich zu <rs type="person" ref="#pmb2161">Bukovis</rs> davon zu reden. <anchor type="commentary" xml:id="KL038-2"/>Mein Einakterabend wird bestehen<note type="commentary" xml:id="KL038-2h">
+                  <p>Zur Vorgeschichte, die sich <date instant="false">Ende Februar</date> ereignete <ptr target="KL651-1"/>.</p>
+               </note> aus »<rs type="work" ref="#pmb29869">Literatur</rs>«, einem <anchor type="commentary" xml:id="KL038-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29865">andern</rs>, der halb fertig ist ziemlich phantastisch<note type="commentary" xml:id="KL038-1h">
+                  <p>Durch »phantastisch« scheint auf <rs type="work" ref="#pmb29865">Die Frau mit dem
+                  Dolche</rs> Bezug genommen zu sein, wobei die Niederschrift erst zwischen
+                  <date instant="false">Mai</date> und <date instant="false">August</date> datierbar ist.</p>
+               </note> und<pb/> einem <anchor type="commentary" xml:id="KL038-3"/>
+               <rs type="work" cert="low" subtype="implied" ref="#pmb29877">dritten</rs>
+               <note type="commentary" xml:id="KL038-3h">
+                  <p>
+                     <anchor type="label" xml:id="LKommKL038-3">Vermutlich <rs type="work" ref="#pmb29877">Die letzten Masken</rs>. Seit <date instant="false">12. 3.</date> lag der Stoff als Novelle
+                  abgeschlossen vor, und am »<quote>
+                           <date instant="false">24. 4.?</date>
+                        </quote>« (<bibl >
+                           <rs type="org">CUL</rs>, Schnitzler, A 80</bibl>) versuchte er, ihn dramatisch
+                  zu bearbeiten.</anchor>
+                  </p>
+               </note> – den ich noch nicht begonnen habe. –</p>
             <p>Dagegen soll <rs type="work" ref="#pmb29859">Marionetten</rs> (das hier bestimmt gut wirken wird, in guter Darstellung) da es doch als sagen wir Literatursatire nur einen kleinen Kreis interessiren kann) lieber an dem Abend gegeben werden, wo der <rs type="work" ref="#pmb29843">Kakadu</rs> aufgeführt wird. Also irgend was von einem andern (man<pb/> sprach mir von »<rs subtype="local" type="work" ref="#pmb29867">Fastnacht</rs>«) dann <rs type="work" ref="#pmb29843">Kakadu</rs>, am Schluss <rs type="work" ref="#pmb29859">Marionetten</rs>.</p>
             <p>Nun, darüber und <add place="above">über</add> einiges andere nächstens.</p>
             <closer>Viele herzliche Grüße<lb/>dein<lb/>

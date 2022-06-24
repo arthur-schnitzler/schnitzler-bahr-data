@@ -13,11 +13,11 @@
             <title type="iso-date">1922-06-02</title>
             <author ref="pmb13212">Zweig, Stefan</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -119,7 +119,10 @@
          </div>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber verehrter Herr Bahr</salute> ich habe sofort alles Nötige veranlasst und die vier Briefe (<rs type="person" ref="#pmb4026">Bourget</rs>, <rs type="person" ref="#pmb13082">Karlweiss</rs>, <rs type="person" ref="#pmb12156">Maeterlinck</rs>, <rs type="person" ref="#pmb2121">Schnitzler</rs>) werden also inhibiert: <anchor type="commentary" xml:id="KL610-1">Näheres hören Sie wohl bald</anchor>. Scheinbar stammen sie alle aus der Zeit der »<rs type="org" ref="#pmb29209">Zeit</rs>« und sind damals von der Redaction aus direct in andere Hände gelangt.</p>
+               <salute>Lieber verehrter Herr Bahr</salute> ich habe sofort alles Nötige veranlasst und die vier Briefe (<rs type="person" ref="#pmb4026">Bourget</rs>, <rs type="person" ref="#pmb13082">Karlweiss</rs>, <rs type="person" ref="#pmb12156">Maeterlinck</rs>, <rs type="person" ref="#pmb2121">Schnitzler</rs>) werden also inhibiert: <anchor type="commentary" xml:id="KL610-1"/>Näheres hören Sie wohl bald<note type="commentary" xml:id="KL610-1h">
+                  <p>Darüber hinaus ließ sich nichts ermitteln. Da kein Brief <rs type="person" ref="#pmb4026">Bourgets</rs> im Nachlass erhalten ist, dürften die Briefe nicht
+               zurückgestellt worden sein.</p>
+               </note>. Scheinbar stammen sie alle aus der Zeit der »<rs type="org" ref="#pmb29209">Zeit</rs>« und sind damals von der Redaction aus direct in andere Hände gelangt.</p>
             <p>Es ist herzlich heiss hier, man bekommt wieder Sehnsucht nach dem <geogName>Untersberg</geogName>, den ich, sofort wie sich der Burschenschaftlertag aus <rs type="place" ref="#pmb30">S.</rs> verzogen hat, in Gedenken an den verehrten »Vorgänger« (in jedem Sinne) beschreiten will. Herzlichst <signed>St. Z.</signed>
             </p>
          </div>

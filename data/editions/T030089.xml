@@ -12,11 +12,11 @@
             <title type="iso-date">1918-10-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,9 +83,11 @@
                   <row>
                      <cell>1.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-1">
-                           <rs type="work" ref="#pmb31603">Weh dem der lügt</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-1"/>
+                        <rs type="work" ref="#pmb31603">Weh dem der lügt</rs>
+                        <note type="commentary" xml:id="KT089-1h">
+                           <p>Von <rs type="person" ref="#pmb11518">Grillparzer</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
@@ -97,17 +99,21 @@
                   <row>
                      <cell>3.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-2">
-                           <rs type="work" ref="#pmb31605">Garten der Jugend</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-2"/>
+                        <rs type="work" ref="#pmb31605">Garten der Jugend</rs>
+                        <note type="commentary" xml:id="KT089-2h">
+                           <p>Von <rs type="person" ref="#pmb23452">Thaddäus Rittner</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>4.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-3">
-                           <rs type="work" ref="#pmb31607">Frau Suitner</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-3"/>
+                        <rs type="work" ref="#pmb31607">Frau Suitner</rs>
+                        <note type="commentary" xml:id="KT089-3h">
+                           <p>Von <rs type="person" ref="#pmb12749">Karl Schönherr</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
@@ -115,32 +121,40 @@
                      <cell>
                         <subst>
                            <del rend="strikethrough">
-                              <anchor type="commentary" xml:id="KT089-4">
-                                 <rs type="work" ref="#pmb30593">Braut von Messina</rs>
-                              </anchor> (?)</del>
+                              <anchor type="commentary" xml:id="KT089-4"/>
+                              <rs type="work" ref="#pmb30593">Braut von Messina</rs>
+                              <note type="commentary" xml:id="KT089-4h">
+                                 <p>Von <rs type="person" ref="#pmb12654">Schiller</rs>.</p>
+                              </note> (?)</del>
                            <add place="inline">
-                              <anchor type="commentary" xml:id="KT089-5">
-                                 <rs type="work" ref="#pmb31669">Spinnerin am Kreuz</rs>
-                              </anchor> (Gedächtnisvorstellg)</add>
+                              <anchor type="commentary" xml:id="KT089-5"/>
+                              <rs type="work" ref="#pmb31669">Spinnerin am Kreuz</rs>
+                              <note type="commentary" xml:id="KT089-5h">
+                                 <p>Von <rs type="person" ref="#pmb4030">Franz Keim</rs>.</p>
+                              </note> (Gedächtnisvorstellg)</add>
                         </subst>
                      </cell>
                   </row>
                   <row>
                      <cell>6.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-6">
-                           <rs type="work" ref="#pmb31609">stille Stunde</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-6"/>
+                        <rs type="work" ref="#pmb31609">stille Stunde</rs>
+                        <note type="commentary" xml:id="KT089-6h">
+                           <p>Von <rs type="person" ref="#pmb4035">Georg Terramare</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>7.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-8">
-                           <rs cert="low" type="work" ref="#pmb31625">
-                              <unclear>Könige</unclear>
-                           </rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-8"/>
+                        <rs cert="low" type="work" ref="#pmb31625">
+                           <unclear>Könige</unclear>
+                        </rs>
+                        <note type="commentary" xml:id="KT089-8h">
+                           <p>Von <rs type="person" ref="#pmb12327">Hans Müller</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
@@ -148,40 +162,50 @@
                         <hi rend="underline" n="1">8.</hi>
                      </cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-7">
-                           <rs type="work" ref="#pmb31225">Medea</rs>
-                        </anchor> (ob Probe nötig)</cell>
+                        <anchor type="commentary" xml:id="KT089-7"/>
+                        <rs type="work" ref="#pmb31225">Medea</rs>
+                        <note type="commentary" xml:id="KT089-7h">
+                           <p>Von <rs type="person" ref="#pmb11518">Grillparzer</rs>.</p>
+                        </note> (ob Probe nötig)</cell>
                   </row>
                   <row>
                      <cell>9.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-9">
-                           <rs type="work" ref="#pmb31611">Fasching</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-9"/>
+                        <rs type="work" ref="#pmb31611">Fasching</rs>
+                        <note type="commentary" xml:id="KT089-9h">
+                           <p>Von <rs type="person" ref="#pmb4488">Ferenc Molnár</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>10.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-10">
-                           <rs type="work" ref="#pmb31613">was Ihr wollt</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-10"/>
+                        <rs type="work" ref="#pmb31613">was Ihr wollt</rs>
+                        <note type="commentary" xml:id="KT089-10h">
+                           <p>Von <rs type="person" ref="#pmb2412">Shakespeare</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>11.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-11">
-                           <rs type="work" ref="#pmb31615 #pmb32205">Raub der Sabinerinnen</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-11"/>
+                        <rs type="work" ref="#pmb31615 #pmb32205">Raub der Sabinerinnen</rs>
+                        <note type="commentary" xml:id="KT089-11h">
+                           <p>Von <rs type="person" ref="#pmb24705">Paul</rs> und <rs type="person" ref="#pmb24702">Franz von Schönthan</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>12.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-12">
-                           <rs type="work" ref="#pmb31431">Räuber</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-12"/>
+                        <rs type="work" ref="#pmb31431">Räuber</rs>
+                        <note type="commentary" xml:id="KT089-12h">
+                           <p>Von <rs type="person" ref="#pmb12654">Schiller</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
@@ -204,9 +228,11 @@
                         <hi rend="underline" n="1">15.</hi>
                      </cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-13">
-                           <rs type="work" ref="#pmb31631">Sappho</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-13"/>
+                        <rs type="work" ref="#pmb31631">Sappho</rs>
+                        <note type="commentary" xml:id="KT089-13h">
+                           <p>Von <rs type="person" ref="#pmb11518">Grillparzer</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
@@ -214,32 +240,40 @@
                         <hi rend="underline" n="1">16.</hi>
                      </cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-14">
-                           <rs type="work" ref="#pmb31629">Rosenkranz u. Güldenstern</rs>
-                        </anchor> (?)</cell>
+                        <anchor type="commentary" xml:id="KT089-14"/>
+                        <rs type="work" ref="#pmb31629">Rosenkranz u. Güldenstern</rs>
+                        <note type="commentary" xml:id="KT089-14h">
+                           <p>Von <rs type="person" ref="#pmb28514">Michael Klapp</rs>.</p>
+                        </note> (?)</cell>
                   </row>
                   <row>
                      <cell>17.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-15">
-                           <rs type="work" ref="#pmb31619">Hildebrand</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-15"/>
+                        <rs type="work" ref="#pmb31619">Hildebrand</rs>
+                        <note type="commentary" xml:id="KT089-15h">
+                           <p>Von <rs type="person" ref="#pmb12075">Heinrich Lilienfein</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>18.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-16">
-                           <rs type="work" ref="#pmb31621">Zwillingsschwester</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-16"/>
+                        <rs type="work" ref="#pmb31621">Zwillingsschwester</rs>
+                        <note type="commentary" xml:id="KT089-16h">
+                           <p>Von <rs type="person" ref="#pmb11391">Ludwig Fulda</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>19.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-17">
-                           <rs type="work" ref="#pmb31623">König Lear</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-17"/>
+                        <rs type="work" ref="#pmb31623">König Lear</rs>
+                        <note type="commentary" xml:id="KT089-17h">
+                           <p>Von <rs type="person" ref="#pmb2412">Shakespeare</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
@@ -259,42 +293,54 @@
                         <hi rend="underline" n="1">22.</hi>
                      </cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-18">
-                           <rs type="work" ref="#pmb31633">Ottokars Glück u Ende</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-18"/>
+                        <rs type="work" ref="#pmb31633">Ottokars Glück u Ende</rs>
+                        <note type="commentary" xml:id="KT089-18h">
+                           <p>Von <rs type="person" ref="#pmb11518">Grillparzer</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>23.</cell>
                      <cell>
-                        <rs type="work" ref="#pmb31607">Frau Suitner</rs> oder <anchor type="commentary" xml:id="KT089-19">
-                           <rs type="work" ref="#pmb31635">Volk in Not</rs>
-                        </anchor>
+                        <rs type="work" ref="#pmb31607">Frau Suitner</rs> oder <anchor type="commentary" xml:id="KT089-19"/>
+                        <rs type="work" ref="#pmb31635">Volk in Not</rs>
+                        <note type="commentary" xml:id="KT089-19h">
+                           <p>Von <rs type="person" ref="#pmb12749">Karl Schönherr</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>24.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-20">
-                           <rs type="work" ref="#pmb30693">Elga</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-20"/>
+                        <rs type="work" ref="#pmb30693">Elga</rs>
+                        <note type="commentary" xml:id="KT089-20h">
+                           <p>Von <rs type="person" ref="#pmb11617">Gerhart Hauptmann</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
                      <cell>25.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-21">
-                           <rs type="work" ref="#pmb31071">Götz von Berlichingen</rs>
-                        </anchor> (ob möglich wegen Länge)</cell>
+                        <anchor type="commentary" xml:id="KT089-21"/>
+                        <rs type="work" ref="#pmb31071">Götz von Berlichingen</rs>
+                        <note type="commentary" xml:id="KT089-21h">
+                           <p>Von <rs type="person" ref="#pmb11461">Goethe</rs>.</p>
+                        </note> (ob möglich wegen Länge)</cell>
                   </row>
                   <row>
                      <cell>26.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-22">
-                           <rs type="work" ref="#pmb31627">Der eingebildete Kranke</rs>
-                        </anchor> u <anchor type="commentary" xml:id="KT089-23">
-                           <rs type="work" ref="#pmb30193">Mitschuldigen</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-22"/>
+                        <rs type="work" ref="#pmb31627">Der eingebildete Kranke</rs>
+                        <note type="commentary" xml:id="KT089-22h">
+                           <p>Von <rs type="person" ref="#pmb3272">Molière</rs>.</p>
+                        </note> u <anchor type="commentary" xml:id="KT089-23"/>
+                        <rs type="work" ref="#pmb30193">Mitschuldigen</rs>
+                        <note type="commentary" xml:id="KT089-23h">
+                           <p>Von <rs type="person" ref="#pmb11461">Goethe</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>
@@ -305,9 +351,11 @@
                   <row>
                      <cell>28.</cell>
                      <cell>
-                        <anchor type="commentary" xml:id="KT089-24">
-                           <rs type="work" ref="#pmb31593">Antigone</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT089-24"/>
+                        <rs type="work" ref="#pmb31593">Antigone</rs>
+                        <note type="commentary" xml:id="KT089-24h">
+                           <p>Von <rs type="person" ref="#pmb2693">Sophokles</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row>

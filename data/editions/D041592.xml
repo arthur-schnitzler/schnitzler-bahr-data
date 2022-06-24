@@ -13,11 +13,11 @@
             <title type="iso-date">1921-12-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,11 +79,23 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1921-12-20" n="01">20.</date> K. – Wunderschön. – An <rs type="person" ref="#pmb4744">Außerer</rs>, an Frau <rs type="person" ref="#pmb28771">Tugendhat</rs>, an <rs type="person" ref="#pmb28776">Schapiro</rs> – <rs type="place" ref="#pmb224">London</rs> (<anchor type="commentary" xml:id="KD592-2">
-                  <rs type="work" ref="#pmb30139">Summula</rs>
-               </anchor>). – Belege an <rs type="org" ref="#pmb29210">Teubner</rs> u. <rs type="person" ref="#pmb13208">Arnold Zweig</rs>. – Fräulein <rs type="person" ref="#pmb28787">Becker</rs> aus <rs type="place" ref="#pmb963">Anif</rs>. – An <rs type="person" ref="#pmb10818">Anna</rs>. Correctur »<anchor type="commentary" xml:id="KD592-1">
-                  <rs type="work" ref="#pmb29991">Besinnung</rs>
-               </anchor>« an <rs type="org" ref="#pmb29637">Reichspost</rs>. – Mit <rs type="person" ref="#pmb2173">Olga Schnitzler</rs> an der <geogName type="river">Salzach</geogName> nach <rs type="place" ref="#pmb49123">Bergheim</rs>.</p>
+               <date when="1921-12-20" n="01">20.</date> K. – Wunderschön. – An <rs type="person" ref="#pmb4744">Außerer</rs>, an Frau <rs type="person" ref="#pmb28771">Tugendhat</rs>, an <rs type="person" ref="#pmb28776">Schapiro</rs> – <rs type="place" ref="#pmb224">London</rs> (<anchor type="commentary" xml:id="KD592-2"/>
+               <rs type="work" ref="#pmb30139">Summula</rs>
+               <note type="commentary" xml:id="KD592-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30139">Summula</rs>. Leipzig: <rs type="org" ref="#pmb29751">Insel</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1921</date>
+                     </bibl>.</p>
+               </note>). – Belege an <rs type="org" ref="#pmb29210">Teubner</rs> u. <rs type="person" ref="#pmb13208">Arnold Zweig</rs>. – Fräulein <rs type="person" ref="#pmb28787">Becker</rs> aus <rs type="place" ref="#pmb963">Anif</rs>. – An <rs type="person" ref="#pmb10818">Anna</rs>. Correctur »<anchor type="commentary" xml:id="KD592-1"/>
+               <rs type="work" ref="#pmb29991">Besinnung</rs>
+               <note type="commentary" xml:id="KD592-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb29991">Besinnung</rs>. In: <rs type="org" ref="#pmb29637">Reichspost</rs>, Jg. 28, Nr. 353, <date instant="false">25. 12. 1921</date>, Morgenblatt,
+                  S. 13</bibl>.</p>
+               </note>« an <rs type="org" ref="#pmb29637">Reichspost</rs>. – Mit <rs type="person" ref="#pmb2173">Olga Schnitzler</rs> an der <geogName type="river">Salzach</geogName> nach <rs type="place" ref="#pmb49123">Bergheim</rs>.</p>
          </div>
       </body>
    </text>

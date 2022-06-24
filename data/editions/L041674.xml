@@ -13,11 +13,11 @@
             <title type="iso-date">1923-02-23</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,9 +117,18 @@
                <rs type="person" ref="#pmb12753 #pmb24710">Schüleins</rs> sind noch auf der <rs type="place" ref="#pmb1016">Bühler Höhe</rs> und fühlen<pb/> sich oben so wol, dass sie erst ein bischen später hieher kommen.</p>
             <p>Was nun die Gegenstände Deiner Aphorismen betrifft, möchte ich Dir viel erzälen,– auch in Hinsicht auf <rs type="person" ref="#pmb3824">Gundolf</rs>. Dem ist auch nichts verhasster als Journalismus,– so wie Du ihn auch siehst,– und der <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
-               <add place="above">z. B.</add> ist ihm ein Gegenstand des Hohnes, so oft das Gespräch nur in die Nähe kommt. Sein »<anchor type="commentary" xml:id="KL674-1">
-                  <rs type="work" ref="#pmb30015">Grillparzer</rs>
-               </anchor>« hat mich sehr, sehr bewegt,– er stellt ihn als Talent und Charakter <hi rend="underline" n="1">sehr hoch</hi>,– was er aber nicht umhin kann, zu constatieren, ist das gewisse Allgemeine <rs type="place" ref="#pmb41240">Oesterr.</rs> Element, eine Lähmung, die vom <hi rend="underline" n="1">staatlichen</hi> ausgeht, eine Resignation, die alles herabdrückt und in’s Unfruchtbare, statt in’s Heroische leitet.<pb/>
+               <add place="above">z. B.</add> ist ihm ein Gegenstand des Hohnes, so oft das Gespräch nur in die Nähe kommt. Sein »<anchor type="commentary" xml:id="KL674-1"/>
+               <rs type="work" ref="#pmb30015">Grillparzer</rs>
+               <note type="commentary" xml:id="KL674-1h">
+                  <p>Erstmals erschienen am <date instant="false">15. 1. 1922</date> (<bibl >
+                        <rs type="org" ref="">Berliner Börsen-Courier</rs>, Jg. 54, Nr. 25,
+                  Morgen-Ausgabe, 1. Beilage, S. 5</bibl>). Sie bezieht sich wohl auf den Abdruck in
+                  <rs type="person" ref="#pmb10815">Bahrs</rs> Buch <rs type="work" ref="#pmb31813">Sendung des Künstlers</rs> (<bibl >Leipzig: <rs type="org" ref="#pmb29751">Insel
+                     Verlag</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1923</date>, S. 122–128</bibl>), erschienen <date instant="false">Anfang Januar
+               1923</date>.</p>
+               </note>« hat mich sehr, sehr bewegt,– er stellt ihn als Talent und Charakter <hi rend="underline" n="1">sehr hoch</hi>,– was er aber nicht umhin kann, zu constatieren, ist das gewisse Allgemeine <rs type="place" ref="#pmb41240">Oesterr.</rs> Element, eine Lähmung, die vom <hi rend="underline" n="1">staatlichen</hi> ausgeht, eine Resignation, die alles herabdrückt und in’s Unfruchtbare, statt in’s Heroische leitet.<pb/>
             </p>
             <p>Nun musst du wissen, dass diese Menschen (um <rs type="person" ref="#pmb2437">George</rs>) vollkommen auf der <hi rend="underline" n="1">Idee des Staates</hi> beruhen, und dass <hi rend="underline" n="1">darin</hi> alle Wurzeln ruhen, die der »Kunst« des Religiösen, des <del rend="strikethrough">
                   <gap quantity="1" reason="illegible" unit="chars"/>
@@ -152,7 +161,9 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL647-1">Tausend Küsse an meine <rs type="person" subtype="implied" ref="#pmb12692 #pmb2238">Kinder</rs>, hätt ich sie nur schon.</anchor>
+                  <anchor type="textConst" xml:id="TL647-1"/>Tausend Küsse an meine <rs type="person" subtype="implied" ref="#pmb12692 #pmb2238">Kinder</rs>, hätt ich sie nur schon.<note type="textConst" xml:id="TL647-1h">
+                     <p>Quer zum Text.</p>
+                  </note>
                </p>
             </postscript>
          </div>

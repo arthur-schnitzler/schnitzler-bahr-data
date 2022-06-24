@@ -13,11 +13,11 @@
             <title type="iso-date">1893-02-09</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -150,9 +150,12 @@
                </dateline>
                <salute>Lieber Arthur.</salute>
             </opener>
-            <p>Sie müssen ein paar Tage Geduld haben, weil <rs type="person" ref="#pmb10815">Bahr</rs>, bevor er irgend etwas sagen kann, warten muss, bis <anchor type="commentary" xml:id="KL421-1">
-                  <rs type="person" ref="#pmb2459">Auspitzer</rs>
-               </anchor> von einer Reise zurück kommt.</p>
+            <p>Sie müssen ein paar Tage Geduld haben, weil <rs type="person" ref="#pmb10815">Bahr</rs>, bevor er irgend etwas sagen kann, warten muss, bis <anchor type="commentary" xml:id="KL421-1"/>
+               <rs type="person" ref="#pmb2459">Auspitzer</rs>
+               <note type="commentary" xml:id="KL421-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2459">Emil A.</rs> war Eigentümer der <rs type="org" ref="#pmb29424">Deutschen Zeitung</rs>, bei der <rs type="person" ref="#pmb10815">Bahr</rs> seit dem vorangehenden Herbst angestellt war.</p>
+               </note> von einer Reise zurück kommt.</p>
             <closer>Herzlichst<lb/>
                <signed>Loris.</signed>
             </closer>

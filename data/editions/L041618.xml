@@ -13,11 +13,11 @@
             <title type="iso-date">1909-06-24</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,21 +108,32 @@
                <salute rend="center">Lieber Herr Bahr,</salute>
             </opener>
             <p>ich danke Ihnen schön, dass Sie soviel Geduld mit mir gehabt haben. Ich war in <rs type="place" ref="#pmb50">Wien</rs> so im Trubel, dass ich erst hier zur Würdigung ihres <rs type="work" subtype="implied" ref="#pmb29933">Jüngsten</rs> kam; und da die Besetzungsfragen Ihnen so im Kopf herumgingen, hab ich mir erlaubt, das <rs type="work" subtype="implied" ref="#pmb29933">Stück</rs> auch gleich an <rs type="person" ref="#pmb12050">Lessing</rs> zu schicken. Was Sie also hier lesen, ist das Resultat unserer gesammelten Weisheit, Brahmsche plus <rs type="person" ref="#pmb12050">Lessing</rs>ische Dramaturgie.</p>
-            <p>Der liebliche, niedliche <anchor type="commentary" xml:id="KL618-3">
-                  <rs type="work" subtype="implied" ref="#pmb29933">J.</rs>
-               </anchor> ist ein ahnungsvoller Engel, und ich möchte das <rs type="work" subtype="implied" ref="#pmb29933">Stück</rs>
+            <p>Der liebliche, niedliche <anchor type="commentary" xml:id="KL618-3"/>
+               <rs type="work" subtype="implied" ref="#pmb29933">J.</rs>
+               <note type="commentary" xml:id="KL618-3h">
+                  <p>Jura, Figur aus <rs type="work" ref="#pmb29933">Das Konzert</rs>.</p>
+               </note> ist ein ahnungsvoller Engel, und ich möchte das <rs type="work" subtype="implied" ref="#pmb29933">Stück</rs>
                <pb/> das ich fein und lustig finde, <damage agent="hole">
                   <supplied>ebe</supplied>
                </damage>nso spielen lassen. Besonders: lustig. Nur, als »abendfüllend« scheint es mir ungeeignet: es müsste sehr stark gekürzt werden – machen wir schon, wenn Sie uns segnen – und durch einen Einakter eingeleitet oder beschlossen werden. Sonst sagt man uns: zu dünn, zu breit geredet, zu pedantisch genau am Ausschöpfen jeder Wend<damage agent="hole">
                   <supplied>un</supplied>
-               </damage>g und Biegung. – Wie dächten Sie, falls Sie meinem Wunsche entsprechen, über <rs type="person" ref="#pmb2121">Schnitzler</rs>s <anchor type="commentary" xml:id="KL618-1">
-                  <rs type="work" ref="#pmb29931">Mizzi</rs>
-               </anchor> als Beigabe?</p>
+               </damage>g und Biegung. – Wie dächten Sie, falls Sie meinem Wunsche entsprechen, über <rs type="person" ref="#pmb2121">Schnitzler</rs>s <anchor type="commentary" xml:id="KL618-1"/>
+               <rs type="work" ref="#pmb29931">Mizzi</rs>
+               <note type="commentary" xml:id="KL618-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29931">Komtesse Mizzi oder: Der Familientag. Komödie in einem
+                  Akt</rs>. In: <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>, Nr. 15684,
+                     <date instant="false">19. 4. 1908</date>, S. 31–35</bibl>.</p>
+               </note> als Beigabe?</p>
             <p>Nun die Besetzung. Ich habe <rs type="person" ref="#pmb12050">Lessing</rs> folgendes vorgeschlagen: Heink – <rs type="person" ref="#pmb12491">Reicher</rs>, <rs type="person" ref="#pmb3960">Monnard</rs>; Marie – <rs type="person" ref="#pmb2865">Lehmann</rs>, <rs type="person" ref="#pmb12977">Triesch</rs>; Jura – <rs type="person" ref="#pmb3960">Monnard</rs>, <rs type="person" ref="#pmb11409">Gebühr</rs>; Delfine – <rs type="person" ref="#pmb4693">Herterich</rs>, <rs type="person" ref="#pmb2556">Orloff</rs>; Eva – <rs type="person" ref="#pmb2556">Orloff</rs>, <rs type="person" ref="#pmb4693">Herterich</rs>. Er <damage agent="hole">
                   <supplied>hat</supplied>
-               </damage> überall die zuerst genannten für die besseren gehalten und ich tue es auch, genau so. – <rs type="person" ref="#pmb12491">Reicher</rs> wird das Charakteristische und den Humor am sichersten herausholen, die Grenze zwischen Alt und Jung trifft er gewiss, die Hinweise auf die Schönheit des Mannes lassen sich wol etwas kürzen; und <rs type="person" ref="#pmb12491">R.</rs> hat jetzt eine zweite Blütezeit, die Leute haben ihn wieder gern, – <unclear>kurz</unclear> ich mache mich stark für ihn. <rs type="person" ref="#pmb2865">Lehmann</rs> fänd ich hervorragend für<pb/> Marie; und ich glaube, sie wird im Winter wieder bei uns spielen (Dies aber <hi rend="underline" n="1">völlig</hi> unter uns, nicht wahr.) <rs type="person" ref="#pmb11409">Gebühr</rs> halt ich etwas zu leicht für den Jura, <rs type="person" ref="#pmb3960">Monnard</rs>, der manche »<anchor type="commentary" xml:id="KL618-2">
-                  <rs type="work" subtype="implied" ref="#pmb32218">Veilchenfresser</rs>
-               </anchor>« gespielt hat und Lustspiellaune besitzt, erschiene mir besser. Man könnte aber in den ersten Monaten der Spielzeit noch sehen, ob man diese »Neuen« auch anders <del rend="strikethrough">
+               </damage> überall die zuerst genannten für die besseren gehalten und ich tue es auch, genau so. – <rs type="person" ref="#pmb12491">Reicher</rs> wird das Charakteristische und den Humor am sichersten herausholen, die Grenze zwischen Alt und Jung trifft er gewiss, die Hinweise auf die Schönheit des Mannes lassen sich wol etwas kürzen; und <rs type="person" ref="#pmb12491">R.</rs> hat jetzt eine zweite Blütezeit, die Leute haben ihn wieder gern, – <unclear>kurz</unclear> ich mache mich stark für ihn. <rs type="person" ref="#pmb2865">Lehmann</rs> fänd ich hervorragend für<pb/> Marie; und ich glaube, sie wird im Winter wieder bei uns spielen (Dies aber <hi rend="underline" n="1">völlig</hi> unter uns, nicht wahr.) <rs type="person" ref="#pmb11409">Gebühr</rs> halt ich etwas zu leicht für den Jura, <rs type="person" ref="#pmb3960">Monnard</rs>, der manche »<anchor type="commentary" xml:id="KL618-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32218">Veilchenfresser</rs>
+               <note type="commentary" xml:id="KL618-2h">
+                  <p>In Anlehnung an die Hauptfigur eines populären <rs type="work" subtype="implied" ref="#pmb32218">Lustspiels</rs> von <rs type="person" ref="#pmb12296">Gustav
+                  Moser</rs> Bezeichnung für einen positiven Helden, der Erfolg bei Frauen hat.</p>
+               </note>« gespielt hat und Lustspiellaune besitzt, erschiene mir besser. Man könnte aber in den ersten Monaten der Spielzeit noch sehen, ob man diese »Neuen« auch anders <del rend="strikethrough">
                   <unclear>und</unclear>
                </del> kennen und erraten lernt. Die Aufführung dächt ich mir im <date>December</date> oder <date>Januar</date>.</p>
             <p>Sagen Sie mir nu<unclear>r</unclear> Ihre Meinung, Verehrtester, und seien Sie schönstens gegrüsst, mit allen guten Wünschen.</p>

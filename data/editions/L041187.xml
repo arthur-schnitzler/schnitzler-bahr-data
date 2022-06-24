@@ -13,11 +13,11 @@
             <title type="iso-date">1896-09-24</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,9 +106,13 @@
                </dateline>
                <salute rend="center">Lieber Arthur! </salute>
             </opener>
-            <p>Besten Dank für Deine liebe Gratulation – an dem <anchor type="commentary" xml:id="KL187-1">
-                  <rs type="work" subtype="implied" ref="#pmb30461">Stück</rs>
-               </anchor> ist ja nichts, ich habe nur einmal probieren wollen, ob man mit dem bloßen Verstande ein »gutes <rs type="work" subtype="implied" ref="#pmb30461">Theaterstück</rs>« schreiben kann, und es scheint fast, daß mir das für <rs type="place" ref="#pmb168">Berlin</rs> gelungen ist.</p>
+            <p>Besten Dank für Deine liebe Gratulation – an dem <anchor type="commentary" xml:id="KL187-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30461">Stück</rs>
+               <note type="commentary" xml:id="KL187-1h">
+                  <p>
+                     <date instant="false">22. 9. 1896</date> Uraufführung von <rs type="work" ref="#pmb30461">Juana</rs>
+               am <rs type="place" ref="#pmb720">Berliner Neuen Theater</rs>.</p>
+               </note> ist ja nichts, ich habe nur einmal probieren wollen, ob man mit dem bloßen Verstande ein »gutes <rs type="work" subtype="implied" ref="#pmb30461">Theaterstück</rs>« schreiben kann, und es scheint fast, daß mir das für <rs type="place" ref="#pmb168">Berlin</rs> gelungen ist.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

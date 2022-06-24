@@ -13,11 +13,11 @@
             <title type="iso-date">1904-04-23</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,15 +107,21 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich bin zurück, möchte Dich bald sehen, höre leider, daß man nicht zu Dir darf, hoffe den <rs type="person" subtype="implied" ref="#pmb12692">Jüngling</rs> jedoch bald <anchor type="commentary" xml:id="KL277-2">genesen</anchor> und bitte Dich dann um ein Wort, wann ich Dich treffe.</p>
+            <p>Ich bin zurück, möchte Dich bald sehen, höre leider, daß man nicht zu Dir darf, hoffe den <rs type="person" subtype="implied" ref="#pmb12692">Jüngling</rs> jedoch bald <anchor type="commentary" xml:id="KL277-2"/>genesen<note type="commentary" xml:id="KL277-2h">
+                  <p>
+                     <rs type="person" ref="#pmb12692">Heinrich</rs> hatte die Masern (<bibl >A. S. <rs type="work">B</rs> I,481</bibl>).</p>
+               </note> und bitte Dich dann um ein Wort, wann ich Dich treffe.</p>
             <closer>Mit vielen Grüßen an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>
             <postscript>
-               <p>Über Deinen <rs type="place" ref="#pmb182">Paris</rs>er <anchor type="commentary" xml:id="KL277-1">
-                     <rs type="work" subtype="implied" ref="#pmb30005">Riesenerfolg</rs>
-                  </anchor>, von dem D<hi rend="superscript">r</hi>
+               <p>Über Deinen <rs type="place" ref="#pmb182">Paris</rs>er <anchor type="commentary" xml:id="KL277-1"/>
+                  <rs type="work" subtype="implied" ref="#pmb30005">Riesenerfolg</rs>
+                  <note type="commentary" xml:id="KL277-1h">
+                     <p>
+                        <ptr target="LL645-1"/>.</p>
+                  </note>, von dem D<hi rend="superscript">r</hi>
                   <space unit="chars" quantity="1"/>
                   <rs type="person" ref="#pmb2199">Epstein</rs> erzälte, hab ich mich so sehr gefreut.</p>
             </postscript>

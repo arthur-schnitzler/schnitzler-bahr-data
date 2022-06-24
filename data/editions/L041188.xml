@@ -13,11 +13,11 @@
             <title type="iso-date">1896-10-08</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -110,9 +110,14 @@
             </opener>
             <p>Ich habe <rs type="person" ref="#pmb10992">Brandes</rs> sofort ausführlich geschrieben. Ich kann ihm belegen, daß ich den <rs type="work" subtype="implied" ref="#pmb32063">Artikel</rs> von einer ihm u. mir bekannten, sehr angesehenen <rs type="place" ref="#pmb168">Berlin</rs>er <rs type="person" subtype="implied" ref="#pmb2361">Dame</rs> erhielt, als aus einem <rs type="work" subtype="implied" ref="#pmb32065">Buche</rs> stammend, das den nächsten Winter erst deutsch erscheinen soll, von ihm autorisiert, ja mit der Ermächtigung,<pb/> für ein besonderes Honorar das Fragment als Originalartikel zu bringen. Ich bin also unschuldig.</p>
             <p>Dir danke ich jedenfalls sehr, daß Du so lieb gewesen bist, mich gleich zu verständigen. Interessiert Dich die Sache, so kannst Du die ganze Korrespondenz mit der <rs type="person" subtype="implied" ref="#pmb2361">Berlinerin</rs> in unserem Copierbuche sehen.</p>
-            <p>Was macht Deine <anchor type="commentary" xml:id="KL188-1">
-                  <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs>
-               </anchor>? Ich rechne bestimmt auf sie! Auch bin ich sehr<pb/> neugierig, was aus dem »<rs type="work" ref="#pmb29899">Freiwild</rs>« wird.</p>
+            <p>Was macht Deine <anchor type="commentary" xml:id="KL188-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs>
+               <note type="commentary" xml:id="KL188-1h">
+                  <p>Daraus wird: <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30075">Die Frau des Weisen</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 10, H. 118, <date instant="false">2. 1. 1897</date>, S. 15–16; H. 119,
+                     <date instant="false">9. 1. 1897</date>, S. 31–32; H. 129, <date instant="false">16. 1. 1897</date>,
+                  S. 47–48</bibl>.</p>
+               </note>? Ich rechne bestimmt auf sie! Auch bin ich sehr<pb/> neugierig, was aus dem »<rs type="work" ref="#pmb29899">Freiwild</rs>« wird.</p>
             <closer>Nochmals dankt herzlich<lb/>mit besten Grüßen<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

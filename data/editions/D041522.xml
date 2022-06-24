@@ -13,11 +13,11 @@
             <title type="iso-date">1897-03-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,9 +77,15 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1897-03-07" n="01">7/3</date> Sonntag. Philh.– Bei <rs type="person" ref="#pmb20548 #pmb28299">Loebs</rs>.– Abds. wieder einmal bei der »<rs type="work" ref="#pmb29917">Liebelei</rs>« in der <rs type="place" ref="#pmb14">Burg</rs>, gefiel mir sehr gut.– Ein Feuilleton von <rs type="person" ref="#pmb11673">Herzl</rs> über <rs type="work" ref="#pmb29829">Tschaperl</rs>, »<anchor type="commentary" xml:id="KD522-1">
-                  <rs type="work" ref="#pmb31341">Jung Oesterreich</rs>
-               </anchor>« genannt, ärgerte mich wegen des frechen und beinah perfiden Tones; dabei fest überzeugt, er hätte anders geschrieben, wenn ich seine Eitelkeit nicht verletzt.</p>
+               <date when="1897-03-07" n="01">7/3</date> Sonntag. Philh.– Bei <rs type="person" ref="#pmb20548 #pmb28299">Loebs</rs>.– Abds. wieder einmal bei der »<rs type="work" ref="#pmb29917">Liebelei</rs>« in der <rs type="place" ref="#pmb14">Burg</rs>, gefiel mir sehr gut.– Ein Feuilleton von <rs type="person" ref="#pmb11673">Herzl</rs> über <rs type="work" ref="#pmb29829">Tschaperl</rs>, »<anchor type="commentary" xml:id="KD522-1"/>
+               <rs type="work" ref="#pmb31341">Jung Oesterreich</rs>
+               <note type="commentary" xml:id="KD522-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11673">Th. H–l.</rs>: <rs type="work" ref="#pmb31341">»Jung-Oesterreich«</rs>. In: <rs type="org" ref="#pmb29351">Neue Freie
+                     Presse</rs>, Nr. 11688, <date instant="false">7. 3. 1897</date>, Morgenblatt,
+               S. 1–3</bibl>.</p>
+               </note>« genannt, ärgerte mich wegen des frechen und beinah perfiden Tones; dabei fest überzeugt, er hätte anders geschrieben, wenn ich seine Eitelkeit nicht verletzt.</p>
          </div>
       </body>
    </text>

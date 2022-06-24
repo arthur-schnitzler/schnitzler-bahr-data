@@ -13,11 +13,11 @@
             <title type="iso-date">1910-02-07</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,31 +102,51 @@
                </dateline>
                <salute>Lieber Freund,</salute>
             </opener>
-            <p>von dem großen Erfolg der <rs type="work" subtype="implied" ref="#pmb30215">Pantomimik</rs> hatt ich schon gelesen und wünsche, daß er sich über <rs type="place" ref="#pmb50">Wien</rs> nun in die weite Welt der Internationale verbreite. Dagegen ist mir <rs type="person" ref="#pmb10883">Bergers</rs> Positivität vor dem <rs type="work" subtype="implied" ref="#pmb29937">Freunde <rs type="person" ref="#pmb12692">Heini</rs>s </rs> ein Novum gewesen, und ein sehr erfreuliches. Möge der Mann sich weiter so gut anrauchen, dann werden Sie <rs type="person" ref="#pmb12671">Schlenthers</rs> (guten) Abgang bald verschmerzt haben. Den <rs type="place" ref="#pmb44176">Olmützern</rs> ihre Märzfreude zu rauben bringe ich nicht übers Herz. Nur rate ich Ihnen, dort nicht zu viel Chateau Palugay zu trinken, wie ich bei meinem letzten Dortweilen, man kriegt einen ekelhaften Kater davon. – Es ist edel von Ihnen (doch nicht edler, als Sie von sich beanspruchen können), daß Sie sich unseres <rs type="work" ref="#pmb29933">Konzert</rs>ierens freuen, das nachgerade unheimliche Dimensionen annimmt. Gestern, 31. Vorstellung, 6050 Mark. Dagegen weiß ich es noch extra zu schätzen, daß Sie mir gerade an meinem <anchor type="commentary" xml:id="KL562-1">Geburtstag</anchor> obenerwähnte edle <anchor type="commentary" xml:id="KL562-2">Empfindungen ausdrücken</anchor>, als welcher schon öfter in unseren literarhistorischen Beziehungen mitwirkte, z. B. als Sie mich am <date>5. Februar</date> bei der <anchor type="commentary" xml:id="KL562-3">Arrangierprobe vom <hi rend="italic">
-                     <rs type="work" ref="#pmb29905">Ruf des Lebens</rs>
-                  </hi>
-               </anchor> so anschnauzten (2. Aktschluß), und dann in jener schönen Zeit, als ich noch <anchor type="commentary" xml:id="KL562-4">
-                  <rs type="work" subtype="implied" ref="#pmb29917">Dichterkinder</rs> mordete</anchor>. – Doch um vom Anlauf unseres Witzes in einen mehr gesetzten Ton zu fallen, dem Ernst des Gegenstandes gemäß: wenn es Ihnen recht ist, wär es, glaub ich, wirklich gut, den <hi rend="italic">
+            <p>von dem großen Erfolg der <rs type="work" subtype="implied" ref="#pmb30215">Pantomimik</rs> hatt ich schon gelesen und wünsche, daß er sich über <rs type="place" ref="#pmb50">Wien</rs> nun in die weite Welt der Internationale verbreite. Dagegen ist mir <rs type="person" ref="#pmb10883">Bergers</rs> Positivität vor dem <rs type="work" subtype="implied" ref="#pmb29937">Freunde <rs type="person" ref="#pmb12692">Heini</rs>s </rs> ein Novum gewesen, und ein sehr erfreuliches. Möge der Mann sich weiter so gut anrauchen, dann werden Sie <rs type="person" ref="#pmb12671">Schlenthers</rs> (guten) Abgang bald verschmerzt haben. Den <rs type="place" ref="#pmb44176">Olmützern</rs> ihre Märzfreude zu rauben bringe ich nicht übers Herz. Nur rate ich Ihnen, dort nicht zu viel Chateau Palugay zu trinken, wie ich bei meinem letzten Dortweilen, man kriegt einen ekelhaften Kater davon. – Es ist edel von Ihnen (doch nicht edler, als Sie von sich beanspruchen können), daß Sie sich unseres <rs type="work" ref="#pmb29933">Konzert</rs>ierens freuen, das nachgerade unheimliche Dimensionen annimmt. Gestern, 31. Vorstellung, 6050 Mark. Dagegen weiß ich es noch extra zu schätzen, daß Sie mir gerade an meinem <anchor type="commentary" xml:id="KL562-1"/>Geburtstag<note type="commentary" xml:id="KL562-1h">
+                  <p>Er wurde am <date instant="false">5. 2. 1910</date> 54 Jahre alt.</p>
+               </note> obenerwähnte edle <anchor type="commentary" xml:id="KL562-2"/>Empfindungen ausdrücken<note type="commentary" xml:id="KL562-2h">
+                  <p>Nicht überliefert.</p>
+               </note>, als welcher schon öfter in unseren literarhistorischen Beziehungen mitwirkte, z. B. als Sie mich am <date>5. Februar</date> bei der <anchor type="commentary" xml:id="KL562-3"/>Arrangierprobe vom <hi rend="italic">
+                  <rs type="work" ref="#pmb29905">Ruf des Lebens</rs>
+               </hi>
+               <note type="commentary" xml:id="KL562-3h">
+                  <p>
+                     <date instant="false">5. 2. 1906</date>.</p>
+               </note> so anschnauzten (2. Aktschluß), und dann in jener schönen Zeit, als ich noch <anchor type="commentary" xml:id="KL562-4"/>
+               <rs type="work" subtype="implied" ref="#pmb29917">Dichterkinder</rs> mordete<note type="commentary" xml:id="KL562-4h">
+                  <p>
+                     <rs type="person" ref="#pmb10986">Brahm</rs> hatte in seiner Inszenierung der <rs type="work" ref="#pmb29917">Liebelei</rs> (<date instant="false">4. 2. 1896</date>) die
+               Kinderrolle gestrichen.</p>
+               </note>. – Doch um vom Anlauf unseres Witzes in einen mehr gesetzten Ton zu fallen, dem Ernst des Gegenstandes gemäß: wenn es Ihnen recht ist, wär es, glaub ich, wirklich gut, den <hi rend="italic">
                   <rs type="work" ref="#pmb29935">Anatol</rs>
                </hi> bis unmittelbar nach Ostern zu lassen, also letzte Märztage. Bis dahin wird ja <hi rend="italic">
                   <rs type="work" ref="#pmb29933">Das Konzert</rs>
                </hi> auf menschliche Dimensionen herabgelangt sein, und wir vermeiden dann auch die nicht günstige Karwoche, in der obendrein die hohe Polizei dem <hi rend="italic">
                   <rs type="work" ref="#pmb29935">Anatol</rs>
-               </hi> Schwierigkeiten machen könnte. Außer dem <anchor type="commentary" xml:id="KL562-6">
-                  <rs type="person" ref="#pmb11701">
-                     <rs type="work" subtype="implied" ref="#pmb32260">Hirschfeld</rs>
-                  </rs>
-               </anchor> will ich nichts mehr bringen bis zum <hi rend="italic">
+               </hi> Schwierigkeiten machen könnte. Außer dem <anchor type="commentary" xml:id="KL562-6"/>
+               <rs type="person" ref="#pmb11701">
+                  <rs type="work" subtype="implied" ref="#pmb32260">Hirschfeld</rs>
+               </rs>
+               <note type="commentary" xml:id="KL562-6h">
+                  <p>
+                     <rs type="person" ref="#pmb11701">Georg Hirschfeld</rs>: <rs type="work" ref="#pmb32260">Das zweite Leben. Drama in drei Akten</rs>.</p>
+               </note> will ich nichts mehr bringen bis zum <hi rend="italic">
                   <rs type="work" ref="#pmb29935">Anatol</rs>
-               </hi>; ich fürchte, der arme <rs type="person" ref="#pmb11701">Georg</rs> wird einen schweren Stand haben neben <rs type="person" ref="#pmb10815">Bahr</rs> und <anchor type="commentary" xml:id="KL562-5">
-                  <rs type="person" ref="#pmb11585">
-                     <rs type="work" subtype="implied" ref="#pmb30741">Hardt</rs>
-                  </rs>
-               </anchor> (der auch noch gut geht). Den <anchor type="commentary" xml:id="KL562-7">
-                  <rs type="person" ref="#pmb2381">
-                     <rs type="work" subtype="implied" ref="#pmb32242">Shaw</rs>
-                  </rs>
-               </anchor> hab ich auf nächste Spielzeit gelegt, auch <rs type="person" ref="#pmb11617">Hauptmann</rs> ließ sich mitsamt den <rs type="work" ref="#pmb31321">Ratten</rs> vertagen, die übrigens jetzt »Der Storch beim Maskenverleiher« heißen sollen. (Sein Ernst, meiner allerdings nicht.) – Nun werden Sie behaupten, es müsse mir sehr gut gehen, dieweil ich so von Gelde und Humor strotze? Da sehen Sie, wie leicht die Ärzte sich irren: ich bin nämlich erst vom Krankenlager aufgekrochen, das ich wegen Ischias aufgeschlagen hatte; Sie können es übrigens auch Hexenschuß nennen, darum tut es nicht weniger weh. – Und Sie, und die lieben Leute alle, <rs type="person" subtype="implied" ref="#pmb2173">Mutter</rs> und <rs type="person" subtype="implied" ref="#pmb12692 #pmb2238">Kinder</rs>? Was macht das Vogelgezwitscher und die andern Dinge, die man unter der Spitzmarke »Übelstände« zusammenfassen könnte? Wobei mir der brave, aber rätselhafte <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs> einfällt, der schon lange hier sein soll, mir aber kein Lebenszeichen gab; so ist er um seine <rs type="work" subtype="implied" ref="#pmb32262">
+               </hi>; ich fürchte, der arme <rs type="person" ref="#pmb11701">Georg</rs> wird einen schweren Stand haben neben <rs type="person" ref="#pmb10815">Bahr</rs> und <anchor type="commentary" xml:id="KL562-5"/>
+               <rs type="person" ref="#pmb11585">
+                  <rs type="work" subtype="implied" ref="#pmb30741">Hardt</rs>
+               </rs>
+               <note type="commentary" xml:id="KL562-5h">
+                  <p>
+                     <rs type="work" ref="#pmb30741">Tantris der Narr. Drama in fünf Akten</rs>.</p>
+               </note> (der auch noch gut geht). Den <anchor type="commentary" xml:id="KL562-7"/>
+               <rs type="person" ref="#pmb2381">
+                  <rs type="work" subtype="implied" ref="#pmb32242">Shaw</rs>
+               </rs>
+               <note type="commentary" xml:id="KL562-7h">
+                  <p>
+                     <rs type="work" ref="#pmb32242">Heiraten (Getting Married)</rs>.</p>
+               </note> hab ich auf nächste Spielzeit gelegt, auch <rs type="person" ref="#pmb11617">Hauptmann</rs> ließ sich mitsamt den <rs type="work" ref="#pmb31321">Ratten</rs> vertagen, die übrigens jetzt »Der Storch beim Maskenverleiher« heißen sollen. (Sein Ernst, meiner allerdings nicht.) – Nun werden Sie behaupten, es müsse mir sehr gut gehen, dieweil ich so von Gelde und Humor strotze? Da sehen Sie, wie leicht die Ärzte sich irren: ich bin nämlich erst vom Krankenlager aufgekrochen, das ich wegen Ischias aufgeschlagen hatte; Sie können es übrigens auch Hexenschuß nennen, darum tut es nicht weniger weh. – Und Sie, und die lieben Leute alle, <rs type="person" subtype="implied" ref="#pmb2173">Mutter</rs> und <rs type="person" subtype="implied" ref="#pmb12692 #pmb2238">Kinder</rs>? Was macht das Vogelgezwitscher und die andern Dinge, die man unter der Spitzmarke »Übelstände« zusammenfassen könnte? Wobei mir der brave, aber rätselhafte <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs> einfällt, der schon lange hier sein soll, mir aber kein Lebenszeichen gab; so ist er um seine <rs type="work" subtype="implied" ref="#pmb32262">
                   <rs type="person" ref="#pmb11636">Heim(s)</rs>reise</rs> besorgt. Und dies wieder führt in organischer Verknüpfung auf die Reise zum <rs type="place" ref="#pmb189">Semmering</rs>, die Sie mir vorschlagen: ich kann aber nicht nachschlagen, erstens weil ich kein Lexikon habe (und das ist mein Stolz) und dann weil auch der jüdische Pastor nicht zweimal im Jahr auf dem <geogName type="path">Wasserleitungsweg</geogName> predigt. In diesem Sinne grüßt Sie herzlich</p>
             <closer>Ihr <signed>O. B.</signed>
             </closer>

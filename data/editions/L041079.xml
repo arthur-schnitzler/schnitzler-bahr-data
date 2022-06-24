@@ -13,11 +13,11 @@
             <title type="iso-date">1905-07-30</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -153,9 +153,11 @@
                </damage>lde, das von zweitausend Menschen zugleich angehört u verstanden werden soll, hab ich manches Bedenken. In wenig Worten ausgedrückt:<pb/> es mangelt dem Ganzen zuweilen an künstlerischer Oekonomie. Nehmen wir an, du hättest mir nur den fünften Act zu lesen gegeben. Da hätt ich gesagt: Donnerwetter, ist das ein merkwürdigs Ding – und hätte mir allerlei erste vier Akte dazu gedacht, die vielleicht alle nicht so gut gewesen wären als deine <del rend="strikethrough">oder</del> aber besser zu<del rend="strikethrough">m</del> deinem fünften (wie ich ihn empfinde) gepasst hätten. Von <rs type="work" subtype="implied" ref="#pmb29999">deinem fünften Akt</rs>
                <pb/>
                <space unit="chars" quantity="1"/>geht ein Licht aus, das mir nach vorwärts deutet, aber den Herweg im Dunkel läßt. Man darf immer behaupten 2 × 2 = 4 – aber wenn man sagt: <hi rend="latintype">
-                  <anchor type="textConst" xml:id="TL079-1">
-                     <hi rend="underline" n="1">Ergo</hi>
-                  </anchor>
+                  <anchor type="textConst" xml:id="TL079-1"/>
+                  <hi rend="underline" n="1">Ergo</hi>
+                  <note type="textConst" xml:id="TL079-1h">
+                     <p>Unterstrichen.</p>
+                  </note>
                </hi> ist 2 × 2 = 4, so verpflichtet dieses Ergo zu einer vorhergegangenen Rechnung. Natürlich fühlst du dieses Ergo sehr gut – aber du hast es mich nicht dramatisch nachfühlen lassen. Etwas ähnliches hab ich zum 1. Akt zu bemerken. <hi rend="latintype">
                   <rs type="work" subtype="implied" ref="#pmb29999">Besenius</rs>
                </hi>.<pb/> Ich bediene mich Wörter eines Vergleichs (um das Recht zu haben etwas falsches zu behaupten!) Wenn sich ein Musiker zum Flügel setzt, so beginnt er zu praeludiren (<damage agent="hole">
@@ -170,12 +172,19 @@
                   </supplied>
                </damage>
                <del rend="strikethrough">
-                  <space unit="chars" quantity="1"/>sich</del> schminkt sich nach der ersten Scene ab. Das verzeihst mir du so wenig wie die <anchor type="commentary" xml:id="KL079-2">bekannte ungela<pb/>dene Flinte</anchor>.</p>
+                  <space unit="chars" quantity="1"/>sich</del> schminkt sich nach der ersten Scene ab. Das verzeihst mir du so wenig wie die <anchor type="commentary" xml:id="KL079-2"/>bekannte ungela<pb/>dene Flinte<note type="commentary" xml:id="KL079-2h">
+                  <p>
+                     <rs type="person" ref="#pmb3603">Čechov</rs> an <rs type="person" ref="#pmb28911">Aleksandr Lazarev</rs>, <date when="1889-11-01" instant="false">1. 11. 1889</date>: »<quote>Man
+                  kann nicht ein geladenes Gewehr auf die Bühne stellen, wenn niemand die Absicht
+                  hat, einen Schuß daraus abzugeben.</quote>« (<bibl >Anton Čechov: <rs type="work">Briefe 1889–1892</rs>. Hg. und übersetzt von Peter Urban. Zürich: <rs type="org">Diogenes</rs> 1998, S. 73)</bibl>.</p>
+               </note>.</p>
             <p>Dass <hi rend="latintype">
                   <rs type="work" subtype="implied" ref="#pmb29999">Amschel</rs>
                </hi> ist wie er ist, das ist dein Wille und dein gutes Recht. Ich glaub an ihn. Ob man ihn, aus rein praktischen Gründen, nicht von einigen Widrigkeiten befreien sollte, <del rend="strikethrough">ist</del> wäre zu überlegen. Wäre ich eine große Violinvirtuosin, nicht um die Welt ließ ich mich von einem K<damage agent="hole">
                   <supplied>er</supplied>
-               </damage>l anrühren, der öfter als 6 Mal in der Minute <anchor type="commentary" xml:id="KL079-1">Schnudelchen</anchor> sagt. Aber das ist ja Geschmacksache. Wie oft aber stört uns an einer<pb/> Frau nur der Gedanke an den der sie besessen hat. Und ist das Publikum nicht gerade so<subst>
+               </damage>l anrühren, der öfter als 6 Mal in der Minute <anchor type="commentary" xml:id="KL079-1"/>Schnudelchen<note type="commentary" xml:id="KL079-1h">
+                  <p>Vgl. <rs type="work" ref="#pmb29999">Die Andere</rs>, 3. Akt.</p>
+               </note> sagt. Aber das ist ja Geschmacksache. Wie oft aber stört uns an einer<pb/> Frau nur der Gedanke an den der sie besessen hat. Und ist das Publikum nicht gerade so<subst>
                   <del rend="overwritten">!</del>
                   <add place="inline">?</add>
                </subst> Das Problem (»<rs type="work" ref="#pmb29999">Die andere</rs>«) wird nicht im geringsten touchirt, wenn <hi rend="latintype">

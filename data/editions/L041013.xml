@@ -13,11 +13,11 @@
             <title type="iso-date">1897-04-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,16 +127,30 @@
             </opener>
             <p>ich bekomme eben einen Brief von dem dir bekannten Frl. <rs type="person" ref="#pmb2128">
                   <hi rend="latintype">Elsa Plessner</hi>
-               </rs>, die dir eine <anchor type="commentary" xml:id="KL013-2">
-                  <rs type="work" subtype="implied" ref="#pmb32316">Novelle</rs>
-               </anchor> eingereicht hat. Ich glaube mich zu <anchor type="commentary" xml:id="KL013-1">erinnern</anchor>, dass sie, die Novelle, als ich sie s. Z. im Mscrpt las, mir nicht<pb/> misfiel, am Ende sogar gefiel – ich weiss nicht mehr genau. Meiner Ansicht nach ist eben benannte <rs type="person" ref="#pmb2128">Elsa</rs> von einer unerträglichen Schlamperei in Stil und Arbeit; hat aber zuweilen Einfälle, die mit Sicherheit auf Talent schließen lassen. Wie weit es geht und ob sie es nicht eher<pb/>
+               </rs>, die dir eine <anchor type="commentary" xml:id="KL013-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32316">Novelle</rs>
+               <note type="commentary" xml:id="KL013-2h">
+                  <p>
+                     <rs type="work" ref="#pmb32316">Warten</rs> (<bibl >erschienen im <rs type="org" ref="#pmb29625">Magazin für Litteratur</rs>, Jg. 66, Nr. 29, <date instant="false">24. 7.
+                     1897</date>, Sp. 867–875)</bibl>.</p>
+               </note> eingereicht hat. Ich glaube mich zu <anchor type="commentary" xml:id="KL013-1"/>erinnern<note type="commentary" xml:id="KL013-1h">
+                  <p>
+                     <bibl >A. S. <rs type="work">Tb</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date when="1896-09-19" instant="false">19. 9. 1896</date>
+                     </bibl>: »<quote>
+                        <rs type="person" ref="#pmb2128">Else Plessner</rs> schickte mir neulich ihre
+                  Skizzen. Schlampert, journalistisch, hie und da originelle Züge.–</quote>«</p>
+               </note>, dass sie, die Novelle, als ich sie s. Z. im Mscrpt las, mir nicht<pb/> misfiel, am Ende sogar gefiel – ich weiss nicht mehr genau. Meiner Ansicht nach ist eben benannte <rs type="person" ref="#pmb2128">Elsa</rs> von einer unerträglichen Schlamperei in Stil und Arbeit; hat aber zuweilen Einfälle, die mit Sicherheit auf Talent schließen lassen. Wie weit es geht und ob sie es nicht eher<pb/>
                <space unit="chars" quantity="1"/>
                <add place="inline">zu</add> ruiniren als weiter zu entwickeln gedenkt, kann ich nicht bestimmen. Aber es wäre vielleicht möglich sie auf einen guten Weg zu bringen. – Womit ich dir das Fräulein bestens empfohlen zu haben wünsche. –</p>
             <p>Ich hoffe es geht dir gut; <damage agent="hole">
                   <supplied>von</supplied>
                </damage>
                <space unit="chars" quantity="1"/>
-               <rs type="place" ref="#pmb182">Pariser</rs> Kunst<pb/> werd ich dir manches erzählen können, wenn ich <anchor type="commentary" xml:id="KL013-3">zurückkomme</anchor>. Aber verlange keine Artikel von mir! </p>
+               <rs type="place" ref="#pmb182">Pariser</rs> Kunst<pb/> werd ich dir manches erzählen können, wenn ich <anchor type="commentary" xml:id="KL013-3"/>zurückkomme<note type="commentary" xml:id="KL013-3h">
+                  <p>Er war am <date instant="false">2. 6.</date> wieder in <rs type="place" ref="#pmb50">Wien</rs>.</p>
+               </note>. Aber verlange keine Artikel von mir! </p>
             <closer>Herzlich grüßt dich dein<lb/>
                <signed>Arthur</signed> Schnitzler</closer>
             <postscript>

@@ -13,11 +13,11 @@
             <title type="iso-date">1905-08-15</title>
             <author ref="pmb10863">Beer-Hofmann, Richard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -98,7 +98,9 @@
                <gap reason="outOfScope"/>
             </p>
             <p>
-               <rs type="person" ref="#pmb13055">Wassermann</rs>, <rs type="person" ref="#pmb11324">S. Fischer</rs>, <rs type="person" ref="#pmb3068">Bella Wengerow</rs>, <rs type="person" subtype="implied" ref="#pmb26937">Schwester</rs>, <rs type="person" subtype="implied" ref="#pmb4510">Mutter</rs>, und Dr. <rs type="person" ref="#pmb2496">Kaufmann</rs> sind <anchor type="commentary" xml:id="KL520-1">hier</anchor>. <rs type="person" ref="#pmb10860">Paula</rs> hat kein Behagen an den kühlen Abenden und auch sonst an der Gegend – der Wald ist für sie – augenblicklich – zu weit vom Hôtel. Ich will also am <date>21.</date> oder <date>22.</date> von hier weg, und über <rs type="place" ref="#pmb40260">Bozen</rs>, eventuell <geogName type="lake" ref="pmb374">Gardasee</geogName>, an den <rs type="place" ref="#pmb259">Lido</rs>. Hoffentlich tut ihr der Aufenthalt dort gut. Sie ist <hi rend="underline" n="1">sehr</hi> blutleer, und hat recht miserable Nerven. Das <rs type="work" subtype="implied" ref="#pmb29999">Stück</rs> von <rs type="person" ref="#pmb10815">Bahr</rs> blieb in <rs type="place" ref="#pmb173">Rodaun</rs> liegen, weil in Folge der Aufschrift »<rs type="org" ref="#pmb29461">Eisenstein</rs>« nur Bücher darin vermutet wurden, mit denen es nicht eilig sei; ich lasse es mir heute nachschicken. Bitte sind Sie so gut und fügen Sie auf beiliegendem Brief die Adresse hinzu. Wer »A« sagt – –!</p>
+               <rs type="person" ref="#pmb13055">Wassermann</rs>, <rs type="person" ref="#pmb11324">S. Fischer</rs>, <rs type="person" ref="#pmb3068">Bella Wengerow</rs>, <rs type="person" subtype="implied" ref="#pmb26937">Schwester</rs>, <rs type="person" subtype="implied" ref="#pmb4510">Mutter</rs>, und Dr. <rs type="person" ref="#pmb2496">Kaufmann</rs> sind <anchor type="commentary" xml:id="KL520-1"/>hier<note type="commentary" xml:id="KL520-1h">
+                  <p>Im <rs type="place" ref="#pmb751">Grand Hotel Stubai in Fulpmes</rs>.</p>
+               </note>. <rs type="person" ref="#pmb10860">Paula</rs> hat kein Behagen an den kühlen Abenden und auch sonst an der Gegend – der Wald ist für sie – augenblicklich – zu weit vom Hôtel. Ich will also am <date>21.</date> oder <date>22.</date> von hier weg, und über <rs type="place" ref="#pmb40260">Bozen</rs>, eventuell <geogName type="lake" ref="pmb374">Gardasee</geogName>, an den <rs type="place" ref="#pmb259">Lido</rs>. Hoffentlich tut ihr der Aufenthalt dort gut. Sie ist <hi rend="underline" n="1">sehr</hi> blutleer, und hat recht miserable Nerven. Das <rs type="work" subtype="implied" ref="#pmb29999">Stück</rs> von <rs type="person" ref="#pmb10815">Bahr</rs> blieb in <rs type="place" ref="#pmb173">Rodaun</rs> liegen, weil in Folge der Aufschrift »<rs type="org" ref="#pmb29461">Eisenstein</rs>« nur Bücher darin vermutet wurden, mit denen es nicht eilig sei; ich lasse es mir heute nachschicken. Bitte sind Sie so gut und fügen Sie auf beiliegendem Brief die Adresse hinzu. Wer »A« sagt – –!</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

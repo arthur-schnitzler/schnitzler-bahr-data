@@ -13,11 +13,11 @@
             <title type="iso-date">1901-10-27</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -114,7 +114,14 @@
             <p>Mit Baron <rs type="person" ref="#pmb10883">Berger</rs> habe ich lange über Deine Stücke gesprochen: er hält die »<rs type="work" ref="#pmb29877">letzten Masken</rs>« und »<rs type="work" ref="#pmb29869">Literatur</rs>« für »Meisterwerke ersten Ranges«, während er für das Scenische der »<rs type="work" ref="#pmb29865">Frau mit dem Dolch</rs>« Angst zu haben scheint.</p>
             <p>Wenn Du mit <rs type="person" ref="#pmb2161">Bukovics</rs> nicht energischer bist, sage ich Dir<pb/> voraus, daß Du in dieser Saison nicht mehr dran kommst.</p>
             <p>
-               <anchor type="commentary" xml:id="KL242-1">Rasend</anchor> war ich über <rs type="person" ref="#pmb11485">Goldmanns</rs>
+               <anchor type="commentary" xml:id="KL242-1"/>Rasend<note type="commentary" xml:id="KL242-1h">
+                  <p>In seiner Besprechung der Inszenierung von <rs type="person" ref="#pmb11617">Gerhart
+                  Hauptmann</rs>s <rs type="work" subtype="implied" ref="#pmb29879">Stück</rs>, <rs type="work" ref="#pmb29861">Berliner Theater. »Einsame Menschen« im Deutschen
+                  Theater</rs> (<bibl >
+                        <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>, Nr. 13345, <date instant="false">19. 10.
+                     1901</date>, S. 1–3</bibl>), nennt <rs type="person" ref="#pmb11485">Goldmann</rs> die jüngeren Bühnenschriftsteller unfähig zu Dramatischem; diese
+               hätten ihre Schwäche zum Ideal erhoben und dabei das Theater langweilig gemacht.</p>
+               </note> war ich über <rs type="person" ref="#pmb11485">Goldmanns</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb29861">Feuilleton »<rs type="work" ref="#pmb29879">Einsame Menschen</rs>«</rs>. Das sollte wirklich polizeilich verboten sein.</p>
             <closer>Herzlichst<lb/>Dein<lb/>

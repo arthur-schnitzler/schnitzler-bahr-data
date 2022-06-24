@@ -13,11 +13,11 @@
             <title type="iso-date">1907-12-18</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -113,8 +113,10 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL313-1">
-                     <hi rend="underline" n="1">Frage 1</hi>: <rs type="person" ref="#pmb12504">Reinhardt</rs> wird <rs type="work" ref="#pmb29857">B.</rs> nehmen, wenn Du mit <rs type="person" ref="#pmb2235">Vallentin</rs> drohst. <hi rend="underline" n="1">Frage 2</hi>: Ich halte <rs type="place" ref="#pmb13">Hebbeltheater</rs> für praktischer. <hi rend="underline" n="1">Frage 3</hi>: <rs type="person" ref="#pmb12504">Reinhardt</rs> müßte man eine Frist von 1<unclear>4</unclear> Tagen zur Entscheidung geben.</anchor>
+                  <anchor type="textConst" xml:id="TL313-1"/>
+                  <hi rend="underline" n="1">Frage 1</hi>: <rs type="person" ref="#pmb12504">Reinhardt</rs> wird <rs type="work" ref="#pmb29857">B.</rs> nehmen, wenn Du mit <rs type="person" ref="#pmb2235">Vallentin</rs> drohst. <hi rend="underline" n="1">Frage 2</hi>: Ich halte <rs type="place" ref="#pmb13">Hebbeltheater</rs> für praktischer. <hi rend="underline" n="1">Frage 3</hi>: <rs type="person" ref="#pmb12504">Reinhardt</rs> müßte man eine Frist von 1<unclear>4</unclear> Tagen zur Entscheidung geben.<note type="textConst" xml:id="TL313-1h">
+                     <p>Quer zum Text.</p>
+                  </note>
                </p>
             </postscript>
          </div>

@@ -13,11 +13,11 @@
             <title type="iso-date">1894-08-15</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,9 +103,11 @@
             <p>Heut spiele ich zum letzten Male. Kind – ich hatte hier einen Erfolg in <rs type="work" ref="#pmb31329">Heimat</rs> – das <hi rend="underline" n="1">spottet</hi> jeder Beschreibung. Morgen fahre ich auf 5 Tage zum <rs type="person" ref="#pmb2121">Thuri</rs>. – Hast Du einen schwachen Begriff – wie mir ist? – Ich werde dieses Engelsgesicht, diese guten treuen Augen wiederseh’n! –</p>
             <p>Ich bin irrwitzig vor Freude! –<pb/>
             </p>
-            <p>Am 25–26 spiele ich in <rs type="place" ref="#pmb213">Ischl</rs> die <anchor type="commentary" xml:id="KL598-1">
-                  <rs type="work" subtype="implied" ref="#pmb31329">Magda</rs>
-               </anchor> – um <date>30</date> bin ich in <rs type="place" ref="#pmb50">Wien</rs> – wo ich nun hoffe Dich oft – recht oft zu seh’n. Ich habe mich hier glänzend erholt – das Nervencostüm ist reparirt – so kann es mein hochlöblicher <rs type="person" subtype="implied" ref="#pmb2161">Director</rs> samt Consorten wieder zerstören. – </p>
+            <p>Am 25–26 spiele ich in <rs type="place" ref="#pmb213">Ischl</rs> die <anchor type="commentary" xml:id="KL598-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31329">Magda</rs>
+               <note type="commentary" xml:id="KL598-1h">
+                  <p>Hauptrolle in <rs type="work" ref="#pmb31329">Heimat</rs> von <rs type="person" ref="#pmb12899">Sudermann</rs>.</p>
+               </note> – um <date>30</date> bin ich in <rs type="place" ref="#pmb50">Wien</rs> – wo ich nun hoffe Dich oft – recht oft zu seh’n. Ich habe mich hier glänzend erholt – das Nervencostüm ist reparirt – so kann es mein hochlöblicher <rs type="person" subtype="implied" ref="#pmb2161">Director</rs> samt Consorten wieder zerstören. – </p>
             <p>Ich freue mich mein guter Hermann daß es Dir gut geht – Gott stehe Dir bei in Deinem neuen <rs type="org" subtype="implied" ref="#pmb29209">Unternehmen</rs>! –</p>
             <p>Wenn Du lieb bist<pb/> schreibe mir nach <rs type="place" ref="#pmb230">Salzburg – O<damage agent="hole">es</damage>terreichischer Hof</rs> einen lieben Brief. Ich hab Dir viel viel zu erzählen. –</p>
             <closer>tausend innige Grüße<lb/>Dein treuer<lb/>Freund <signed>Diltsch.</signed>

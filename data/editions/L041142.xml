@@ -13,11 +13,11 @@
             <title type="iso-date">1931-09-05</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -145,16 +145,46 @@
                   <date>5. 9. 1931</date>.</dateline>
                <salute>Lieber Hermann.</salute>
             </opener>
-            <p>Ich lese, dass Dein »<rs type="work" ref="#pmb29933">Konzert</rs>« jetzt als <anchor type="commentary" xml:id="KL142-2">
-                  <rs type="work" subtype="implied" ref="#pmb30055">Tonfilm</rs> erscheint</anchor>, nachdem es vorher, so weit ich mich erinnere, auch schon als <rs type="work" subtype="implied" ref="#pmb32330">
-                  <anchor type="commentary" xml:id="KL142-1">stummer Film</anchor>
-               </rs> zu sehen war. Ich möchte nun gern wissen – falls es Dir nicht unbequem ist mir darauf zu antworten – ob, resp. welche Ansprüche die seinerzeitigen Verfertiger des stummen Films an Dich gestellt haben. Ich erlebe es in jedem einzelnen Fall, so mit »<anchor type="commentary" xml:id="KL142-3">
-                  <rs type="work" ref="#pmb29917">Liebelei</rs>
-               </anchor>«, »<anchor type="commentary" xml:id="KL142-4">
-                  <rs type="work" ref="#pmb29935">Anatol</rs>
-               </anchor>«, »<anchor type="commentary" xml:id="KL142-5">
-                  <rs type="work" ref="#pmb29941">Fräulein Else</rs>
-               </anchor>«, dass sich die seinerzeitigen Verfertiger der stummen Fassung freundlich-erpresserisch gebärden, in welcher Haltung die Leute durch allerlei Gesetze, Auffassungen, Bestimmungen – auch insoweit sie nicht vorhanden sind – mehr oder weniger unterstützt werden.</p>
+            <p>Ich lese, dass Dein »<rs type="work" ref="#pmb29933">Konzert</rs>« jetzt als <anchor type="commentary" xml:id="KL142-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30055">Tonfilm</rs> erscheint<note type="commentary" xml:id="KL142-2h">
+                  <p>Die Verfilmung durch <rs type="person" ref="#pmb12271">Leo Mittler</rs> lief bereits
+               seit <date when="1931-08-28" instant="false">28. 8. 1931</date> in den <rs type="place" ref="#pmb50">Wien</rs>er Kinos.</p>
+               </note>, nachdem es vorher, so weit ich mich erinnere, auch schon als <rs type="work" subtype="implied" ref="#pmb32330">
+                  <anchor type="commentary" xml:id="KL142-1"/>stummer Film<note type="commentary" xml:id="KL142-1h">
+                     <p>
+                        <rs type="work" ref="#pmb32330">The Concert</rs>, Regie <rs type="person" ref="#pmb4609">Victor Schertzinger</rs>, <date when="1921" instant="false">1921</date>, von
+               demselben neuerlich unter dem Titel <rs type="work" ref="#pmb32600">Fashions in
+                  Love</rs> als Tonfilm (<date instant="false">1927</date>) realisiert.</p>
+                  </note>
+               </rs> zu sehen war. Ich möchte nun gern wissen – falls es Dir nicht unbequem ist mir darauf zu antworten – ob, resp. welche Ansprüche die seinerzeitigen Verfertiger des stummen Films an Dich gestellt haben. Ich erlebe es in jedem einzelnen Fall, so mit »<anchor type="commentary" xml:id="KL142-3"/>
+               <rs type="work" ref="#pmb29917">Liebelei</rs>
+               <note type="commentary" xml:id="KL142-3h">
+                  <p>Erstmals verfilmt <date instant="false">1914</date> (<rs type="work" ref="#pmb32800">Elskovsleg</rs>,
+               Regie <rs type="person" ref="#pmb28938">Holger-Madsen</rs> und <rs type="person" ref="#pmb5042">August Blom</rs>). Ab <date instant="false">1921</date> Verhandlungen über eine
+               Neuverfilmung, <bibl >vgl. <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>:
+                     <rs type="work">Filmarbeiten. Drehbücher, Entwürfe, Skizzen</rs>. Hg. Achim
+                  Aurnhammer, Hans Peter Buohler, Philipp Gresser, Julia Ilgner, Carolin Maikler,
+                  Lea Marquart. Würzburg: <rs type="org">Ergon</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">2015</date>, S. 101–103</bibl>. Neuerliche <rs type="work" subtype="implied" ref="#pmb32806">Verfilmung</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">1927</date> (Regie <rs type="person" ref="#pmb28356">Jakob</rs> und <rs type="person" ref="#pmb11334">Luise Fleck</rs>).</p>
+               </note>«, »<anchor type="commentary" xml:id="KL142-4"/>
+               <rs type="work" ref="#pmb29935">Anatol</rs>
+               <note type="commentary" xml:id="KL142-4h">
+                  <p>
+                     <rs type="work" ref="#pmb32808">The Affairs of Anatol</rs> (<date instant="false">1921</date>), Regie
+                  <rs type="person" ref="#pmb5045">Cecil B. DeMille</rs>. Zu dem Plan einer
+               neuerlichen Verfilmung, die nicht realisiert wurde, gibt es Hinweise in Schnitzlers
+                  <bibl >Tb</bibl> zwischen <date instant="false">3. 11. 1930</date> und <date instant="false">4. 5. 1931</date>.</p>
+               </note>«, »<anchor type="commentary" xml:id="KL142-5"/>
+               <rs type="work" ref="#pmb29941">Fräulein Else</rs>
+               <note type="commentary" xml:id="KL142-5h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb30711">Fräulein Else</rs> (<date instant="false">1929</date>), Regie <rs type="person" ref="#pmb11131">Paul Czinner</rs>
+                     </bibl>.</p>
+               </note>«, dass sich die seinerzeitigen Verfertiger der stummen Fassung freundlich-erpresserisch gebärden, in welcher Haltung die Leute durch allerlei Gesetze, Auffassungen, Bestimmungen – auch insoweit sie nicht vorhanden sind – mehr oder weniger unterstützt werden.</p>
             <p>Wolltest Du mir bei dieser Gelegenheit auch sonst ein Wort über Dich und Dein Befinden sagen, so wird es mich herzlich freuen.</p>
             <closer>
                <handShift/>Mit vielen Grüßen und der Bitte mich deiner verehrten <rs type="person" subtype="implied" ref="#pmb10818">Gattin</rs> zu empfehlen<lb/>Dein<lb/>

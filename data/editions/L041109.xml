@@ -13,11 +13,11 @@
             <title type="iso-date">1909-06-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -132,11 +132,15 @@
             <p>
                <salute>mein lieber Hermann, </salute>gestern ist das <rs type="work" ref="#pmb29929">Tagebuch</rs> gekommen und neulich die <rs type="work" ref="#pmb29927">Drut</rs>, die meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> sofort für sich beansprucht und mit großem Entzücken gelesen hat. Auch <rs type="person" ref="#pmb11036">Burkhard</rs> hat mir in <hi rend="latintype">
                   <rs type="place" ref="#pmb33">St Gilgen</rs>
-               </hi> viel schönes darüber gesagt. Ja so spricht man übereinander und sieht und spricht sich nie. <anchor type="commentary" xml:id="KL109-1">Einer w<damage agent="hole">
-                     <supplied>ird</supplied>
-                  </damage>
-                  <pb/>
-                  <space unit="chars" quantity="1"/>übrig bleiben und sagen: »<c rendition="#dots" n="3"/> Schade<c rendition="#dots" n="4"/>«</anchor>
+               </hi> viel schönes darüber gesagt. Ja so spricht man übereinander und sieht und spricht sich nie. <anchor type="commentary" xml:id="KL109-1"/>Einer w<damage agent="hole">
+                  <supplied>ird</supplied>
+               </damage>
+               <pb/>
+               <space unit="chars" quantity="1"/>übrig bleiben und sagen: »<c rendition="#dots" n="3"/> Schade<c rendition="#dots" n="4"/>«<note type="commentary" xml:id="KL109-1h">
+                  <seg type="lemma">Einer wird {\dots} Schade</seg>
+                  <p>
+                     <ptr target="LL319-1"/>, <ptr target="KL140-1"/>.</p>
+               </note>
             </p>
             <p>
                <damage agent="hole">

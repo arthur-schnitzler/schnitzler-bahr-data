@@ -13,11 +13,11 @@
             <title type="iso-date">1896-11-20</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -98,7 +98,10 @@
             <p>
                <gap reason="outOfScope"/>
             </p>
-            <p>Seien Sie nicht bös dass ich Ihnen noch einmal wegen dieser blöden Angelegenheit schreibe. Ich will nichts activeres thuen und nichts mehr mit der <rs type="org" subtype="implied" ref="#pmb29749">Zeitung</rs> zu thuen haben. Eine Gruppe zu bilden ist ja direct unmöglich: <rs type="person" ref="#pmb2121">Schnitzler</rs> hat von vornherein den Verkehr mit der <rs type="org" subtype="implied" ref="#pmb29749">Zeitung</rs> abgelehnt, <rs type="person" ref="#pmb2836">Eckstein</rs> hat sich direct in dieser Geschichte widerwärtig gegen mich benommen, der <rs type="person" ref="#pmb2147">Engländer</rs> ist überhaupt einer der unzuverlässlichsten, frauenzimmerhaft gemeinsten Menschen die es giebt, den Herrn <rs type="person" ref="#pmb28598">Rappaport</rs> kenne ich nicht und habe keinen Anlass zu glauben dass er an mir mehr Interesse hat als am <rs type="person" ref="#pmb11988">Kraus</rs>, die Drohung mit <rs type="person" ref="#pmb12156">Maeterlinck</rs> wird nichts ausmachen, da die Leute so von der Hand in den Mund leben dass sie sicher nicht an regelmäßige Theilnahme der Auswärtigen denken. Dann hab ich gerade jetzt so viel wichtigere recht <anchor type="commentary" xml:id="KL469-1">schwere Sachen im Kopf</anchor>, dass ich nicht genug <rs type="person" ref="#pmb11461">Goethe</rs> bin um irgend eine mich wenig interessierende practische Angelegenheit mit Geschick durchzuführen.</p>
+            <p>Seien Sie nicht bös dass ich Ihnen noch einmal wegen dieser blöden Angelegenheit schreibe. Ich will nichts activeres thuen und nichts mehr mit der <rs type="org" subtype="implied" ref="#pmb29749">Zeitung</rs> zu thuen haben. Eine Gruppe zu bilden ist ja direct unmöglich: <rs type="person" ref="#pmb2121">Schnitzler</rs> hat von vornherein den Verkehr mit der <rs type="org" subtype="implied" ref="#pmb29749">Zeitung</rs> abgelehnt, <rs type="person" ref="#pmb2836">Eckstein</rs> hat sich direct in dieser Geschichte widerwärtig gegen mich benommen, der <rs type="person" ref="#pmb2147">Engländer</rs> ist überhaupt einer der unzuverlässlichsten, frauenzimmerhaft gemeinsten Menschen die es giebt, den Herrn <rs type="person" ref="#pmb28598">Rappaport</rs> kenne ich nicht und habe keinen Anlass zu glauben dass er an mir mehr Interesse hat als am <rs type="person" ref="#pmb11988">Kraus</rs>, die Drohung mit <rs type="person" ref="#pmb12156">Maeterlinck</rs> wird nichts ausmachen, da die Leute so von der Hand in den Mund leben dass sie sicher nicht an regelmäßige Theilnahme der Auswärtigen denken. Dann hab ich gerade jetzt so viel wichtigere recht <anchor type="commentary" xml:id="KL469-1"/>schwere Sachen im Kopf<note type="commentary" xml:id="KL469-1h">
+                  <p>Er arbeitete an einem Trauerspiel sowie dem <rs type="work" ref="#pmb32834">Kleinen
+                  Welttheater</rs>.</p>
+               </note>, dass ich nicht genug <rs type="person" ref="#pmb11461">Goethe</rs> bin um irgend eine mich wenig interessierende practische Angelegenheit mit Geschick durchzuführen.</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

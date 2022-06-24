@@ -13,11 +13,11 @@
             <title type="iso-date">1893-12-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,15 +77,29 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1893-12-02" n="3">2/12</date> Kritiken nicht gar so übel; außer den antisemit. Blättern. Perfid dumm <anchor type="commentary" xml:id="KD094-1">
-                  <rs type="work" subtype="implied" ref="#pmb30463">
-                     <rs type="person" ref="#pmb2583">Schütz</rs>
-                  </rs>
-               </anchor>; auch <anchor type="commentary" xml:id="KD094-2">
-                  <rs type="work" subtype="implied" ref="#pmb30449">
-                     <rs type="person" ref="#pmb2586">Granichstädten</rs>
-                  </rs>
-               </anchor>. – Der Riesenerfolg der <rs type="person" ref="#pmb12618">S.</rs> wohl absichtlich nicht recht hervorgehoben.– Im <rs type="place" ref="#pmb20">Volkstheater</rs>.– Bei <rs type="person" ref="#pmb11848">Kadelburg</rs>.– Bei der <rs type="person" ref="#pmb12618">S.</rs>– Sie im Bett. Ihre sinnlich höhnischen Augen. Erzählt mir von ihrem Verhältnis mit <rs type="person" ref="#pmb11036">B-d</rs>; »einziger«, den sie geliebt!– Wieso hab ich dieses Vertrauen zu Ihnen.– Plötzlich küsst sie mir die Hand.– Sie nehmen das so ruhig hin?– »Sie experimentiren vielleicht<c rendition="#dots" n="3"/> Wen lieben Sie jetzt – <rs type="person" ref="#pmb12355">Robertus</rs>–?–« »Nein, Kamerad.– Ich muss nur an einen denken. Abends Schatten<c rendition="#dots" n="3"/>« Plötzlich rasende Küsse.– »Ich hab dich lieb!– Was soll das nur werden?«– –»An wen denkst du?« (in meinen Küssen). Auf mein Mißtraun: »Spiel nicht den <rs type="work" subtype="implied" ref="#pmb29823">Fedor Denner</rs>.« – <rs type="person" subtype="implied" ref="#pmb12621">Schwester</rs> kam.– Nm. <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb10863">B.-Hofmann</rs> da.– Abd. im Theater.– <rs type="work" ref="#pmb29823">M.</rs> für die nächste Woche nicht mehr angesetzt,– 3. Akt zu ändern.– Ziemlich leeres Haus, sehr viel Beifall; auch nach dem 3. Akt, den ich gekürzt hatte.– In der Loge mit den dreien.– Nach dem 2. Akt auf die Bühne zur <rs type="person" ref="#pmb12618">S.</rs> – »Komm heut zu mir zum Abendessen.« Ich lehnte in Hinblick auf meine Freunde ab.– »Hast du mich lieb?«</p>
+               <date when="1893-12-02" n="3">2/12</date> Kritiken nicht gar so übel; außer den antisemit. Blättern. Perfid dumm <anchor type="commentary" xml:id="KD094-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30463">
+                  <rs type="person" ref="#pmb2583">Schütz</rs>
+               </rs>
+               <note type="commentary" xml:id="KD094-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2583">[O. V.:]</rs>
+                        <space unit="chars" quantity="1"/>
+                        <rs type="work" ref="#pmb30463">Deutsches Volkstheater</rs>. In: <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>, Nr. 10518, <date instant="false">2. 12. 1893</date>,
+                  S. 7</bibl>.</p>
+               </note>; auch <anchor type="commentary" xml:id="KD094-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30449">
+                  <rs type="person" ref="#pmb2586">Granichstädten</rs>
+               </rs>
+               <note type="commentary" xml:id="KD094-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2586">[O. V.:]</rs>
+                        <space unit="chars" quantity="1"/>
+                        <rs type="work" ref="#pmb30449">Deutsches Volkstheater</rs>. In: <rs type="org" ref="#pmb29270">Die Presse</rs>, Jg. 46, Nr. 333, <date instant="false">2. 12. 1893</date>,
+                  S. 11</bibl>.</p>
+               </note>. – Der Riesenerfolg der <rs type="person" ref="#pmb12618">S.</rs> wohl absichtlich nicht recht hervorgehoben.– Im <rs type="place" ref="#pmb20">Volkstheater</rs>.– Bei <rs type="person" ref="#pmb11848">Kadelburg</rs>.– Bei der <rs type="person" ref="#pmb12618">S.</rs>– Sie im Bett. Ihre sinnlich höhnischen Augen. Erzählt mir von ihrem Verhältnis mit <rs type="person" ref="#pmb11036">B-d</rs>; »einziger«, den sie geliebt!– Wieso hab ich dieses Vertrauen zu Ihnen.– Plötzlich küsst sie mir die Hand.– Sie nehmen das so ruhig hin?– »Sie experimentiren vielleicht<c rendition="#dots" n="3"/> Wen lieben Sie jetzt – <rs type="person" ref="#pmb12355">Robertus</rs>–?–« »Nein, Kamerad.– Ich muss nur an einen denken. Abends Schatten<c rendition="#dots" n="3"/>« Plötzlich rasende Küsse.– »Ich hab dich lieb!– Was soll das nur werden?«– –»An wen denkst du?« (in meinen Küssen). Auf mein Mißtraun: »Spiel nicht den <rs type="work" subtype="implied" ref="#pmb29823">Fedor Denner</rs>.« – <rs type="person" subtype="implied" ref="#pmb12621">Schwester</rs> kam.– Nm. <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb10863">B.-Hofmann</rs> da.– Abd. im Theater.– <rs type="work" ref="#pmb29823">M.</rs> für die nächste Woche nicht mehr angesetzt,– 3. Akt zu ändern.– Ziemlich leeres Haus, sehr viel Beifall; auch nach dem 3. Akt, den ich gekürzt hatte.– In der Loge mit den dreien.– Nach dem 2. Akt auf die Bühne zur <rs type="person" ref="#pmb12618">S.</rs> – »Komm heut zu mir zum Abendessen.« Ich lehnte in Hinblick auf meine Freunde ab.– »Hast du mich lieb?«</p>
          </div>
       </body>
    </text>

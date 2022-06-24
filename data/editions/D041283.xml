@@ -13,11 +13,11 @@
             <title type="iso-date">1907-01-20</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -87,8 +87,12 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2292">Gerty</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb24239">Hans Schlesinger</rs>. <rs type="person" ref="#pmb11740">Hugo</rs> seinen Wursteltag, der immer auf schlechte innre Stimmung deutet.– Über <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb2167">Salten</rs>; natürlich theilweise richtig – aber so ungütig. <anchor type="label" xml:id="LD283-1">Es gibt Momente da mich ein Grauen fasst, wenn ich in diesen »Freundeskreis« schaue.</anchor> Sehr lustig wie <rs type="person" ref="#pmb11740">Hugo</rs> über <anchor type="commentary" xml:id="KD283-1">
-                  <rs type="person" subtype="implied" ref="#pmb28902">den</rs> sprach, der alleweil anhält</anchor> (um <rs type="person" ref="#pmb24244">Mimi</rs>
+               <rs type="person" ref="#pmb24239">Hans Schlesinger</rs>. <rs type="person" ref="#pmb11740">Hugo</rs> seinen Wursteltag, der immer auf schlechte innre Stimmung deutet.– Über <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb2167">Salten</rs>; natürlich theilweise richtig – aber so ungütig. <anchor type="label" xml:id="LD283-1">Es gibt Momente da mich ein Grauen fasst, wenn ich in diesen »Freundeskreis« schaue.</anchor> Sehr lustig wie <rs type="person" ref="#pmb11740">Hugo</rs> über <anchor type="commentary" xml:id="KD283-1"/>
+               <rs type="person" subtype="implied" ref="#pmb28902">den</rs> sprach, der alleweil anhält<note type="commentary" xml:id="KD283-1h">
+                  <p>Am <date instant="false">11. 6. 1907</date> heiratete <rs type="person" ref="#pmb24244">Marie
+                  Schlesinger</rs> (<rs type="person" ref="#pmb2292">Gerty Hofmannsthal</rs>s
+               Schwester) <rs type="person" ref="#pmb28902">Arnold Schereschewsky</rs>.</p>
+               </note> (um <rs type="person" ref="#pmb24244">Mimi</rs>
                <c rendition="#dots" n="3"/> »aber meine <rs type="person" subtype="implied" ref="#pmb24233">Schwiegermutter</rs> sagt, sie kennt ihn nicht <c rendition="#dots" n="3"/>«).– <rs type="person" ref="#pmb2173">O.</rs> sang, hatte keinen guten Tag; <rs type="person" ref="#pmb11740">Hugo</rs> machte dumme Witze.– <rs type="person" ref="#pmb2173">O.</rs> nachher, trotz Einsicht, zum Weinen verstimmt; fand es wieder richtiger, nach »<rs type="place" ref="#pmb870">Dessau</rs>« zu gehn.–</p>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1891-08-12</title>
             <author ref="pmb2563">Kafka, Eduard Michael</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,22 +105,57 @@
                   <supplied>z</supplied>
                </damage> über »Moderne Sc<damage agent="hole">
                   <supplied>ha</supplied>
-               </damage>uspielkunst« für die »<rs type="org" ref="#pmb29417">M. R</rs>.« zu schreiben, für eines der nächsten Hefte, – und was ist denn mit den »<anchor type="commentary" xml:id="KL646-2">Wüstlingen</anchor>«? – Oder hätten Sie etwas anderes für uns? – Gutes, keine alte Anekdote, wie letzthin »<anchor type="commentary" xml:id="KL646-4">
-                  <rs type="work" ref="#pmb31297">Die schamhafte Gräfin</rs>
-               </anchor>«, deretwegen eigentlich Sie sich zu schämen hätten.</p>
-            <p>Wenn <anchor type="commentary" xml:id="KL646-3">kommt denn »<rs type="work" ref="#pmb30175">Die russische Reise</rs>«</anchor>? Damit ich <anchor type="commentary" xml:id="KL646-1">
-                  <rs type="work" subtype="implied" ref="#pmb31375 #pmb31383">wieder einmal</rs> über Sie schreiben</anchor> kann.</p>
-            <p>Wie gefiel Ihnen <rs type="person" ref="#pmb2416">J. J. David</rs>’s »<anchor type="commentary" xml:id="KL646-5">
-                  <rs type="work" ref="#pmb31371">Hagars Sohn</rs>
-               </anchor>« in Heft V. VI. VII. VIII. der »<rs type="org" ref="#pmb29417">M. R.</rs>«? Es interessiert mich dies aus dem Grunde, weil bei vielen Leuten aus unserem Kreise des Wunsch besteht, dass man die <rs type="place" ref="#pmb50">Wien</rs>er <rs type="org" ref="#pmb29781">Freie Bühne</rs> damit eröffne.</p>
+               </damage>uspielkunst« für die »<rs type="org" ref="#pmb29417">M. R</rs>.« zu schreiben, für eines der nächsten Hefte, – und was ist denn mit den »<anchor type="commentary" xml:id="KL646-2"/>Wüstlingen<note type="commentary" xml:id="KL646-2h">
+                  <p>Nicht geklärt. In der <rs type="org" ref="#pmb29417">Modernen Rundschau</rs> erschien
+               bis zu ihrem letzten Heft im <date instant="false">Dezember</date> nichts mehr von <rs type="person" ref="#pmb10815">Bahr</rs>.</p>
+               </note>«? – Oder hätten Sie etwas anderes für uns? – Gutes, keine alte Anekdote, wie letzthin »<anchor type="commentary" xml:id="KL646-4"/>
+               <rs type="work" ref="#pmb31297">Die schamhafte Gräfin</rs>
+               <note type="commentary" xml:id="KL646-4h">
+                  <p>Nicht in der <rs type="org" ref="#pmb29417">Modernen Dichtung</rs> erschienen,
+               sondern <bibl >in: <rs type="org" ref="#pmb29374">Sommerfest. Ein moderner
+                     Musen-Almanach</rs>. Mit Originalbeiträgen. Erste Reihe. München: <rs type="org">Münchener Kunst- und Verlagsanstalt (Dr. E. Albert)</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1891</date>, S. 1–6</bibl>. Die Vorbemerkung der <rs type="org" ref="#pmb29372">Gesellschaft für modernes Leben</rs> ist datiert mit <date instant="false">Juli
+                  1891</date>.</p>
+               </note>«, deretwegen eigentlich Sie sich zu schämen hätten.</p>
+            <p>Wenn <anchor type="commentary" xml:id="KL646-3"/>kommt denn »<rs type="work" ref="#pmb30175">Die russische Reise</rs>«<note type="commentary" xml:id="KL646-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30175">Die russische Reise</rs>. Dresden: <rs type="org" ref="#pmb29771">E. Pierson</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1891</date>
+                     </bibl>, erschien <date instant="false">Mitte September 1891</date> (<bibl >
+                        <rs type="work">Bw</rs>
+                        <space unit="chars" quantity="1"/>Bahr/Hofmannsthal 14–15</bibl>).</p>
+               </note>? Damit ich <anchor type="commentary" xml:id="KL646-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31375 #pmb31383">wieder einmal</rs> über Sie schreiben<note type="commentary" xml:id="KL646-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2563">E. M. Kafka</rs>: <rs type="work" ref="#pmb31375">»<rs type="work" ref="#pmb32440">Zur Kritik der Moderne</rs>«</rs>. In: <rs type="org" ref="#pmb29417">Moderne Dichtung</rs>, Bd. 1, H. 2, <date instant="false">1. 2.
+                     1890</date>, S. 120–122</bibl>. <bibl >
+                        <rs type="person" ref="#pmb2563">E. M. Kafka</rs>: <rs type="work" ref="#pmb31383">Der neueste Bahr</rs>. In: <rs type="org" ref="#pmb29417">Moderne
+                     Rundschau</rs>, Bd. 3, H. 5/6, <date instant="false">15. 6. 1891</date>, S. 220–222</bibl> (Zu
+                  <rs type="work" ref="#pmb31945">Die Überwindung des Naturalismus</rs>).</p>
+               </note> kann.</p>
+            <p>Wie gefiel Ihnen <rs type="person" ref="#pmb2416">J. J. David</rs>’s »<anchor type="commentary" xml:id="KL646-5"/>
+               <rs type="work" ref="#pmb31371">Hagars Sohn</rs>
+               <note type="commentary" xml:id="KL646-5h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2416">J. J. David</rs>: <rs type="work" ref="#pmb31371">Hagars Sohn</rs>. In: <rs type="org" ref="#pmb29417">Moderne Rundschau</rs>,
+                  Bd. 3, Nr. 5, <date instant="false">1. 6. 1891</date> – Nr. 8, <date instant="false">15. 7. 1891</date> (4
+                  Teile)</bibl>.</p>
+               </note>« in Heft V. VI. VII. VIII. der »<rs type="org" ref="#pmb29417">M. R.</rs>«? Es interessiert mich dies aus dem Grunde, weil bei vielen Leuten aus unserem Kreise des Wunsch besteht, dass man die <rs type="place" ref="#pmb50">Wien</rs>er <rs type="org" ref="#pmb29781">Freie Bühne</rs> damit eröffne.</p>
             <p>Übrigens – wären <hi rend="underline" n="1">Sie</hi>
                <space unit="chars" quantity="1"/>
                <add place="above">nicht</add> vielleicht im Stande, bis zum Herbste, ein Stück zu schreiben, mit dem wir beginnen könnten? – Für die Folge hätten wir deren einige, (<anchor type="label" xml:id="LL646-1">U. a. das <hi rend="underline" n="1">ganz ausgezeichnete</hi> »<rs type="work" ref="#pmb29823">Märchen</rs>« <del rend="strikethrough">von</del>
                   <space unit="chars" quantity="1"/>
                   <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>’s</anchor>) – nur womit anfangen, das ist die Frage.</p>
-            <p>Vorläufig ist nur allein »<anchor type="commentary" xml:id="KL646-6">
-                  <rs type="work" ref="#pmb30019">Das Friedensfest</rs>
-               </anchor>« ernstlicher in Aussicht<pb/> genommen.</p>
+            <p>Vorläufig ist nur allein »<anchor type="commentary" xml:id="KL646-6"/>
+               <rs type="work" ref="#pmb30019">Das Friedensfest</rs>
+               <note type="commentary" xml:id="KL646-6h">
+                  <p>Von <rs type="person" ref="#pmb11617">Gerhart Hauptmann</rs>.</p>
+               </note>« ernstlicher in Aussicht<pb/> genommen.</p>
             <p>A propos, darf ich Sie als Mitglied unserem <rs type="org" subtype="implied" ref="#pmb29781">Vereine</rs> anmelden? Ich bin gegenwärtig auf Urlaub, leider krank dabei und zu Bette. Eine Mastdarmfistel trieb mich zur Operation.</p>
             <closer>Mit herzlichem Grusse<lb/>
                <signed>

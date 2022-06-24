@@ -13,11 +13,11 @@
             <title type="iso-date">1894-07-17</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,11 +106,18 @@
                <p rend="right">1 Uhr Nachts</p>
                <salute>Liebster bester Hermann.</salute>
             </opener>
-            <p>Kind – soeben habe ich den Leuten hier die <anchor type="commentary" xml:id="KL596-3">
-                  <rs type="work" ref="#pmb32478">Eva</rs>
-               </anchor>
+            <p>Kind – soeben habe ich den Leuten hier die <anchor type="commentary" xml:id="KL596-3"/>
+               <rs type="work" ref="#pmb32478">Eva</rs>
+               <note type="commentary" xml:id="KL596-3h">
+                  <p>
+                     <rs type="person" ref="#pmb13017">Richard Voss</rs>: <rs type="work" ref="#pmb32478">Eva. Schauspiel in fünf Acten</rs>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL596-2">versetzt</anchor>. Ich <anchor type="commentary" xml:id="KL596-1">gastirte schon zum dritten male</anchor>, die Menschen waren blaß. – Ich wurde gefeiert – Blumen Ansprachen – na – Du kannst Dir den Rummel nicht vorstellen – den die Menschen hier mit mir getrieben. – </p>
+               <anchor type="commentary" xml:id="KL596-2"/>versetzt<note type="commentary" xml:id="KL596-2h">
+                  <p>Hier: vorgesetzt.</p>
+               </note>. Ich <anchor type="commentary" xml:id="KL596-1"/>gastirte schon zum dritten male<note type="commentary" xml:id="KL596-1h">
+                  <p>Gemeint ist der dritte Auftritt ihres Gastspiels.</p>
+               </note>, die Menschen waren blaß. – Ich wurde gefeiert – Blumen Ansprachen – na – Du kannst Dir den Rummel nicht vorstellen – den die Menschen hier mit mir getrieben. – </p>
             <p>Dein Brief hat mich <hi rend="underline" n="1">wahnsinnig</hi> gefreut – ich danke Dir <hi rend="underline" n="2">herzlich</hi>: Ich hab Dich auch lieb!<pb/>
                <space unit="chars" quantity="1"/>
                <damage agent="hole">

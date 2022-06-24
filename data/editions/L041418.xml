@@ -13,11 +13,11 @@
             <title type="iso-date">1892-11-09</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,7 +124,9 @@
                </rs> hab ich alles ausgerichtet.– Wissen Sie schon? Dinstag <unclear>
                   <c rendition="#kaufmannsund"/>
                </unclear> Samstag <rs type="place" ref="#pmb49">Cafe Pfob</rs>.– Die andern Abende <rs type="place" ref="#pmb48">Café Union</rs> – <add place="below">lies <hi rend="latintype">
-                     <anchor type="textConst" xml:id="TL418-1">Union</anchor>
+                     <anchor type="textConst" xml:id="TL418-1"/>Union<note type="textConst" xml:id="TL418-1h">
+                        <p>Zusätzlich unterstrichen</p>
+                     </note>
                   </hi>
                </add> (<rs type="place" ref="#pmb412">
                   <hi rend="latintype">Grillparzerstraße</hi>

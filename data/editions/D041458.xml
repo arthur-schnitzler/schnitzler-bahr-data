@@ -13,11 +13,11 @@
             <title type="iso-date">1904-01-31</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,13 +105,21 @@
             <p>Da ich gestern in den »<rs type="work" ref="#pmb31131">Wanderjahren</rs>« den Mann von fünfzig Jahren las, wurde mein alter Wunsch wieder aufgeregt, einen »Mann von vierzig Jahren« zu schreiben, um daran darzustellen, erstens jene merkwürdige dunkle fast komische Angst des vierzigsten Geburtstages (wo einem zum ersten Mal einfallt, es könnte etwas zum letzten Mal sein, woran man doch früher noch nie gedacht hat), zweitens, was mich schon lang gelüstet: wie zwei Menschen, ohne sich im Mindesten zu lieben, blos durch die Verhältnisse, weil er<pb/> nun einmal den Ruf hat, »unwiderstehlich« zu sein, und sie sich nach neuen Emotionen sehnt (oder eigentlich sich schämt, so einfach bürgerlich glücklich zu sein, und darum nicht blos den anderen, sondern sich selber Vormacht, sie sehne sich), so nach und nach, indem es die Umgebung natürlich an Kuppeln nicht fehlen läßt, in ein Abenteuer geraten sind, zu welchem sie sich nun eine Leidenschaft zupumpen müssen, die sie gar nicht haben, (vielfache Berührung mit »Übermädl«; nur dürfte es kein »Schriftsteller«, sondern ein behaglicher »Weltmann« sein, der, sehr um seine Ruhe besorgt, durch seine »Routine« tyrannisiert wird – wir leben vielleicht überhaupt nur als ganz junge Leute; dann leben wir mechanisch immer nur durch Association dem nach, was wir einmal eingeübt haben, in den alten Gleisen); drittens aber, an der Frau meines Helden, einen Fall wahrer ehelicher Liebe, die schließlich doch nur Freude<pb/> an einem Wesen ist, hier so stark, daß sie, wie der Mann in seinen Escapaden seine Laune, seine Macht über die anderen und das glänzende seines Wesens erst von allen Seiten entfalten kann, gar nicht merkt, daß es doch nur auf Kosten der »ehelichen Treue« möglich ist. (Er drückt das einmal burlesk so aus: Wenn er keine Verhältnisse mehr hätte, würde sie finden, er sei nicht mehr der alte, er gehe zurück, und würde ihn gar nicht mehr so gern haben).</p>
             <p>Sie sagt über seine Untreuen, ein bischen deswegen gefunselt: »Es gehört so zu ihm <c rendition="#dots" n="3" place="center"/> Und: es steht ihm so gut <c rendition="#dots" n="3" place="center"/> Es wäre schade, es ihm zu nehmen. Er wär gar nicht mehr derselbe <c rendition="#dots" n="3" place="center"/> Und es macht ihm eine solche Freude!«<pb/>
             </p>
-            <p>Erwägen auch die <rs type="place" ref="#pmb30">Salzburger</rs> Geschichte (Convict, der junge Bursch, der von der Frau des von ihm vergötterten Professors verführt wird – hier das Ehrgefühlmotiv sehr stark, das in dem <anchor type="commentary" xml:id="KD458-2">
-                  <rs type="person" ref="#pmb11763">Arno Holz</rs>
-                  <space unit="chars" quantity="1"/>
-                  <rs type="work" subtype="implied" ref="#pmb31407">Stück</rs>
-               </anchor> doch etwas übertrieben wirkt), mit Einschlag vieler Erinnerungen; nur nicht in die »<anchor type="commentary" xml:id="KD458-1">
-                  <rs type="work" ref="#pmb30075">Frau des Weisen</rs>
-               </anchor>« hineinkommen.</p>
+            <p>Erwägen auch die <rs type="place" ref="#pmb30">Salzburger</rs> Geschichte (Convict, der junge Bursch, der von der Frau des von ihm vergötterten Professors verführt wird – hier das Ehrgefühlmotiv sehr stark, das in dem <anchor type="commentary" xml:id="KD458-2"/>
+               <rs type="person" ref="#pmb11763">Arno Holz</rs>
+               <space unit="chars" quantity="1"/>
+               <rs type="work" subtype="implied" ref="#pmb31407">Stück</rs>
+               <note type="commentary" xml:id="KD458-2h">
+                  <seg type="lemma">Arno Holz Stück</seg>
+                  <p>In <rs type="work" ref="#pmb31407">Traumulus</rs> ist ein Schuldirektor von seinem
+               Lieblingsschüler bitter enttäuscht, weil er mit einer Schauspielerin Zeit verbracht
+               hat.</p>
+               </note> doch etwas übertrieben wirkt), mit Einschlag vieler Erinnerungen; nur nicht in die »<anchor type="commentary" xml:id="KD458-1"/>
+               <rs type="work" ref="#pmb30075">Frau des Weisen</rs>
+               <note type="commentary" xml:id="KD458-1h">
+                  <p>Darin wird in einer Rückblende erzählt, wie der Protagonist als Schüler mit der Frau
+               seines Wohnungsgebers, eines Gymnasialprofessors, einen Kuss getauscht hat.</p>
+               </note>« hineinkommen.</p>
             <p>–</p>
             <p>In jenem Stück unterzubringen der Antimoralist, der eine berühmte (begnadigte) Mörderin zu sich nimmt, um manifest zu machen, daß er Jenseits von Gut und Böse lebt, aber sie verstößt, als sie das Messer in den Mund nimmt und die Sauce abschleckt.</p>
             <p>

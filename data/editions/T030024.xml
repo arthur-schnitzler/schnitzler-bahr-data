@@ -14,11 +14,11 @@
             <title type="iso-date">1905-10-14</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="024"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A86-F</idno>
          </publicationStmt>
@@ -97,7 +97,7 @@
          <div>
             <head>Tagebuch.</head>
             <head type="sub">Von <hi rend="bold">Hermann Bahr</hi>.</head>
-            <p part="N">19. September. Der »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« heisst <rs type="person" ref="#pmb2121">Schnitzlers</rs> neues Stück. Ein Namen, der mich wunderbar ergreift. Alles, was wir sind, wir von 1860, und wollen und wähnen, ist darin und man sollte auf das Kapitel, das einmal erzählen wird, was wir waren, dieses Wort setzen: Der »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>«.</p>
+            <p>19. September. Der »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« heisst <rs type="person" ref="#pmb2121">Schnitzlers</rs> neues Stück. Ein Namen, der mich wunderbar ergreift. Alles, was wir sind, wir von 1860, und wollen und wähnen, ist darin und man sollte auf das Kapitel, das einmal erzählen wird, was wir waren, dieses Wort setzen: Der »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>«.</p>
          </div>
       </body>
    </text>

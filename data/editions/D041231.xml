@@ -13,11 +13,11 @@
             <title type="iso-date">1904-07-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,8 +81,31 @@
                <space unit="chars" quantity="1"/>
                <c rendition="#dots" n="3" place="center"/>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD231-2">Le soir <c rendition="#dots" n="3" place="center"/> mon soir, bon soir</anchor>).– <rs type="person" ref="#pmb2167">Salten</rs>
-               <space unit="chars" quantity="1"/>u. a.– Die Zionisten.– <anchor type="commentary" xml:id="KD231-1">Mit <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb12968">Treb.</rs> zurück;</anchor>
+               <anchor type="commentary" xml:id="KD231-2"/>Le soir <c rendition="#dots" n="3" place="center"/> mon soir, bon soir<note type="commentary" xml:id="KD231-2h">
+                  <seg type="lemma">Le soir {\dots} bon soir</seg>
+                  <p>So auch <bibl >
+                        <rs type="person" ref="#pmb10788">Auernheimer</rs>: <rs type="work" ref="#pmb32346">Das Wirtshaus zur verlorenen Zeit</rs>. <rs type="place" ref="#pmb50">Wien</rs>: <rs type="org">Ullstein</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1948</date>, S. 42</bibl> und, ohne das finale »<quote>bon soir</quote>«,
+                  <rs type="person" ref="#pmb12968">Trebitsch</rs>: <bibl >
+                        <rs type="work" ref="#pmb32678">Chronik eines Lebens.</rs> Zürich, Stuttgart,
+                  Wien: <rs type="org">Artemis</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1951</date>, S. 188</bibl>.</p>
+               </note>).– <rs type="person" ref="#pmb2167">Salten</rs>
+               <space unit="chars" quantity="1"/>u. a.– Die Zionisten.– <anchor type="commentary" xml:id="KD231-1"/>Mit <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb12968">Treb.</rs> zurück;<note type="commentary" xml:id="KD231-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2173">Olga Schnitzler</rs> weicht davon ab: »<quote>Am 7.
+                  nach dem Begräbnis ist <rs type="person" ref="#pmb10815">Bahr</rs> bei uns, der
+                     <rs type="person" ref="#pmb11673">Herzl</rs> in den letzten Jahren nahestand.
+                  Es war ein schöner klarer Tag, man saß auf dem Balkon, dem <rs type="place" ref="#pmb794">Sternwartepark</rs> gegenüber, die Freunde erzählten einander von
+                  den verflossenen Jahren, von allem, was sie dem Dahingeschiedenen verband und von
+                  ihm trennte. Ein mild verstehendes Wort <rs type="person" ref="#pmb11673">Herzls</rs>, wie nachhallend aus anderer Welt, gab den tröstlich versöhnenden
+                  Ausklang: ›<rs type="person" ref="#pmb2121">Schnitzler</rs>? – Er gehört hieher,
+                  auf diesen Boden – ganz ebenso wie <rs type="person" ref="#pmb12729">Schubert</rs>.‹</quote>« (<bibl >
+                        <rs type="work" ref="#pmb30067">Spiegelbild der Freundschaft</rs>,
+               S. 100</bibl>)</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb12968">Trebitsch</rs> noch bei mir am Balkon.–</p>
             <p>Nm. dictirt <rs type="work" subtype="implied" ref="#pmb29923">Roman</rs>, aphoristisches.–</p>

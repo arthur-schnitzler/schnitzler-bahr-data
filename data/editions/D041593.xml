@@ -13,11 +13,11 @@
             <title type="iso-date">1922-02-10</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,19 +79,34 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1922-02-10" n="01">10.</date> K. – Sonnentag. – <anchor type="commentary" xml:id="KD593-1">
-                  <rs type="work" subtype="implied" ref="#pmb30227">Tagebuch für 19/2</rs>
-               </anchor> (<rs type="person" ref="#pmb42949">Parazelsus</rs>; letztes Datum <date>7./2</date>) – An <rs type="person" ref="#pmb10818">Anna</rs>, <rs type="person" ref="#pmb4484">Muth</rs>, <rs type="person" ref="#pmb11704">Ludwig Hirschfeld</rs> (für <anchor type="commentary" xml:id="KD593-2">
-                  <rs type="org" ref="#pmb29404">Mod. Welt</rs>, 10000 Kr, <rs type="person" ref="#pmb2121">
-                     <rs type="work" subtype="implied" ref="#pmb30049">Schnitzler</rs>
-                  </rs> zum <date>10./3</date> zusagend</anchor>). – An <rs type="person" ref="#pmb12826">Paul Stefan</rs>, D<hi rend="superscript">r</hi>
+               <date when="1922-02-10" n="01">10.</date> K. – Sonnentag. – <anchor type="commentary" xml:id="KD593-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30227">Tagebuch für 19/2</rs>
+               <note type="commentary" xml:id="KD593-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30227">Tagebuch. 7. Februar</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 30, Nr. 10161, <date instant="false">19. 2. 1922</date>,
+                  S. 6</bibl>.</p>
+               </note> (<rs type="person" ref="#pmb42949">Parazelsus</rs>; letztes Datum <date>7./2</date>) – An <rs type="person" ref="#pmb10818">Anna</rs>, <rs type="person" ref="#pmb4484">Muth</rs>, <rs type="person" ref="#pmb11704">Ludwig Hirschfeld</rs> (für <anchor type="commentary" xml:id="KD593-2"/>
+               <rs type="org" ref="#pmb29404">Mod. Welt</rs>, 10000 Kr, <rs type="person" ref="#pmb2121">
+                  <rs type="work" subtype="implied" ref="#pmb30049">Schnitzler</rs>
+               </rs> zum <date>10./3</date> zusagend<note type="commentary" xml:id="KD593-2h">
+                  <p>
+                     <ptr target="T030030"/>.</p>
+               </note>). – An <rs type="person" ref="#pmb12826">Paul Stefan</rs>, D<hi rend="superscript">r</hi>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb28788">Negwer</rs>
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb677">Breslau</rs>, <rs type="org" ref="#pmb29203">D<damage agent="ink">
                      <supplied>ü</supplied>
-                  </damage>rr u. Weber</rs>, <rs type="org" ref="#pmb29200">Engelhorn</rs>, <rs type="org" ref="#pmb29751">Inselverlag</rs> (Anfrage wegen Kunstlehre), <rs type="person" ref="#pmb28459">Eckardt</rs> (Mahnung, das bei ihm liegende <anchor type="commentary" xml:id="KD593-3">Manuscript vom <rs type="work" subtype="implied" ref="#pmb30149">Tagb 1921</rs>
-               </anchor> an <rs type="org" ref="#pmb29199">Haas u Grabheer</rs> zu schicken). – Bei Dr <rs type="person" ref="#pmb28772">Stölzl</rs> wegen Steuer. – Beichte</p>
+                  </damage>rr u. Weber</rs>, <rs type="org" ref="#pmb29200">Engelhorn</rs>, <rs type="org" ref="#pmb29751">Inselverlag</rs> (Anfrage wegen Kunstlehre), <rs type="person" ref="#pmb28459">Eckardt</rs> (Mahnung, das bei ihm liegende <anchor type="commentary" xml:id="KD593-3"/>Manuscript vom <rs type="work" subtype="implied" ref="#pmb30149">Tagb 1921</rs>
+               <note type="commentary" xml:id="KD593-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30149">Kritik der Gegenwart</rs>. Augsburg: <rs type="org" ref="#pmb29199">Haas <c rendition="#kaufmannsund"/> Grabherr</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1922</date>
+                     </bibl>.</p>
+               </note> an <rs type="org" ref="#pmb29199">Haas u Grabheer</rs> zu schicken). – Bei Dr <rs type="person" ref="#pmb28772">Stölzl</rs> wegen Steuer. – Beichte</p>
          </div>
       </body>
    </text>

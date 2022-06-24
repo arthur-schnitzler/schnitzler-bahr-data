@@ -13,11 +13,11 @@
             <title type="iso-date">1904-11-03</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,10 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Sehr gern komm ich <anchor type="commentary" xml:id="KL285-1">S<unclear>onn</unclear>tag</anchor> gegen sieben zu Dir.</p>
+            <p>Sehr gern komm ich <anchor type="commentary" xml:id="KL285-1"/>S<unclear>onn</unclear>tag<note type="commentary" xml:id="KL285-1h">
+                  <p>Das Schriftbild erlaubt auch ›Samstag‹, aber das angesprochene Treffen findet am
+               Sonntag, <date instant="false">6. 11.</date>, statt.</p>
+               </note> gegen sieben zu Dir.</p>
             <closer>Herzlichst dankend<lb/>mit vielen Grüßen an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>Dein<lb/>
                <signed>Hermann</signed>

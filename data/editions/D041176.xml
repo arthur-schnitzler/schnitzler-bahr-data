@@ -13,11 +13,11 @@
             <title type="iso-date">1897-11-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,9 +79,13 @@
             <p>
                <date when="1897-11-22" n="1">22/11</date> Bei der Manicure <rs type="person" ref="#pmb25272">Sp.</rs>–; <rs type="person" ref="#pmb18391">Irm. H.</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD176-1">que j. d. l.</anchor>, lebh. Zärtlichk. Dann bei <rs type="person" ref="#pmb14948">Gusti</rs>, resp. <rs type="person" ref="#pmb14953">Mz.</rs>, erzählte von dem Souper mit <rs type="person" ref="#pmb12348">Neumann-Hofer</rs> und <rs type="person" ref="#pmb10815">Bahr</rs>; <rs type="person" ref="#pmb14948">Gusti</rs> hatte gesagt: <rs type="person" ref="#pmb14953">Mz.</rs> ist Vorbild von <anchor type="commentary" xml:id="KD176-2">
-                  <rs type="work" subtype="implied" ref="#pmb29899">Anna Riedel</rs>
-               </anchor> (wie ändern sich die Zeiten!) – Nm. mit <rs type="person" ref="#pmb2378">Mz. Rh.</rs> spazieren, <rs type="work" subtype="implied" ref="#pmb30219">2. Akt</rs> gebaut; – schließlich bei <rs type="person" ref="#pmb26888">Fifi</rs> »wo mein Sehnen Ruhe fand« –</p>
+               <anchor type="commentary" xml:id="KD176-1"/>que j. d. l.<note type="commentary" xml:id="KD176-1h">
+                  <p>(frz.) ›que je dois lécher‹: ›die ich lecken muss‹?</p>
+               </note>, lebh. Zärtlichk. Dann bei <rs type="person" ref="#pmb14948">Gusti</rs>, resp. <rs type="person" ref="#pmb14953">Mz.</rs>, erzählte von dem Souper mit <rs type="person" ref="#pmb12348">Neumann-Hofer</rs> und <rs type="person" ref="#pmb10815">Bahr</rs>; <rs type="person" ref="#pmb14948">Gusti</rs> hatte gesagt: <rs type="person" ref="#pmb14953">Mz.</rs> ist Vorbild von <anchor type="commentary" xml:id="KD176-2"/>
+               <rs type="work" subtype="implied" ref="#pmb29899">Anna Riedel</rs>
+               <note type="commentary" xml:id="KD176-2h">
+                  <p>Figur aus <rs type="work" ref="#pmb29899">Freiwild</rs>.</p>
+               </note> (wie ändern sich die Zeiten!) – Nm. mit <rs type="person" ref="#pmb2378">Mz. Rh.</rs> spazieren, <rs type="work" subtype="implied" ref="#pmb30219">2. Akt</rs> gebaut; – schließlich bei <rs type="person" ref="#pmb26888">Fifi</rs> »wo mein Sehnen Ruhe fand« –</p>
          </div>
       </body>
    </text>

@@ -13,11 +13,11 @@
             <title type="iso-date">1894-09-11</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,14 +104,24 @@
                      <gap quantity="4" unit="chars" reason="illegible"/>
                   </del>
                   <add place="inline">oor</add>
-               </subst> little <rs type="person" subtype="implied" ref="#pmb3784">girl</rs> in the <anchor type="commentary" xml:id="KL364-1">prison</anchor>. You must excuse me.</p>
-            <p>Perhaps you can sent the <anchor type="commentary" xml:id="KL364-2">
-                  <rs type="work" cert="low" subtype="implied" ref="#pmb31275">
-                     <subst>
-                        <del rend="overwritten">Bo</del>
-                        <add place="inline">bo</add>
-                     </subst>ok</rs>
-               </anchor> from <rs type="person" ref="#pmb10815">H Bahr</rs>?</p>
+               </subst> little <rs type="person" subtype="implied" ref="#pmb3784">girl</rs> in the <anchor type="commentary" xml:id="KL364-1"/>prison<note type="commentary" xml:id="KL364-1h">
+                  <p>
+                     <rs type="person" ref="#pmb3784">Charlotte Glas</rs> hatte am <date instant="false">1. 5. 1894</date>
+               auf einer geschlossenen Arbeiterversammlung »<quote>Ein Hoch auf die internationale
+                  revolutionäre Socialdemokratie!</quote>« gerufen. Für den Ausdruck ›revolutionär‹
+               wurde sie zu 14 Tagen Arrest verurteilt.</p>
+               </note>. You must excuse me.</p>
+            <p>Perhaps you can sent the <anchor type="commentary" xml:id="KL364-2"/>
+               <rs type="work" cert="low" subtype="implied" ref="#pmb31275">
+                  <subst>
+                     <del rend="overwritten">Bo</del>
+                     <add place="inline">bo</add>
+                  </subst>ok</rs>
+               <note type="commentary" xml:id="KL364-2h">
+                  <seg type="lemma">book</seg>
+                  <p>
+                     <rs type="work" ref="#pmb31275">Studien zur Kritik der Moderne</rs>?</p>
+               </note> from <rs type="person" ref="#pmb10815">H Bahr</rs>?</p>
             <closer>Yours<lb/>
                <signed>Salten</signed>
             </closer>

@@ -13,11 +13,11 @@
             <title type="iso-date">1922-04-26</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -111,7 +111,13 @@
                   <add place="inline">end</add>
                </subst>.</p>
             <p>
-               <rs type="person" ref="#pmb10815">Bahr</rs> übersiedelt also nach <rs type="place" ref="#pmb45258">München</rs>, davon hat er mir längst erzält,– nun ist es sicher und <anchor type="commentary" xml:id="KL673-1">publik geworden</anchor>.</p>
+               <rs type="person" ref="#pmb10815">Bahr</rs> übersiedelt also nach <rs type="place" ref="#pmb45258">München</rs>, davon hat er mir längst erzält,– nun ist es sicher und <anchor type="commentary" xml:id="KL673-1"/>publik geworden<note type="commentary" xml:id="KL673-1h">
+                  <p>Das <rs type="org" ref="#pmb29320">Neue Wiener Journal</rs> brachte am <date when="1922-04-15" instant="false">15. 4. 1922</date> (<bibl >Jg. 30, Nr. 10215, S. 3</bibl>) eine
+               ungezeichnete Meldung <rs type="work" ref="#pmb32540">Hermann Bahr übersiedelt nach
+                     <rs type="place" ref="#pmb45258">München</rs>
+                     </rs>. Als Grund wird angeführt, dass <rs type="person" ref="#pmb10818">Bahr-Mildenburg</rs> neben der Unterrichtstätigkeit an der <rs type="org" ref="#pmb29279">Akademie der Tonkunst</rs> nunmehr auch als Regisseurin tätig
+               sei.</p>
+               </note>.</p>
             <p>Vom <rs type="person" ref="#pmb2238">Lilikind</rs> 2 Briefe und eine Karte, sie verzichtet auf <rs type="place" ref="#pmb415">Aussee</rs>, und schildert mir, wie schön jetzt Haus und<pb/> Garten in <rs type="place" ref="#pmb50">Wien</rs> sind. Von <rs type="person" ref="#pmb12692">Heini</rs> nix.</p>
             <p>Ich möchte schon gern Nachricht von Dir haben. Die Reise ist ja wol gut verlaufen, – nun wünsch ich innigst alles Wolbehagen, gutes Wetter, angenehme Menschen, und einen rapid sich verziehenden Katarrh. Vielleicht hilft die die Nähe des Meeres.</p>
             <p>

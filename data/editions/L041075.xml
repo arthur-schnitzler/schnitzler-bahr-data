@@ -13,11 +13,11 @@
             <title type="iso-date">1904-12-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -145,15 +145,45 @@
                </dateline>
             </opener>
             <p>
-               <salute>mein lieber Hermann, </salute>es beschämt mich fast, dass du über ein im Ganzen doch ziemlich unbeträchtliches Ding wie es der <rs type="work" ref="#pmb29873">Puppenspieler</rs> ist (er gehörte <anchor type="commentary" xml:id="KL075-3">in den Cyclus <rs type="work" ref="#pmb29863">Lebendg Stunden</rs>
-               </anchor>, aber wegen zu großer Länge des Abends mußte er zurückge<supplied>se</supplied>tzt werden) – so schöne Worte sagst. Vielleicht drücke ich mich besser aus, wenn ich sage: <hi rend="underline" n="1">anläßlich</hi> des <rs type="work" ref="#pmb29873">Puppenspielers</rs>. Denn deiner Auffassung des kleinen Stücks muss ich widersprechen. Vielleicht hab ich nicht das Recht dazu, denn es werden ja doch wahrscheinlich künst<pb/>lerische Mängel der Sache schuld daran sein, dass du eine Lebensanschauung darin findest, die ich nicht hineinlegen wollte und die mir persönlich fremd ist. Ebenso verhält es sich mit dem <rs type="work" ref="#pmb29985">Eins. Weg</rs>. Ich stehe so wenig auf Seite des Oboëspielers, als <add place="above">ich</add> auf Seiten des <rs type="work" subtype="implied" ref="#pmb29985">Professor Wegrath</rs> gestanden habe – freilich auch nicht auf der des Julian und des Puppenspielers. Aber warum? Weil sie eben nicht ganze Kerle sind, <add place="above">keine Leute</add> die – nach der dir bekannten Anekdote von der alten <rs type="person" ref="#pmb27685">Streitmann</rs> – »<anchor type="commentary" xml:id="KL075-1">brav genug</anchor>« sind – um alles zu dürfen. Wäre der <rs type="work" subtype="implied" ref="#pmb29873">Puppen<pb/>spieler</rs> wirklich ein »Großer«, so bräuchte er sich nicht in Lügen einzuspinnen, um der größere zu bleiben – wäre <rs type="work" subtype="implied" ref="#pmb29985">Julian</rs> wirklich ein Großer – so würde das beste seines Wesens nicht mit seiner Jugend auslöschen. Gegen die Herzöge und gegen die <hi rend="latintype">
+               <salute>mein lieber Hermann, </salute>es beschämt mich fast, dass du über ein im Ganzen doch ziemlich unbeträchtliches Ding wie es der <rs type="work" ref="#pmb29873">Puppenspieler</rs> ist (er gehörte <anchor type="commentary" xml:id="KL075-3"/>in den Cyclus <rs type="work" ref="#pmb29863">Lebendg Stunden</rs>
+               <note type="commentary" xml:id="KL075-3h">
+                  <p>
+                     <ptr target="L041041"/>.</p>
+               </note>, aber wegen zu großer Länge des Abends mußte er zurückge<supplied>se</supplied>tzt werden) – so schöne Worte sagst. Vielleicht drücke ich mich besser aus, wenn ich sage: <hi rend="underline" n="1">anläßlich</hi> des <rs type="work" ref="#pmb29873">Puppenspielers</rs>. Denn deiner Auffassung des kleinen Stücks muss ich widersprechen. Vielleicht hab ich nicht das Recht dazu, denn es werden ja doch wahrscheinlich künst<pb/>lerische Mängel der Sache schuld daran sein, dass du eine Lebensanschauung darin findest, die ich nicht hineinlegen wollte und die mir persönlich fremd ist. Ebenso verhält es sich mit dem <rs type="work" ref="#pmb29985">Eins. Weg</rs>. Ich stehe so wenig auf Seite des Oboëspielers, als <add place="above">ich</add> auf Seiten des <rs type="work" subtype="implied" ref="#pmb29985">Professor Wegrath</rs> gestanden habe – freilich auch nicht auf der des Julian und des Puppenspielers. Aber warum? Weil sie eben nicht ganze Kerle sind, <add place="above">keine Leute</add> die – nach der dir bekannten Anekdote von der alten <rs type="person" ref="#pmb27685">Streitmann</rs> – »<anchor type="commentary" xml:id="KL075-1"/>brav genug<note type="commentary" xml:id="KL075-1h">
+                  <p>
+                     <bibl >
+                        <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, Jg. 54, Nr. 227, <date when="1925-05-14" instant="false">14. 5. 1925</date>, Abend-Blatt, S. 2</bibl>: »<quote>
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> unterhält sich mit einem
+                  Freund über Leutnants <rs type="person" ref="#pmb3349">Bilse</rs>s Schlüsselroman
+                     ›<rs type="work" ref="#pmb32115">Aus einer kleinen Garnison</rs>‹, und es
+                  entsteht die Frage, inwieweit ein Autor ein Recht habe, wirkliche Vorkommnisse und
+                  Namen in ein Werk aufzunehmen, ›Die Frage‹, sagt <rs type="person" ref="#pmb2121">Schnitzler</rs>, ›erinnert mich an eine reizende Episode ans dem Leben des
+                  Tenors <rs type="person" ref="#pmb28352">Streitmann</rs>; der war nämlich schon
+                  ein berühmter Operettenheld, ohne daß ihn seine auf dem Land lebende Mutter je auf
+                  den Brettern gesehen hatte. Eines Tages fährt sie nach <rs type="place" ref="#pmb50">Wien</rs>, begibt sich – auf dem Zettel steht die ›<rs type="work" ref="#pmb30421">Fledermaus</rs>‹ – ins Theater, wo ihr Sohn auftritt. ›Nun?‹
+                  fragt am Ende der Vorstellung <rs type="person" ref="#pmb28352">Streitmann</rs>
+                  seine <rs type="person" subtype="implied" ref="#pmb27685">Mutter</rs>, ›wie habe
+                  ich dir gefallen?‹ – ›Sehr gut, sehr brav, mein Kind – aber‹, und sie wird
+                  bedrückt, ›warum hast du nicht das schöne Lied gesungen: ›<rs type="work" subtype="implied" ref="#pmb32592">Ach, ich hab’ sie ja nur auf die Schulter
+                     geküßt</rs>?‹ – ›Aber Mama,‹ sagte der Tenor, ›das kommt ja gar nicht in dieser
+                  Operette vor.‹ – ›Schön, kommt nicht vor <c rendition="#dots" n="3"/> aber warum
+                  hast du’s nicht doch gesungen?‹ – ›Aber Mama, verstehst du nicht – ich hätt’ es ja
+                  gar nicht singen dürfen.‹ Darauf ein langer, mißtrauischer Blick der <rs type="person" subtype="implied" ref="#pmb27685">Mutter</rs>: ›Wenn man brav
+                  ist, mein Kind, darf man alles.‹ ›Das ist‹, fügt <rs type="person" ref="#pmb2121">Schnitzler</rs> hinzu, ›auch meine Meinung über den
+               Schlüsselroman.‹</quote>«</p>
+               </note>« sind – um alles zu dürfen. Wäre der <rs type="work" subtype="implied" ref="#pmb29873">Puppen<pb/>spieler</rs> wirklich ein »Großer«, so bräuchte er sich nicht in Lügen einzuspinnen, um der größere zu bleiben – wäre <rs type="work" subtype="implied" ref="#pmb29985">Julian</rs> wirklich ein Großer – so würde das beste seines Wesens nicht mit seiner Jugend auslöschen. Gegen die Herzöge und gegen die <hi rend="latintype">
                   <rs type="work" subtype="implied" ref="#pmb29985">Sala</rs>
                </hi>’s hab ich nichts – und vor den »Großen Räubern« salutir ich, gleich dir, in Ehrfurcht. Du hast ganz recht: »Entsagung ist nicht immer Reife.« – – nur setze ich hinzu: nicht bei allen. Wenn Individuen wie <rs type="work" subtype="implied" ref="#pmb29985">
                   <hi rend="underline" n="1">Wegrath</hi>
-               </rs> in irgend einem Moment ihrer Existenz die Grenzen ihrer Begabung erkennen, –<pb/> so ist <hi rend="underline" n="1">diese</hi> Entsagung, wie jede <hi rend="underline" n="1">Erkenntnis</hi> innere Reife, oder wenigstens ein Symptom innerer Reife. Ebenso ist für den Oboëspieler wirklich der »Innere Friede und die schuldbefreite Brust« das einzig erreichbare Glück. Und dass ein Mensch wie der »<rs type="work" subtype="implied" ref="#pmb29873">Puppenspieler</rs>« nicht, wie es eben den Beschränkungen seines Wesens angemessen wäre, <add place="above">zu</add> entsagen im Stande ist, sich <add place="above">vielmehr</add> dieser Entsagung <anchor type="textConst" xml:id="TL075-1">schämten</anchor> würde und daher den andern u sich ein <add place="above">falsches</add> Eigenschicksal vorspielt – ist ein Zeichen, dass er innere Reife nicht erlangte, welche eben nur in Selbsterkenntnis bestehen kann. <del rend="strikethrough">Daher</del> Es ist<pb/> also nur natürlich, dass bei manchen Menschen, insbesondre bei klugen, von mäßigem Talente und stillem Temperamente das was ihnen an innerer Reife überhaupt beschieden ist, in einer Art von »Entsagung« den entsprechenden Ausdruck findet.</p>
+               </rs> in irgend einem Moment ihrer Existenz die Grenzen ihrer Begabung erkennen, –<pb/> so ist <hi rend="underline" n="1">diese</hi> Entsagung, wie jede <hi rend="underline" n="1">Erkenntnis</hi> innere Reife, oder wenigstens ein Symptom innerer Reife. Ebenso ist für den Oboëspieler wirklich der »Innere Friede und die schuldbefreite Brust« das einzig erreichbare Glück. Und dass ein Mensch wie der »<rs type="work" subtype="implied" ref="#pmb29873">Puppenspieler</rs>« nicht, wie es eben den Beschränkungen seines Wesens angemessen wäre, <add place="above">zu</add> entsagen im Stande ist, sich <add place="above">vielmehr</add> dieser Entsagung <anchor type="textConst" xml:id="TL075-1"/>schämten<note type="textConst" xml:id="TL075-1h">
+                  <p>Offensichtlich Schreibfehler, das Wort deutlich zu entziffern.</p>
+               </note> würde und daher den andern u sich ein <add place="above">falsches</add> Eigenschicksal vorspielt – ist ein Zeichen, dass er innere Reife nicht erlangte, welche eben nur in Selbsterkenntnis bestehen kann. <del rend="strikethrough">Daher</del> Es ist<pb/> also nur natürlich, dass bei manchen Menschen, insbesondre bei klugen, von mäßigem Talente und stillem Temperamente das was ihnen an innerer Reife überhaupt beschieden ist, in einer Art von »Entsagung« den entsprechenden Ausdruck findet.</p>
             <p>Wohl denen, die’s nicht nöthig haben, – wohl uns, die wir wie mir scheint zu diesen gehören – und hoffentlich nicht allein wegen Mangels an Klugheit. So spricht also nichts dagegen, mein lieber Hermann, dass wir beide uns an die Arbeit machen, die du in meine<pb/> Hände legst: »<anchor type="label" xml:id="LL075-1">Das Werk von der letzten Nacht einer alten Zeit</anchor>« – Und schließlich können es auch andre Werke sein.</p>
-            <p>Zu »<anchor type="commentary" xml:id="KL075-2">
-                  <rs type="work" subtype="implied" ref="#pmb30123">Mahler</rs>« haben wir noch Sitze</anchor>
+            <p>Zu »<anchor type="commentary" xml:id="KL075-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30123">Mahler</rs>« haben wir noch Sitze<note type="commentary" xml:id="KL075-2h">
+                  <p>
+                     <rs type="person" ref="#pmb12163">Mahler</rs> dirigierte seine <rs type="work" ref="#pmb30123">3. Symphonie</rs> im <rs type="place" ref="#pmb516">Musikvereinssaal</rs>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <damage agent="hole">
                   <supplied>be</supplied>

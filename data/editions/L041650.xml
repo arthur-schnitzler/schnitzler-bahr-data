@@ -13,11 +13,11 @@
             <title type="iso-date">1897-02-18</title>
             <author ref="pmb13082">Karlweis, C.</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -101,7 +101,12 @@
             <opener>
                <salute>Lieber Freund!</salute>
             </opener>
-            <p>Wollen Sie uns das Vergnügen machen, <anchor type="commentary" xml:id="KL650-1">diesen Sonntag</anchor> (21. d<unclear>M</unclear>) Abends zu uns zu kommen? Sie finden nur <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb12037 #pmb12040">Langkammers</rs>, <rs type="person" ref="#pmb2157">Ebermann</rs>, <rs type="person" ref="#pmb12740">Schwarzkopf</rs> u. – hoffentlicht – auch <rs type="person" ref="#pmb2167">Salten</rs>. Die Nichtanwesenden werden ausgerichtet, – kommen Sie also sicher!</p>
+            <p>Wollen Sie uns das Vergnügen machen, <anchor type="commentary" xml:id="KL650-1"/>diesen Sonntag<note type="commentary" xml:id="KL650-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> wollte nicht und ist erst am
+                  <date instant="false">16. 3. 1897</date> bei <rs type="person" ref="#pmb13082">Karlweis</rs>, wo
+               er auch auf <rs type="person" ref="#pmb10815">Bahr</rs> trifft.</p>
+               </note> (21. d<unclear>M</unclear>) Abends zu uns zu kommen? Sie finden nur <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb12037 #pmb12040">Langkammers</rs>, <rs type="person" ref="#pmb2157">Ebermann</rs>, <rs type="person" ref="#pmb12740">Schwarzkopf</rs> u. – hoffentlicht – auch <rs type="person" ref="#pmb2167">Salten</rs>. Die Nichtanwesenden werden ausgerichtet, – kommen Sie also sicher!</p>
             <closer>Herzlichst grüßt<lb/>Ihr<lb/>aufrichtiger<lb/>
                <signed>C. Karlweis</signed>
             </closer>

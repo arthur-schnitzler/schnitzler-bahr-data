@@ -13,11 +13,11 @@
             <title type="iso-date">1895-03-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,9 +83,16 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2299">Sorma</rs>.–</p>
             <p>Früh ließ mich <rs type="person" ref="#pmb2378">Mz. Rh.</rs> herunterholen, war blass und lieb. Mir war nicht, als wär gestern was besondres geschehn; ihr gewiss auch nicht.– Nur forderte sie jenen Schwur wieder.– Es mag dumm sein; aber ich glaub es diesmal.– Nm. <rs type="person" ref="#pmb13129">Josef Winter</rs> da, Bewunderung über »<rs type="work" ref="#pmb30117">Sterben</rs>« ausdrücken.– Ein angebl. Agent von einem <rs type="place" ref="#pmb420">Odess.</rs> Direktor, wegen <rs type="work" ref="#pmb29917">Liebelei</rs> – Dann wollte er mir aber auch Thee verkaufen.– Bei <rs type="work" ref="#pmb30433">Feodora</rs>.– <rs type="person" ref="#pmb12618">Dilly</rs>. Ich erinnerte mich kaum, daß <rs type="person" ref="#pmb12618">Dilly</rs> »einst« meine Gel. war – hatte eine Unsicherheit im Urtheil über ihr Spiel.–</p>
-            <p>Im Kfh.– <rs type="person" ref="#pmb10863">Richard</rs>. <rs type="person" ref="#pmb2167">Salten</rs>.– Gestriger Vortrag von <rs type="person" ref="#pmb10815">Bahr</rs> »Das junge Oesterreich« wurde besprochen. Wir, d. h. <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb26121">Torresani</rs>, <rs type="person" ref="#pmb10863">Richard</rs> ich sind abgethan (»demüthige, gothische Figuren«). <rs type="person" ref="#pmb10863">Richard</rs>, der vielleicht noch in die nächste Periode hineinragen wird, ich, der aus sehr kleinen Anfängen zu sehr schönem vorgeschritten und dessen »<rs type="work" ref="#pmb30117">Sterben</rs>« wohl zwanzig Jahre dauern wird – da sind nur <rs type="person" ref="#pmb11740">Hugo</rs>, der aber jetzt nicht schreibt – und <rs type="person" ref="#pmb10765">Andrian</rs>, mit dessen »<anchor type="commentary" xml:id="KD142-1">
-                  <rs type="work" ref="#pmb30435">Garten der Erkenntnis</rs>
-               </anchor>« Europa sich in den nächsten Wochen beschäftigen wird.– Welch ein ordinärer Schwindler.–</p>
+            <p>Im Kfh.– <rs type="person" ref="#pmb10863">Richard</rs>. <rs type="person" ref="#pmb2167">Salten</rs>.– Gestriger Vortrag von <rs type="person" ref="#pmb10815">Bahr</rs> »Das junge Oesterreich« wurde besprochen. Wir, d. h. <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb26121">Torresani</rs>, <rs type="person" ref="#pmb10863">Richard</rs> ich sind abgethan (»demüthige, gothische Figuren«). <rs type="person" ref="#pmb10863">Richard</rs>, der vielleicht noch in die nächste Periode hineinragen wird, ich, der aus sehr kleinen Anfängen zu sehr schönem vorgeschritten und dessen »<rs type="work" ref="#pmb30117">Sterben</rs>« wohl zwanzig Jahre dauern wird – da sind nur <rs type="person" ref="#pmb11740">Hugo</rs>, der aber jetzt nicht schreibt – und <rs type="person" ref="#pmb10765">Andrian</rs>, mit dessen »<anchor type="commentary" xml:id="KD142-1"/>
+               <rs type="work" ref="#pmb30435">Garten der Erkenntnis</rs>
+               <note type="commentary" xml:id="KD142-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10765">Leopold Andrian</rs>: <rs type="work" ref="#pmb30435">Der Garten der Erkenntnis</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1895</date>
+                     </bibl>.</p>
+               </note>« Europa sich in den nächsten Wochen beschäftigen wird.– Welch ein ordinärer Schwindler.–</p>
             <p>– Brief von <rs type="person" ref="#pmb14953">Mz. I</rs> verzweifelt.</p>
          </div>
       </body>

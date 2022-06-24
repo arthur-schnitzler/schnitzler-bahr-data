@@ -13,11 +13,11 @@
             <title type="iso-date">1895-05-08</title>
             <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,7 +105,20 @@
             <opener>
                <salute>Lieber Thuri!</salute>
             </opener>
-            <p>Herzlichen Dank für Deine lieben <anchor type="commentary" xml:id="KL173-1">Wünsche</anchor> von</p>
+            <p>Herzlichen Dank für Deine lieben <anchor type="commentary" xml:id="KL173-1"/>Wünsche<note type="commentary" xml:id="KL173-1h">
+                  <p>Nicht erhalten. <rs type="person" ref="#pmb2121">Schnitzler</rs> dürfte auf die
+               Meldung des Abendblatts der <bibl >
+                        <rs type="org" ref="#pmb29351">Neuen Freien Presse</rs> vom <date instant="false">6. 5.
+                     1895</date>, S. 1</bibl> (oder eine vergleichbare Zeitungsnotiz) reagiert
+               haben: »<quote>Gestern hat im <rs type="place" ref="#pmb373">Rathhause</rs> die
+                  Civiltrauung des Schriftstellers <rs type="person" ref="#pmb10815">Hermann <hi rend="spaced_out">Bahr</hi>
+                        </rs> mit Fräulein <rs type="person" ref="#pmb13682">Rosa <hi rend="spaced_out">Joël</hi>
+                        </rs> stattgefunden. Beistände des Bräutigams waren Herr <rs type="person" ref="#pmb11491">Adalbert v. <hi rend="spaced_out">Goldschmidt</hi>
+                        </rs> und Herr Dr. <rs type="person" ref="#pmb4922">Heinrich <hi rend="spaced_out">Müller</hi>
+                        </rs>.</quote>« <rs type="person" ref="#pmb10815">Bahr</rs> lebte mit ihr bis zur
+               Jahrhundertwende in gemeinsamem Haushalt. <date instant="false">1909</date> wurde die Scheidung
+               erwirkt.</p>
+               </note> von</p>
             <closer>Deinem alten<lb/>
                <signed>Hermann</signed>
             </closer>

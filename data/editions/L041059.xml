@@ -13,11 +13,11 @@
             <title type="iso-date">1903-06-24</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -140,8 +140,13 @@
                   <rs type="work" ref="#pmb29887">Apostel</rs>
                </hi> ins franz.<pb/>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL059-2">erhalten hast</anchor>. Vielleicht bist du so freundlich ihm direct zu antworten? –</p>
-            <p>– Mein <rs type="person" subtype="implied" ref="#pmb12698">Bruder</rs> nennt mir als einen <add place="above">Arzt, der</add> in <add place="above">der</add> neulich von uns <anchor type="commentary" xml:id="KL059-1">besprochenen Art seine Patienten zu untersuchen</anchor> pflegt: Dr <rs type="person" ref="#pmb27671">
+               <anchor type="commentary" xml:id="KL059-2"/>erhalten hast<note type="commentary" xml:id="KL059-2h">
+                  <p>Nicht überliefert. <ptr target="KL645-1"/>.</p>
+               </note>. Vielleicht bist du so freundlich ihm direct zu antworten? –</p>
+            <p>– Mein <rs type="person" subtype="implied" ref="#pmb12698">Bruder</rs> nennt mir als einen <add place="above">Arzt, der</add> in <add place="above">der</add> neulich von uns <anchor type="commentary" xml:id="KL059-1"/>besprochenen Art seine Patienten zu untersuchen<note type="commentary" xml:id="KL059-1h">
+                  <p>Vermutlich in Zusammenhang mit der Abfassung von <rs type="work" ref="#pmb29983">Der
+                  Meister</rs> zu sehen, dessen Hauptfigur ein Alternativmediziner ist.</p>
+               </note> pflegt: Dr <rs type="person" ref="#pmb27671">
                   <hi rend="latintype">Kovacs</hi>
                </rs>. (Ich glaube er kennt ihn nicht persönlich.) –<pb/>
             </p>

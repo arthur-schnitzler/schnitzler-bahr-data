@@ -13,11 +13,11 @@
             <title type="iso-date">1903-12-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -142,7 +142,10 @@
             </address>
          </div>
          <div type="writingSession" n="1">
-            <p>herzlichen <anchor type="commentary" xml:id="KL067-1">glueckwunsch</anchor> und gruss dein arthur schnitzler</p>
+            <p>herzlichen <anchor type="commentary" xml:id="KL067-1"/>glueckwunsch<note type="commentary" xml:id="KL067-1h">
+                  <p>Am <date instant="false">12. 12. 1903</date> Uraufführung von <rs type="work" ref="#pmb29983">Der
+                  Meister</rs> im <rs type="place" ref="#pmb3">Deutschen Theater</rs> in <rs type="place" ref="#pmb168">Berlin</rs>.</p>
+               </note> und gruss dein arthur schnitzler</p>
          </div>
       </body>
    </text>

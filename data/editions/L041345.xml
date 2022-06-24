@@ -13,11 +13,11 @@
             <title type="iso-date">1921-02-09</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -125,9 +125,23 @@
             </opener>
             <p>Herzlichsten Dank für Deinen lieben Brief! Aber als er kam, war mein für das <rs type="org" ref="#pmb29320">Journal</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL345-2">vom <date>20.</date>
-               </anchor> bestimmtes <rs type="work" ref="#pmb30047">Tagebuch</rs> schon abgegangen. Wenns irgend geht, hoff ich aber dennoch des verehrten <rs type="person" subtype="implied" ref="#pmb2135">Mannes</rs> u. seines Geburtstags zu gedenken, wenn auch <anchor type="commentary" xml:id="KL345-1">post festum</anchor>. – Ich lese jetzt Deinen Namen so oft – erinnerst Du Dich denn, daß ich der erste war, der »<rs type="work" ref="#pmb29855">Reigen</rs>« öffentlich vorlesen wollte, ja sogar bis zu <anchor type="commentary" xml:id="KL345-3">
-                  <rs type="person" ref="#pmb11955">Körber</rs> selber ging</anchor>, um es durchzusetzen, leider vergebens? – Ich wäre sehr froh, Dich bald einmal endlich wiederzusehen!</p>
+               <anchor type="commentary" xml:id="KL345-2"/>vom <date>20.</date>
+               <note type="commentary" xml:id="KL345-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32762">Tagebuch. 30. Januar, 1. Februar und 3. Februar</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 29, Nr. 9803,
+                     <date instant="false">20. 2. 1921</date>, S. 6</bibl>.</p>
+               </note> bestimmtes <rs type="work" ref="#pmb30047">Tagebuch</rs> schon abgegangen. Wenns irgend geht, hoff ich aber dennoch des verehrten <rs type="person" subtype="implied" ref="#pmb2135">Mannes</rs> u. seines Geburtstags zu gedenken, wenn auch <anchor type="commentary" xml:id="KL345-1"/>post festum<note type="commentary" xml:id="KL345-1h">
+                  <p>Im <rs type="work" ref="#pmb32536">Tagebuch. 20. Februar</rs> (damit den falschen Tag
+               aus <rs type="person" ref="#pmb2121">Schnitzlers</rs> Brief übernehmend), erschienen
+               am <date when="1921-03-13" instant="false">13. 3. 1921</date> (<bibl >
+                        <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 29, Nr. 9824,
+                  S. 7</bibl>).</p>
+               </note>. – Ich lese jetzt Deinen Namen so oft – erinnerst Du Dich denn, daß ich der erste war, der »<rs type="work" ref="#pmb29855">Reigen</rs>« öffentlich vorlesen wollte, ja sogar bis zu <anchor type="commentary" xml:id="KL345-3"/>
+               <rs type="person" ref="#pmb11955">Körber</rs> selber ging<note type="commentary" xml:id="KL345-3h">
+                  <p>
+                     <ptr target="D041441"/>.</p>
+               </note>, um es durchzusetzen, leider vergebens? – Ich wäre sehr froh, Dich bald einmal endlich wiederzusehen!</p>
             <closer>Dich u. die <rs type="person" subtype="implied" ref="#pmb2173 #pmb12692 #pmb2238">Deinen</rs> herzlichst grüßend<lb/>Dein alter<lb/>
                <signed>Hermann</signed>
             </closer>

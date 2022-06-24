@@ -13,11 +13,11 @@
             <title type="iso-date">1897-12-23</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,8 +77,10 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1897-12-23" n="1">23/12</date> Nm. mit <rs type="person" ref="#pmb2378">Mz. Rh.</rs> spazieren.– <anchor type="commentary" xml:id="KD178-1">Abd. »<rs type="work" ref="#pmb30137">Josefine</rs>« von <rs type="person" ref="#pmb10815">Bahr</rs>
-               </anchor>: mit <rs type="person" ref="#pmb13129">Winter</rs>, später <rs type="person" ref="#pmb19106 #pmb19096">Kapper’s</rs> und <rs type="person" ref="#pmb2420">Schik</rs> (wir reichten uns nach Jahren wieder die Hand), <rs type="person" ref="#pmb2157">Ebermann</rs> soup.–</p>
+               <date when="1897-12-23" n="1">23/12</date> Nm. mit <rs type="person" ref="#pmb2378">Mz. Rh.</rs> spazieren.– <anchor type="commentary" xml:id="KD178-1"/>Abd. »<rs type="work" ref="#pmb30137">Josefine</rs>« von <rs type="person" ref="#pmb10815">Bahr</rs>
+               <note type="commentary" xml:id="KD178-1h">
+                  <p>Uraufführung.</p>
+               </note>: mit <rs type="person" ref="#pmb13129">Winter</rs>, später <rs type="person" ref="#pmb19106 #pmb19096">Kapper’s</rs> und <rs type="person" ref="#pmb2420">Schik</rs> (wir reichten uns nach Jahren wieder die Hand), <rs type="person" ref="#pmb2157">Ebermann</rs> soup.–</p>
          </div>
       </body>
    </text>

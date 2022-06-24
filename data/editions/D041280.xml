@@ -13,11 +13,11 @@
             <title type="iso-date">1906-12-16</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -90,9 +90,16 @@
                <space unit="chars" quantity="1"/>
                <rs type="work" ref="#pmb30685">Glossen</rs> zu Ende.– <rs type="place" ref="#pmb166">Altfranzösisches</rs> (in Übersetzung). Lese in <rs type="person" ref="#pmb16811">Feré</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD280-1">
-                  <rs type="work" ref="#pmb30699">Pathologie des émotions</rs>
-               </anchor>.</p>
+               <anchor type="commentary" xml:id="KD280-1"/>
+               <rs type="work" ref="#pmb30699">Pathologie des émotions</rs>
+               <note type="commentary" xml:id="KD280-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb16811">Ch. Feré</rs>: <rs type="work" ref="#pmb30699">Pathologie des émotions. Études physiologiques et cliniques</rs>. Paris: <rs type="org">Félix Alcan</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1892</date>
+                     </bibl>.</p>
+               </note>.</p>
          </div>
       </body>
    </text>

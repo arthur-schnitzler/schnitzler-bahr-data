@@ -13,11 +13,11 @@
             <title type="iso-date">1907-10-03</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -109,12 +109,18 @@
             <p>
                <date>3. 10. 07</date>
             </p>
-            <p>Halb ein Uhr nachts ist und ich bin sehr müd. Vormittag hab ich mir eine Construction der Decorationen für die <rs type="work" ref="#pmb31431">Räuber</rs> überlegt und mir sogar einen Zirkel u. ein <anchor type="commentary" xml:id="KD495-1">
-                  <rs type="person" ref="#pmb3280">Kolo</rs>isches Quadratlpapier</anchor> gekauft, um das Ganze aufzuzeichnen, wobei ich mir nur immer wünschte, Du solltest mir zuschauen, Du hättest Dich krank und mich wütend gelacht. Dann mit <rs type="person" ref="#pmb12504">Reinhardt</rs>, der noch immer nicht weiß, ob er <rs subtype="local" type="work" ref="#pmb31215">Genovefa</rs> oder <rs type="work" ref="#pmb31431">Räuber</rs> will. Dann in einer sehr langweiligen Vorlesung in der Schauspielschule, mit einer Menge von berühmten Mimen zusammen (sind die grauslich!), darunter der alte einst sehr gefeierte<pb/>
+            <p>Halb ein Uhr nachts ist und ich bin sehr müd. Vormittag hab ich mir eine Construction der Decorationen für die <rs type="work" ref="#pmb31431">Räuber</rs> überlegt und mir sogar einen Zirkel u. ein <anchor type="commentary" xml:id="KD495-1"/>
+               <rs type="person" ref="#pmb3280">Kolo</rs>isches Quadratlpapier<note type="commentary" xml:id="KD495-1h">
+                  <seg type="lemma">Koloisches Quadratlpapier</seg>
+                  <p>Gemeint dürfte kariertes Papier sein, wie es <rs type="person" ref="#pmb3280">Koloman
+                  Moser</rs> oft verwendete.</p>
+               </note> gekauft, um das Ganze aufzuzeichnen, wobei ich mir nur immer wünschte, Du solltest mir zuschauen, Du hättest Dich krank und mich wütend gelacht. Dann mit <rs type="person" ref="#pmb12504">Reinhardt</rs>, der noch immer nicht weiß, ob er <rs subtype="local" type="work" ref="#pmb31215">Genovefa</rs> oder <rs type="work" ref="#pmb31431">Räuber</rs> will. Dann in einer sehr langweiligen Vorlesung in der Schauspielschule, mit einer Menge von berühmten Mimen zusammen (sind die grauslich!), darunter der alte einst sehr gefeierte<pb/>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb7260">Sigwart Friedmann</rs>, der erzälte, er habe in einer Zeitung ein Bild gesehen, auf welchem ich und die – <rs type="person" ref="#pmb2349">Gutheil Schoder</rs> splitterfasernackt photographiert gewesen wären. Ich sagte nur: Das ist doch nicht möglich! Er aber schwor mir, es mit seinen eigenen Augen gesehen zu haben. So kommt die arme <rs type="person" ref="#pmb2349">Gutheil</rs> um ihren guten Ruf. – Dann noch in der <anchor type="commentary" xml:id="KD495-2">
-                  <rs type="work" ref="#pmb29917">Liebelei</rs>
-               </anchor>, einer schlechten Aufführung, in der aber die <rs type="person" ref="#pmb11791">Höflich</rs> einfach herrlich ist. Du würdest begeistert sein. Es gehört zum Allerstärksten. Und das bemerken diese Trotteln von <rs type="place" ref="#pmb168">Berlin</rs>ern nicht.<pb/>
+               <rs type="person" ref="#pmb7260">Sigwart Friedmann</rs>, der erzälte, er habe in einer Zeitung ein Bild gesehen, auf welchem ich und die – <rs type="person" ref="#pmb2349">Gutheil Schoder</rs> splitterfasernackt photographiert gewesen wären. Ich sagte nur: Das ist doch nicht möglich! Er aber schwor mir, es mit seinen eigenen Augen gesehen zu haben. So kommt die arme <rs type="person" ref="#pmb2349">Gutheil</rs> um ihren guten Ruf. – Dann noch in der <anchor type="commentary" xml:id="KD495-2"/>
+               <rs type="work" ref="#pmb29917">Liebelei</rs>
+               <note type="commentary" xml:id="KD495-2h">
+                  <p>Vom <date instant="false">9. 9. 1907</date> bis zum <date instant="false">16. 5. 1908</date> auf dem Spielplan.</p>
+               </note>, einer schlechten Aufführung, in der aber die <rs type="person" ref="#pmb11791">Höflich</rs> einfach herrlich ist. Du würdest begeistert sein. Es gehört zum Allerstärksten. Und das bemerken diese Trotteln von <rs type="place" ref="#pmb168">Berlin</rs>ern nicht.<pb/>
             </p>
             <p>Und dann noch zwei Stunden mit <rs type="person" ref="#pmb12504">Reinhardt</rs> im Bureau.</p>
             <p>

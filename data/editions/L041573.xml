@@ -13,11 +13,11 @@
             <title type="iso-date">1916-01-18</title>
             <author ref="pmb11763">Holz, Arno</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -121,11 +121,31 @@
                <salute>Lieber Hermann Bahr!</salute>
             </opener>
             <p>Lesen Sie, bitte, das nachstehende »<hi rend="underline" n="1">
-                  <anchor type="commentary" xml:id="KL573-4">Zum Geleit</anchor>
+                  <anchor type="commentary" xml:id="KL573-4"/>Zum Geleit<note type="commentary" xml:id="KL573-4h">
+                     <p>Der <rs type="person" ref="#pmb10815">Bahr</rs> vorgelegte Abzug, auf dem dieser
+               Brief an den Rand geschrieben ist (ein weiterer ohne Beschriftung in der <bibl >
+                           <rs type="org">UBS</rs> 31.270-I</bibl>), besteht aus zwei Teilen. Im ersten,
+               geschrieben im <date instant="false">Dezember 1912</date>, weist <rs type="person" ref="#pmb11763">Holz</rs> auf seine Leistung hin, die Abhängigkeit der deutschen von
+               ausländischen Literaturen beendet und die Metrik durch die Rhythmik ersetzt zu haben.
+               Der zweite Teil, mit <date instant="false">Oktober 1915</date> datiert, wiederum streicht den Beitrag
+               des <rs type="work" ref="#pmb32284">Phantasus</rs> als Offenbarung für die <rs type="place" ref="#pmb151">Deutschen</rs> im Krieg heraus, wenngleich sich <rs type="person" ref="#pmb11763">Holz</rs> selbst missverstanden und verkannt fühlt.
+               Das Geleitwort dürfte erst dem Luxusdruck von <rs type="work" ref="#pmb31793">Die
+                  Blechschmiede (oder: Der umgestürzte Papierkorb). Mysterium.</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1917</date> (<bibl >Privatdruck, 250 Exemplare für den Verfasser</bibl>)
+               beigelegt worden sein.</p>
+                  </note>
                </hi>«. Es hatte als einzelnes, loses Blatt meinem »<hi rend="underline" n="1">
-                  <anchor type="commentary" xml:id="KL573-2">
-                     <rs type="work" ref="#pmb32284">Phantasus</rs>
-                  </anchor>
+                  <anchor type="commentary" xml:id="KL573-2"/>
+                  <rs type="work" ref="#pmb32284">Phantasus</rs>
+                  <note type="commentary" xml:id="KL573-2h">
+                     <p>
+                        <bibl >
+                           <rs type="person" ref="#pmb11763">Arno Holz</rs>: <rs type="work" ref="#pmb32284">Phantasus</rs>. Leipzig: <rs type="org" ref="#pmb29751">Insel</rs>
+                           <space unit="chars" quantity="1"/>
+                           <date instant="false">1916</date>
+                        </bibl>.</p>
+                  </note>
                </hi>« eingefügt werden sollen, dessen Erscheinen – im <rs type="org" ref="#pmb29751">Insel-Verlag</rs> – bereits für <hi rend="underline" n="1">Weihnachten</hi>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">1914</hi> geplant war. Durch den Krieg mußte der Satz unterbrochen werden, und es ist nun vollkommen ausgeschlossen, daß das fertige Werk – <hi rend="underline" n="1">350 Seiten in diesem</hi>
@@ -158,7 +178,10 @@
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">hilft</hi>! Daß dies auf »<hi rend="underline" n="1">öffentliche</hi>« Weise <hi rend="underline" n="1">nicht</hi>
                <space unit="chars" quantity="1"/>
-               <hi rend="underline" n="1">geschehen</hi> kann, hat die total mißglückte <anchor type="commentary" xml:id="KL573-1">Agitation</anchor> zu meinem elenden »50<hi rend="superscript">
+               <hi rend="underline" n="1">geschehen</hi> kann, hat die total mißglückte <anchor type="commentary" xml:id="KL573-1"/>Agitation<note type="commentary" xml:id="KL573-1h">
+                  <p>
+                     <ptr target="L041022"/>.</p>
+               </note> zu meinem elenden »50<hi rend="superscript">
                   <hi rend="underline" n="1">ten</hi>
                </hi>« bewiesen! Was aber würden allein <hi rend="underline" n="2">Sie</hi>
                <space unit="chars" quantity="1"/>
@@ -174,9 +197,13 @@
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="2">und</hi>
                <space unit="chars" quantity="1"/>
-               <hi rend="underline" n="2">privat</hi> einsetzten! Ich denke nur an Ihren einen <rs type="place" ref="#pmb50">Wien</rs>er <anchor type="commentary" xml:id="KL573-3">
-                  <rs type="person" ref="#pmb4554 #pmb12576">Rothschild</rs>
-               </anchor>! <hi rend="underline" n="1">Wollen</hi>
+               <hi rend="underline" n="2">privat</hi> einsetzten! Ich denke nur an Ihren einen <rs type="place" ref="#pmb50">Wien</rs>er <anchor type="commentary" xml:id="KL573-3"/>
+               <rs type="person" ref="#pmb4554 #pmb12576">Rothschild</rs>
+               <note type="commentary" xml:id="KL573-3h">
+                  <p>
+                     <rs type="person" ref="#pmb12576">Albert</rs> war zeitweise der reichste Mann
+               Europas, aber besonders sein älterer Bruder <rs type="person" ref="#pmb4554">Nathaniel</rs> war als Mäzen bekannt.</p>
+               </note>! <hi rend="underline" n="1">Wollen</hi>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">Sie’s</hi>
                <space unit="chars" quantity="1"/>

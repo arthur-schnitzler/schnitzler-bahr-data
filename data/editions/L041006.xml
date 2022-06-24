@@ -13,11 +13,11 @@
             <title type="iso-date">1911-12-30</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -114,10 +114,28 @@
             </opener>
             <p>die gute »<rs type="work" ref="#pmb29931">Komtesse</rs>« wartet nun schon so lang, daß sie sich vor lauter Müdigkeit auch neben die »<rs type="work" ref="#pmb30235">Erde</rs>« setzen mag. Wie sich die nach der tiefsinnig kritischen Nomenklatur so angefaulte dekadente Gesellschaft neben <rs type="person" ref="#pmb12749">Schönherrs</rs> knödelfressendem Riesengeschlecht behaupten wird, soll die Zukunft lehren. Ich nehme an, daß die »<rs type="work" ref="#pmb30235">Erde</rs>« den (verdienten) Erfolg haben wird und daß die Leute wegen der »<rs type="work" ref="#pmb29931">Komtesse Mizzi</rs>« ins Theater gehen werden. So ist allen Teilen geholfen. Übrige wissen Sie selbst am besten, wie sehr ich Schönherr schätze – ihn geschätzt habe, lang eh er berühmt war; die »<rs type="work" ref="#pmb30235">Erde</rs>« speziell war nie mein Fall. Ein Akt aus dem Stück, nach Wahl wäre zu geben – und das »Knechtl« zu erschlagen. Hier wäre eine Aufgabe für begabte Kindermörder! –</p>
             <p>Es freut mich, daß Sie »<rs type="work" ref="#pmb30207">Das weite Land</rs>« am 2. Feiertag gespielt und es nicht zu bedauern gehabt haben. Nun müssen wir ja schon knapp vor 25 halten? – Den <rs type="place" ref="#pmb652">Prag</rs>er <rs type="person" ref="#pmb28513">Philipp</rs> werden Sie wohl nicht benötigen, da meiner Ansicht nach <rs type="person" ref="#pmb26651">Walter</rs> sich bewähren dürfte; ich weiß übrigens nicht, wer der Mann ist.</p>
-            <p>Daß Ihr schöner <rs type="work" ref="#pmb31319">Kleist</rs> so glänzend auch in der <anchor type="commentary" xml:id="KL006-1">neuen Form</anchor> reussiert, war zu erwarten; wie sehr sich meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> an Ihrem ergreifenden <anchor type="commentary" xml:id="KL006-2">
-                  <rs type="work" ref="#pmb31545">
-                     <rs type="person" ref="#pmb4002">Stauffer-Bern</rs>-Buch</rs>
-               </anchor> erfreut hat, wird sie Ihnen wohl auf dem <rs type="place" ref="#pmb189">Semmering</rs> persönlich sagen. Wann wollen Sie kommen? Gleich nach dem <rs type="work" subtype="implied" ref="#pmb30085">Tänzchen</rs>? Ich hoffe, wir werden ein paar helle Wintertage möglichst wohlgelaunt oben miteinander verbringen. Lassen Sie uns bald wissen, für welchen Termin Sie die Reise projektieren und ob Sie sich für eine Mahlzeit zwischen <rs type="place" ref="#pmb202">Nordwest</rs>- und <rs type="place" ref="#pmb132">Südbahn</rs> in der <rs type="place" ref="#pmb150">Sternwartestraße</rs> aufhalten werden.</p>
+            <p>Daß Ihr schöner <rs type="work" ref="#pmb31319">Kleist</rs> so glänzend auch in der <anchor type="commentary" xml:id="KL006-1"/>neuen Form<note type="commentary" xml:id="KL006-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10986">Otto Brahm</rs>: <rs type="work" ref="#pmb31319">Das Leben Heinrichs von Kleist</rs>. Neue Ausgabe. Berlin: <rs type="org">Egon
+                     Fleischel</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1911</date>
+                     </bibl> (Erste Ausgabe <date instant="false">1884</date>).</p>
+               </note> reussiert, war zu erwarten; wie sehr sich meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> an Ihrem ergreifenden <anchor type="commentary" xml:id="KL006-2"/>
+               <rs type="work" ref="#pmb31545">
+                  <rs type="person" ref="#pmb4002">Stauffer-Bern</rs>-Buch</rs>
+               <note type="commentary" xml:id="KL006-2h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb31545">Karl Stauffer-Bern. Sein Leben / Seine Briefe /
+                     Seine Gedichte</rs>. Dargestellt von <rs type="person" ref="#pmb10986">Otto
+                     Brahm</rs>. Berlin: <rs type="org">Meyer <c rendition="#kaufmannsund"/>
+                     Jessen</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1911</date>
+                     </bibl>.</p>
+               </note> erfreut hat, wird sie Ihnen wohl auf dem <rs type="place" ref="#pmb189">Semmering</rs> persönlich sagen. Wann wollen Sie kommen? Gleich nach dem <rs type="work" subtype="implied" ref="#pmb30085">Tänzchen</rs>? Ich hoffe, wir werden ein paar helle Wintertage möglichst wohlgelaunt oben miteinander verbringen. Lassen Sie uns bald wissen, für welchen Termin Sie die Reise projektieren und ob Sie sich für eine Mahlzeit zwischen <rs type="place" ref="#pmb202">Nordwest</rs>- und <rs type="place" ref="#pmb132">Südbahn</rs> in der <rs type="place" ref="#pmb150">Sternwartestraße</rs> aufhalten werden.</p>
             <p>Die <rs type="place" ref="#pmb280">Volksbühne</rs> hat sich nachträglich wegen Tantiemennachlaß (<rs type="work" ref="#pmb29935">Anatol</rs>) an mich gewandt, was ich natürlich im Sinn der Petentin erledigte. Jene andre <rs type="place" ref="#pmb280">Volksbühne</rs> hat durch <rs type="person" ref="#pmb5464">Adolph Paul</rs> sehr unverbindlich betreffs des <rs type="work" ref="#pmb29937">Medardus</rs> angefragt; <rs type="person" ref="#pmb12932">Teweles</rs> hat sich nicht mehr gemeldet, und ich lasse die Dinge an mich herankommen – oder auch nicht. Seien Sie von <rs type="person" subtype="implied" ref="#pmb2173 #pmb12692 #pmb2238">uns</rs> allen herzlichst gegrüßt, auf baldiges Wiedersehen.</p>
             <closer>Ihr <signed>A. S.</signed>
             </closer>

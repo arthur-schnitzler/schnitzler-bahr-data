@@ -13,11 +13,11 @@
             <title type="iso-date">1897-11-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -115,12 +115,21 @@
                <rs type="work" ref="#pmb29833">Die Todten schweigen</rs> von <rs type="person" ref="#pmb2121">A. Sch.</rs>
             </p>
             <p>
-               <anchor type="commentary" xml:id="KD402-1">
-                  <rs type="work" ref="#pmb31307">Eine neue literarische Schule</rs>
-               </anchor> von <rs type="person" ref="#pmb11524">F. Groß</rs>
+               <anchor type="commentary" xml:id="KD402-1"/>
+               <rs type="work" ref="#pmb31307">Eine neue literarische Schule</rs>
+               <note type="commentary" xml:id="KD402-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb31307">Eine neue litterarische Schule</rs>. In: <rs type="person" ref="#pmb11524">Ferdinand Groß</rs>: <rs type="work" ref="#pmb31133">In Lachen und Lächeln. Geschichten und Skizzen</rs>. Stuttgart:
+                     <rs type="org">Adolf Bonz</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1898</date>, S. 201–211 (erschienen <date instant="false">November 1897</date>)</bibl>.</p>
+               </note> von <rs type="person" ref="#pmb11524">F. Groß</rs>
             </p>
             <p>
-               <anchor type="commentary" xml:id="KD402-2">Der Roman. Eine Skizze</anchor> von <rs type="person" ref="#pmb11469">A. Gold</rs>
+               <anchor type="commentary" xml:id="KD402-2"/>Der Roman. Eine Skizze<note type="commentary" xml:id="KD402-2h">
+                  <p>Nicht nachgewiesen.</p>
+               </note> von <rs type="person" ref="#pmb11469">A. Gold</rs>
             </p>
             <p>
                <hi rend="underline" n="1">

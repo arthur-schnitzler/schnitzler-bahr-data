@@ -13,11 +13,11 @@
             <title type="iso-date">1918-09-17</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -85,9 +85,11 @@
                      <add place="inline">7</add>
                   </subst>. 9</date>
             </p>
-            <p>»<anchor type="commentary" xml:id="KD572-3">
-                  <rs type="work" ref="#pmb31669">Spinnerin am Kreuz</rs>
-               </anchor>« letzter u vorletzte Besetzg – Buch</p>
+            <p>»<anchor type="commentary" xml:id="KD572-3"/>
+               <rs type="work" ref="#pmb31669">Spinnerin am Kreuz</rs>
+               <note type="commentary" xml:id="KD572-3h">
+                  <p>Von <rs type="person" ref="#pmb4030">Franz Keim</rs>.</p>
+               </note>« letzter u vorletzte Besetzg – Buch</p>
             <p>10 Uhr Probe</p>
             <p>Bericht Collegiums an <rs type="person" subtype="implied" ref="#pmb12417">Excellenz</rs>
             </p>
@@ -104,16 +106,20 @@
                <rs type="person" ref="#pmb28505">Hans</rs> ein Telegramm an <rs type="person" ref="#pmb4249">Papier</rs>
             </p>
             <p>
-               <gap quantity="10" reason="illegible" unit="chars"/> u <anchor type="commentary" xml:id="KD572-1">
-                  <rs type="work" ref="#pmb31927">Noces d’argent</rs>
-               </anchor>
+               <gap quantity="10" reason="illegible" unit="chars"/> u <anchor type="commentary" xml:id="KD572-1"/>
+               <rs type="work" ref="#pmb31927">Noces d’argent</rs>
+               <note type="commentary" xml:id="KD572-1h">
+                  <p>Von <rs type="person" ref="#pmb3138">Paul Géraldy</rs>.</p>
+               </note>
             </p>
             <p>Skizze des Repertoires. Nach <rs type="work" ref="#pmb30645">Candida</rs> große Novität, die noch erst finden muß<subst>
                   <del rend="overwritten">.</del>
                   <add place="inline">,</add>
-               </subst> u. daneben entweder <anchor type="commentary" xml:id="KD572-2">
-                  <rs type="work" ref="#pmb30191">Stella</rs> oder <rs type="work" ref="#pmb31099">Clavigo</rs>
-               </anchor> insceniert.</p>
+               </subst> u. daneben entweder <anchor type="commentary" xml:id="KD572-2"/>
+               <rs type="work" ref="#pmb30191">Stella</rs> oder <rs type="work" ref="#pmb31099">Clavigo</rs>
+               <note type="commentary" xml:id="KD572-2h">
+                  <p>Beides Schauspiele von <rs type="person" ref="#pmb11461">Goethe</rs>.</p>
+               </note> insceniert.</p>
          </div>
       </body>
    </text>

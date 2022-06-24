@@ -12,11 +12,11 @@
             <title type="iso-date">1893-11-03</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -130,9 +130,17 @@
             <p>Im übrigen haben Sie Dienstag oder spätestens Mittwoch das bewußte <rs type="work" subtype="implied" ref="#pmb29819">Eingangsfeuilleton</rs>. Eventuell werden Sie das Bedürfnis haben es zu ändern, wogegen ich principiell nichts einzuwenden habe. – (Nur müßt’ ich natürlich wissen, wie, wo, <hi rend="latintype">etc.</hi>)<pb/>
             </p>
             <p>Vielleicht werd ich auch noch im Stande sein, Ihnen statt des <hi rend="latintype">
-                  <anchor type="commentary" xml:id="KL000-1">
-                     <rs type="work" ref="#pmb29821">Artifex</rs>
-                  </anchor>
+                  <anchor type="commentary" xml:id="KL000-1"/>
+                  <rs type="work" ref="#pmb29821">Artifex</rs>
+                  <note type="commentary" xml:id="KL000-1h">
+                     <p>
+                        <rs type="work" ref="#pmb29821">Artifex</rs>, allegorisches Gedicht in Jamben,
+               entstanden im <date instant="false">Sommer 1893</date>, unveröffentlicht (<bibl >
+                           <rs type="org">CUL</rs>, Schnitzler, A 49</bibl>). Am <date instant="false">19. 11. 1893</date> (<bibl >
+                           <rs type="work">Tb</rs>
+                        </bibl>) notiert sich <rs type="person" ref="#pmb2121">Schnitzler</rs> noch eine
+               Überarbeitung.</p>
+                  </note>
                </hi> was gescheidteres zu geben. Wollen Sie mir ihn nicht vorläufig zurückleihen, damit ich zum mindesten die bösesten Verse in ein behaglicheres Deutsch übertrage? – </p>
             <closer>– Herzlichen Gruss<lb/>Ihr sehr ergebner<lb/>
                <signed>Arthur Schnitzler.</signed>

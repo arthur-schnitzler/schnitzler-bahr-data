@@ -13,11 +13,11 @@
             <title type="iso-date">1904-04-27</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -138,8 +138,14 @@
                </dateline>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Herzlichsten Dank für Deinen <anchor type="label" xml:id="LL279-1">Brief</anchor>, der sich mit meinem an Dich gekreuzt hat. Ich wollte nun heute abends nach <rs type="place" ref="#pmb63">Hietzing</rs> kommen. Da mir nun aber <anchor type="commentary" xml:id="KL279-1">
-                  <rs type="person" ref="#pmb2292">Gerty</rs> schreibt</anchor>, <rs type="person" ref="#pmb11740">Hugo</rs> sei auf dem <rs type="place" ref="#pmb189">Semmering</rs>, denke ich, daß Du wol auch nicht kommen wirst, und bitte um ein anderes Rendezvous, da ich Dich sehr gern vor Deiner <anchor type="commentary" xml:id="KL279-2">Abreise</anchor> noch sehen möchte.</p>
+            <p>Herzlichsten Dank für Deinen <anchor type="label" xml:id="LL279-1">Brief</anchor>, der sich mit meinem an Dich gekreuzt hat. Ich wollte nun heute abends nach <rs type="place" ref="#pmb63">Hietzing</rs> kommen. Da mir nun aber <anchor type="commentary" xml:id="KL279-1"/>
+               <rs type="person" ref="#pmb2292">Gerty</rs> schreibt<note type="commentary" xml:id="KL279-1h">
+                  <p>Nicht in <bibl >
+                        <rs type="work">Bw</rs> Hofmannsthal/Bahr</bibl>.</p>
+               </note>, <rs type="person" ref="#pmb11740">Hugo</rs> sei auf dem <rs type="place" ref="#pmb189">Semmering</rs>, denke ich, daß Du wol auch nicht kommen wirst, und bitte um ein anderes Rendezvous, da ich Dich sehr gern vor Deiner <anchor type="commentary" xml:id="KL279-2"/>Abreise<note type="commentary" xml:id="KL279-2h">
+                  <p>Am <date instant="false">30. 4.</date> trat <rs type="person" ref="#pmb2121">Schnitzler</rs> eine
+               mehrwöchige <rs type="place" ref="#pmb40306">Italien</rs>reise an.</p>
+               </note> noch sehen möchte.</p>
             <closer>Mit den besten Grüßen an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>herzlichst<lb/>
                <signed>HermB.</signed>

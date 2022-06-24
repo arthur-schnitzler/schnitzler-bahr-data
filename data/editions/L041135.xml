@@ -13,11 +13,11 @@
             <title type="iso-date">1918-08-24</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -132,7 +132,11 @@
                   <rs type="work" ref="#pmb30043">Pantomime vom braven Mann</rs>
                </rs> in einer mir sehr interessant erscheinenden Weise vertont und möchte nicht nur deine nachträgliche Autorisation erbitten sondern hegt den begreiflichen Wunsch, dir die Sache einmal vorzuspielen. Vielleicht bist du so gütig und gibst dem jungen Künstler (sein Name ist<pb/>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb2270">Arthur Johannes Scholz</rs> – Gelegenheit dazu, wenn du dich, was ja (– wenn die <anchor type="commentary" xml:id="KL135-1">Zeitungsnachrichten</anchor> stimmen) nun öfters der Fall sein dürfte, für ein paar Tage in <rs type="place" ref="#pmb50">Wien</rs> aufhältst?</p>
+               <rs type="person" ref="#pmb2270">Arthur Johannes Scholz</rs> – Gelegenheit dazu, wenn du dich, was ja (– wenn die <anchor type="commentary" xml:id="KL135-1"/>Zeitungsnachrichten<note type="commentary" xml:id="KL135-1h">
+                  <p>Ab <date instant="false">18. 8. 1918</date> wurde mehrfach gemeldet, <rs type="person" ref="#pmb10815">Bahr</rs> gehe nicht als Direktor, sondern als künstlerischer
+               Beirat für ein Jahr ans <rs type="place" ref="#pmb14">Burgtheater</rs>. Die
+               offizielle Bestätigung erfolgte erst nach diesem Brief.</p>
+               </note> stimmen) nun öfters der Fall sein dürfte, für ein paar Tage in <rs type="place" ref="#pmb50">Wien</rs> aufhältst?</p>
             <p>Wie lang hab ich dich nun schon nicht gesehn und gesprochen. Nun wirds hoffentlich nicht mehr so lange dauern wie seit dem letzten Mal! Sei herzlichst gegrüßt von Deinem alten <signed>Art</signed>
             </p>
          </div>

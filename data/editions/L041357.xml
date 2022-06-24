@@ -13,11 +13,11 @@
             <title type="iso-date">1897-07-23</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -128,8 +128,10 @@
                   <date>23/7</date>
                </dateline>
             </opener>
-            <p>Heute hab ich die Quelle jener Nachricht erfahren.– <anchor type="commentary" xml:id="KL357-1">
-                  <rs type="person" ref="#pmb10815 #pmb11036">B</rs>.</anchor>
+            <p>Heute hab ich die Quelle jener Nachricht erfahren.– <anchor type="commentary" xml:id="KL357-1"/>
+               <rs type="person" ref="#pmb10815 #pmb11036">B</rs>.<note type="commentary" xml:id="KL357-1h">
+                  <p>Unklar, ob <rs type="person" ref="#pmb10815">Bahr</rs> oder <rs type="person" ref="#pmb11036">Burckhard</rs> gemeint ist.</p>
+               </note>
             </p>
             <p>Das hätte <subst>
                   <del rend="overwritten">

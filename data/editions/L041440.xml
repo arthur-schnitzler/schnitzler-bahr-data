@@ -13,11 +13,11 @@
             <title type="iso-date">1901-07-18</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -123,7 +123,10 @@
             </opener>
             <p>schon gleich beim Betreten dieses Hauses am <date>1<hi rend="superscript">ten</hi> Juli</date> habe ich mit herzlicher Freude Ihren lieben Brief gefunden, und es ist mir fast unbegreiflich, dass 17 Tage vergehen konnten, wo ich wirklich jeden Tag daran dachte, Ihnen zu schreiben, und immer wieder die eine Viertelstunde sich wegrückte. Allerdings hab ich in diesen Tagen mit ziemlicher Hast und ziemlich viel Einfällen den letzten Act des <rs type="work" subtype="implied" ref="#pmb32037">Ballets</rs> endlich ausgeführt, so daß von nun an dieses ziemlich umfangreiche Ding, dessen Werth oder Unwerth ich absolut nicht abschätzen kann, unter meinen Arbeiten existiren wird. Hoffentlich kann ichs Ihnen im Herbst vorlesen und es missfällt Ihnen nicht. </p>
             <p>Dieses Aneinander-vorüber-schweben in <rs type="place" ref="#pmb867">Innsbruck</rs> hat mir damals recht leid gethan. Hätte man nicht ein paar Stunden zusammen sein können? ich glaube daß <!-- so! -->wäre für alle vier ein freundlicher Eindruck gewesen. Auch ist doch von <rs type="person" ref="#pmb2292">Gerty</rs> eine Indiscretion eben so wenig zu fürchten wie von mir und überdies hätte man ihr den Familiennamen der <rs type="person" subtype="implied" ref="#pmb2173">andern</rs> gar nicht zu sagen gebraucht. Wir sind an diesem Abend noch ins <rs type="place" ref="#pmb664">Hofgartengasthaus</rs> nachtmahlen gegangen, dem einzigen Ort, wo man »im Freien nachtmahlt« und ich habe sehr gehofft,<pb/> daß wir uns dort begegnen würden, es ist aber leider nicht der Fall gewesen.<space unit="chars" quantity="15"/>Mit dem Haus und dem Leben hier bin ich sehr zufrieden, ich will aber nicht viel darüber sagen, sondern freue mich darauf, es Ihnen zu zeigen. Jetzt wüsste ich schon gerne, wo ich mir vorstellen soll, dass Sie sind.<space unit="chars" quantity="15"/>Ich will nun möglichst bald anfangen, das große figurenreiche und tragische <rs type="work" subtype="implied" ref="#pmb32039">Stück</rs> zu schreiben, dessen Stoff mir von <rs type="person" ref="#pmb4338">Browning</rs> überliefert ist.</p>
-            <p>Von Menschen sehe ich <rs type="person" ref="#pmb10815">Bahr</rs>, der öfter <anchor type="commentary" xml:id="KL440-1">herüberkommt</anchor>, und erwarte nächstens <rs type="person" ref="#pmb10765">Andrian</rs> für einige Tage.</p>
+            <p>Von Menschen sehe ich <rs type="person" ref="#pmb10815">Bahr</rs>, der öfter <anchor type="commentary" xml:id="KL440-1"/>herüberkommt<note type="commentary" xml:id="KL440-1h">
+                  <p>Das neu bezogene Haus <rs type="person" ref="#pmb11740">Hofmannsthal</rs>s lag etwa 8
+               Kilometer von dem <rs type="person" ref="#pmb10815">Bahrs</rs> entfernt.</p>
+               </note>, und erwarte nächstens <rs type="person" ref="#pmb10765">Andrian</rs> für einige Tage.</p>
             <p>Ich freue mich sehr auf einen Brief von Ihnen.</p>
             <closer>Von Herzen<lb/>Ihr <signed>Hugo.</signed>
             </closer>

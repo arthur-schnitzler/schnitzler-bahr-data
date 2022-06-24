@@ -13,11 +13,11 @@
             <title type="iso-date">1892-06-30</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -98,7 +98,12 @@
             <p>
                <gap reason="outOfScope"/>
             </p>
-            <p>Vor ein paar Tagen war ich bei Ihnen; das Zimmer sah durch die versperrte Glasthür so unheimlich verlassen und <anchor type="commentary" xml:id="KL467-1">unbewohnt aus, dass ich mich jetzt nicht auskenne, ob Sie überhaupt noch in <rs type="place" ref="#pmb50">Wien</rs> wohnen</anchor>. <rs type="person" ref="#pmb14756">Bératon</rs>, <rs type="person" ref="#pmb2121">Schnitzler</rs> etc. habe ich seit Wochen nicht gesehen;</p>
+            <p>Vor ein paar Tagen war ich bei Ihnen; das Zimmer sah durch die versperrte Glasthür so unheimlich verlassen und <anchor type="commentary" xml:id="KL467-1"/>unbewohnt aus, dass ich mich jetzt nicht auskenne, ob Sie überhaupt noch in <rs type="place" ref="#pmb50">Wien</rs> wohnen<note type="commentary" xml:id="KL467-1h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> hielt sich »<quote>ein paar Tage am
+                  Land</quote>« auf (<bibl >
+                        <rs type="work">Bw</rs> Bahr/Hofmannsthal 34</bibl>).</p>
+               </note>. <rs type="person" ref="#pmb14756">Bératon</rs>, <rs type="person" ref="#pmb2121">Schnitzler</rs> etc. habe ich seit Wochen nicht gesehen;</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

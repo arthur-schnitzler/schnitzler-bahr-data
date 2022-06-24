@@ -14,11 +14,11 @@
             <title type="iso-date">1931-02-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="055"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AA5-C</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>A:Schnitzler, 85.1.2400</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Typoskript, 1 Bl., 1 S. In Schnitzlers Zeitausschnitten (<bibl>University of Exeter, <orgName>The Schnitzler Press-Cuttings Archive</orgName>, Box 42/4</bibl>) ist die Zeitungsvorlage aufbewahrt, wobei diese Stelle hs. markiert und mit »<quote>(eingeschaltetes ab hier <unclear>b</unclear>
+                        <p>ms. Typoskript, 1 Bl., 1 S. In Schnitzlers Zeitausschnitten (<bibl>University of Exeter, <orgName>The Schnitzler Press-Cuttings Archive</orgName>, Box 42/4</bibl>) ist die Zeitungsvorlage aufbewahrt, wobei diese Stelle hs. markiert und mit »<quote>(eingeschaltetes ab hier <unclear>b</unclear>
                            </quote>« beschriftet ist.</p>
                      </physDesc>
                   </msDesc>
@@ -81,8 +81,14 @@
             <head>Aus Bahrs Tagebuch. <del rend="strikethrough">16. Februar</del>
                <space unit="chars" quantity="1"/>
                <rs type="org" ref="#pmb29320">Neues Wr. Journal</rs>, 22. Februar 1931.</head>
-            <p part="N">- - - - - - - - - - - - - Verlockt es keine deutsche Zeitschrift, den <anchor type="commentary" xml:id="KT055-1">Versuch der »<rs type="org" ref="#pmb29759">Latinité</rs>
-               </anchor>« nachahmend, unsere Dichter um ihr Urteil über einen hervorragenden Kollegen zu verhören, zum Beispiel Arthur Schnitzler: er wird bald siebzig, wäre dies nicht ein willkommener Anlass, die nachrückende Jugend über ihr Verhältnis zu im zu verhören, nicht als ob wir von ihr über ihn Neues erfahren könnten, aber ihr Urteil über ihn würde uns über sie mancherlei verraten; was wir uns von ihr nicht im Traume beikommen lassen. Wer wagt dieses Rundgespräch? - - - - - - - - - - - - - </p>
+            <p>- - - - - - - - - - - - - Verlockt es keine deutsche Zeitschrift, den <anchor type="commentary" xml:id="KT055-1"/>Versuch der »<rs type="org" ref="#pmb29759">Latinité</rs>
+               <note type="commentary" xml:id="KT055-1h">
+                  <p>
+                     <bibl >Vgl. <rs type="person" ref="#pmb28930">Jacques-Victor Laprade</rs>, <rs type="person" ref="#pmb28934">Jacques Reynaud</rs>: <rs type="work" ref="#pmb32794 #pmb32796">Enquête sur <rs type="person" ref="#pmb11435">André
+                        Gide</rs>
+                        </rs>. In: <rs type="org" ref="#pmb29759">Latinité</rs>, Jg. 3, Nr. 1,
+                     <date instant="false">Januar 1931</date>, S. 35–132</bibl> (<rs type="person" ref="#pmb10815">Bahr</rs>s Antwort auf <bibl >S. 60–61</bibl>). </p>
+               </note>« nachahmend, unsere Dichter um ihr Urteil über einen hervorragenden Kollegen zu verhören, zum Beispiel Arthur Schnitzler: er wird bald siebzig, wäre dies nicht ein willkommener Anlass, die nachrückende Jugend über ihr Verhältnis zu im zu verhören, nicht als ob wir von ihr über ihn Neues erfahren könnten, aber ihr Urteil über ihn würde uns über sie mancherlei verraten; was wir uns von ihr nicht im Traume beikommen lassen. Wer wagt dieses Rundgespräch? - - - - - - - - - - - - - </p>
          </div>
       </body>
    </text>

@@ -13,11 +13,11 @@
             <title type="iso-date">1931-11-05</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,10 +79,22 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <anchor type="textConst" xml:id="TD605-1">
-                  <date when="1931-11-05" n="2">5.</date>– K.–</anchor> Weiter Auszug der »<anchor type="commentary" xml:id="KD605-1">
-                  <rs type="work" ref="#pmb30993">Entwicklungsgeschichte Bayerns</rs>
-               </anchor>« von <rs type="person" ref="#pmb4760">Doeberl</rs> (3. Band) bis 557. Dann auf<pb/> dem Wege zu <rs type="person" ref="#pmb4631">Brandenburg</rs> dreißig Minuten in der <rs type="place" ref="#pmb711">Ludwigskirche</rs>, dann mit ihm durch den von herbstlicher Schönheit glühenden <rs type="place" ref="#pmb706">Englischen Garten</rs>. Dann, etwas verspätet zur 6 Uhr Abendandacht in der <rs type="place" ref="#pmb707">Fronleichnamskapelle</rs>; freudenreicher Rosenkranz; Litanei. – Morgen, <rs type="person" ref="#pmb2121">Schnitzler</rs>s Werke, die jetzt allgemein verlangt werden, weil Jedermann einen Nekrolog verfassen will, darüber klagend, wie töricht es doch ist, daß man sterben muß, damit man halbwegs verstanden oder gar erkannt wird.</p>
+               <anchor type="textConst" xml:id="TD605-1"/>
+               <date when="1931-11-05" n="2">5.</date>– K.–<note type="textConst" xml:id="TD605-1h">
+                  <p>Mit rotem Buntstift.</p>
+               </note> Weiter Auszug der »<anchor type="commentary" xml:id="KD605-1"/>
+               <rs type="work" ref="#pmb30993">Entwicklungsgeschichte Bayerns</rs>
+               <note type="commentary" xml:id="KD605-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb4760">M. Doeberl</rs>: <rs type="work" ref="#pmb30993">Entwicklungsgeschichte Bayerns. Dritter Band: Vom Regierungsantritt König
+                     Ludwigs I. bis zum Tode König Ludwigs II. Mit einem Ausblick auf die innere
+                     Entwicklung Bayerns unter dem Prinzregenten Luitpold</rs>. Hg. <rs type="person" ref="#pmb5049">Max Spindler</rs>. München: <rs type="org">R.
+                     Oldenbourg</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1931</date>
+                     </bibl>.</p>
+               </note>« von <rs type="person" ref="#pmb4760">Doeberl</rs> (3. Band) bis 557. Dann auf<pb/> dem Wege zu <rs type="person" ref="#pmb4631">Brandenburg</rs> dreißig Minuten in der <rs type="place" ref="#pmb711">Ludwigskirche</rs>, dann mit ihm durch den von herbstlicher Schönheit glühenden <rs type="place" ref="#pmb706">Englischen Garten</rs>. Dann, etwas verspätet zur 6 Uhr Abendandacht in der <rs type="place" ref="#pmb707">Fronleichnamskapelle</rs>; freudenreicher Rosenkranz; Litanei. – Morgen, <rs type="person" ref="#pmb2121">Schnitzler</rs>s Werke, die jetzt allgemein verlangt werden, weil Jedermann einen Nekrolog verfassen will, darüber klagend, wie töricht es doch ist, daß man sterben muß, damit man halbwegs verstanden oder gar erkannt wird.</p>
          </div>
       </body>
    </text>

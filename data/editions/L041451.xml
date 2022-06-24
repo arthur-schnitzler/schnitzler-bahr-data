@@ -13,11 +13,11 @@
             <title type="iso-date">1908-11-26</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -119,9 +119,11 @@
                </dateline>
             </opener>
             <p>
-               <salute>mein lieber Hugo, </salute> gestern waren wir in <anchor type="commentary" xml:id="KL451-1">
-                  <rs type="work" ref="#pmb31985">2 × 2 = 5</rs>
-               </anchor> (<hi rend="underline" n="1">unbedingt</hi> anzusehen, schon, u. besonders wegen <rs type="person" ref="#pmb11224">Ethofer</rs>) vorgestern beim <rs type="work" ref="#pmb31987">Krampus</rs>, heut gehn wir ins Tonkünstlerconcert, Samstag zum <rs type="person" ref="#pmb11165">Dohnanyi</rs>, Sonntag zum <hi rend="latintype">
+               <salute>mein lieber Hugo, </salute> gestern waren wir in <anchor type="commentary" xml:id="KL451-1"/>
+               <rs type="work" ref="#pmb31985">2 × 2 = 5</rs>
+               <note type="commentary" xml:id="KL451-1h">
+                  <p>Von <rs type="person" ref="#pmb13107">Gustav Wied</rs>.</p>
+               </note> (<hi rend="underline" n="1">unbedingt</hi> anzusehen, schon, u. besonders wegen <rs type="person" ref="#pmb11224">Ethofer</rs>) vorgestern beim <rs type="work" ref="#pmb31987">Krampus</rs>, heut gehn wir ins Tonkünstlerconcert, Samstag zum <rs type="person" ref="#pmb11165">Dohnanyi</rs>, Sonntag zum <hi rend="latintype">
                   <rs type="person" ref="#pmb11640">Heine</rs> Abend</hi> – es gibt so verhexte Wochen; hingegen wollen wir am Montag oder Dienstag für 2 Tage auf den <rs type="place" ref="#pmb189">Semmering</rs>, es wäre sehr schön, wenn Sie u <rs type="person" ref="#pmb2292">Gerty</rs> auch hinauf kämen; schrei<pb/>ben Sie mir ein Wort. (Nicht unmöglich, dss auch <rs type="person" ref="#pmb13055">Wassermann</rs> u <rs type="person" ref="#pmb12176">Thomas Mann</rs> (mit dem wir gestern Mittag bei <rs type="person" ref="#pmb13055">W.</rs> zusammen waren) hinaufkommen.)</p>
             <p>– Es freut mich, dss Sie meine Ansicht von den <rs type="person" ref="#pmb13136">Winterstein</rs>’schen Gedichten theilen. Einmal hab ich schon an <rs type="person" ref="#pmb2914">Bie</rs> geschrieben u ihm Gedichte von <rs type="person" ref="#pmb13136">W</rs>. geschickt, es waren aber viel schwächere als diesmal; wenn Sie glauben, so könnte man doch die <rs type="org" ref="#pmb29212">
                   <hi rend="latintype">N. Rdsch</hi>

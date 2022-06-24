@@ -13,11 +13,11 @@
             <title type="iso-date">1903-03-14</title>
             <author ref="pmb12460">Pötzl, Eduard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,14 +104,41 @@
                <salute rend="center">Geschätzter Kollege!</salute>
             </opener>
             <p>Die <rs type="work" subtype="implied" ref="#pmb39477">
-                  <anchor type="commentary" xml:id="KL592-4">Korrektur</anchor>
+                  <anchor type="commentary" xml:id="KL592-4"/>Korrektur<note type="commentary" xml:id="KL592-4h">
+                     <p>
+                        <rs type="work" ref="#pmb39477">Lebendige Stunden (Vier Einakter: »Lebendige
+                  Stunden«, »Die Frau mit dem Dolche«, »Die letzten Masken«, »Literatur« von Arthur
+                  Schnitzler. Im Deutschen Volkstheater zum ersten Male aufgeführt am 14. März
+                  1903)</rs>.</p>
+                  </note>
                </rs> habe ich empfangen und bin ganz zufrieden damit, dass die <rs type="place" ref="#pmb50">Wien</rs>er sich nicht allein aufzuhängen brauchen.</p>
-            <p>Was den <anchor type="commentary" xml:id="KL592-1">
-                  <rs type="work" subtype="implied" ref="#pmb32448">Artikel</rs> über <rs type="person" ref="#pmb12147">Mach</rs>
-               </anchor> betrifft, so behauptet der Metteur, dass er die Korrektur noch nicht bekommen habe. An wen wurde sie gesendet? </p>
-            <p>Für Ostern schwebt mir <anchor type="textConst" xml:id="TL592-1">eine</anchor>
+            <p>Was den <anchor type="commentary" xml:id="KL592-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32448">Artikel</rs> über <rs type="person" ref="#pmb12147">Mach</rs>
+               <note type="commentary" xml:id="KL592-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32448">Das unrettbare Ich</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 99, <date instant="false">10. 4. 1903</date>,
+                  S. 1–4</bibl>.</p>
+               </note> betrifft, so behauptet der Metteur, dass er die Korrektur noch nicht bekommen habe. An wen wurde sie gesendet? </p>
+            <p>Für Ostern schwebt mir <anchor type="textConst" xml:id="TL592-1"/>eine<note type="textConst" xml:id="TL592-1h">
+                  <p>Tippfehler: »einen«.</p>
+               </note>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL592-2">Beilage</anchor> vor, in der ich, schon um zu zeigen, dass ich nicht zu den verworfensten Zöpfen gehöre, ein Stück literarische Jugend versammeln möchte. Ich habe langsam Beiträge von: <rs type="work" subtype="implied" ref="#pmb32452">
+               <anchor type="commentary" xml:id="KL592-2"/>Beilage<note type="commentary" xml:id="KL592-2h">
+                  <p>In der »<quote>Oster-Beilage</quote>« des <rs type="org" ref="#pmb29414">Neuen Wiener
+                  Tagblatts</rs> (<bibl >Jg. 37, Nr. 101, <date instant="false">12. 4. 1903</date>
+                     </bibl>) erschien von <rs type="person" ref="#pmb4494">Karl Busse</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb32452">Rache</rs> (<bibl >S. 21–24</bibl>), von <rs type="person" ref="#pmb12290">Christian Morgenstern</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb32450">Der Spielgeist</rs> (<bibl >S. 21</bibl>) und <rs type="work" ref="#pmb32456">An ein Mädchen</rs> (<bibl >S. 24</bibl>), von <rs type="person" ref="#pmb10788">Raoul Auernheimer</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb32454">Die Novelle. Ein Zwischenspiel</rs>
+                  (<bibl >S. 24–27</bibl>) und von <rs type="person" ref="#pmb2885">Max Messer</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb32458">Der Gerichtete</rs> (<bibl >S. 27–28</bibl>), aber
+               nichts von <rs type="person" ref="#pmb2121">Schnitzler</rs> oder <rs type="person" ref="#pmb11740">Hofmannsthal</rs>.</p>
+               </note> vor, in der ich, schon um zu zeigen, dass ich nicht zu den verworfensten Zöpfen gehöre, ein Stück literarische Jugend versammeln möchte. Ich habe langsam Beiträge von: <rs type="work" subtype="implied" ref="#pmb32452">
                   <rs type="person" ref="#pmb4494">Karl Busse</rs>
                </rs>, <rs type="work" subtype="implied" ref="#pmb32450 #pmb32456">
                   <rs type="person" ref="#pmb12290">Christian Morgenstern</rs>

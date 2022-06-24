@@ -13,11 +13,11 @@
             <title type="iso-date">1903-02-22</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,9 +127,14 @@
                </dateline>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Ich hätte Dir so viel zu sagen, so viel zu danken – da ich wirklich das Gefühl habe, wenn Du mich nicht zu Deinem <rs type="person" subtype="implied" ref="#pmb12698">Bruder</rs> geschickt hättest, verloren gewesen zu sein, und da mich auch Deine Theilnahme an meiner Krankheit sehr gerührt hat – aber ich kanns nicht, da ich noch immer so hin und so grenzenlos müd bin, daß ich, wenn <add place="above">ich</add> ein paar Zeilen kritzle, gleich ganz in Schweiß gebadet bin. Sonst geht es mir, bis auf die leichte Bauchdeckeneiterung, die immer noch andauert, ganz gut. Aber ich erwarte immer noch die berühmte <anchor type="commentary" xml:id="KL253-1">
-                  <rs type="work" subtype="implied" ref="#pmb30805">Stimmung der Genesung</rs>
-               </anchor>, die der Dichter <rs type="person" ref="#pmb12968">Trebitsch</rs> so schön geschildert hat.</p>
+            <p>Ich hätte Dir so viel zu sagen, so viel zu danken – da ich wirklich das Gefühl habe, wenn Du mich nicht zu Deinem <rs type="person" subtype="implied" ref="#pmb12698">Bruder</rs> geschickt hättest, verloren gewesen zu sein, und da mich auch Deine Theilnahme an meiner Krankheit sehr gerührt hat – aber ich kanns nicht, da ich noch immer so hin und so grenzenlos müd bin, daß ich, wenn <add place="above">ich</add> ein paar Zeilen kritzle, gleich ganz in Schweiß gebadet bin. Sonst geht es mir, bis auf die leichte Bauchdeckeneiterung, die immer noch andauert, ganz gut. Aber ich erwarte immer noch die berühmte <anchor type="commentary" xml:id="KL253-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30805">Stimmung der Genesung</rs>
+               <note type="commentary" xml:id="KL253-1h">
+                  <p>Anspielung auf <rs type="person" ref="#pmb12968">Trebitsch</rs>s Roman <rs type="work" ref="#pmb30805">Genesung</rs> (<bibl >Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1902</date>
+                     </bibl>). <ptr target="KL287-1"/>.</p>
+               </note>, die der Dichter <rs type="person" ref="#pmb12968">Trebitsch</rs> so schön geschildert hat.</p>
             <closer>Mit Grüßen an <rs type="person" ref="#pmb10986">Brahm</rs> u. alle Bekannten<lb/>herzlichst Dein dankbarer <signed>Herma<damage agent="paperloss">
                      <supplied>nn</supplied>
                   </damage>

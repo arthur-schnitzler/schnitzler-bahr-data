@@ -13,11 +13,11 @@
             <title type="iso-date">1896-08-21</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,15 +81,30 @@
                <space unit="chars" quantity="1"/>
                <rs type="place" ref="#pmb958">Skodsborg</rs>.– <rs type="place" ref="#pmb36300">Kopenhagen</rs>.– <rs type="place" ref="#pmb121">Ny Carlsberg Glyptothek</rs>.– <rs type="place" ref="#pmb122">Zool. Garten</rs>.– Bei <rs type="person" ref="#pmb10992">Brandes</rs> Nachmittag.– Über seine Stellung hier.– Allein.– Ich: Warum da Sie so frei sind, nicht fort von hier?– Er: Ists nicht gleichgiltig – wo man lebt – das Leben ist überall traurig (auf meine Einwendung:) freilich immer noch besser als das Todtsein. Aber ich bete die <rs type="place" ref="#pmb43570">dänische</rs> Sprache an – und <hi rend="italic">hasse</hi> alle andern, besonders die deutsche.– Mit 50 Jahren ist man allein – Sie werden auch allein sein.– Über den Hof. Der <rs type="person" subtype="implied" ref="#pmb2919">Kronprinz</rs> hat ihn früher oft zu sich berufen, nur, um zu thun, als ob er liberal wäre;– er (<rs type="person" ref="#pmb10992">Br.</rs>) erzählt mir ein Beispiel von der Gedankenlosigkeit des <rs type="person" subtype="implied" ref="#pmb2919">Kronprinzen</rs> und Zerstreutheit. Wie er (<rs type="person" ref="#pmb10992">Br.</rs>) über einen Schauspieler sagt: man merkt, dass in dem und dem Stück nicht der isländische König, sondern der Schauspieler auf die Bühne tritt,– und der <rs type="person" subtype="implied" ref="#pmb2919">Kronprinz</rs> am nächsten Tag dem Hof erzählt, der X sei nicht isl. König sondern Schauspieler gewesen.–</p>
             <p>
-               <note type="introduction">Bei <rs type="person" ref="#pmb10992">Georg Brandes</rs> in <rs type="place" ref="#pmb36300">Kopenhagen</rs>.</note>Seine Bücher, zeigt sie mir, 30 dicke Bände, deutsche Verleger. Solche, die im Zuchthaus waren und solche, die drin sein sollten.– <anchor type="commentary" xml:id="KD163-1">
-                  <rs type="person" ref="#pmb10815">Bahrs</rs> letzter Artikel über den <rs type="work" subtype="implied" ref="#pmb30459">düstern <rs type="person" ref="#pmb2412">Shakespeare</rs>
-                  </rs>
-               </anchor>. »So dumm – das ist überhaupt ein Affe.–« <rs type="person" ref="#pmb11148">Richard Dehmel</rs> hat dem <rs type="person" ref="#pmb10992">Br.</rs> Gedichte geschickt; <rs type="person" ref="#pmb10992">Br.</rs> einige Ausstellungen – <rs type="person" ref="#pmb11148">Dehmel</rs> einen beinah groben Brief.– <rs type="person" ref="#pmb27849">Dauthendey</rs>, <rs type="person" ref="#pmb2891">Przybyszewski</rs> unwahr, ich hasse diese Leute – vor allem verlang ich dass einer nicht posirt – Die Leute wollten mich besuchen, ich hab sie nicht empfangen, ich kann solche Leute nicht sehn; jetzt schimpfen sie auf mich. Die sind übrigens hergekommen,– weil man ihnen erzählt hat, die jungen Dichter seien hier alle Paederasten! Waren erstaunt, wie man sie aufklärte! Der kleine <rs type="person" ref="#pmb2357">Nansen</rs> ein Paederast!–</p>
+               <note type="introduction">Bei <rs type="person" ref="#pmb10992">Georg Brandes</rs> in <rs type="place" ref="#pmb36300">Kopenhagen</rs>.</note>Seine Bücher, zeigt sie mir, 30 dicke Bände, deutsche Verleger. Solche, die im Zuchthaus waren und solche, die drin sein sollten.– <anchor type="commentary" xml:id="KD163-1"/>
+               <rs type="person" ref="#pmb10815">Bahrs</rs> letzter Artikel über den <rs type="work" subtype="implied" ref="#pmb30459">düstern <rs type="person" ref="#pmb2412">Shakespeare</rs>
+               </rs>
+               <note type="commentary" xml:id="KD163-1h">
+                  <p>Zwei Texte <rs type="person" ref="#pmb10815">Bahrs</rs> beschäftigen sich mit <rs type="person" ref="#pmb10992">Brandes</rs>’ voluminöser Studie <rs type="work" ref="#pmb32159">William Shakespeare</rs> (<bibl >Paris, Leipzig: <rs type="org" ref="#pmb29654">Albert Langen</rs>
+                     </bibl>), die in zwölf Einzellieferungen ab <date instant="false">1895</date> erschien und seit
+               kurzem vollständig vorlag. Zuerst <rs type="work" ref="#pmb30459">Der düstere
+                  Shakespeare</rs> (<bibl >
+                        <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 8, H. 92, <date instant="false">4. 7.
+                     1896</date>, S. 12–13</bibl>), dann, nach einer Antwort von <rs type="person" ref="#pmb10883">Alfred von Berger</rs> (<bibl >
+                        <rs type="work" ref="#pmb32734">Der düstere Shakespeare</rs>, H. 93,
+                  S. 27–28</bibl>), <rs type="work" ref="#pmb32736">Othello</rs>, erschienen am
+                  <date instant="false">4. 8.</date> (<bibl >H. 96, S. 76–77</bibl>).</p>
+               </note>. »So dumm – das ist überhaupt ein Affe.–« <rs type="person" ref="#pmb11148">Richard Dehmel</rs> hat dem <rs type="person" ref="#pmb10992">Br.</rs> Gedichte geschickt; <rs type="person" ref="#pmb10992">Br.</rs> einige Ausstellungen – <rs type="person" ref="#pmb11148">Dehmel</rs> einen beinah groben Brief.– <rs type="person" ref="#pmb27849">Dauthendey</rs>, <rs type="person" ref="#pmb2891">Przybyszewski</rs> unwahr, ich hasse diese Leute – vor allem verlang ich dass einer nicht posirt – Die Leute wollten mich besuchen, ich hab sie nicht empfangen, ich kann solche Leute nicht sehn; jetzt schimpfen sie auf mich. Die sind übrigens hergekommen,– weil man ihnen erzählt hat, die jungen Dichter seien hier alle Paederasten! Waren erstaunt, wie man sie aufklärte! Der kleine <rs type="person" ref="#pmb2357">Nansen</rs> ein Paederast!–</p>
             <p>»Was sind die Ideale der jungen Leute von 25 J. in <rs type="place" ref="#pmb50">Wien</rs>?« fragte er mich u. a. »Fühlen sie sich verbrüdert mit den jungen Künstlern in <rs type="place" ref="#pmb151">Deutschland</rs>?–« Über <rs type="person" ref="#pmb11851">Kainz</rs>, <rs type="person" ref="#pmb10986">Brahm</rs> (dessen Häßlichkeit »wie eine Kröte!«) –</p>
             <p>Freute mich, dass er geradezu dieselben Ansichten über alle liter. Dinge hat wie ich.– Auch <rs type="person" ref="#pmb11640">Heine</rs>; man wird kühler gegen ihn.–</p>
-            <p>»Bilden Sie eine Gruppe in <rs type="place" ref="#pmb50">Wien</rs>?« Nein. Ich machte ihn auf <rs type="person" ref="#pmb11740">Hugo</rs> aufmerksam.– »Ah – hat nicht <rs type="person" ref="#pmb10815">Bahr</rs> einmal einen lobenden <anchor type="commentary" xml:id="KD163-2">
-                  <rs type="work" subtype="implied" ref="#pmb30259">Artikel</rs>
-               </anchor> über ihn geschrieben?« Der <rs type="person" subtype="implied" ref="#pmb27717">Franzose</rs> von neulich fragte <rs type="person" ref="#pmb10992">Br.</rs> heute (erzählt mir <rs type="person" ref="#pmb10992">B.</rs>) – ob er neulich frei zu uns gesprochen oder sich – vorher Notizen gemacht!–</p>
+            <p>»Bilden Sie eine Gruppe in <rs type="place" ref="#pmb50">Wien</rs>?« Nein. Ich machte ihn auf <rs type="person" ref="#pmb11740">Hugo</rs> aufmerksam.– »Ah – hat nicht <rs type="person" ref="#pmb10815">Bahr</rs> einmal einen lobenden <anchor type="commentary" xml:id="KD163-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30259">Artikel</rs>
+               <note type="commentary" xml:id="KD163-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30259">Loris</rs>. In: <rs type="org" ref="#pmb29212">Freie
+                  Bühne</rs>, Jg. 3, H. 1, <date instant="false">1. 1. 1892</date>, S. 94–98</bibl>.</p>
+               </note> über ihn geschrieben?« Der <rs type="person" subtype="implied" ref="#pmb27717">Franzose</rs> von neulich fragte <rs type="person" ref="#pmb10992">Br.</rs> heute (erzählt mir <rs type="person" ref="#pmb10992">B.</rs>) – ob er neulich frei zu uns gesprochen oder sich – vorher Notizen gemacht!–</p>
             <p>
                <rs type="person" ref="#pmb11650">Hello</rs> war ein Idiot, ich hab ihn persönlich gekannt; ein <rs type="person" subtype="implied" ref="#pmb27718">Neger (Arzt)</rs> war bei ihm, der wohl mit seiner <rs type="person" subtype="implied" ref="#pmb27866">Frau</rs> geschlafen hat <c rendition="#dots" n="3" place="center"/> »Er sagte mir einmal: Oh, die Deutschen die glauben ja nicht an Gott!!« <c rendition="#dots" n="3" place="center"/> Da läßt sich gar nicht discutiren!–</p>
             <p>Abends bei <rs type="person" ref="#pmb2357">Nansen</rs>.– <rs type="person" ref="#pmb11485">Paul</rs> schon dort. Gemütlich. Ins Kfh. mit ihnen. <rs type="person" ref="#pmb10992">Brandes</rs> kam.–</p>

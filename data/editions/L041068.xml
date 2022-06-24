@@ -13,11 +13,11 @@
             <title type="iso-date">1904-01-08</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -131,9 +131,15 @@
             </opener>
             <p>Die Adresse des Dr. <rs type="person" ref="#pmb2199">Stephan Epstein</rs> ist: <rs type="place" ref="#pmb450">Paris, 78, Rue de l’Assomption</rs>. Er hat dir wol auch über das <add place="above">ev.</add>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL068-2">Gastspiel</anchor>
+               <anchor type="commentary" xml:id="KL068-2"/>Gastspiel<note type="commentary" xml:id="KL068-2h">
+                  <p>
+                     <date instant="false">1904</date> trat er nicht in <rs type="place" ref="#pmb50">Wien</rs> auf.</p>
+               </note>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb2211">Antoine</rs> geschrieben. Seine <rs type="person" subtype="implied" ref="#pmb15946">Frau</rs>, die <anchor type="commentary" xml:id="KL068-1">neulich</anchor> in <rs type="place" ref="#pmb50">Wien</rs> war, fragte mich, auf welche Weise es möglich wäre, die <rs type="place" ref="#pmb7">Sezession</rs> zu veranlassen, einen in <rs type="place" ref="#pmb182">Paris</rs> lebenden Künstler, <rs type="person" ref="#pmb11723">Bernhard Hoetger</rs>, zu einer Ausstellung seiner Werke einzuladen. Sie schickt Dir nächstens irgend ein französisches Journal, in welchem <rs type="person" ref="#pmb11723">Hoetgerische</rs> Arbeiten abgebildet sind.</p>
+               <rs type="person" ref="#pmb2211">Antoine</rs> geschrieben. Seine <rs type="person" subtype="implied" ref="#pmb15946">Frau</rs>, die <anchor type="commentary" xml:id="KL068-1"/>neulich<note type="commentary" xml:id="KL068-1h">
+                  <p>Laut <bibl >A. S. <rs type="work">Tb</rs>
+                     </bibl> am <date instant="false">28. 12. 1903</date>.</p>
+               </note> in <rs type="place" ref="#pmb50">Wien</rs> war, fragte mich, auf welche Weise es möglich wäre, die <rs type="place" ref="#pmb7">Sezession</rs> zu veranlassen, einen in <rs type="place" ref="#pmb182">Paris</rs> lebenden Künstler, <rs type="person" ref="#pmb11723">Bernhard Hoetger</rs>, zu einer Ausstellung seiner Werke einzuladen. Sie schickt Dir nächstens irgend ein französisches Journal, in welchem <rs type="person" ref="#pmb11723">Hoetgerische</rs> Arbeiten abgebildet sind.</p>
             <p>Morgen fahre ich auf einige Tage auf den <rs type="place" ref="#pmb189">Semmering</rs>, komme gleich, wenn ich zurück bin, mit deiner freundlichen Erlaubnis zu dir, und hoffe, dich wohl zu finden.</p>
             <closer>
                <handShift/>Herzliche Grüße, auch von meiner <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>

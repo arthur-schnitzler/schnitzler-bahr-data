@@ -13,11 +13,11 @@
             <title type="iso-date">1905-10-15</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,8 +78,42 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1905-10-15" n="3">15/10</date> S. Vorm.bei <rs type="person" ref="#pmb2461">Gisa</rs>, dort mit <rs type="person" ref="#pmb2284">Hajek</rs> und <rs type="person" ref="#pmb2434">Hammerschlag</rs> gesprochen; – nach Tisch <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> da.– Glänzende Kritiken über »<rs type="work" ref="#pmb29843">Kakadu</rs>« – –</p>
-            <p>– Mit <rs type="person" ref="#pmb62143 #pmb15983">Erls</rs> Abd. »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«. Total ausverkauft. <rs type="person" ref="#pmb26880">Weisse</rs> schickte aus dem <rs type="place" ref="#pmb20">Volksth.</rs> herüber, ich sollte mich verbeugen (2. <rs type="work" ref="#pmb29843">Kakadu-Aufführung</rs>) – was ich ablehnte.– Nach dem 2. Akt bei <rs type="person" ref="#pmb11851">Kainz</rs> auf der Bühne.– Mit <rs type="person" ref="#pmb11391">Fulda</rs> bei <rs type="place" ref="#pmb96">Meissl</rs>. Sein <anchor type="commentary" xml:id="KD263-1">
-                  <rs type="person" ref="#pmb10815">Bahr</rs> Prozess</anchor> war beigelegt worden; er war aergerlich über eine <anchor type="commentary" xml:id="KD263-2">Interpolation</anchor> in der <rs type="org" ref="#pmb29626">Zeit</rs>, dass <rs type="person" ref="#pmb10815">Bahr</rs> keine formelle Ehrenerklärung abgegeben.– Das <rs type="work" ref="#pmb29903">Zw.</rs> hatte ihm außerordentlich gefallen.–</p>
+            <p>– Mit <rs type="person" ref="#pmb62143 #pmb15983">Erls</rs> Abd. »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«. Total ausverkauft. <rs type="person" ref="#pmb26880">Weisse</rs> schickte aus dem <rs type="place" ref="#pmb20">Volksth.</rs> herüber, ich sollte mich verbeugen (2. <rs type="work" ref="#pmb29843">Kakadu-Aufführung</rs>) – was ich ablehnte.– Nach dem 2. Akt bei <rs type="person" ref="#pmb11851">Kainz</rs> auf der Bühne.– Mit <rs type="person" ref="#pmb11391">Fulda</rs> bei <rs type="place" ref="#pmb96">Meissl</rs>. Sein <anchor type="commentary" xml:id="KD263-1"/>
+               <rs type="person" ref="#pmb10815">Bahr</rs> Prozess<note type="commentary" xml:id="KD263-1h">
+                  <p>
+                     <ptr target="L041684"/>.</p>
+               </note> war beigelegt worden; er war aergerlich über eine <anchor type="commentary" xml:id="KD263-2"/>Interpolation<note type="commentary" xml:id="KD263-2h">
+                  <p>
+                     <bibl >[O. V.:] <rs type="work" ref="#pmb32758">Der Prozeß Fulda–Bahr</rs>. In: <rs type="org" ref="#pmb29626">Die Zeit</rs>, Jg. 4, Nr. 1098, <date instant="false">15. 10.
+                     1905</date>, S. 6</bibl>: »<quote>Am <date instant="false">21. d.</date> hätte bekanntlich vor
+                  dem Schwurgericht die Verhandlung über eine Ehrenbeleidigungsklage stattfinden
+                  sollen, die der Schriftsteller Dr. <rs type="person" ref="#pmb11391">Ludwig <hi rend="spaced_out">Fulda</hi>
+                        </rs> gegen <rs type="person" ref="#pmb10815">Hermann <hi rend="spaced_out">Bahr</hi>
+                        </rs> eingebracht hatte. Die Klage inkriminierte eine im <rs type="work" subtype="implied" ref="#pmb30099">Feuilleton</rs> der ›<rs type="org" ref="#pmb29421">Oesterreichischen Volkszeitung</rs>‹ vom <date instant="false">27. November v.
+                     J.</date> enthaltene, auf <rs type="person" ref="#pmb11391">Fulda</rs> gemünzte
+                  Aeußerung. Gestern fanden sich nun auf Anregung des Landesgerichtsrates <rs type="person" ref="#pmb28925">
+                           <hi rend="spaced_out">Wach</hi>
+                        </rs>, der in diesem Prozeß den Vorsitz führen sollte, die Parteien in seinem
+                  Bureau zu Ausgleichsverhandlungen ein, bei denen auch der Präsident der
+                  internationalen Zentralkommission des <rs type="org" ref="#pmb29800">Preßvereins</rs>, <rs type="person" ref="#pmb2202">Wilhelm Singer</rs>,
+                  intervenierte. Im Verlaufe dieser Verhandlungen <hi rend="spaced_out">zog Dr. </hi>
+                        <rs type="person" ref="#pmb11391">
+                           <hi rend="spaced_out">Fulda</hi>
+                        </rs>
+                        <hi rend="spaced_out"> seine Klage zurück</hi>. Eine formelle Ehrenerklärung gab
+                     <rs type="person" ref="#pmb10815">Hermann Bahr</rs>
+                        <space unit="chars" quantity="1"/>
+                        <hi rend="spaced_out">nicht ab</hi>. Dagegen besagt ein über die Unterhandlungen
+                  verfaßtes Communiqué, ›daß der Gedankenaustausch der Herren ergeben habe, daß Herr
+                     <rs type="person" ref="#pmb10815">
+                           <hi rend="spaced_out">Bahr</hi>
+                        </rs> bei seiner Aeußerung, die Anlaß zur Klage gab, eine Absicht, der
+                  persönlichen Ehre des Dr. <rs type="person" ref="#pmb10815">Fulda</rs>
+                  nahezutreten, ferngelegen sei und seine Aeußerung nur durch ein Mißverständnis
+                  bedauerlicherweise diese Auslegung gefunden habe.‹</quote>« (Der inkriminierte
+               Text ist im <rs type="org" ref="#pmb29414">Neuen Wiener Tagblatt</rs> am <date instant="false">4. 10.
+                  1903</date> erschienen.)</p>
+               </note> in der <rs type="org" ref="#pmb29626">Zeit</rs>, dass <rs type="person" ref="#pmb10815">Bahr</rs> keine formelle Ehrenerklärung abgegeben.– Das <rs type="work" ref="#pmb29903">Zw.</rs> hatte ihm außerordentlich gefallen.–</p>
          </div>
       </body>
    </text>

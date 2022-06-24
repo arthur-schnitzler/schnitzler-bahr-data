@@ -13,11 +13,11 @@
             <title type="iso-date">1902-10-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -111,11 +111,22 @@
             </opener>
             <p>Herzlichsten Dank! In einer Zeitung las ich: <rs type="person" ref="#pmb2385">Halm</rs> hätte als D<hi rend="superscript">r</hi>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL251-2">
-                  <rs type="work" subtype="implied" ref="#pmb29885">Mohn</rs>
-               </anchor>
+               <anchor type="commentary" xml:id="KL251-2"/>
+               <rs type="work" subtype="implied" ref="#pmb29885">Mohn</rs>
+               <note type="commentary" xml:id="KL251-2h">
+                  <p>Figur aus <rs type="work" ref="#pmb29885">Wienerinnen</rs>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL251-1">Deine Maske gehabt</anchor>. Wahr ist, daß er einen blonden Vollbart trug, aus lauter Angst, in die Maske <rs type="person" ref="#pmb12899">Sudermanns</rs> zu gerathen. Daß es ganz albern wäre, einem spöttelnden Salon-Kritiker Deine Züge zu geben, brauche ich Dir ja nicht erst zu sagen. Die Leut sind so blöd!</p>
+               <anchor type="commentary" xml:id="KL251-1"/>Deine Maske gehabt<note type="commentary" xml:id="KL251-1h">
+                  <p>Nicht nachgewiesen. Vielleicht eine Fehlleistung <rs type="person" ref="#pmb10815">Bahr</rs>s zur <rs type="work" subtype="implied" ref="#pmb31689">Rezension</rs>
+               von <rs type="person" ref="#pmb4794">Karl Strecker</rs>: »<quote>Herr <rs type="person" ref="#pmb2385">Halm</rs>, der auch die Regie führte, gab einen
+                  modernen Ästheten mit gedrehter Stirnlocke, einen eitlen Faiseur, seltsamerweise
+                  aber in der Maske von <rs type="person" ref="#pmb10815">Hermann
+               Bahr</rs>.</quote>« (<bibl >
+                        <rs type="work" ref="#pmb31689">Berliner Theater. Hermann Bahr: »Wienerinnen«.
+                     (Eine nicht einwandfreie Kritik)</rs>. In: <rs type="org" ref="#pmb29691">Tägliche Rundschau</rs>, Jg. 20, Nr. 483, Morgenblatt, 1. Ausgabe, <date instant="false">15.
+                     10. 1902</date>, S. [2]</bibl>). Vgl. <ptr target="LD119-1"/>.</p>
+               </note>. Wahr ist, daß er einen blonden Vollbart trug, aus lauter Angst, in die Maske <rs type="person" ref="#pmb12899">Sudermanns</rs> zu gerathen. Daß es ganz albern wäre, einem spöttelnden Salon-Kritiker Deine Züge zu geben, brauche ich Dir ja nicht erst zu sagen. Die Leut sind so blöd!</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

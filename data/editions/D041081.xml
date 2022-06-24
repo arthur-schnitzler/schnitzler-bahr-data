@@ -13,11 +13,11 @@
             <title type="iso-date">1912-05-23</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -84,9 +84,14 @@
             <p>– Ordnete leidlich mit <rs type="person" ref="#pmb22728">Frieda Pollak</rs>. (Decke für die Schreibmaschine von ihr.) </p>
             <p>Las Nachmittag mit <rs type="person" ref="#pmb2173">O.</rs> Telegramme und Briefe durch. Manche sympathische Eindrücke (<rs type="person" ref="#pmb2771">Friedell</rs>, <rs type="person" ref="#pmb2612">Gomperz</rs> (Hofrath) u. a.), auch komisches.– </p>
             <p>
-               <anchor type="commentary" xml:id="KD081-1">
-                  <rs type="work" cert="low" subtype="implied" ref="#pmb32530">Bild</rs> von <rs type="person" ref="#pmb10815">Bahr</rs>
-               </anchor>, <rs type="person" ref="#pmb10772">Anzengruber</rs> Bild von <rs type="person" ref="#pmb10912">Bettelheim</rs>.– </p>
+               <anchor type="commentary" xml:id="KD081-1"/>
+               <rs type="work" cert="low" subtype="implied" ref="#pmb32530">Bild</rs> von <rs type="person" ref="#pmb10815">Bahr</rs>
+               <note type="commentary" xml:id="KD081-1h">
+                  <p>Nicht erhalten. Vermutlich die <rs type="work" subtype="implied" ref="#pmb32530">Lithografie</rs> von <rs type="person" ref="#pmb4941">Karl Bauer</rs>, die <rs type="person" ref="#pmb10815">Bahr</rs> auch dem <rs type="work" ref="#pmb32528">Kriegssegen</rs> (<bibl >München: <rs type="org">Delphin</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1915</date>
+                     </bibl>) voranstellte.</p>
+               </note>, <rs type="person" ref="#pmb10772">Anzengruber</rs> Bild von <rs type="person" ref="#pmb10912">Bettelheim</rs>.– </p>
             <p>Werthvolle Ausgabe alt des <rs type="work" ref="#pmb30367">Heptameron</rs> von <rs type="person" ref="#pmb11324">S. Fischer</rs>.– </p>
             <p>Radirung meines Portraits von <rs type="person" ref="#pmb12384">Oppenheimer</rs>.</p>
             <p>Altes Buch von <rs type="person" ref="#pmb2774">Dora Michaelis</rs>.</p>

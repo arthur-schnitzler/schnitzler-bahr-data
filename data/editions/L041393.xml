@@ -13,11 +13,11 @@
             <title type="iso-date">1904-08-09</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -130,7 +130,14 @@
             </opener>
             <p>
                <salute>
-                  <anchor type="textConst" xml:id="TL393-2">l<damage agent="ink">ie</damage>ber</anchor> Hugo, </salute>über <rs type="person" ref="#pmb10815">Bahr</rs> glaube ich Sie beruhigen zu können. Er war Sonntag bei uns, dann haben wir zusammen im <rs type="place" ref="#pmb113">Türkenschanzpark</rs> genachtmahlt und er war in der besten Stimmung. Morgen holen wir ihn Abends ab und fahren ins grüne. Die Hitze thut ihm im ganzen wohl; und wie er sagt, fühlt er sich durch allmäliges Steigen eher angenehm erleichtert als dass er Beschwerden davon hätte.<pb/> Seelische Depressionen wirken auf seinen phys. Zustand am heftigsten: so war er nach dem Tod <rs type="person" ref="#pmb11673">Herzls</rs> kränker als seit lang, und nach irgend einem Aerger neulich hat er wieder dieses Würgen ein paar Mal gehabt, das aber nun ganz verschwunden scheint. – Könnte man ihn doch nur dazu bringen, dass er heuer die verschiedenen Erregungen des Winters <add place="above">u den Winter selbst</add> nicht zu Hause abwartet und zu guter <anchor type="textConst" xml:id="TL393-1">Zeit</anchor> und mit ruhigem Gemüth<pb/> nach dem Meere, dem Süden abreist!–</p>
+                  <anchor type="textConst" xml:id="TL393-2"/>l<damage agent="ink">ie</damage>ber<note type="textConst" xml:id="TL393-2h">
+                     <p>Der Tintenfleck von Schnitzler verkehrt zum Text kommentiert: »<quote>
+                           <hi rend="latintype">neue Tinte, pardon!</hi>
+                        </quote>«</p>
+                  </note> Hugo, </salute>über <rs type="person" ref="#pmb10815">Bahr</rs> glaube ich Sie beruhigen zu können. Er war Sonntag bei uns, dann haben wir zusammen im <rs type="place" ref="#pmb113">Türkenschanzpark</rs> genachtmahlt und er war in der besten Stimmung. Morgen holen wir ihn Abends ab und fahren ins grüne. Die Hitze thut ihm im ganzen wohl; und wie er sagt, fühlt er sich durch allmäliges Steigen eher angenehm erleichtert als dass er Beschwerden davon hätte.<pb/> Seelische Depressionen wirken auf seinen phys. Zustand am heftigsten: so war er nach dem Tod <rs type="person" ref="#pmb11673">Herzls</rs> kränker als seit lang, und nach irgend einem Aerger neulich hat er wieder dieses Würgen ein paar Mal gehabt, das aber nun ganz verschwunden scheint. – Könnte man ihn doch nur dazu bringen, dass er heuer die verschiedenen Erregungen des Winters <add place="above">u den Winter selbst</add> nicht zu Hause abwartet und zu guter <anchor type="textConst" xml:id="TL393-1"/>Zeit<note type="textConst" xml:id="TL393-1h">
+                  <p>Durch Tintenfleck ab dem zweiten Buchstaben unlesbar, von Schnitzler unter der Zeile
+               wiederholt.</p>
+               </note> und mit ruhigem Gemüth<pb/> nach dem Meere, dem Süden abreist!–</p>
             <p>Meinen Brief von neulich haben Sie wohl bekommen? Ich wünsche Ihnen sehr, dass eine günstige Erledigung vom Militär eintrifft!–</p>
             <p>Mit dem Arbeiten gehts weiter leidlich, ja gut. Mit der stärksten Antheilnahme, die auf irgend ein<add place="inline">en</add> tiefere<subst>
                   <del rend="overwritten">s</del>

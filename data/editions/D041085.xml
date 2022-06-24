@@ -13,11 +13,11 @@
             <title type="iso-date">1893-03-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,9 +80,12 @@
                <date when="1893-03-12" n="01">12/3</date> Sonntag.– Ankunft in <rs type="place" ref="#pmb50">Wien</rs> – Schlechte Stimmung.– <rs type="person" subtype="implied" ref="#pmb12695">Papa</rs> nicht recht wohl.– Nach allen Seiten schlimme Aussichten.– Nachwirkende Verstimmung wegen des anon. Briefes.–</p>
             <p>
                <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb10863">Richard</rs>, <rs type="person" ref="#pmb2420">Schik</rs>, <rs type="person" ref="#pmb12740">Schwarzkopf</rs> bei mir –</p>
-            <p>Im <rs type="place" ref="#pmb20">Volksth.</rs> bei einem erbärmlichen Stück von <rs type="person" ref="#pmb13082">Karlweis</rs> und <rs type="person" ref="#pmb10815">Bahr</rs> »<anchor type="commentary" xml:id="KD085-1">
-                  <rs type="work" ref="#pmb30131 #pmb30133">Aus der Vorstadt</rs>
-               </anchor>«.–</p>
+            <p>Im <rs type="place" ref="#pmb20">Volksth.</rs> bei einem erbärmlichen Stück von <rs type="person" ref="#pmb13082">Karlweis</rs> und <rs type="person" ref="#pmb10815">Bahr</rs> »<anchor type="commentary" xml:id="KD085-1"/>
+               <rs type="work" ref="#pmb30131 #pmb30133">Aus der Vorstadt</rs>
+               <note type="commentary" xml:id="KD085-1h">
+                  <p>2. Vorstellung des »Volksstücks in drei Akten«; die Uraufführung fand am Vortag
+               statt.</p>
+               </note>«.–</p>
             <p>
                <rs type="place" ref="#pmb34">C. Griensteidl</rs>.</p>
          </div>

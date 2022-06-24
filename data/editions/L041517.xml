@@ -13,11 +13,11 @@
             <title type="iso-date">1895-09-27</title>
             <author ref="pmb10863">Beer-Hofmann, Richard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -95,9 +95,20 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Arthur! </salute>Dies schreib ich Ihnen, im Boote liegend, während man mich zu einer Insel rudert, auf der ein Jupitertempel stand, aus dem der heilige <rs type="person" ref="#pmb4504">Franciscus von Assisi</rs> – mein <rs type="person" ref="#pmb4504">Franciscus</rs> – ein Kloster gemacht hat. Zugleich lese ich in einem <anchor type="commentary" xml:id="KL517-1">
-                  <rs type="work" subtype="implied" ref="#pmb30275">Buch</rs>
-               </anchor> wunderschöne Sachen – wie das Buch aber heisst schreibe ich hier nicht, denn der Name könnte Ihnen entgleiten, und der <rs type="person" ref="#pmb10815">B</rs>
+               <salute>Lieber Arthur! </salute>Dies schreib ich Ihnen, im Boote liegend, während man mich zu einer Insel rudert, auf der ein Jupitertempel stand, aus dem der heilige <rs type="person" ref="#pmb4504">Franciscus von Assisi</rs> – mein <rs type="person" ref="#pmb4504">Franciscus</rs> – ein Kloster gemacht hat. Zugleich lese ich in einem <anchor type="commentary" xml:id="KL517-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30275">Buch</rs>
+               <note type="commentary" xml:id="KL517-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb30275">Anthologie lyrischer und epigrammatischer
+                     Dichtungen der alten Griechen</rs>. Hg. <rs type="person" ref="#pmb28679">Edmund Boesel</rs>. Stuttgart: <rs type="org" ref="#pmb29666">Philipp Reclam
+                     jun.</rs>
+                        <space unit="chars" quantity="1"/>
+                        <supplied instant="false">
+                           <date instant="false">1884</date>
+                        </supplied>
+                     </bibl>.</p>
+               </note> wunderschöne Sachen – wie das Buch aber heisst schreibe ich hier nicht, denn der Name könnte Ihnen entgleiten, und der <rs type="person" ref="#pmb10815">B</rs>
                <space unit="chars" quantity="1"/>
                <c rendition="#dots" n="3" place="center"/> mittelst 3–4 Ausschrotartikeln es einem minieren und verekeln, aber es ist sehr schön. Im dritten Jahrhundert vor Christi Geburt schreibt ein Herr <rs type="person" ref="#pmb4508">Posidippus</rs> – ohne »<rs type="work" ref="#pmb29823">Märchen</rs>«- und »<rs type="work" ref="#pmb31965">Elixire</rs>«-Schmerzen – heiter konstatirend:</p>
             <lg type="poem">

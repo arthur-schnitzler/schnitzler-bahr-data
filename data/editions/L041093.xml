@@ -13,11 +13,11 @@
             <title type="iso-date">1907-05-20</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -157,7 +157,9 @@
             <p>gar nichts wichtiges. Wollte dich nur wieder einmal sehen. Schreib mir, wann du wieder aus deiner Welt emportauchst. Vielleicht fahren wir Ende <subst>
                   <del rend="strikethrough">nächster</del>
                   <add place="above">der</add>
-               </subst> Woche auf ein paar Tage in die <rs type="place" ref="#pmb75 #pmb957">Brühl</rs>. Du hast hoffentlich deine <anchor type="commentary" xml:id="KL093-1">Meeresvilla</anchor> gefunden. <rs type="work" ref="#pmb30011">Brehm</rs> behalte natürlich so lang du willst.</p>
+               </subst> Woche auf ein paar Tage in die <rs type="place" ref="#pmb75 #pmb957">Brühl</rs>. Du hast hoffentlich deine <anchor type="commentary" xml:id="KL093-1"/>Meeresvilla<note type="commentary" xml:id="KL093-1h">
+                  <p>Den Sommer verbrachten <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb10818">Mildenburg</rs> jedoch in einem Hotel am <rs type="place" ref="#pmb259">Lido</rs>.</p>
+               </note> gefunden. <rs type="work" ref="#pmb30011">Brehm</rs> behalte natürlich so lang du willst.</p>
             <closer>Von Herzen dein<lb/>
                <signed>Arthur.</signed>
             </closer>

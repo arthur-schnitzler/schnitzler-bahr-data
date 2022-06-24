@@ -13,11 +13,11 @@
             <title type="iso-date">1915-02-10</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,9 +103,11 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Herzlichen Dank für den lieben Brief, der <rs type="person" subtype="implied" ref="#pmb10818">uns Beiden</rs> eine große Freude gemacht hat! Meine <rs type="person" subtype="implied" ref="#pmb10818">Frau</rs> möchte sehr gern einmal in <rs type="place" ref="#pmb50">Wien</rs> Lieder singen, <rs type="person" ref="#pmb12729">Schubert</rs>, <rs type="person" ref="#pmb13152">Hugo Wolf</rs> und die <rs subtype="local" type="work" ref="#pmb29973">Wesendoncklieder</rs> am liebsten. Jetzt aber geht das nicht, sie kann hier nicht abkommen von ihrem <anchor type="commentary" xml:id="KL342-1">
-                  <rs type="place" subtype="implied" ref="#pmb157">Spital</rs>
-               </anchor> (ich schrieb das <rs type="person" ref="#pmb11646">Heller</rs> gestern schon). Auch bin ich der Meinung, daß es besser ist, dazu eine stillere, für Kunst empfänglichere Zeit abzuwarten. Willst Du aber nicht so lange warten, so komm doch her, Du kannst es bei uns viel schöner haben als je in einem Konzert, was doch von vorneherein die scheußlichste Kunstwidrigkeit ist! Wir würden uns herzlich freuen und ich hätte ja so viel mit Dir zu reden, Tage lang!</p>
+            <p>Herzlichen Dank für den lieben Brief, der <rs type="person" subtype="implied" ref="#pmb10818">uns Beiden</rs> eine große Freude gemacht hat! Meine <rs type="person" subtype="implied" ref="#pmb10818">Frau</rs> möchte sehr gern einmal in <rs type="place" ref="#pmb50">Wien</rs> Lieder singen, <rs type="person" ref="#pmb12729">Schubert</rs>, <rs type="person" ref="#pmb13152">Hugo Wolf</rs> und die <rs subtype="local" type="work" ref="#pmb29973">Wesendoncklieder</rs> am liebsten. Jetzt aber geht das nicht, sie kann hier nicht abkommen von ihrem <anchor type="commentary" xml:id="KL342-1"/>
+               <rs type="place" subtype="implied" ref="#pmb157">Spital</rs>
+               <note type="commentary" xml:id="KL342-1h">
+                  <p>Sie arbeitete als freiwillige Pflegehelferin im <rs type="place" ref="#pmb157">Salzburger Truppenspital Nonntal</rs>.</p>
+               </note> (ich schrieb das <rs type="person" ref="#pmb11646">Heller</rs> gestern schon). Auch bin ich der Meinung, daß es besser ist, dazu eine stillere, für Kunst empfänglichere Zeit abzuwarten. Willst Du aber nicht so lange warten, so komm doch her, Du kannst es bei uns viel schöner haben als je in einem Konzert, was doch von vorneherein die scheußlichste Kunstwidrigkeit ist! Wir würden uns herzlich freuen und ich hätte ja so viel mit Dir zu reden, Tage lang!</p>
             <p>Grüße Frau <rs type="person" ref="#pmb2173">Olga</rs> in alter herzlicher <unclear>Ve</unclear>rehrung schönstens von mir und kommt wirklich bald einmal! (Aber mit Nachricht ein paar Tage früher, damit ich nicht gerade weg bin, in <rs type="place" ref="#pmb45258">München</rs> oder in den Bergen!) </p>
             <closer>Herzlichst<lb/>Dein alter<lb/>
                <signed>H</signed>

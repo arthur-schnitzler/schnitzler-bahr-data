@@ -13,11 +13,11 @@
             <title type="iso-date">1896-12-16</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,15 +107,30 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Anbei das <anchor type="commentary" xml:id="KL203-2">
-                  <rs type="work" subtype="implied" ref="#pmb29829">Stück</rs>
-               </anchor>; ich bin sehr neugierig, was Du sagen wirst – an <rs type="person" ref="#pmb11740">Hugo</rs> schicke ich gleichzeitig ein Exemplar.</p>
+            <p>Anbei das <anchor type="commentary" xml:id="KL203-2"/>
+               <rs type="work" subtype="implied" ref="#pmb29829">Stück</rs>
+               <note type="commentary" xml:id="KL203-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb29829">Das Tschaperl. Ein Wiener Stück in vier Aufzügen</rs>. München:
+                     <rs type="org" ref="#pmb29655">Brakls Rubinverlag</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">
+                           <supplied instant="false">1896</supplied>
+                        </date>
+                     </bibl> (Bühnenmanuskript. Buchhandelsausgabe Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">1898</date>).</p>
+               </note>; ich bin sehr neugierig, was Du sagen wirst – an <rs type="person" ref="#pmb11740">Hugo</rs> schicke ich gleichzeitig ein Exemplar.</p>
             <p>Wichtiger ist mir Deine <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs>. Ich möchte <subst>
                   <del rend="overwritten">S</del>
                   <add place="inline">s</add>
-               </subst>ie so bald als nur irgend möglich haben; wenn es möglich, möchte ich sie nemlich in die zwei <anchor type="commentary" xml:id="KL203-1">
-                  <rs type="org" subtype="implied" ref="#pmb29209">Agitationsnummern</rs>
-               </anchor> vom 24. d. und 2. n. M.<pb/> geben. Vielleicht sagst Du dem Überbringer ein Wort, ob und wann ich mir das Manuscript holen lassen darf, oder telephonierst mir.</p>
+               </subst>ie so bald als nur irgend möglich haben; wenn es möglich, möchte ich sie nemlich in die zwei <anchor type="commentary" xml:id="KL203-1"/>
+               <rs type="org" subtype="implied" ref="#pmb29209">Agitationsnummern</rs>
+               <note type="commentary" xml:id="KL203-1h">
+                  <p>Die letzte und die erste Nummer eines Quartals, mit denen intensiver versucht wurde,
+               Abonnenten zu werben.</p>
+               </note> vom 24. d. und 2. n. M.<pb/> geben. Vielleicht sagst Du dem Überbringer ein Wort, ob und wann ich mir das Manuscript holen lassen darf, oder telephonierst mir.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

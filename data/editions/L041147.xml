@@ -13,11 +13,11 @@
             <title type="iso-date">1892-02-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,8 +102,10 @@
    <text type="card">
       <body>
          <div type="writingSession" n="1">
-            <p>bittet Sie, ihm mitzuteilen, ob er Ihnen eine Einladg<pb/> zu <anchor type="commentary" xml:id="KL147-1">Matinee <rs type="person" ref="#pmb12491">Reicher</rs>
-               </anchor> bei <rs type="person" ref="#pmb11491">Goldschmid</rs> besorgen soll</p>
+            <p>bittet Sie, ihm mitzuteilen, ob er Ihnen eine Einladg<pb/> zu <anchor type="commentary" xml:id="KL147-1"/>Matinee <rs type="person" ref="#pmb12491">Reicher</rs>
+               <note type="commentary" xml:id="KL147-1h">
+                  <p>Diese fand am <date when="1892-02-07" instant="false">7. 2. 1892</date> statt; <rs type="person" ref="#pmb2121">Schnitzler</rs> nahm teil.</p>
+               </note> bei <rs type="person" ref="#pmb11491">Goldschmid</rs> besorgen soll</p>
             <closer>Herzlichst<lb/>
                <signed>H</signed>
             </closer>

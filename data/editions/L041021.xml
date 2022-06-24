@@ -13,11 +13,11 @@
             <title type="iso-date">1898-11-13</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,7 +124,10 @@
             <opener>
                <salute>Lieber Freund,</salute>
             </opener>
-            <p>ich beglückwünsche dich von Herzen zu deinem großen <anchor type="commentary" xml:id="KL021-1">Erfolg</anchor> in <rs type="place" ref="#pmb168">Berlin</rs>, <unclear>und</unclear> grüße dich vielmals </p>
+            <p>ich beglückwünsche dich von Herzen zu deinem großen <anchor type="commentary" xml:id="KL021-1"/>Erfolg<note type="commentary" xml:id="KL021-1h">
+                  <p>Uraufführung von <rs type="work" ref="#pmb30127">Der Star</rs> am <date instant="false">12. 11.
+                  1898</date> im <rs type="place" ref="#pmb18">Lessingtheater</rs> in <rs type="place" ref="#pmb168">Berlin</rs>.</p>
+               </note> in <rs type="place" ref="#pmb168">Berlin</rs>, <unclear>und</unclear> grüße dich vielmals </p>
             <closer>dein <signed>Arthur Schnitzler</signed>
             </closer>
             <postscript>

@@ -13,11 +13,11 @@
             <title type="iso-date">1897-11-10</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,9 +107,14 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Möchtest Du mir erlauben, bei meiner nächsten Conference (am <date>28. d. M.</date>) Deine <anchor type="commentary" xml:id="KL213-1">
-                  <rs type="work" subtype="implied" ref="#pmb29833">Geschichte</rs>
-               </anchor> aus dem letzten Heft der »<rs type="org" ref="#pmb29206">Cosmopolis</rs>« vorzulesen? Ich bilde mir ein, daß ich den Ton treffen werde, und irre ich mich darin nicht, so ist die Wirkung glaub ich sicher. Also, wenn es Dir<pb/> recht ist, so schreib oder telephonir mir bitte ein Wort.</p>
+            <p>Möchtest Du mir erlauben, bei meiner nächsten Conference (am <date>28. d. M.</date>) Deine <anchor type="commentary" xml:id="KL213-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29833">Geschichte</rs>
+               <note type="commentary" xml:id="KL213-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29833">Die Toten schweigen</rs>. In: <rs type="org" ref="#pmb29206">Cosmopolis</rs>, Jg. 2, Bd. 8, Nr. 22, <date instant="false">1. 10. 1897</date>,
+                  S. 193–211</bibl>.</p>
+               </note> aus dem letzten Heft der »<rs type="org" ref="#pmb29206">Cosmopolis</rs>« vorzulesen? Ich bilde mir ein, daß ich den Ton treffen werde, und irre ich mich darin nicht, so ist die Wirkung glaub ich sicher. Also, wenn es Dir<pb/> recht ist, so schreib oder telephonir mir bitte ein Wort.</p>
             <p>Und vergiß doch nicht ganz auf die »<rs type="org" ref="#pmb29209">Zeit</rs>«. Hast Du nicht wieder was Kleines? Ich würde das neue Jahr sehr gern wieder mit etwas von Dir beginnen. Laß mich wissen, ob ich darauf rechnen kann.</p>
             <closer>Herzlichst<lb/>Dein alter<lb/>
                <signed>HermannBahr</signed>

@@ -13,11 +13,11 @@
             <title type="iso-date">1919-09-19</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -120,22 +120,36 @@
             </opener>
             <p>
                <salute>liebe, </salute>zuerst will ich dir deine mediz. Fragen beantworten – zu größerer Sicherheit hab ich eben den <rs type="person" subtype="implied" ref="#pmb22733">Mediz.Rath</rs> telef. gefragt: also rohes Obst lieber nicht mit den Tropfen zugleich; – höchstens ein Pfirsich oder weiche Birne; Compot natürlich soviel’s beliebt. Aussetzen der Tropfen <hi rend="underline" n="1">nicht</hi> notwendig. – <anchor type="label" xml:id="LL653-1">Was du mir von der <rs type="person" ref="#pmb10818">Mildenburg</rs> erzählst, war mir sehr interessant</anchor>, und ich bin schon sehr gespannt, was sie zu deinem Gesang äußern wird. Ob sie auch in deinem Concert war? – </p>
-            <p>Gestern war ich nach langer Zeit wieder einmal bei <rs type="person" ref="#pmb2135">Popper</rs>. Er hat <anchor type="commentary" xml:id="KL653-3">Verlegeraerger</anchor> und leidet unter der Epoche mehr als je. Das bolschewistische Säuglingspack kommt noch immer schaarenweise und er ist nach wie vor entsetzt über das Maß von Bildungsmangel, Unlogik und Bösheit in diesen jugendlichen Schädeln. Doch entschließt er sich nicht zu oeffentlicher Abwehr; – er traut sich die schriftstellerische Leistung<add place="above">sfähigkeit</add> nicht mehr zu; – seit ¾ Jahren fühlt er, der Zweiachtzigjährige, sich alt werden.– –</p>
+            <p>Gestern war ich nach langer Zeit wieder einmal bei <rs type="person" ref="#pmb2135">Popper</rs>. Er hat <anchor type="commentary" xml:id="KL653-3"/>Verlegeraerger<note type="commentary" xml:id="KL653-3h">
+                  <p>
+                     <rs type="org" ref="#pmb29243">Carl Reissner</rs>, damals geführt von <rs type="person" ref="#pmb4873">Erwin Kurtz</rs>, war der zentrale Verlag <rs type="person" ref="#pmb2135">Poppers</rs> bis 1920.</p>
+               </note> und leidet unter der Epoche mehr als je. Das bolschewistische Säuglingspack kommt noch immer schaarenweise und er ist nach wie vor entsetzt über das Maß von Bildungsmangel, Unlogik und Bösheit in diesen jugendlichen Schädeln. Doch entschließt er sich nicht zu oeffentlicher Abwehr; – er traut sich die schriftstellerische Leistung<add place="above">sfähigkeit</add> nicht mehr zu; – seit ¾ Jahren fühlt er, der Zweiachtzigjährige, sich alt werden.– –</p>
             <p>Zu Himbeerwasser und Bäckerei fanden sich Nachmittag <rs type="person" ref="#pmb3115">Fritz</rs> u <rs type="person" ref="#pmb13197">Trude Z.</rs> ein, – <rs type="person" subtype="implied" ref="#pmb2312">Hofrätin</rs> ist in <rs type="place" ref="#pmb917">Turin</rs> jedenfalls schon eingetroffen. Um 6 erschien <rs type="person" ref="#pmb16608">Fried</rs>; er und <rs type="person" ref="#pmb2167">Salten</rs> nachtmahlten bei mir; – nachher kamen <rs type="person" ref="#pmb26392">Leo</rs>, Frau<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb26173">Lorle Tressler</rs> (nach telef. Verständg zwischen ihr und <rs type="person" ref="#pmb2167">S.</rs>) – und <rs type="person" ref="#pmb12993">Unruh</rs>. (Frau <rs type="person" ref="#pmb15967">E.</rs> hatte erfahren, dss <rs type="person" ref="#pmb2167">S.</rs> bei mir nachtmahlt.<supplied>)</supplied>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb12993">U.</rs> war früh, nach 5tägiger Reise eingetroffen; – sah sehr »Wandersmann« aus; – gebräunt, massig, touristisch angethan; höchst durchgearbeitetes Gesicht, wie nach dem Marmor verlangend, kaum mehr jünglingshaft, fast hart, gehetzt aber beherrscht; – in der Gesamterscheinung einleuchtend aber nicht einfach erfreulich. Sehr erfüllt von Arbeit, aus der er kommt und in die er geht; – seine Gefühle von Sendung und <add place="above">von</add> Carrière <anchor type="textConst" xml:id="TL653-1">
-                  <del rend="strikethrough">
-                     <gap reason="illegible" quantity="20" unit="chars"/>
-                  </del>
-               </anchor> durcheinandergewirrt und stetig wach. Frau <rs type="person" ref="#pmb26173">Tr.</rs> goß sich auf ein Streck<anchor type="commentary" xml:id="KL653-1">fauteul</anchor> (die Scene spielt auf der Veranda) und war bildschön; er (seinerseits) tritt täglich in einem Varieté auf, wohnt daher im <rs type="place" ref="#pmb205">Bristol</rs> – und nicht im <rs type="place" ref="#pmb533">Cottage</rs> (wo vor ein paar Tagen kurz nach zehn ein <anchor type="commentary" xml:id="KL653-2">Arzt</anchor>
+               <rs type="person" ref="#pmb12993">U.</rs> war früh, nach 5tägiger Reise eingetroffen; – sah sehr »Wandersmann« aus; – gebräunt, massig, touristisch angethan; höchst durchgearbeitetes Gesicht, wie nach dem Marmor verlangend, kaum mehr jünglingshaft, fast hart, gehetzt aber beherrscht; – in der Gesamterscheinung einleuchtend aber nicht einfach erfreulich. Sehr erfüllt von Arbeit, aus der er kommt und in die er geht; – seine Gefühle von Sendung und <add place="above">von</add> Carrière <anchor type="textConst" xml:id="TL653-1"/>
+               <del rend="strikethrough">
+                  <gap reason="illegible" quantity="20" unit="chars"/>
+               </del>
+               <note type="textConst" xml:id="TL653-1h">
+                  <seg type="lemma">\sout{×××}</seg>
+                  <p>Halbe Zeile durch Streichung unkenntlich gemacht.</p>
+               </note> durcheinandergewirrt und stetig wach. Frau <rs type="person" ref="#pmb26173">Tr.</rs> goß sich auf ein Streck<anchor type="commentary" xml:id="KL653-1"/>fauteul<note type="commentary" xml:id="KL653-1h">
+                  <p>Von <rs type="person" ref="#pmb2121">Schnitzler</rs> zeitlebens benutzte Schreibweise
+               von Fauteuil.</p>
+               </note> (die Scene spielt auf der Veranda) und war bildschön; er (seinerseits) tritt täglich in einem Varieté auf, wohnt daher im <rs type="place" ref="#pmb205">Bristol</rs> – und nicht im <rs type="place" ref="#pmb533">Cottage</rs> (wo vor ein paar Tagen kurz nach zehn ein <anchor type="commentary" xml:id="KL653-2"/>Arzt<note type="commentary" xml:id="KL653-2h">
+                  <p>Nicht ermittelt.</p>
+               </note>
                <space unit="chars" quantity="1"/>
-               <anchor type="textConst" xml:id="TL653-2">
-                  <del rend="strikethrough">
-                     <gap reason="illegible" quantity="10" unit="chars"/>
-                  </del>
-               </anchor> auf der Straße (irgendwo in unsrer Nähe, erzählt <rs type="person" ref="#pmb26392">Leo</rs>) beraubt wurde. Die Dunkelheit <add place="above">in unsrer Gegend</add> ist übrigens wirklich unwahrscheinlich) –</p>
+               <anchor type="textConst" xml:id="TL653-2"/>
+               <del rend="strikethrough">
+                  <gap reason="illegible" quantity="10" unit="chars"/>
+               </del>
+               <note type="textConst" xml:id="TL653-2h">
+                  <seg type="lemma">\sout{×××}</seg>
+                  <p>Drittelzeile durch Streichung unkenntlich gemacht.</p>
+               </note> auf der Straße (irgendwo in unsrer Nähe, erzählt <rs type="person" ref="#pmb26392">Leo</rs>) beraubt wurde. Die Dunkelheit <add place="above">in unsrer Gegend</add> ist übrigens wirklich unwahrscheinlich) –</p>
             <p>Heute Vormittag <rs type="work" subtype="implied" ref="#pmb32326">General Probe</rs>. Vor dem <rs type="place" subtype="implied" ref="#pmb14">Theater</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2150">Julius Bauer</rs> und Ehepaar <rs type="person" ref="#pmb15967 #pmb3103">E.</rs>

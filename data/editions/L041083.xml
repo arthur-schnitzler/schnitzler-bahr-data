@@ -13,11 +13,11 @@
             <title type="iso-date">1905-09-21</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -128,9 +128,11 @@
                </dateline>
                <salute>lieber Hermann, </salute>
             </opener>
-            <p>alles zugegeben, und das <anchor type="commentary" xml:id="KL083-1">
-                  <hi rend="latintype">Epitheton</hi>
-               </anchor> reizend als allzu freundlich empfunden: nur den <rs type="work" subtype="implied" ref="#pmb29903">Fürsten</rs> geb ich dir nicht so ohne weiteres preis. Ich weiss <unclear>zu</unclear> gut, dss diese Art, von der ich einen zu schildern versucht, nicht die Regel ist – aber gerade dss er eine Ausnahme unter denen seines Standes ist, bildet für<pb/>
+            <p>alles zugegeben, und das <anchor type="commentary" xml:id="KL083-1"/>
+               <hi rend="latintype">Epitheton</hi>
+               <note type="commentary" xml:id="KL083-1h">
+                  <p>Schmückendes Beiwort, hier auf »reizend« gemünzt.</p>
+               </note> reizend als allzu freundlich empfunden: nur den <rs type="work" subtype="implied" ref="#pmb29903">Fürsten</rs> geb ich dir nicht so ohne weiteres preis. Ich weiss <unclear>zu</unclear> gut, dss diese Art, von der ich einen zu schildern versucht, nicht die Regel ist – aber gerade dss er eine Ausnahme unter denen seines Standes ist, bildet für<pb/>
                <space unit="chars" quantity="1"/>
                <hi rend="latintype">
                   <rs type="work" subtype="implied" ref="#pmb29903">Caecilie</rs>
@@ -145,7 +147,9 @@
                   <del rend="strikethrough">verwendet</del>
                   <add place="above">ausgesprochen</add>
                </subst> wurde.–</p>
-            <p>– <anchor type="commentary" xml:id="KL083-2">Morgen fahren <rs type="person" subtype="implied" ref="#pmb2173">wir</rs> auf ein paar Tage fort</anchor> (<rs type="place" ref="#pmb189">Semmering</rs>,<pb/> ev. weiter) – sobald ich zurück <subst>
+            <p>– <anchor type="commentary" xml:id="KL083-2"/>Morgen fahren <rs type="person" subtype="implied" ref="#pmb2173">wir</rs> auf ein paar Tage fort<note type="commentary" xml:id="KL083-2h">
+                  <p>Siehe Kommentar zum Brief Schnitzlers an Bahr, <date instant="false">18. 9. 1905</date>, <ptr target="KL081-1"/>.</p>
+               </note> (<rs type="place" ref="#pmb189">Semmering</rs>,<pb/> ev. weiter) – sobald ich zurück <subst>
                   <del rend="strikethrough">komme</del>
                   <add place="above">bin</add>
                </subst>, mußt du zu <unclear>uns</unclear> kommen. Wärs dir nicht am bequemsten, bei <rs type="person" subtype="implied" ref="#pmb2173">uns</rs> zu Mittag zu essen? Etwa 11–12 zu kommen und dann zu bleiben, so lang du eben kannst? Jedenfalls muss etwas gefunden werden, damit man einander <subst>

@@ -14,11 +14,11 @@
             <title type="iso-date">1903-04-12</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="060"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AA9-8</idno>
          </publicationStmt>
@@ -76,12 +76,12 @@
    <text type="text">
       <body>
          <div>
-            <p rend="center" part="N">
+            <p rend="center">
                <rs type="work" ref="#pmb29891"/>Meinem lieben <rs type="person" ref="#pmb2121">
                   <hi rend="spaced_out">Arthur Schnitzler</hi>
                </rs>
                <lb/>nach zwölf Jahren.</p>
-            <p part="N">
+            <p>
                <rs type="place" ref="#pmb665">Sankt Veit</rs>, Ostern 1903.</p>
          </div>
       </body>

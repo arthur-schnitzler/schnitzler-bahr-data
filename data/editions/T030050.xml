@@ -14,11 +14,11 @@
             <title type="iso-date">1915-06-11</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="050"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AA0-1</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>Schnitzler, A 14</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Typoskript, in der oberen linken Ecke Datumsangabe in Bleistift: »<quote>
+                        <p>ms. Typoskript, in der oberen linken Ecke Datumsangabe in Bleistift: »<quote>
                               <date>11. 6. 1915</date>
                            </quote>«.</p>
                      </physDesc>
@@ -101,15 +101,18 @@
    <text type="manuscript">
       <body>
          <div>
-            <p part="N">Feuilletonismus.</p>
-            <p part="N">Als Paradigma. Der <rs type="work" ref="#pmb31241">Gruss <rs type="person" ref="#pmb10815">Bahrs</rs> an <rs type="person" ref="#pmb11740">Hofmannsthal</rs>
+            <p>Feuilletonismus.</p>
+            <p>Als Paradigma. Der <rs type="work" ref="#pmb31241">Gruss <rs type="person" ref="#pmb10815">Bahrs</rs> an <rs type="person" ref="#pmb11740">Hofmannsthal</rs>
                </rs> im <rs type="org" ref="#pmb29320">Neuen Wiener Journal</rs>, Beginn des Krieges.</p>
-            <p part="N">Er sendet ihm Grüsse ans Biwakfeuer, in den Kanonendonner; indess ist <rs type="person" ref="#pmb11740">H.</rs> im <rs type="place" ref="#pmb78">Ministerium</rs> (<anchor type="commentary" xml:id="KT050-1">entweder weiss es <rs type="person" ref="#pmb10815">Bahr</rs> oder er hat sich nicht orientiert</anchor>
+            <p>Er sendet ihm Grüsse ans Biwakfeuer, in den Kanonendonner; indess ist <rs type="person" ref="#pmb11740">H.</rs> im <rs type="place" ref="#pmb78">Ministerium</rs> (<anchor type="commentary" xml:id="KT050-1"/>entweder weiss es <rs type="person" ref="#pmb10815">Bahr</rs> oder er hat sich nicht orientiert<note type="commentary" xml:id="KT050-1h">
+                  <p>Zweiteres. Vgl. den Brief <rs type="person" ref="#pmb10815">Bahrs</rs> an <rs type="person" ref="#pmb11740">Hofmannsthal</rs>, <date instant="false">13. 9. 1914</date> (<bibl >
+                        <rs type="work">Bw</rs> Bahr/Hofmannsthal 319</bibl>).</p>
+               </note>
                <supplied>)</supplied>.</p>
-            <p part="N">Er möge in <rs type="place" ref="#pmb888">Warschau</rs>
+            <p>Er möge in <rs type="place" ref="#pmb888">Warschau</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb10765">Poldi Andrian</rs> grüssen<supplied>.</supplied> (Als wäre der Einmarsch in <rs type="place" ref="#pmb888">Warschau</rs> für morgen bevorstehend und als wüsste <rs type="person" ref="#pmb10815">Bahr</rs> nicht, dass der <rs type="place" ref="#pmb41240">österreichische</rs> Generalkonsul während des Krieges nicht in <rs type="place" ref="#pmb888">Warschau</rs> leben wird.) </p>
-            <p part="N">Und <rs type="person" ref="#pmb10765">Poldi</rs> wird mit seiner heissen Stimme <rs type="person" ref="#pmb13011">Verlaine</rs>’sche Verse vortragen (es gibt nichts Trockeneres als die Stimme <rs type="person" ref="#pmb10765">Andrians</rs>).</p>
+            <p>Und <rs type="person" ref="#pmb10765">Poldi</rs> wird mit seiner heissen Stimme <rs type="person" ref="#pmb13011">Verlaine</rs>’sche Verse vortragen (es gibt nichts Trockeneres als die Stimme <rs type="person" ref="#pmb10765">Andrians</rs>).</p>
          </div>
       </body>
    </text>

@@ -13,11 +13,11 @@
             <title type="iso-date">1894-07-27</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,9 +108,11 @@
                </damage>n Brunnen au<damage agent="hole">
                   <supplied>f</supplied>
                </damage> – und geht täglich 10 Stunden, sie ist bereits ein Scelett! –</p>
-            <p>Ich werde dick, dumm, faul gefrässig. Kind – ich möcht Dich bald seh’n. Am 5 <del rend="strikethrough">Au</del> Ojust komme ich auf zwei Minuten nach <rs type="place" ref="#pmb50">Wien</rs> – dann werd ich Dich aufsuchen. Spitzest Du schon das Federchen für das <anchor type="commentary" xml:id="KL602-1">
-                  <rs type="org" subtype="implied" ref="#pmb29209">Blättchen</rs>
-               </anchor>? – hi hi hi hi – die Leutchen werden nicht lachen. – Kind <rs type="person" subtype="implied" ref="#pmb2589">Mama</rs>
+            <p>Ich werde dick, dumm, faul gefrässig. Kind – ich möcht Dich bald seh’n. Am 5 <del rend="strikethrough">Au</del> Ojust komme ich auf zwei Minuten nach <rs type="place" ref="#pmb50">Wien</rs> – dann werd ich Dich aufsuchen. Spitzest Du schon das Federchen für das <anchor type="commentary" xml:id="KL602-1"/>
+               <rs type="org" subtype="implied" ref="#pmb29209">Blättchen</rs>
+               <note type="commentary" xml:id="KL602-1h">
+                  <p>Die ab <date instant="false">Oktober 1894</date> erscheinende Wochenschrift <rs type="org" ref="#pmb29209">Die Zeit</rs>.</p>
+               </note>? – hi hi hi hi – die Leutchen werden nicht lachen. – Kind <rs type="person" subtype="implied" ref="#pmb2589">Mama</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2591">Kristel</rs> und Dein geliebtes <rs type="person" ref="#pmb12621">Wiltsch</rs> grüßen Dich herzlich</p>
             <closer>noch mehr aber Dein<lb/>treuer Freund<lb/>

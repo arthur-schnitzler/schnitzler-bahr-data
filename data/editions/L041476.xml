@@ -13,11 +13,11 @@
             <title type="iso-date">1900-07-23</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -97,10 +97,19 @@
             <p>
                <gap reason="outOfScope"/>
             </p>
-            <p>Ich hab in <rs type="place" ref="#pmb182">Paris</rs> den Einacter <anchor type="commentary" xml:id="KL476-1">
-                  <rs type="work" ref="#pmb32163">Poil de Carotte</rs>
-               </anchor>, den Sie vielleicht am <rs type="place" ref="#pmb610">Theatre <rs type="person" ref="#pmb2211">Antoine</rs>
-               </rs> sehen können, zum Übersetzen erworben und habe mich mit dem Gedanken abgegeben, dass das vielleicht mit dem »<rs type="work" ref="#pmb30279">Thor und Tod</rs>« und allenfalls mit einem neuen <rs type="work" subtype="implied" ref="#pmb30625">Einacter</rs> den <rs type="person" ref="#pmb2121">Schnitzler</rs> geschrieben hat, einen anständigen Theaterabend geben könnte, auch mit sonst etwas drittem, denn <rs type="person" ref="#pmb2121">Schnitzlers</rs> Absichten kenn ich gar nicht. Das könnte für die beiden meinigen Stücke – das eigene und das übersetzte – natürlich recht ausgiebig nützlich sein, ebenso für die kleine <anchor type="commentary" xml:id="KL476-2">Buchausgabe</anchor> von »<rs type="work" ref="#pmb30279">Thor und Tod</rs>«, die schon das zweite fünfhundert überschritten hat.</p>
+            <p>Ich hab in <rs type="place" ref="#pmb182">Paris</rs> den Einacter <anchor type="commentary" xml:id="KL476-1"/>
+               <rs type="work" ref="#pmb32163">Poil de Carotte</rs>
+               <note type="commentary" xml:id="KL476-1h">
+                  <p>Die Übersetzung des Stücks von <rs type="person" ref="#pmb4460">Jules Renard</rs>
+               wurde unter dem Titel <rs type="work" ref="#pmb32163">Fuchs</rs> am <date instant="false">16. 2.
+                  1901</date> am <rs type="place" ref="#pmb14">Burgtheater</rs> uraufgeführt.</p>
+               </note>, den Sie vielleicht am <rs type="place" ref="#pmb610">Theatre <rs type="person" ref="#pmb2211">Antoine</rs>
+               </rs> sehen können, zum Übersetzen erworben und habe mich mit dem Gedanken abgegeben, dass das vielleicht mit dem »<rs type="work" ref="#pmb30279">Thor und Tod</rs>« und allenfalls mit einem neuen <rs type="work" subtype="implied" ref="#pmb30625">Einacter</rs> den <rs type="person" ref="#pmb2121">Schnitzler</rs> geschrieben hat, einen anständigen Theaterabend geben könnte, auch mit sonst etwas drittem, denn <rs type="person" ref="#pmb2121">Schnitzlers</rs> Absichten kenn ich gar nicht. Das könnte für die beiden meinigen Stücke – das eigene und das übersetzte – natürlich recht ausgiebig nützlich sein, ebenso für die kleine <anchor type="commentary" xml:id="KL476-2"/>Buchausgabe<note type="commentary" xml:id="KL476-2h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb30279">Der Thor und der Tod</rs> von <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs>. Erschienen im Verlage der <rs type="org" ref="#pmb29751">Insel</rs> bei <rs type="org">Schuster <c rendition="#kaufmannsund"/> Loeffler</rs>. Berlin SW. <date instant="false">1900</date>
+                     </bibl>.</p>
+               </note> von »<rs type="work" ref="#pmb30279">Thor und Tod</rs>«, die schon das zweite fünfhundert überschritten hat.</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

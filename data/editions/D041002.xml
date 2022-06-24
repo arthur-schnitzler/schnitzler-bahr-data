@@ -13,11 +13,11 @@
             <title type="iso-date">1892-02-10</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,7 +81,10 @@
             <p>In der <rs type="org" ref="#pmb29524">Mod. Kunst</rs>: <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb30261">über oesterr. Kunst</rs> – 3 Talente unter den Jungen, <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb2425">Dörmann</rs>, ich.– Ueber mich (er hatte sich vor ein paar Wochen schon entschuldigt, weil er damals <rs type="work" ref="#pmb29823">Märchen</rs> noch nicht gekannt hatte):</p>
-            <p>»<anchor type="commentary" xml:id="KD002-1">Da ist einmal A. S. ein geistr., zierl., sehr amüs. <anchor type="label" xml:id="LD002-1">Causeur</anchor>, ein bischen leichtsinnig in der Form, und nicht allzu gewissenhaft, vielerlei versuchend. Ich habe das Gefühl, daß er tiefer ist, als er sich gerne gibt und hinter seiner flotten Grazie schwere Leidenschaft verbirgt, die nur noch schüchtern und schamhaft ist, weil sie erst zu festen Gestalten reifen will.</anchor>«</p>
+            <p>»<anchor type="commentary" xml:id="KD002-1"/>Da ist einmal A. S. ein geistr., zierl., sehr amüs. <anchor type="label" xml:id="LD002-1">Causeur</anchor>, ein bischen leichtsinnig in der Form, und nicht allzu gewissenhaft, vielerlei versuchend. Ich habe das Gefühl, daß er tiefer ist, als er sich gerne gibt und hinter seiner flotten Grazie schwere Leidenschaft verbirgt, die nur noch schüchtern und schamhaft ist, weil sie erst zu festen Gestalten reifen will.<note type="commentary" xml:id="KD002-1h">
+                  <p>
+                     <ptr target="LT054-1"/>.</p>
+               </note>«</p>
          </div>
       </body>
    </text>

@@ -13,11 +13,11 @@
             <title type="iso-date">1899-03-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,7 +124,10 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Hermann, </salute>besten Dank für deine freundl <anchor type="commentary" xml:id="KL025-1">Gratulation</anchor>. Bei dieser Gelegenheit:</p>
+               <salute>Lieber Hermann, </salute>besten Dank für deine freundl <anchor type="commentary" xml:id="KL025-1"/>Gratulation<note type="commentary" xml:id="KL025-1h">
+                  <p>Nicht erhalten. Am <date instant="false">1. 3. 1899</date> Premiere der drei Einakter <rs type="work" ref="#pmb30403">Paracelsus</rs>, <rs type="work" ref="#pmb29845">Die
+                  Gefährtin</rs>, <rs type="work" ref="#pmb29843">Der grüne Kakadu</rs> am <rs type="place" ref="#pmb14">Burgtheater</rs>.</p>
+               </note>. Bei dieser Gelegenheit:</p>
             <p>1) kannst du die »<hi rend="underline" n="1">
                   <rs type="work" ref="#pmb29845">Gefährtin</rs>
                </hi>«, da <rs type="person" ref="#pmb11740">Hofmannsthal</rs>’s <rs type="work" ref="#pmb29849">Sobeïde</rs> wegfällt, gleich nach <rs type="person" ref="#pmb2167">Salten</rs> bringen?</p>

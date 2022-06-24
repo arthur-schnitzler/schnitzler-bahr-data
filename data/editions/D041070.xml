@@ -13,11 +13,11 @@
             <title type="iso-date">1911-09-11</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,9 +77,12 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1911-09-11" n="2">11/9</date> Das Begräbnis unsrer <rs type="person" subtype="implied" ref="#pmb12701">Mutter</rs>. Schöner Herbsttag. <rs type="person" ref="#pmb10815">Bahr</rs> erzählt mir daß er nach <rs type="place" ref="#pmb30">Salzburg</rs> übersiedeln wird (»<anchor type="commentary" xml:id="KD070-1">
-                  <rs type="work" subtype="implied" ref="#pmb29863">Stadt des Trostes</rs>
-               </anchor>«).– Die <rs type="place" ref="#pmb35512">ungarischen</rs> Verwandten.– Das Trauermahl.–</p>
+               <date when="1911-09-11" n="2">11/9</date> Das Begräbnis unsrer <rs type="person" subtype="implied" ref="#pmb12701">Mutter</rs>. Schöner Herbsttag. <rs type="person" ref="#pmb10815">Bahr</rs> erzählt mir daß er nach <rs type="place" ref="#pmb30">Salzburg</rs> übersiedeln wird (»<anchor type="commentary" xml:id="KD070-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29863">Stadt des Trostes</rs>
+               <note type="commentary" xml:id="KD070-1h">
+                  <p>
+                     <ptr target="KT020-1"/> und <ptr target="KL249-1"/>.</p>
+               </note>«).– Die <rs type="place" ref="#pmb35512">ungarischen</rs> Verwandten.– Das Trauermahl.–</p>
             <p>Das Nachmittagsgespräch mit Dr. <rs type="person" ref="#pmb2170">Geiringer</rs> über die Nachlaßverwaltung.–</p>
             <p>Nach Hause. Das völlige Unverständnis <rs type="person" ref="#pmb12692">Heini</rs>s, das mir fast etwas schmerzliches hat.–</p>
             <p>

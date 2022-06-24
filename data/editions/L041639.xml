@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-02</title>
             <author ref="pmb12968">Trebitsch, Siegfried</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -111,8 +111,13 @@
             <p>Morgen will ich mich mit <rs type="person" ref="#pmb12140">Löwenfeld</rs> Ihretwegen in Verbindung setzen! an den <rs type="work" ref="#pmb30127">Star</rs>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">denk’ ich</hi>!! aber vorher muss die <rs type="person" ref="#pmb2299">Sorma</rs> wohl frei und froh über einen Erfolg, den sie mir verdankt.</p>
-            <p>1.) <rs type="person" ref="#pmb10986">Brahm</rs> wird <hi rend="underline" n="1">im Mai</hi> in <rs type="place" ref="#pmb50">Wien</rs> gastiren, da die <anchor type="commentary" xml:id="KL639-1">
-                  <rs type="work" ref="#pmb29827">Weber</rs> nun frei sind</anchor>. Man hört, dass er außer »<rs type="work" ref="#pmb29983">Meister</rs>« und <rs subtype="local" type="work" ref="#pmb32282">Thal des L.</rs> auch noch den <rs type="work" ref="#pmb29985">Einsamen Weg</rs> spielen will.<pb/>
+            <p>1.) <rs type="person" ref="#pmb10986">Brahm</rs> wird <hi rend="underline" n="1">im Mai</hi> in <rs type="place" ref="#pmb50">Wien</rs> gastiren, da die <anchor type="commentary" xml:id="KL639-1"/>
+               <rs type="work" ref="#pmb29827">Weber</rs> nun frei sind<note type="commentary" xml:id="KL639-1h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> war daran beteiligt, dass eine erste <rs type="place" ref="#pmb41240">österreichische</rs> Aufführung von <rs type="person" ref="#pmb11617">Gerhart Hauptmann</rs>s <rs type="work" ref="#pmb29827">Die
+                  Weber</rs> möglich wurde. <bibl >Vgl. <rs type="work">Bw</rs> Bahr/Holz
+                  70–72</bibl>.</p>
+               </note>. Man hört, dass er außer »<rs type="work" ref="#pmb29983">Meister</rs>« und <rs subtype="local" type="work" ref="#pmb32282">Thal des L.</rs> auch noch den <rs type="work" ref="#pmb29985">Einsamen Weg</rs> spielen will.<pb/>
             </p>
             <p>2.) <rs type="person" ref="#pmb12504">Reinhardt</rs> will trotzdem 14 Tage später nach <rs type="place" ref="#pmb50">Wien</rs> ans <rs type="place" ref="#pmb37">Wiedner Theater</rs>, aber der will ja täglich was andres.</p>
             <p>3.) <rs type="person" ref="#pmb11617">Hauptmann</rs> ist schon wieder wohl und in <hi rend="underline" n="1">

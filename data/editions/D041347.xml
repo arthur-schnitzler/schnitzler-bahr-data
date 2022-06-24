@@ -13,11 +13,11 @@
             <title type="iso-date">1922-06-25</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -86,7 +86,11 @@
             <p>
                <rs type="person" ref="#pmb10765">Poldi Andrian</rs> und <rs type="person" ref="#pmb12254">Robert Michel</rs>. <rs type="person" ref="#pmb10765">Andrian</rs> über seine finanz. Transactionen, sein neues Haus in <rs type="place" ref="#pmb415">Aussee</rs>;– läßt sich von mir über musikal. Dinge aufklären (in <rs type="place" ref="#pmb182">Paris</rs> hat ihm ein neuer bekannter <rs type="person" subtype="implied" ref="#pmb27731">Componist</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb12743">Schönberg</rs> als den größten genannt, den das »Schwein« <rs type="person" ref="#pmb12870">Strauß</rs> nicht aufkommen lasse).– Über <rs type="person" ref="#pmb10815">Bahr</rs>, mit dem <rs type="person" ref="#pmb10765">A.</rs> ganz auseinander;– <rs type="person" ref="#pmb10815">Bahrs</rs> Wurzel »der <anchor type="commentary" xml:id="KD347-1">Lausbub</anchor>«.–</p>
+               <rs type="person" ref="#pmb12743">Schönberg</rs> als den größten genannt, den das »Schwein« <rs type="person" ref="#pmb12870">Strauß</rs> nicht aufkommen lasse).– Über <rs type="person" ref="#pmb10815">Bahr</rs>, mit dem <rs type="person" ref="#pmb10765">A.</rs> ganz auseinander;– <rs type="person" ref="#pmb10815">Bahrs</rs> Wurzel »der <anchor type="commentary" xml:id="KD347-1"/>Lausbub<note type="commentary" xml:id="KD347-1h">
+                  <p>
+                     <ptr target="KD065-2"/>, <ptr target="KD326-2"/>.<!-- 1922 -->
+            </p>
+               </note>«.–</p>
          </div>
       </body>
    </text>

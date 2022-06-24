@@ -13,11 +13,11 @@
             <title type="iso-date">1896-09-19</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,7 +104,12 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Arthur, </salute>anbei das <anchor type="commentary" xml:id="KL361-1">gewünschte Heft</anchor>, das ich mir jedoch bei Gelegenheit zu retournieren bitte, es gehört der Redaction. Bitte, schreib mir die Adresse von <rs type="person" ref="#pmb10863">Richard</rs>. Vergiß nicht, daß Du mir eine Novelle versprochen hast, groß oder klein,<pb/> aber gewiß!</p>
+               <salute>Lieber Arthur, </salute>anbei das <anchor type="commentary" xml:id="KL361-1"/>gewünschte Heft<note type="commentary" xml:id="KL361-1h">
+                  <p>Möglicherweise <rs type="org" ref="#pmb29206">Cosmopolis</rs>. <rs type="person" ref="#pmb2121">Schnitzler</rs> erwähnt im <bibl >
+                        <rs type="work">Tb</rs>
+                     </bibl> am <date instant="false">20.</date> – dem mutmaßlichen Empfangstag – kritische Aussagen aus
+               dem August-Heft über <rs type="work" ref="#pmb29917">Liebelei</rs>.</p>
+               </note>, das ich mir jedoch bei Gelegenheit zu retournieren bitte, es gehört der Redaction. Bitte, schreib mir die Adresse von <rs type="person" ref="#pmb10863">Richard</rs>. Vergiß nicht, daß Du mir eine Novelle versprochen hast, groß oder klein,<pb/> aber gewiß!</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

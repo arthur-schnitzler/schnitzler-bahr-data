@@ -13,11 +13,11 @@
             <title type="iso-date">1901-06-26</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -151,12 +151,21 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>mein lieber Hermann, </salute>ich danke dir herzlich für den neuen Beweis von Sympathie, den du mir mit deinem lieben Brief vom <date>22.</date> gegeben hast. Über die Sache selbst ist ja kaum was zu sagen – selten lag ein Fall klarer zu Tage. Wahrhaftig – sie haben meinen <rs type="work" ref="#pmb29853">Lieutenant Gustl</rs> nicht verdient! Ich seh es ein. Hast du vielleicht neulich den  <anchor type="commentary" xml:id="KL036-2">
-                  <rs type="work" subtype="implied" ref="#pmb32031">Artikel</rs>
-               </anchor> in der <rs type="org" ref="#pmb29304">Reichswehr</rs> gelesen? Ich glaube, in dem steht das großartigste an Dummheit, was in dieser Affaire geleistet wurde. Nemlich: ich hätte meine<pb/> Charge nur deshalb nicht vor 5 Jahren (wie es mein Recht gewesen) nieder gelegt – <subst>
+               <salute>mein lieber Hermann, </salute>ich danke dir herzlich für den neuen Beweis von Sympathie, den du mir mit deinem lieben Brief vom <date>22.</date> gegeben hast. Über die Sache selbst ist ja kaum was zu sagen – selten lag ein Fall klarer zu Tage. Wahrhaftig – sie haben meinen <rs type="work" ref="#pmb29853">Lieutenant Gustl</rs> nicht verdient! Ich seh es ein. Hast du vielleicht neulich den  <anchor type="commentary" xml:id="KL036-2"/>
+               <rs type="work" subtype="implied" ref="#pmb32031">Artikel</rs>
+               <note type="commentary" xml:id="KL036-2h">
+                  <p>Obwohl ohne Verfasserangabe erschienen, ist <rs type="work" ref="#pmb32031">»Lieutenant Gustl«</rs> (<bibl >
+                        <rs type="org" ref="#pmb29304">Reichswehr</rs>, Jg. 14, Nr. 2645, Morgenblatt,
+                  S. 1–2</bibl>) durch die Position als Editorial dem Herausgeber <rs type="person" ref="#pmb2207">Davis</rs> zuzuschreiben, was <rs type="person" ref="#pmb10815">Bahr</rs> auch in der Folge (<ptr target="LL238-1"/>) tut.</p>
+               </note> in der <rs type="org" ref="#pmb29304">Reichswehr</rs> gelesen? Ich glaube, in dem steht das großartigste an Dummheit, was in dieser Affaire geleistet wurde. Nemlich: ich hätte meine<pb/> Charge nur deshalb nicht vor 5 Jahren (wie es mein Recht gewesen) nieder gelegt – <subst>
                   <del rend="overwritten">,</del>
                   <add place="inline">weil</add>
-               </subst> ich eben doch gern gelegentlich in Uniform <add place="below">u</add> mit dem <anchor type="commentary" xml:id="KL036-1">Stürmer</anchor> paradirt! – Ich wollte einen Preis von einer Million ausschreiben für den, der mich seit meinem letzten Hauptrapport in Uniform gesehen – aber wer weiss – unter diesen Leuten findet sich am Ende auch einer, der es beschwören kann.</p>
+               </subst> ich eben doch gern gelegentlich in Uniform <add place="below">u</add> mit dem <anchor type="commentary" xml:id="KL036-1"/>Stürmer<note type="commentary" xml:id="KL036-1h">
+                  <p>Mütze, die durch unterschiedliche Ausprägungen über die Zugehörigkeit zu einer
+               bestimmten Burschenschaft Auskunft gab. <rs type="person" ref="#pmb2121">Schnitzler</rs> gibt den <rs type="work" subtype="implied" ref="#pmb32031">Artikel</rs> jedoch in diesem Detail falsch wieder, darin wird von
+                  »<quote>Federhut, Säbel und Porte-<hi rend="antiqua">épée</hi>
+                     </quote>« gesprochen.</p>
+               </note> paradirt! – Ich wollte einen Preis von einer Million ausschreiben für den, der mich seit meinem letzten Hauptrapport in Uniform gesehen – aber wer weiss – unter diesen Leuten findet sich am Ende auch einer, der es beschwören kann.</p>
             <p>Laß mich bei dieser Gelegenheit auch einmal sagen, wie sehr es<pb/> mich freut, dass wir nun beide über die <anchor type="label" xml:id="LL036-1">zeitweiligen Entfremdungen</anchor> hinaus sind, die ja wahrscheinlich bei Naturen wie den unsern entwicklungsphysiologisch bedingt und daher nothwendg sind (du siehst ich bin immer »wissenschaftlich«.) Nun ist das Alter der M<damage agent="hole">
                   <supplied>iss</supplied>
                </damage>verständnisse wohl endgiltig für uns vorbei und wir sind so weit, dass wir einander – vielleicht auch ein bischen um unserer Fehler willen – Freunde sein und<pb/> bleiben dürfen.</p>

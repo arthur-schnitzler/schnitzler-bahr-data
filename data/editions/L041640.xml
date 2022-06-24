@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-06</title>
             <author ref="pmb12968">Trebitsch, Siegfried</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -97,15 +97,22 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Liebster Freund Bahr! </salute>ich danke Ihnen für Ihr Mitgefühl. Also <anchor type="commentary" xml:id="KL640-2">
-                  <hi rend="underline" n="1">Mittwoch</hi>
-               </anchor> ist die <damage agent="hole">
+               <salute>Liebster Freund Bahr! </salute>ich danke Ihnen für Ihr Mitgefühl. Also <anchor type="commentary" xml:id="KL640-2"/>
+               <hi rend="underline" n="1">Mittwoch</hi>
+               <note type="commentary" xml:id="KL640-2h">
+                  <p>
+                     <date instant="false">10. 2. 1904</date>.</p>
+               </note> ist die <damage agent="hole">
                   <supplied>Prem</supplied>
                </damage>ière unumstößlich sicher, wenn kein Malheur geschieht. Die <rs type="person" ref="#pmb2299">Sorma</rs> ist entzückend, <rs type="person" ref="#pmb12504">Reinhardt</rs> ein merkwürdig guter <rs type="work" subtype="implied" ref="#pmb29841">
                   <rs type="person" subtype="implied" ref="#pmb4769">Napoleon</rs>
-               </rs>. Man erwartet einen großen Erfolg! Gott geb’s. ich habe Angst vor <anchor type="commentary" xml:id="KL640-3">
-                  <rs type="person" ref="#pmb3386">Mautner</rs>
-               </anchor>, überhaupt vor der Presse; möchte nicht wie der erste beste Übersetzer <rs type="org" ref="#pmb29711">Ahn</rs>’s behandelt werden! Bin sehr enerviert. Mit der <rs type="person" ref="#pmb2299">Sorma</rs> steh ich täglich besser, werde bald nach glücklicher Première, zu der sie wieder huldigende Blumen bekommt, wegen »<rs type="work" ref="#pmb30127">Star</rs>« <hi rend="underline" n="1">wirksam</hi> zu sein versuchen, schade dass <rs type="person" ref="#pmb3025">Kahane</rs> das schon <hi rend="underline" n="1">ungeschickt</hi> versucht hat, wie ich hörte. <rs type="person" ref="#pmb12140">Löwenfeld</rs> habe ich geschrieben, wenn ich nicht heute noch Antwort bekomme, so werde ich ihn morgen Sonntag einfach besuchen. Abends bin ich mit <rs type="person" ref="#pmb2121">Schnitzler</rs> bei <rs type="person" ref="#pmb11324">Fischer</rs>; den herrlichen <rs type="work" subtype="implied" ref="#pmb29985">Sala</rs> spielt <rs type="person" ref="#pmb10844">Bassermann</rs>, <rs type="work" subtype="implied" ref="#pmb29985">Fichtner</rs>
+               </rs>. Man erwartet einen großen Erfolg! Gott geb’s. ich habe Angst vor <anchor type="commentary" xml:id="KL640-3"/>
+               <rs type="person" ref="#pmb3386">Mautner</rs>
+               <note type="commentary" xml:id="KL640-3h">
+                  <p>
+                     <rs type="person" ref="#pmb3386">Fritz Mauthner</rs> war Kritiker und Redakteur des
+                  <rs type="org" ref="#pmb29329">Berliner Tageblatts</rs>.</p>
+               </note>, überhaupt vor der Presse; möchte nicht wie der erste beste Übersetzer <rs type="org" ref="#pmb29711">Ahn</rs>’s behandelt werden! Bin sehr enerviert. Mit der <rs type="person" ref="#pmb2299">Sorma</rs> steh ich täglich besser, werde bald nach glücklicher Première, zu der sie wieder huldigende Blumen bekommt, wegen »<rs type="work" ref="#pmb30127">Star</rs>« <hi rend="underline" n="1">wirksam</hi> zu sein versuchen, schade dass <rs type="person" ref="#pmb3025">Kahane</rs> das schon <hi rend="underline" n="1">ungeschickt</hi> versucht hat, wie ich hörte. <rs type="person" ref="#pmb12140">Löwenfeld</rs> habe ich geschrieben, wenn ich nicht heute noch Antwort bekomme, so werde ich ihn morgen Sonntag einfach besuchen. Abends bin ich mit <rs type="person" ref="#pmb2121">Schnitzler</rs> bei <rs type="person" ref="#pmb11324">Fischer</rs>; den herrlichen <rs type="work" subtype="implied" ref="#pmb29985">Sala</rs> spielt <rs type="person" ref="#pmb10844">Bassermann</rs>, <rs type="work" subtype="implied" ref="#pmb29985">Fichtner</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb12530">Rittner</rs>! Am 25. ist die »<rs type="work" ref="#pmb30645">Candida</rs>« und noch vor 1. März der »<rs type="work" ref="#pmb29961">Teufelskerl</rs>« mit <rs type="person" ref="#pmb3201">Harry Walden</rs>, <rs type="person" ref="#pmb4712">Pittschau</rs> und <hi rend="underline" n="1">vielleicht?</hi> als Gast »<rs type="person" ref="#pmb12936">Willy Thaller</rs>
                <supplied>«</supplied> (den General). ist das nicht zu rasch hinter <rs type="work" ref="#pmb30645">Candida</rs>??? kann das schaden???? Jedenfalls kann ich erst dann abreisen. Will bis <date>20 März</date> in <rs type="place" ref="#pmb50">Wien</rs> bleiben (<rs type="work" cert="low" subtype="implied" ref="#pmb32079">Stück</rs> arbeiten!) (falls ich hier gar nichts arbeiten kann) dann über <hi rend="underline" n="1">
@@ -119,16 +126,22 @@
                   <supplied>der</supplied>
                </damage>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL640-1">nächsten Hefte</anchor> meine Novelle »<rs type="work" ref="#pmb30183">Das verkaufte Lächeln</rs>«, <rs type="person" ref="#pmb11324">Fischer</rs> hat sie <rs type="person" ref="#pmb2914">Bie</rs>
+               <anchor type="commentary" xml:id="KL640-1"/>nächsten Hefte<note type="commentary" xml:id="KL640-1h">
+                  <p>Nicht in der <rs type="org" ref="#pmb29212">Neuen Rundschau</rs> erschienen.</p>
+               </note> meine Novelle »<rs type="work" ref="#pmb30183">Das verkaufte Lächeln</rs>«, <rs type="person" ref="#pmb11324">Fischer</rs> hat sie <rs type="person" ref="#pmb2914">Bie</rs>
                <space unit="chars" quantity="1"/> sehr empfohlen – es würde mich sehr freuen, namentlich jetzt, wo ich nur als Interpret <rs type="person" ref="#pmb2381">Shaw</rs>’s zu Worte komme. Aber bitte, es ist durchaus noch nicht <hi rend="underline" n="1">bestimmt</hi>. ich werde Ihnen Donnerstag und Sonntag früh zuverlässlich telegrafiren.</p>
             <closer>Herzlichst und treu<space unit="chars" quantity="5"/>Ihr<lb/>
                <signed>Trebitsch</signed>
             </closer>
             <postscript>
                <p>
-                  <rs type="place" ref="#pmb168">Berlin</rs>, <date>6. 2. 04</date>. Heute ist <rs type="person" ref="#pmb10928">Bierbaum</rs>s »<anchor type="commentary" xml:id="KL640-4">
-                     <rs type="work" ref="#pmb30223">Stella</rs>
-                  </anchor>«</p>
+                  <rs type="place" ref="#pmb168">Berlin</rs>, <date>6. 2. 04</date>. Heute ist <rs type="person" ref="#pmb10928">Bierbaum</rs>s »<anchor type="commentary" xml:id="KL640-4"/>
+                  <rs type="work" ref="#pmb30223">Stella</rs>
+                  <note type="commentary" xml:id="KL640-4h">
+                     <p>
+                        <rs type="work" ref="#pmb30223">Stella und Antonie</rs>, am <date instant="false">6. 2. 1904</date>
+               im <rs type="place" ref="#pmb738">Berliner Theater</rs>.</p>
+                  </note>«</p>
                <p>
                   <rs type="person" ref="#pmb2914">Bie</rs>, <rs type="person" ref="#pmb11324">Fischer</rs>, <rs type="person" ref="#pmb11246">Elias</rs>, etc etc etc grüßen Sie immerzu.</p>
             </postscript>

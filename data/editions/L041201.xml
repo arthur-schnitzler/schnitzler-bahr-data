@@ -14,11 +14,11 @@
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -137,9 +137,13 @@
             </address>
          </div>
          <div type="writingSession" n="1">
-            <p>Das was Sie über’n <anchor type="commentary" xml:id="KL201-1">
-                  <rs type="work" subtype="implied" ref="#pmb32332">Automobil</rs>
-               </anchor> geschrieben haben, war <hi rend="underline" n="1">sehr</hi> gut.</p>
+            <p>Das was Sie über’n <anchor type="commentary" xml:id="KL201-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32332">Automobil</rs>
+               <note type="commentary" xml:id="KL201-1h">
+                  <p>In <rs type="work" ref="#pmb32332">Entgegen</rs> (<bibl >
+                        <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>, Jg. 36, Nr. 179,
+                     <date instant="false">1. 7. 1902</date>, S. 1–2</bibl>) schildert <rs type="person" ref="#pmb10815">Bahr</rs> ein Automobilrennen.</p>
+               </note> geschrieben haben, war <hi rend="underline" n="1">sehr</hi> gut.</p>
             <p>
                <date>3 VII 02</date>.</p>
             <closer>Viele Grüße<lb/>

@@ -13,11 +13,11 @@
             <title type="iso-date">1922-05-31</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,9 +79,15 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1922-05-31" n="01">31.</date> K.– Schön – An <rs type="person" ref="#pmb13212">Zweig</rs>, der mir Versteigerung von mir gestohlenen Briefen <rs type="person" ref="#pmb4026">Bourget</rs>s, <rs type="person" ref="#pmb13082">Karlweis</rs>’ u <rs type="person" ref="#pmb2121">Schnitzler</rs>s im <rs type="place" ref="#pmb50">Wien</rs>er <rs type="org" ref="#pmb29803">Dorotheum</rs> meldet. An <rs type="org" ref="#pmb29803">Dorotheum</rs>. An <rs type="person" ref="#pmb11927">Kippenberg</rs>: »<anchor type="commentary" xml:id="KD599-1">
-                  <rs type="work" ref="#pmb32534">Das alte Wahre!</rs>
-               </anchor>« – <rs type="place" ref="#pmb511">Alte Pinakothek</rs>; bei D<hi rend="superscript">r</hi>
+               <date when="1922-05-31" n="01">31.</date> K.– Schön – An <rs type="person" ref="#pmb13212">Zweig</rs>, der mir Versteigerung von mir gestohlenen Briefen <rs type="person" ref="#pmb4026">Bourget</rs>s, <rs type="person" ref="#pmb13082">Karlweis</rs>’ u <rs type="person" ref="#pmb2121">Schnitzler</rs>s im <rs type="place" ref="#pmb50">Wien</rs>er <rs type="org" ref="#pmb29803">Dorotheum</rs> meldet. An <rs type="org" ref="#pmb29803">Dorotheum</rs>. An <rs type="person" ref="#pmb11927">Kippenberg</rs>: »<anchor type="commentary" xml:id="KD599-1"/>
+               <rs type="work" ref="#pmb32534">Das alte Wahre!</rs>
+               <note type="commentary" xml:id="KD599-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32534">Das alte Wahre</rs>. In: <rs type="org" ref="#pmb29351">Neue
+                     Freie Presse</rs>, Nr. 20779, <date instant="false">6. 7. 1922</date>, Morgenblatt,
+                  S. 1–3</bibl>.</p>
+               </note>« – <rs type="place" ref="#pmb511">Alte Pinakothek</rs>; bei D<hi rend="superscript">r</hi>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb4726">Dörnhöffer</rs>. – »<rs type="work" ref="#pmb32534">Das alte Wahre</rs>« für <rs type="org" ref="#pmb29351">Neue Fr.</rs> – <rs type="place" ref="#pmb754">Bonifaz</rs>andacht. – Baron <rs type="person" ref="#pmb4729">Gebsattel</rs>. Ins Eucharistische auslaufendes Abendgespräch.</p>
          </div>

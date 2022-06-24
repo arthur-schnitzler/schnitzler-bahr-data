@@ -13,11 +13,11 @@
             <title type="iso-date">1907-04-26</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,7 +105,12 @@
                </dateline>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Möchtest Du so lieb sein, mir auch noch den <rs type="work" ref="#pmb30011">zweiten Band Brehm</rs> zu schicken? Du kriegst dann beide zusammen in ein paar Tagen zurück. Ich hoffe nun in der nächsten Woche, wahrscheinlich Dienstag oder Mittwoch, meine <anchor type="commentary" xml:id="KL308-1">Forschungsreise</anchor> nach <rs type="place" ref="#pmb44246">Fiume</rs> und <rs type="place" ref="#pmb873">Triest</rs> zu machen. Kommst Du mit?</p>
+            <p>Möchtest Du so lieb sein, mir auch noch den <rs type="work" ref="#pmb30011">zweiten Band Brehm</rs> zu schicken? Du kriegst dann beide zusammen in ein paar Tagen zurück. Ich hoffe nun in der nächsten Woche, wahrscheinlich Dienstag oder Mittwoch, meine <anchor type="commentary" xml:id="KL308-1"/>Forschungsreise<note type="commentary" xml:id="KL308-1h">
+                  <p>Möglicherweise eine doppelte Anspielung: Einerseits auf sein Interesse für die
+               südlichen österreichischen Provinzen, andererseits auf die Suche nach einer
+               Sommervilla. Er traf am <date instant="false">3. 5. 1907</date>, also später als angekündigt, in <rs type="place" ref="#pmb873">Triest</rs> ein und kündigt am <date instant="false">8.</date> die
+               Weiterfahrt nach <rs type="place" ref="#pmb829">Sistiana</rs> an.</p>
+               </note> nach <rs type="place" ref="#pmb44246">Fiume</rs> und <rs type="place" ref="#pmb873">Triest</rs> zu machen. Kommst Du mit?</p>
             <closer>Mit den besten Grüssen an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>,<lb/>herzlichst<lb/>
                <signed>
                   <handShift scribe="pmb10815"/>HermannB</signed>

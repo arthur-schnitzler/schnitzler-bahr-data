@@ -13,11 +13,11 @@
             <title type="iso-date">1918-10-19</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,7 +81,10 @@
             <p>Bei <rs type="person" ref="#pmb11289">Faesi</rs> im <rs type="place" ref="#pmb40384">Bristol</rs>, der noch liegt. Politisches.</p>
             <p>Bei <rs type="person" ref="#pmb12698">Julius</rs>. <rs type="person" ref="#pmb24430">Karl</rs> aus dem Feld ein paar Tage hier.– Voraussichten, Möglichkeiten von Unruhen in <rs type="place" ref="#pmb50">Wien</rs>. <rs type="person" ref="#pmb12698">Julius</rs> räth, einzelnes in Sicherheit zu bringen. Welche Zeit!– </p>
             <p>
-               <rs type="person" ref="#pmb10765">Poldi Andrian</rs> bat mich teleph. »ein für alle Mal« in seine Loge zu den Generalproben. <anchor type="commentary" xml:id="KD557-1">Lehne ab</anchor>; ob er von meinem Brief an <rs type="person" ref="#pmb10815">Bahr</rs> nichts wisse,– er behauptet (fälschlich) nein.– <rs type="person" ref="#pmb12870">R. Strauss</rs> (tel. <rs type="person" ref="#pmb2456">Specht</rs>) hat von der <rs type="place" subtype="implied" ref="#pmb14">Intendanz</rs> den Wink bekommen – keinen Juden zu engagiren!– </p>
+               <rs type="person" ref="#pmb10765">Poldi Andrian</rs> bat mich teleph. »ein für alle Mal« in seine Loge zu den Generalproben. <anchor type="commentary" xml:id="KD557-1"/>Lehne ab<note type="commentary" xml:id="KD557-1h">
+                  <p>Am <date instant="false">14. 11. 1918</date> besucht er wieder eine Generalprobe, <rs type="person" ref="#pmb11461">Goethe</rs>: <rs type="work" ref="#pmb31585">Die natürliche
+                  Tochter</rs>.</p>
+               </note>; ob er von meinem Brief an <rs type="person" ref="#pmb10815">Bahr</rs> nichts wisse,– er behauptet (fälschlich) nein.– <rs type="person" ref="#pmb12870">R. Strauss</rs> (tel. <rs type="person" ref="#pmb2456">Specht</rs>) hat von der <rs type="place" subtype="implied" ref="#pmb14">Intendanz</rs> den Wink bekommen – keinen Juden zu engagiren!– </p>
             <p>Kinder, mit Ruthen, am <rs type="place" ref="#pmb113">Türkenschanzpark</rs>, im Takt schlagend: »Noch ein Jud – noch ein Jud.« (<rs type="person" ref="#pmb2534">Naema B.-H.</rs>)– </p>
             <p>Zum Thee <rs type="person" ref="#pmb12711">Schott</rs>.– </p>
             <p>Mit <rs type="person" ref="#pmb12692">Heini</rs>

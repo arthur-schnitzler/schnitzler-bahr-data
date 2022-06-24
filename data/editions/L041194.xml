@@ -13,11 +13,11 @@
             <title type="iso-date">1936-02-29</title>
             <author ref="pmb10818">Bahr-Mildenburg, Anna</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,10 @@
             <opener>
                <dateline rend="right">
                   <rs type="place" ref="#pmb45258">München</rs>, den <date>29. Februar 1936</date>.</dateline>
-               <salute rend="center">Sehr geehrter Herr <anchor type="commentary" xml:id="KL194-2">Doktor</anchor>!</salute>
+               <salute rend="center">Sehr geehrter Herr <anchor type="commentary" xml:id="KL194-2"/>Doktor<note type="commentary" xml:id="KL194-2h">
+                     <p>
+                        <rs type="person" ref="#pmb12692">Heinrich</rs> war nicht promoviert.</p>
+                  </note>!</salute>
             </opener>
             <p>Es wird Ihnen mein Anliegen wahrscheinlich auch schon von <rs type="person" ref="#pmb11054">Erhard Buschbeck</rs>, Dramaturg des <rs type="place" ref="#pmb14">Burgtheaters</rs> in <rs type="place" ref="#pmb50">Wien</rs>, übermittelt worden sein, nämlich: mir die Briefe meines <rs type="person" subtype="implied" ref="#pmb10815">Mannes</rs> an Ihren verehrten <rs type="person" subtype="implied" ref="#pmb2121">Vater</rs> für einige Zeit zur Abschrift zu überlassen, oder mir sie schon in Abschrift zu senden. Sie können sich denken, dass in diesem Material, das ich noch selbst für später einmal, wer weiss wieviel später, zusammensammle, um das Werk <rs type="person" ref="#pmb10815">Hermann Bahr</rs> neu erstehen zu lassen, die Briefe <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> nicht fehlen dürfen. Denn ich kann immer wieder in Tagebüchern, Briefen und Schriften, der tiefen Verbundenheit begegnen zwischen den beiden allzu früh Dahingegangenen. Lassen Sie mich also Sie nicht umsonst gebeten haben und empfangen Sie schon heute für Ihre Mühe wärmsten Dank von</p>
             <closer>
@@ -117,7 +120,10 @@
             </closer>
             <postscript>
                <p>
-                  <handShift medium="typewriter"/>Anlage: 1 <anchor type="commentary" xml:id="KL194-1">Freikarte</anchor>.</p>
+                  <handShift medium="typewriter"/>Anlage: 1 <anchor type="commentary" xml:id="KL194-1"/>Freikarte<note type="commentary" xml:id="KL194-1h">
+                     <p>Unklar. Weder stand in <rs type="place" ref="#pmb50">Wien</rs> ein Theaterstück <rs type="person" ref="#pmb10815">Bahrs</rs> auf dem Spielplan, noch war ein Auftritt
+               von ihr angesetzt.</p>
+                  </note>.</p>
             </postscript>
          </div>
       </body>

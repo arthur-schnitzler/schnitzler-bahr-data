@@ -14,11 +14,11 @@
             <title type="iso-date">1899-11-26</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="016"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A7E-A</idno>
          </publicationStmt>
@@ -83,7 +83,7 @@
             <head>Theater und Kunst.</head>
             <head type="sub">
                <rs type="place" ref="#pmb14">Burgtheater</rs>.</head>
-            <p part="N">Als Fritz Lobheimer in der »<rs type="work" ref="#pmb29917">
+            <p>Als Fritz Lobheimer in der »<rs type="work" ref="#pmb29917">
                   <hi rend="spaced_out">Liebelei</hi>
                </rs>« hat Herr <rs type="person" ref="#pmb2249">
                   <hi rend="spaced_out">Korff</hi>

@@ -13,11 +13,11 @@
             <title type="iso-date">1911-12-27</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -109,10 +109,12 @@
                   <rs type="work" ref="#pmb29931">Mizzi</rs>
                </hi> wollten sich nicht recht vertragen, stießen sich in der Zeit und im Raum. Deshalb hab ich mich entschließen müssen, von dieser Kombination abzusehen und eine andere zu unternehmen. Gleich nach dem <rs type="person" ref="#pmb10815">Bahr</rs> denke ich an die <hi rend="italic">
                   <rs type="work" ref="#pmb30235">Erde</rs>
-               </hi> von <anchor type="commentary" xml:id="KL561-1">
-                  <rs type="person" ref="#pmb12749">Schönherr</rs> zu gehen, die für uns Novität ist und daran – Reiz e contrario – die <hi rend="italic">
-                     <rs type="work" ref="#pmb29931">Mizzi</rs>
-                  </hi> zu fügen</anchor>. Die Zusammenstellung hat ja wohl zuerst etwas Frappierendes, aber ich halte sie für günstig und praktisch, »<rs type="place" ref="#pmb41240">österreichischer</rs> Abend«, oder von <rs type="place" ref="#pmb134">Zill im Zillertal</rs> bis <rs type="place" ref="#pmb173">Rodaun</rs>.</p>
+               </hi> von <anchor type="commentary" xml:id="KL561-1"/>
+               <rs type="person" ref="#pmb12749">Schönherr</rs> zu gehen, die für uns Novität ist und daran – Reiz e contrario – die <hi rend="italic">
+                  <rs type="work" ref="#pmb29931">Mizzi</rs>
+               </hi> zu fügen<note type="commentary" xml:id="KL561-1h">
+                  <p>Premiere in dieser Kombination am <date instant="false">30. 1. 1912</date>.</p>
+               </note>. Die Zusammenstellung hat ja wohl zuerst etwas Frappierendes, aber ich halte sie für günstig und praktisch, »<rs type="place" ref="#pmb41240">österreichischer</rs> Abend«, oder von <rs type="place" ref="#pmb134">Zill im Zillertal</rs> bis <rs type="place" ref="#pmb173">Rodaun</rs>.</p>
             <p>
                <rs type="person" ref="#pmb28635">Boas</rs> rät mir Ausspannen und Höhenluft, so daß ich doch mit einer Januar- <rs type="place" ref="#pmb189">Semmering</rs>-Spritze kokettiere. Sie kommen doch mit?</p>
             <closer>Herzlich Ihr <signed>O. B.</signed>

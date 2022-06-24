@@ -13,11 +13,11 @@
             <title type="iso-date">1904-01-28</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,11 +102,22 @@
                <date when="1904-01-28" n="01">28.</date>
             </p>
             <p>Recht schlecht. »Schleimsuppe«, fürchterlich.</p>
-            <p>Lese <rs type="person" ref="#pmb2121">Schnitzlers</rs> »<anchor type="commentary" xml:id="KD456-2">
-                  <rs type="work" ref="#pmb29985">Einsamen Weg</rs>
-               </anchor>« und <rs type="person" ref="#pmb3557">Widmanns</rs> »<anchor type="commentary" xml:id="KD456-1">
-                  <rs type="work" ref="#pmb31121">Calabrien</rs>
-               </anchor>«.</p>
+            <p>Lese <rs type="person" ref="#pmb2121">Schnitzlers</rs> »<anchor type="commentary" xml:id="KD456-2"/>
+               <rs type="work" ref="#pmb29985">Einsamen Weg</rs>
+               <note type="commentary" xml:id="KD456-2h">
+                  <p>Fassung unklar, das Exemplar mit Widmung erhielt er erst <date instant="false">Mitte Februar</date>,
+                  <ptr target="L041685"/>.</p>
+               </note>« und <rs type="person" ref="#pmb3557">Widmanns</rs> »<anchor type="commentary" xml:id="KD456-1"/>
+               <rs type="work" ref="#pmb31121">Calabrien</rs>
+               <note type="commentary" xml:id="KD456-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb3557">Joseph Victor Widmann</rs>: <rs type="work" ref="#pmb31121">Calabrien – Apulien und Streifereien an den oberitalienischen
+                     Seen</rs>. Frauenfeld: <rs type="org">Huber</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1904</date>
+                     </bibl>.</p>
+               </note>«.</p>
             <p>Darf nicht baden.</p>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1918-09-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -87,17 +87,21 @@
             </p>
             <p>10 Uhr </p>
             <p>
-               <anchor type="textConst" xml:id="TD573-1">
-                  <rs type="person" ref="#pmb13163">Wolff</rs> <rs type="place" ref="#pmb205">Bristol</rs>
-               </anchor>
+               <anchor type="textConst" xml:id="TD573-1"/>
+               <rs type="person" ref="#pmb13163">Wolff</rs> <rs type="place" ref="#pmb205">Bristol</rs>
+               <note type="textConst" xml:id="TD573-1h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <add place="inline">sehr pessimistisch.</add>
             </p>
             <p>
                <add place="inline">
-                  <rs type="person" ref="#pmb13163">Theodor Wolff</rs> + richte <anchor type="commentary" xml:id="KD573-1">
-                     <rs type="person" ref="#pmb28852">H.</rs>
-                  </anchor> aus, daß <rs type="person" ref="#pmb28855">Lammasch</rs> jetzt <unclear>Umsturz</unclear>minister<space unit="chars" quantity="1"/>
+                  <rs type="person" ref="#pmb13163">Theodor Wolff</rs> + richte <anchor type="commentary" xml:id="KD573-1"/>
+                  <rs type="person" ref="#pmb28852">H.</rs>
+                  <note type="commentary" xml:id="KD573-1h">
+                     <p>Graf <rs type="person" ref="#pmb28852">Hunyady</rs> betreute für Kaiser <rs type="person" ref="#pmb19126">Karl</rs> die Hoftheater.</p>
+                  </note> aus, daß <rs type="person" ref="#pmb28855">Lammasch</rs> jetzt <unclear>Umsturz</unclear>minister<space unit="chars" quantity="1"/>
                   <add place="below">Ministerpräsid</add> würde.</add>
             </p>
             <p>½ 5 <rs type="person" ref="#pmb2121">Schnitzler</rs> bei <rs type="person" ref="#pmb2312">Bertha</rs>
@@ -105,25 +109,33 @@
             <p>
                <rs type="person" ref="#pmb12254">Michel</rs> erinnern an Paß u.</p>
             <p>
-               <anchor type="textConst" xml:id="TD573-2">
-                  <rs type="person" ref="#pmb12481">Redlich</rs> telephonieren daß ich <hi rend="underline" n="1">Sonntag</hi> zum Essen kommen kann.</anchor>
+               <anchor type="textConst" xml:id="TD573-2"/>
+               <rs type="person" ref="#pmb12481">Redlich</rs> telephonieren daß ich <hi rend="underline" n="1">Sonntag</hi> zum Essen kommen kann.<note type="textConst" xml:id="TD573-2h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TD573-3">
-                  <rs type="person" ref="#pmb2167">
-                     <hi rend="underline" n="1">Salten</hi>
-                  </rs>
-               </anchor>
+               <anchor type="textConst" xml:id="TD573-3"/>
+               <rs type="person" ref="#pmb2167">
+                  <hi rend="underline" n="1">Salten</hi>
+               </rs>
+               <note type="textConst" xml:id="TD573-3h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TD573-4">
-                  <rs type="person" ref="#pmb13125">Wilke</rs>? morgen <rs type="person" ref="#pmb12548">Roller</rs> Costüme?</anchor>
+               <anchor type="textConst" xml:id="TD573-4"/>
+               <rs type="person" ref="#pmb13125">Wilke</rs>? morgen <rs type="person" ref="#pmb12548">Roller</rs> Costüme?<note type="textConst" xml:id="TD573-4h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <add place="inline">
-                  <anchor type="textConst" xml:id="TD573-6">
-                     <rs type="place" ref="#pmb15">Oper</rs>? <rs type="person" ref="#pmb12254">
-                        <hi rend="underline" n="2">Michel</hi>
-                     </rs>?</anchor>
+                  <anchor type="textConst" xml:id="TD573-6"/>
+                  <rs type="place" ref="#pmb15">Oper</rs>? <rs type="person" ref="#pmb12254">
+                     <hi rend="underline" n="2">Michel</hi>
+                  </rs>?<note type="textConst" xml:id="TD573-6h">
+                     <p>Durch Streichung als erledigt markiert.</p>
+                  </note>
                </add>
             </p>
             <p>3 Uhr <rs type="person" ref="#pmb13163">Wolff</rs>
@@ -131,8 +143,10 @@
                <rs type="place" ref="#pmb205">Bristol altes Haus</rs>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TD573-5">
-                  <rs type="person" ref="#pmb2446">Devrient</rs> wegen Probe</anchor>
+               <anchor type="textConst" xml:id="TD573-5"/>
+               <rs type="person" ref="#pmb2446">Devrient</rs> wegen Probe<note type="textConst" xml:id="TD573-5h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
                <pb/>
             </p>
             <p>
@@ -148,25 +162,34 @@
             <p>
                <rs type="person" ref="#pmb11054">Buschbeck</rs> 17601</p>
             <p>
-               <anchor type="textConst" xml:id="TD573-7">3 Uhr <rs type="place" ref="#pmb205">Hotel Bristol</rs>
-               </anchor>
+               <anchor type="textConst" xml:id="TD573-7"/>3 Uhr <rs type="place" ref="#pmb205">Hotel Bristol</rs>
+               <note type="textConst" xml:id="TD573-7h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TD573-8">½ 5 <rs type="person" ref="#pmb2312">Zuckerkandl</rs>
-               </anchor>
+               <anchor type="textConst" xml:id="TD573-8"/>½ 5 <rs type="person" ref="#pmb2312">Zuckerkandl</rs>
+               <note type="textConst" xml:id="TD573-8h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
             </p>
             <p>
                <add place="below">
                   <rs type="person" ref="#pmb2121">Schnitzler</rs> erklärt, warum ich »<rs type="work" ref="#pmb30819">Die Schwestern</rs>« nicht spielen will.</add>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TD573-9">¾ 6 <rs type="place" ref="#pmb524">Prz Eugenstr 10</rs>
-               </anchor>
+               <anchor type="textConst" xml:id="TD573-9"/>¾ 6 <rs type="place" ref="#pmb524">Prz Eugenstr 10</rs>
+               <note type="textConst" xml:id="TD573-9h">
+                  <p>Durch Streichung als erledigt markiert.</p>
+               </note>
             </p>
             <p>
-               <add place="below">Fast eine Stunde mit dem <anchor type="commentary" xml:id="KD573-2">
-                     <rs type="person" subtype="implied" ref="#pmb4839">Kronprinzen von Sachsen</rs>
-                  </anchor>
+               <add place="below">Fast eine Stunde mit dem <anchor type="commentary" xml:id="KD573-2"/>
+                  <rs type="person" subtype="implied" ref="#pmb4839">Kronprinzen von Sachsen</rs>
+                  <note type="commentary" xml:id="KD573-2h">
+                     <p>
+                        <rs type="person" ref="#pmb4839">Georg von Sachsen</rs>.</p>
+                  </note>
                   <pb/>
                   <space unit="chars" quantity="1"/>allein, der, aus <rs type="place" ref="#pmb249">Bulgarien</rs> kommend, wieder an die Westfront ziehend, sich über <rs type="place" ref="#pmb41240">Österreich</rs> informieren will, zwischen dem u <rs type="place" ref="#pmb206">Preußen</rs> zu »vermitteln« er für <rs type="place" ref="#pmb209">Sachsens</rs> Beruf hält.</add>
             </p>

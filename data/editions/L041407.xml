@@ -13,11 +13,11 @@
             <title type="iso-date">1891-08-11</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,23 +124,38 @@
                   <hi rend="latintype">Beer Hofmann</hi>
                </rs> nach <rs type="place" ref="#pmb415">
                   <hi rend="latintype">Aussee</hi>
-               </rs> schreiben (im übrigen hab <anchor type="textConst" xml:id="TL407-1">auch <hi rend="underline" n="1">ich</hi>
-               </anchor> noch keine Zeile von ihm erhalten) – vielleicht sind wir alle drei zusammen,<pb/>
+               </rs> schreiben (im übrigen hab <anchor type="textConst" xml:id="TL407-1"/>auch <hi rend="underline" n="1">ich</hi>
+               <note type="textConst" xml:id="TL407-1h">
+                  <p>durch Austauschzeichen die Wortreihenfolge von »<quote>
+                        <hi rend="underline" n="1">ich</hi> auch</quote>« geändert.</p>
+               </note> noch keine Zeile von ihm erhalten) – vielleicht sind wir alle drei zusammen,<pb/>
                <space unit="chars" quantity="1"/>
                <unclear>s</unclear>pielen Feiertagspöbel, und fühlen uns wohl.–</p>
-            <p>Ihr <anchor type="commentary" xml:id="KL407-1">
-                  <rs type="work" subtype="implied" ref="#pmb31947">
-                     <rs type="place" ref="#pmb30">Salzburger</rs> Artikel</rs>
-               </anchor> war wunderschön; wohl Ihnen, der so was im »Halbschlaf« aufs Papier träumen kann. Ich bin wach, vielleicht sogar überwach; aber es ist ein verlogener Herbstmorgen mit einer Barbierbeckensonne! – Haben Sie <anchor type="commentary" xml:id="KL407-2">
-                  <rs type="work" subtype="implied" ref="#pmb31949">
-                     <rs type="person" ref="#pmb2167">
-                        <hi rend="latintype">Salten</hi>
-                     </rs>
-                     <pb/> über <rs type="person" ref="#pmb10815">
-                        <hi rend="latintype">Bahr</hi>
-                     </rs>
+            <p>Ihr <anchor type="commentary" xml:id="KL407-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31947">
+                  <rs type="place" ref="#pmb30">Salzburger</rs> Artikel</rs>
+               <note type="commentary" xml:id="KL407-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11740">Loris</rs>: <rs type="work" ref="#pmb31947">Die
+                     Mozart-Centenarfeier in Salzburg</rs>. In: <rs type="org" ref="#pmb29360">Allgemeine Kunst-Chronik</rs>, Bd. 15, Nr. 16, 1. August-Heft, <date instant="false">1. 8.
+                     1891</date>, S. 423–433</bibl>.</p>
+               </note> war wunderschön; wohl Ihnen, der so was im »Halbschlaf« aufs Papier träumen kann. Ich bin wach, vielleicht sogar überwach; aber es ist ein verlogener Herbstmorgen mit einer Barbierbeckensonne! – Haben Sie <anchor type="commentary" xml:id="KL407-2"/>
+               <rs type="work" subtype="implied" ref="#pmb31949">
+                  <rs type="person" ref="#pmb2167">
+                     <hi rend="latintype">Salten</hi>
                   </rs>
-               </anchor> gelesen? Ich finde – vortrefflich! –</p>
+                  <pb/> über <rs type="person" ref="#pmb10815">
+                     <hi rend="latintype">Bahr</hi>
+                  </rs>
+               </rs>
+               <note type="commentary" xml:id="KL407-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2167">Salten</rs>: <rs type="work" ref="#pmb31949">Die
+                     Überwindung des Naturalismus</rs>. In: <rs type="org" ref="#pmb29360">Allgemeine Kunst-Chronik</rs>, Bd. 15, Nr. 16, 1. August-Heft, <date instant="false">1. 8.
+                     1891</date>, S. 446–447</bibl>.</p>
+               </note> gelesen? Ich finde – vortrefflich! –</p>
             <p>Leben Sie wohl, hoffentlich plaudern wir bald.</p>
             <closer>Ihr <signed>Arth Schnitz</signed>
             </closer>

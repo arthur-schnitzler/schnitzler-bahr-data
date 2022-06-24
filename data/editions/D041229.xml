@@ -13,11 +13,11 @@
             <title type="iso-date">1904-06-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,10 +77,35 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1904-06-02" n="2">2/6</date> Vm. bei <rs type="person" ref="#pmb10815">Bahr</rs> in <rs type="place" ref="#pmb165">Ober St. Veit</rs>. Er erzählt mir über <rs type="place" ref="#pmb218">Marbach</rs>. (Der Assistent: Lassen Sie sich keine Wechselströme geben, Sie bekämen ein Lungenoedem. <rs type="person" ref="#pmb10815">Bahr</rs>: Warum verordnet’s denn der Dr. <rs type="person" ref="#pmb18548">Hornung</rs> (Chef).– Assistent: Ja – der arbeitet jetzt an einer Statistik über Wechselströme.) Seine Reise, <rs type="place" ref="#pmb505">Athen</rs>.– Über den Fall <rs type="person" ref="#pmb11740">Hugo</rs>. (Seine Karte an <rs type="person" ref="#pmb2968">Donath</rs>, er arbeite an dem <anchor type="commentary" xml:id="KD229-3">Buch für <rs type="person" ref="#pmb12071">Liliencron</rs>
-               </anchor> nicht mit, wegen Antipathie gegen die Art »Selbstverschleuderung« <rs type="person" ref="#pmb12071">Liliencr.</rs>– <rs type="person" ref="#pmb2968">Donath</rs> zeigt die Karte, <rs type="person" ref="#pmb11740">Hugo</rs> veröffentlicht – in der <rs type="org" ref="#pmb29308">Fackel</rs>! – durch <rs type="person" ref="#pmb11988">Kraus</rs>, den er zu sich nach <rs type="place" ref="#pmb173">Rodaun</rs> lädt, eine nicht kluge und unmanierliche <anchor type="commentary" xml:id="KD229-1">
-                  <rs type="work" subtype="implied" ref="#pmb32750">Erwiderung</rs>
-               </anchor> gegen <rs type="person" ref="#pmb2968">Donath</rs> – <rs type="person" ref="#pmb2968">Donath</rs> veröffentlicht in verschiednen Zeitungen die erste <anchor type="commentary" xml:id="KD229-2">Karte</anchor>
+               <date when="1904-06-02" n="2">2/6</date> Vm. bei <rs type="person" ref="#pmb10815">Bahr</rs> in <rs type="place" ref="#pmb165">Ober St. Veit</rs>. Er erzählt mir über <rs type="place" ref="#pmb218">Marbach</rs>. (Der Assistent: Lassen Sie sich keine Wechselströme geben, Sie bekämen ein Lungenoedem. <rs type="person" ref="#pmb10815">Bahr</rs>: Warum verordnet’s denn der Dr. <rs type="person" ref="#pmb18548">Hornung</rs> (Chef).– Assistent: Ja – der arbeitet jetzt an einer Statistik über Wechselströme.) Seine Reise, <rs type="place" ref="#pmb505">Athen</rs>.– Über den Fall <rs type="person" ref="#pmb11740">Hugo</rs>. (Seine Karte an <rs type="person" ref="#pmb2968">Donath</rs>, er arbeite an dem <anchor type="commentary" xml:id="KD229-3"/>Buch für <rs type="person" ref="#pmb12071">Liliencron</rs>
+               <note type="commentary" xml:id="KD229-3h">
+                  <p>
+                     <bibl >
+                        <rs type="work" ref="#pmb32840">Österreichische Dichter zum 60. Geburtstage Detlev
+                     von Liliencrons</rs>. Hg. <rs type="person" ref="#pmb2968">Adolph Donath</rs>
+                  Wien: <rs type="org">Holzhausen</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1904</date>
+                     </bibl>.</p>
+               </note> nicht mit, wegen Antipathie gegen die Art »Selbstverschleuderung« <rs type="person" ref="#pmb12071">Liliencr.</rs>– <rs type="person" ref="#pmb2968">Donath</rs> zeigt die Karte, <rs type="person" ref="#pmb11740">Hugo</rs> veröffentlicht – in der <rs type="org" ref="#pmb29308">Fackel</rs>! – durch <rs type="person" ref="#pmb11988">Kraus</rs>, den er zu sich nach <rs type="place" ref="#pmb173">Rodaun</rs> lädt, eine nicht kluge und unmanierliche <anchor type="commentary" xml:id="KD229-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32750">Erwiderung</rs>
+               <note type="commentary" xml:id="KD229-1h">
+                  <p>In Form eines Briefes, in dem er die Schuld an einer ausfälligen Äußerung, an die er
+               sich nicht erinnern könne, dem um Mitarbeit insistierenden <rs type="person" ref="#pmb2968">Donath</rs> gibt (<bibl >
+                        <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs>: <rs type="work" ref="#pmb32750">Zur Liliencron-Feier</rs>. In: <rs type="org" ref="#pmb29308">Die Fackel</rs>, Jg. 6, H. 142, <date instant="false">19. 5. 1904</date>,
+               S. 24–26</bibl>).</p>
+               </note> gegen <rs type="person" ref="#pmb2968">Donath</rs> – <rs type="person" ref="#pmb2968">Donath</rs> veröffentlicht in verschiednen Zeitungen die erste <anchor type="commentary" xml:id="KD229-2"/>Karte<note type="commentary" xml:id="KD229-2h">
+                  <p>
+                     <bibl >[O. V.:] <rs type="work" ref="#pmb32752">Hugo v. Hofmannsthal und Detlev v.
+                     Liliencron</rs>. In: <rs type="org" ref="#pmb29316">Neue Hamburger
+                  Zeitung</rs>, Jg. 9, Nr. 243, <date instant="false">27. 5. 1902</date>, Morgen-Ausgabe,
+                  S. 2</bibl>: »<quote>Sehr geehrter Herr! / Da Sie mich ausdrücklich erinnerten, so
+                  muß ich doch mitteilen, daß ich mich an irgend einer <rs type="person" ref="#pmb12071">Liliencron</rs>-Demonstration nicht zu beteiligen gedenke, aus
+                  Gründen der mangelnden Sympathie, nicht für sein Talent, das ich sehr wohl
+                  erkenne, sondern <hi rend="spaced_out">für seine mir äußerst widerwärtige
+                     Formlosigkeit</hi> und <hi rend="spaced_out">Selbstverschleuderung</hi>. / Ihr
+                  ergebener / <rs type="person" ref="#pmb11740">Hofmannsthal</rs>.</quote>«</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11740">Hugo</rs>s, aus der hervorgeht, dass die Erklärung in der <rs type="org" ref="#pmb29308">Fackel</rs> unaufrichtig ist etc.) – <rs type="person" ref="#pmb10815">Bahr</rs> war ziemlich erbittert <c rendition="#dots" n="3" place="center"/> »diese Weltanschauung die aus der <rs type="work" subtype="implied" ref="#pmb32750">Erklärung</rs> in der <rs type="org" ref="#pmb29308">Fackel</rs> hervorgeht« <c rendition="#dots" n="3" place="center"/> »Und überdies <c rendition="#dots" n="3" place="center"/> lügt er auch.«– – Ich vertheidigte <rs type="person" ref="#pmb11740">Hugo</rs>, die Sache mehr ins pathologische versetzend. Sie ist auch in ihrer Gänze nicht anders zu erklären, wenn sie auch auf dem normalen <rs type="person" ref="#pmb11740">Hugo</rs>schen Seelenboden erwachsen.–</p>
             <p>Über den <rs type="work" ref="#pmb29985">Eins. Weg</rs>. <rs type="person" ref="#pmb10815">Bahr</rs>, der ihn künstlerisch sehr schätzt findet bedenklich meine »Ungerechtigkeit« gegen die Literaten, und meine Neigung zum Moralisiren.– Meine Entgegnung.–</p>

@@ -13,11 +13,11 @@
             <title type="iso-date">1905-01-21</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,7 +105,12 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Hast Du irgend <anchor type="commentary" xml:id="KL288-1">etwas Kurzes, womöglich unediert</anchor> oder doch in <rs type="place" ref="#pmb50">Wien</rs> noch nicht gelesen, und womöglich lustig, am liebsten in der Art von »<rs type="work" ref="#pmb29893">Exzentrik</rs>«, was Du mir zum Vorlesen in der <rs type="person" ref="#pmb2221">Hervayvorlesung</rs>, für die ich eingefangen worden bin, geben könntest? Mir geschähe damit ein großer Dienst.</p>
+            <p>Hast Du irgend <anchor type="commentary" xml:id="KL288-1"/>etwas Kurzes, womöglich unediert<note type="commentary" xml:id="KL288-1h">
+                  <p>Nach <rs type="person" ref="#pmb2121">Schnitzler</rs>s Absage im Antwortschreiben las
+                  <rs type="person" ref="#pmb10815">Bahr</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb29893">Exzentric</rs> vor.</p>
+               </note> oder doch in <rs type="place" ref="#pmb50">Wien</rs> noch nicht gelesen, und womöglich lustig, am liebsten in der Art von »<rs type="work" ref="#pmb29893">Exzentrik</rs>«, was Du mir zum Vorlesen in der <rs type="person" ref="#pmb2221">Hervayvorlesung</rs>, für die ich eingefangen worden bin, geben könntest? Mir geschähe damit ein großer Dienst.</p>
             <p>Ich höre, daß bei Euch die Influenza herumzieht, und will schon längst immer kommen, hab aber einen rechten Wirrwarr in mir. Doch jetzt müssen wir uns einmal wieder sehen.</p>
             <closer>Mit vielen herzlichen Grüßen, auch<lb/>an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>,<lb/>Dein<lb/>
                <signed>Hermann</signed>

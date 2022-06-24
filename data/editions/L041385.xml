@@ -13,11 +13,11 @@
             <title type="iso-date">1897-05-20</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -138,9 +138,12 @@
                <rs type="person" ref="#pmb11485">Paul</rs> behauptet, so oft ich irgend ein Entzücken oder eine Befriedigung über irgend was hier äußere – und es wimmelt von solchen Gelegenheiten, daß Sie einmal geäußert, <rs type="place" ref="#pmb182">Paris</rs> hätte Ihnen nichts zu sagen. Sie werden das einmal beschämt zurücknehmen. Sie ahnen nicht, was Ihnen <rs type="place" ref="#pmb182">Paris</rs> alles zu sagen hätte und wie viel Sie gerne antworten möchten. Diese Stadt dampft von Cultur, und ich hab mich kaum über einen Menschen ärgern können, der mir zufällig heute grad sagte, er sei in <rs type="place" ref="#pmb50">Wien</rs> gewesen, denke gern dran zurück: c’est une gentille petite ville. Man spürt auch etwas wahres in dieser Phrase: daß eigentlich die ganze Welt in <rs type="place" ref="#pmb182">Paris</rs> enthalten sei; man hat eine Ahnung von Unendlichkeit, in der man beinah so einsam sein könnte wie in der Wüste. Wissen Sie, was mir eine große Freude sein würde? einmal mit Ihnen hieher zu kommen – nicht ohne Ihnen das Versprechen abgenommen zu haben, nicht bei jeder Auslage stehn zu bleiben. Ich würde Sie aber nie an die Seine führen, wo an den Quais auf den Steinbrüstungen Millionen Bücher liegen – Sie würden dazu allein zwanzig Jahre brauchen. Dort findet man, wie Sie gleich sehen werden, alle Bücher der Welt; um mir eine Emotion zu verschaffen, hab ich mit einer Verkäuferin um ein Exemplar von »<rs type="work" ref="#pmb30117">Mourir</rs>« »gefeilscht« – das Luder hat’s mir für 60 Centimes gelassen – unaufgeschnitten! (das Buch mein ich.)</p>
             <p>– Mit <rs type="person" subtype="implied" ref="#pmb2378">Ihr</rs> bin ich sehr zufrieden; sanft, lieb, ein bischen rührend. Ich hab sie wahrscheinlich viel lieber, als wenn ich sie lieb hätte. – Wir <c rendition="#dots" n="3" place="center"/> na, wir reden ja in <rs type="place" ref="#pmb50">Wien</rs> darüber. –<pb/>
             </p>
-            <p>Der <anchor type="commentary" xml:id="KL385-1">
-                  <rs type="person" ref="#pmb11512">Graf</rs>
-               </anchor>, dem Sie die Empfehlung an <del rend="strikethrough">Richard</del>
+            <p>Der <anchor type="commentary" xml:id="KL385-1"/>
+               <rs type="person" ref="#pmb11512">Graf</rs>
+               <note type="commentary" xml:id="KL385-1h">
+                  <p>
+                     <rs type="person" ref="#pmb11512">Max Graf</rs>.</p>
+               </note>, dem Sie die Empfehlung an <del rend="strikethrough">Richard</del>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11485">Paul</rs> mitgegeben, ist, losgelöst von den Leuten, unter denen er noch einer der anständigsten ist, ein ganz widerliches Subjekt; verlogen und verlottert. Moralschule <rs type="person" ref="#pmb2147">Altenberg</rs>, Beobachtungsschule <rs type="person" ref="#pmb10815">Bahr</rs>.</p>
             <p>Sie sitzt, während ich Ihnen schreibe, im Nebenzimmer und liest eben die <rs type="work" subtype="implied" ref="#pmb29855">Scene</rs> zwischen dem Dichter (<rs type="work" subtype="implied" ref="#pmb29855">Biebitz</rs>) und der Schauspielerin, die ich übrigens geändert habe, so daß man sagen kann: <rs type="work" subtype="implied" ref="#pmb29855">Biebitz</rs> bleibt <rs type="work" subtype="implied" ref="#pmb29855">Biebitz</rs>! – Aber sonst haben Sie hoffentlich mehr gearbeitet als ich. Nach diesen zwei Dingen sehn ich mich unbeschreiblich: nach dem Schreiben und nach dem Bicycle! – Können Sie’s endlich? (Bicycle natürlich. –) </p>

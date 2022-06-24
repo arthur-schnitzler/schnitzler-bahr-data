@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-10</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -146,10 +146,13 @@
          </div>
          <div type="writingSession" n="1">
             <p>
-               <salute>lieber Hermann, </salute>du hast dich für den <anchor type="commentary" xml:id="KL052-1">
-                  <rs type="work" ref="#pmb29975">
-                     <hi rend="underline" n="1">Goethe Zelter</hi> Briefwechsel</rs>
-               </anchor> interessirt. Im <hi rend="latintype">Catalog XXXIV</hi>
+               <salute>lieber Hermann, </salute>du hast dich für den <anchor type="commentary" xml:id="KL052-1"/>
+               <rs type="work" ref="#pmb29975">
+                  <hi rend="underline" n="1">Goethe Zelter</hi> Briefwechsel</rs>
+               <note type="commentary" xml:id="KL052-1h">
+                  <p>Nicht unter den aus <rs type="person" ref="#pmb10815">Bahr</rs>s Besitz überlieferten
+               Büchern.</p>
+               </note> interessirt. Im <hi rend="latintype">Catalog XXXIV</hi>
                <space unit="chars" quantity="1"/>
                <rs type="org" ref="#pmb29255">süddeutsches Antiquariat</rs>, <rs type="place" ref="#pmb448">
                   <hi rend="underline" n="1">München</hi> Galleriestrasse 20</rs>, unter Nr 699 ist ein Exemplar, 6 Bände um 40 Mark angekündigt. Herzlichst dein <signed>Arth Sch</signed>

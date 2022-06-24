@@ -13,11 +13,11 @@
             <title type="iso-date">1913-06-25</title>
             <author ref="pmb2147">Altenberg, Peter</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -120,8 +120,11 @@
             </opener>
             <p>ich wende mich in meiner Verzweiflung vertrauens<damage agent="hole">
                   <supplied>vo</supplied>
-               </damage>llst an Sie! Kaum ist es mir gelungen, bei <anchor type="commentary" xml:id="KL609-1">meinem <rs type="org" subtype="implied" ref="#pmb29670">Blatte</rs>
-               </anchor> die monatlichen 100 Kronen, die man mir im Mai endgiltig g<damage agent="hole">
+               </damage>llst an Sie! Kaum ist es mir gelungen, bei <anchor type="commentary" xml:id="KL609-1"/>meinem <rs type="org" subtype="implied" ref="#pmb29670">Blatte</rs>
+               <note type="commentary" xml:id="KL609-1h">
+                  <p>
+                     <rs type="org" ref="#pmb29670">Wiener Allgemeine Zeitung</rs>.</p>
+               </note> die monatlichen 100 Kronen, die man mir im Mai endgiltig g<damage agent="hole">
                   <supplied>e</supplied>
                </damage>kündigt hatte, wieder für <hi rend="underline" n="1">3</hi> Monate, bis Ende September, zu erhalten, kommt heute, gerade in diesen herrlichen einzigen Zeiten der<pb/>
                <space unit="chars" quantity="1"/>

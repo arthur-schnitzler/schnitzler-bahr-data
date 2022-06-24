@@ -13,11 +13,11 @@
             <title type="iso-date">1903-10-08</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,8 +105,11 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Bitte, kannst Du mir noch ein Exemplar des »<rs type="work" ref="#pmb29855">Reigen</rs>« schicken, ich brauch es für die Censur? Die Vorlesung ist für den <date>8. November</date> angesetzt; laß mich wissen, wie viel Sitze Du willst. Ich <anchor type="commentary" xml:id="KL260-1">fahre wahrscheinlich am <date>18. d.</date> nach <rs type="place" ref="#pmb168">Berlin</rs>
-               </anchor>, kann ich Dir was besorgen? Und bitte, schreib mir Deine neue Adreße!</p>
+            <p>Bitte, kannst Du mir noch ein Exemplar des »<rs type="work" ref="#pmb29855">Reigen</rs>« schicken, ich brauch es für die Censur? Die Vorlesung ist für den <date>8. November</date> angesetzt; laß mich wissen, wie viel Sitze Du willst. Ich <anchor type="commentary" xml:id="KL260-1"/>fahre wahrscheinlich am <date>18. d.</date> nach <rs type="place" ref="#pmb168">Berlin</rs>
+               <note type="commentary" xml:id="KL260-1h">
+                  <p>Er fuhr am <date instant="false">24. 10. 1903</date> und blieb bis <date instant="false">26.</date>
+                  </p>
+               </note>, kann ich Dir was besorgen? Und bitte, schreib mir Deine neue Adreße!</p>
             <closer>Dein alter<lb/>
                <signed>Hermann</signed>
             </closer>

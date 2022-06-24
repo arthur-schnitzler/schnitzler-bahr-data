@@ -13,11 +13,11 @@
             <title type="iso-date">1905-10-04</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -128,9 +128,12 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Diese Woche gehts nun leider gar nicht. Nach Deiner <anchor type="commentary" xml:id="KL296-1">
-                  <rs type="work" subtype="implied" ref="#pmb29903">Première</rs>
-               </anchor> mußt Du so lieb sein, mir einen Vormittag zu bestimmen.</p>
+            <p>Diese Woche gehts nun leider gar nicht. Nach Deiner <anchor type="commentary" xml:id="KL296-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29903">Première</rs>
+               <note type="commentary" xml:id="KL296-1h">
+                  <p>Von <rs type="work" ref="#pmb29903">Zwischenspiel</rs>, am <date instant="false">12. 10.</date>
+                  </p>
+               </note> mußt Du so lieb sein, mir einen Vormittag zu bestimmen.</p>
             <p>Anbei mein <rs type="work" subtype="implied" ref="#pmb30001">Einakter</rs>.</p>
             <closer>Mit den herzlichsten Grüßen an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>eiligst<lb/>

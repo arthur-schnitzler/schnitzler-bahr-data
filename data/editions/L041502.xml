@@ -13,11 +13,11 @@
             <title type="iso-date">1894-04-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,7 +117,9 @@
             </opener>
             <p>Donnerstag 11 Uhr hol ich Sie ab, wenns Ihnen recht ist. Sie können das Fahren ein paar Mal probiren, ohne sich im geringsten zu verpflichten, und schlimmsten Falls zahlen Sie einen Mit<pb/>gliedsbeitrag auf ¼ Jahr, wodurch Sie zu <del rend="strikethrough">zu</del> gar nichts genötigt werden, weder zum Kaufen eines Rades, noch zum Weiterverbleiben im <rs type="org" subtype="implied" ref="#pmb29783">Club</rs>. –</p>
             <p>Bitte sehr, senden Sie diesen Brief gleich<pb/> an <rs type="person" ref="#pmb10815">Hermann Bahr</rs>, welcher hiedurch unter einem gebeten wird, sich um 11 am Donnerstag bei Ihnen einzufinden, wenn er es nicht vorzieht, um <time>11 Uhr 30</time> vor dem Hause <rs type="place" ref="#pmb630">
-                  <anchor type="commentary" xml:id="KL502-1">Untere Augartenstraße 28</anchor>
+                  <anchor type="commentary" xml:id="KL502-1"/>Untere Augartenstraße 28<note type="commentary" xml:id="KL502-1h">
+                     <p>Sitz der Radfahrunion »<rs type="org" ref="#pmb29783">Vorwärts</rs>«.</p>
+                  </note>
                </rs> auf mich resp. uns zu warten.<pb/> Beifolgend Statuten, von denen 1 Exemplar an <rs type="person" ref="#pmb10815">
                   <hi rend="latintype">Bahr</hi>
                </rs>; in diesem hab ich den § 15 unterstrichen. Für Sie den § 5. –</p>

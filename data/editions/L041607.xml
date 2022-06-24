@@ -14,11 +14,11 @@
             <author ref="pmb2147">Altenberg, Peter</author>
             <author ref="pmb2260">Engländer, Georg</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -137,7 +137,13 @@
             <p>Sprechen Sie mit <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>, mit <rs type="person" ref="#pmb11740">Hugo v. Hofmannsthal</rs>, mit <rs type="person" ref="#pmb2167">Felix Salten</rs>, über die Schritte, die <hi rend="underline" n="1">e<damage agent="hole">
                      <supplied>in</supplied>
                   </damage>zuleiten</hi> sind!</p>
-            <p>Ich wandte mich an <rs type="person" ref="#pmb4697">Danny Gürtler</rs>, den man schon 3mal der <anchor type="commentary" xml:id="KL607-2">Freiheit beraubt</anchor> hat, und Der gegen diese Dinge nun in <rs type="place" ref="#pmb864">Leipzig</rs> einen <anchor type="commentary" xml:id="KL607-3">Vortrag</anchor> gehalten hat. <del rend="strikethrough">
+            <p>Ich wandte mich an <rs type="person" ref="#pmb4697">Danny Gürtler</rs>, den man schon 3mal der <anchor type="commentary" xml:id="KL607-2"/>Freiheit beraubt<note type="commentary" xml:id="KL607-2h">
+                  <p>Er wurde <date instant="false">1910</date> in <rs type="place" ref="#pmb882">Heidelberg</rs>
+               interniert, von dort in die <rs type="place" ref="#pmb835">Landesirrenanstalt
+                  Heppenheim</rs> überstellt, entlassen, und im <date instant="false">Februar 1913</date> in <rs type="place" ref="#pmb506">Hamburg</rs> erneut interniert.</p>
+               </note> hat, und Der gegen diese Dinge nun in <rs type="place" ref="#pmb864">Leipzig</rs> einen <anchor type="commentary" xml:id="KL607-3"/>Vortrag<note type="commentary" xml:id="KL607-3h">
+                  <p>Nicht ermittelt.</p>
+               </note> gehalten hat. <del rend="strikethrough">
                   <unclear>I</unclear>
                </del> Er bekam stets d<damage agent="hole">
                   <supplied>urc</supplied>
@@ -158,9 +164,16 @@
                <hi rend="underline" n="1">Hilfe</hi>, <hi rend="underline" n="1">Erbarmen</hi>, <hi rend="underline" n="1">Gnade</hi>, <hi rend="underline" n="1">Errettung</hi>!!! </p>
             <p>Ehe es <hi rend="underline" n="2">zu spät</hi> ist!</p>
             <p>Mein neues Buch: »<hi rend="underline" n="1">
-                  <anchor type="commentary" xml:id="KL607-1">
-                     <rs type="work" ref="#pmb32550">Semmering 1912</rs>
-                  </anchor>
+                  <anchor type="commentary" xml:id="KL607-1"/>
+                  <rs type="work" ref="#pmb32550">Semmering 1912</rs>
+                  <note type="commentary" xml:id="KL607-1h">
+                     <p>
+                        <bibl >
+                           <rs type="person" ref="#pmb2147">Peter Altenberg</rs>: <rs type="work" ref="#pmb32550">»Semmering 1912«</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                           <space unit="chars" quantity="1"/>
+                           <date instant="false">1913</date>
+                        </bibl>.</p>
+                  </note>
                </hi>« wird Ihnen beweisen, daß ich noch eine menschliche Seele besitze, die nun zerstört wird! Ihr <hi rend="underline" n="1">verzweifelter</hi>
             </p>
             <closer>

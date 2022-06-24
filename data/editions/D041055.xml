@@ -13,11 +13,11 @@
             <title type="iso-date">1910-01-31</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,8 +81,17 @@
             <p>Nm. fing ich, wegen <rs type="place" ref="#pmb34438">Rußland</rs>, Brief der <rs type="person" ref="#pmb26937">Zenaida Wengerow</rs> an, »<rs type="work" ref="#pmb30207">W. Land</rs>« durchzusehen.</p>
             <p>Zum Thee <rs type="person" ref="#pmb27800">Nina Kipiany</rs> (die jetzt <rs type="person" ref="#pmb12692">Heini</rs> französisch unterrichtet) mit einem <rs type="person" ref="#pmb2625">Baron Manteuffel</rs>, 50er, vielgereist, Bohémien, eben aus <rs type="place" ref="#pmb182">Paris</rs> fälschlich als Spion ausgewiesen;– sprachen viel über Zionismus, <rs type="person" ref="#pmb11673">Herzl</rs>, <rs type="person" ref="#pmb2630">Weininger</rs> u. a.– </p>
             <p>In <rs type="place" ref="#pmb63">Hietzing</rs> mit <rs type="person" ref="#pmb2173">O.</rs> bei <rs type="person" ref="#pmb12968">Trebitsch</rs>. Anwesend <rs type="person" ref="#pmb11391">Fulda</rs>, <rs type="person" ref="#pmb13055">Jacob</rs> und <rs type="person" ref="#pmb13058">Julie</rs>,– <rs type="person" ref="#pmb13212">Stefan Zweig</rs> – Bei Tisch Frau <rs type="person" ref="#pmb26159">Trebitsch</rs> plötzlich, ganz vergessend, wer da – – »Wissen Sie denn schon die Geschichte von <rs type="person" ref="#pmb27633">d’Albert</rs> und der <rs type="person" ref="#pmb2537">Fulda</rs>
-               <c rendition="#dots" n="3"/>?« Ich (ebenso vergessend): Es ist <anchor type="commentary" xml:id="KD055-2">kein Wort wahr!</anchor>– Darauf Frau <rs type="person" ref="#pmb26159">T.</rs> – direct zu <rs type="person" ref="#pmb11391">Fulda</rs> »<c rendition="#dots" n="3"/> Sie müssen doch was wissen, Sie kommen ja aus <rs type="place" ref="#pmb168">Berlin</rs> –« <c rendition="#dots" n="3" place="center"/> – Jetzt endlich merkte sie – allgemeines <anchor type="commentary" xml:id="KD055-3">effarement</anchor> – <rs type="person" ref="#pmb11391">F.</rs> ganz klug sagte. »Ich interessire mich nicht für Klatsch <c rendition="#dots" n="3" place="center"/> auch hab ich keine Nachrichten von meiner <rs type="person" subtype="implied" ref="#pmb2537">früheren Frau</rs>
-               <c rendition="#dots" n="3"/>« Nach einer Minute wieder laß ich einen Lobgesang auf <rs type="person" ref="#pmb10815">Bahr</rs> los – gegen den <rs type="person" ref="#pmb11391">F.</rs> einen wüthenden Haß hat – ganz vergessend, daß sie sogar im <anchor type="commentary" xml:id="KD055-1">Prozeß</anchor> waren.</p>
+               <c rendition="#dots" n="3"/>?« Ich (ebenso vergessend): Es ist <anchor type="commentary" xml:id="KD055-2"/>kein Wort wahr!<note type="commentary" xml:id="KD055-2h">
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> war durch <rs type="person" ref="#pmb10986">Brahm</rs> informiert, <bibl >vgl. <rs type="work">Bw</rs>
+                  Schnitzler/Brahm 291 und 293</bibl>.</p>
+               </note>– Darauf Frau <rs type="person" ref="#pmb26159">T.</rs> – direct zu <rs type="person" ref="#pmb11391">Fulda</rs> »<c rendition="#dots" n="3"/> Sie müssen doch was wissen, Sie kommen ja aus <rs type="place" ref="#pmb168">Berlin</rs> –« <c rendition="#dots" n="3" place="center"/> – Jetzt endlich merkte sie – allgemeines <anchor type="commentary" xml:id="KD055-3"/>effarement<note type="commentary" xml:id="KD055-3h">
+                  <p>Entsetzen.</p>
+               </note> – <rs type="person" ref="#pmb11391">F.</rs> ganz klug sagte. »Ich interessire mich nicht für Klatsch <c rendition="#dots" n="3" place="center"/> auch hab ich keine Nachrichten von meiner <rs type="person" subtype="implied" ref="#pmb2537">früheren Frau</rs>
+               <c rendition="#dots" n="3"/>« Nach einer Minute wieder laß ich einen Lobgesang auf <rs type="person" ref="#pmb10815">Bahr</rs> los – gegen den <rs type="person" ref="#pmb11391">F.</rs> einen wüthenden Haß hat – ganz vergessend, daß sie sogar im <anchor type="commentary" xml:id="KD055-1"/>Prozeß<note type="commentary" xml:id="KD055-1h">
+                  <p>
+                     <ptr target="L041684"/> und <ptr target="KD263-1"/>.</p>
+               </note> waren.</p>
             <p>F. fort auf den <rs type="org" ref="#pmb29752">Concordia Ball</rs>; wir andern spielten Baraque (ich verlor mit <rs type="person" ref="#pmb2173">O.</rs> gegen 50 Kr.). Im Auto heim. Zwei Uhr.</p>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1899-08-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,12 +104,20 @@
             <p>
                <date when="1899-08" n="01"/>
                <hi rend="underline" n="2">
-                  <anchor type="commentary" xml:id="KD405-2">Salon</anchor>
+                  <anchor type="commentary" xml:id="KD405-2"/>Salon<note type="commentary" xml:id="KD405-2h">
+                     <p>Es folgen Einrichtungsgegenstände für das in Bau befindliche Haus.</p>
+                  </note>
                </hi> 1<subst>
                   <del rend="overwritten">.</del>
                   <add place="inline">)</add>
                </subst> Klavier 2) Schreibtisch 3) Kanapee mit Garnitur 4) mein großer Sessel (eventuell kleine Chaiselongue) 5) Palme 5) Servante für Glas-Nippes-Sachen 6) Tisch mit Cigarrenkisten 7) <add place="above">meine</add> Büste 8) Kreidezeichng, <rs type="person" ref="#pmb3264">Keller</rs>, <rs type="person" ref="#pmb3268">Trentin</rs>, <rs type="person" ref="#pmb11257">Engelhart</rs>, 9) kleine Büste von <rs type="person" ref="#pmb10863">Beer Hofmann</rs>, von <rs type="person" ref="#pmb10980">Bonn</rs> 10) <rs type="work" ref="#pmb32612">
-                  <anchor type="commentary" xml:id="KD405-1">Relief</anchor>
+                  <anchor type="commentary" xml:id="KD405-1"/>Relief<note type="commentary" xml:id="KD405-1h">
+                     <p>
+                        <ptr target="KL352-1"/>. Es dürfte noch <date instant="false">1908</date> vorhanden gewesen sein.
+               Vgl. <bibl >
+                           <rs type="person" ref="#pmb2553">Hermann Menkes</rs>: <rs type="work" ref="#pmb31217">Die Provinz. Aus einem Gespräch mit Hermann Bahr</rs>. In: <rs type="org" ref="#pmb29281">Czernowitzer Allgemeine Zeitung</rs>, Nr. 1284,
+                     <date when="1908-04-19" instant="false">19. 4. 1908</date>, S. 3–4, hier: S. 3</bibl>.</p>
+                  </note>
                </rs> von <rs type="person" ref="#pmb2121">Schnitzler</rs>
             </p>
          </div>

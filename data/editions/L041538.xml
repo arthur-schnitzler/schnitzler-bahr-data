@@ -13,11 +13,11 @@
             <title type="iso-date">1895-01-16</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,7 +124,9 @@
             </p>
             <p>Na – ich habe ja »Gott sei Danck« 13 Monate Zeit gehabt mich daran zu gewöhnen, und darum zürne ich Dir <hi rend="underline" n="1">nicht</hi> – sondern – sage Dir feierlich – Arthur – ich liebe Dich so <hi rend="underline" n="1">rasend</hi> so schrecklich – dass ich vor lauter Liebe zu Dir blödsinnig bin! – Du – süßer Hund Du! Hach!</p>
             <p>
-               <anchor type="textConst" xml:id="TL538-1">Ich <hi rend="underline" n="2">liebe</hi> Dich <hi rend="underline" n="1">doch</hi>.</anchor>
+               <anchor type="textConst" xml:id="TL538-1"/>Ich <hi rend="underline" n="2">liebe</hi> Dich <hi rend="underline" n="1">doch</hi>.<note type="textConst" xml:id="TL538-1h">
+                  <p>Kopfüber zum Text am oberen Blattrand.</p>
+               </note>
             </p>
             <p>
                <rs type="person" ref="#pmb2167">Felix</rs> – <rs type="person" ref="#pmb2167">Felix</rs> – war heute – zwei Stunden bei mir – – </p>

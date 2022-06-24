@@ -14,11 +14,11 @@
             <title type="iso-date">1918-10-14</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="051"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AA1-0</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>A:Schnitzler, 85.1.70</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. Durchschlag, 7 Bl., 7 S.</p>
+                        <p>ms. Durchschlag, 7 Bl., 7 S.</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -95,12 +95,20 @@
    <text type="manuscript">
       <body>
          <div>
-            <p part="N">
+            <p>
                <hi rend="spaced_out">(Nachzutragen)</hi>
             </p>
-            <p part="N">Zur selben Zeit, da <rs type="work" ref="#pmb29853">Leutnant Gustl</rs> in der <rs type="org" ref="#pmb29351">Neuen Presse</rs> erschien, lag ein Manuscript von mir in der Redaktion des <rs type="org" ref="#pmb29414">Neuen Wiener Tagblattes</rs>, das am Sylvester- oder Neujahrstag erscheinen sollte. (Der Dialog »<rs type="work" ref="#pmb32203">Sylvesternacht</rs>«). Es <anchor type="commentary" xml:id="KT051-1">erschien nicht</anchor>. Wie <rs type="person" ref="#pmb10815">Bahr</rs> mit erzaehlte, ging der Feuilletonredakteur <rs type="person" ref="#pmb12460">Poetzl</rs> von Redaktionsstube zu Redaktionsstube und machte den Leuten begreiflich, dass das <rs type="org" ref="#pmb29414">Neue Wr. Tagblatt</rs> den Verfasser des »<rs type="work" ref="#pmb29853">Leutnant Gustl</rs>« nicht zu seinen Mitarbeitern zaehlen duerfe. <gap reason="outOfScope"/>
+            <p>Zur selben Zeit, da <rs type="work" ref="#pmb29853">Leutnant Gustl</rs> in der <rs type="org" ref="#pmb29351">Neuen Presse</rs> erschien, lag ein Manuscript von mir in der Redaktion des <rs type="org" ref="#pmb29414">Neuen Wiener Tagblattes</rs>, das am Sylvester- oder Neujahrstag erscheinen sollte. (Der Dialog »<rs type="work" ref="#pmb32203">Sylvesternacht</rs>«). Es <anchor type="commentary" xml:id="KT051-1"/>erschien nicht<note type="commentary" xml:id="KT051-1h">
+                  <p>
+                     <bibl >Vgl. A. S. <rs type="work">Tb</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date when="1901-01-01" instant="false">1. 1. 1901</date>
+                     </bibl>. (<bibl >Erstdruck: <rs type="work" ref="#pmb32203">Sylvesternacht. Ein
+                     Dialog</rs>. In: <rs type="org" ref="#pmb29408">Jugend</rs>, Jg. 6, Nr. 8,
+                     <date instant="false">18. 2. 1901</date>, S. 118–122</bibl>).</p>
+               </note>. Wie <rs type="person" ref="#pmb10815">Bahr</rs> mit erzaehlte, ging der Feuilletonredakteur <rs type="person" ref="#pmb12460">Poetzl</rs> von Redaktionsstube zu Redaktionsstube und machte den Leuten begreiflich, dass das <rs type="org" ref="#pmb29414">Neue Wr. Tagblatt</rs> den Verfasser des »<rs type="work" ref="#pmb29853">Leutnant Gustl</rs>« nicht zu seinen Mitarbeitern zaehlen duerfe. <gap reason="outOfScope"/>
             </p>
-            <p part="N">
+            <p>
                <gap reason="outOfScope"/>
             </p>
          </div>

@@ -13,11 +13,11 @@
             <title type="iso-date">1919-01-19</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,9 +77,19 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1919-01-19" n="1">19/1</date> S. Vm. bei <rs type="person" ref="#pmb12399">Paulsen</rs>; brachte ihm Cigarren. (<anchor type="commentary" xml:id="KD325-1">
-                  <rs type="work" subtype="implied" ref="#pmb30787">Feuill.</rs>
-               </anchor>
+               <date when="1919-01-19" n="1">19/1</date> S. Vm. bei <rs type="person" ref="#pmb12399">Paulsen</rs>; brachte ihm Cigarren. (<anchor type="commentary" xml:id="KD325-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30787">Feuill.</rs>
+               <note type="commentary" xml:id="KD325-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12749">Karl Schönherr</rs>: <rs type="work" ref="#pmb30787">Mein Volksmärchen »Königreich« und das Burgtheater des Herrn
+                     Bahr</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>,
+                  Jg. 53, Nr. 17, <date instant="false">18. 1. 1919</date>, S. 2–5</bibl>. Er beklagt, dass sein
+               Drama <rs type="work" ref="#pmb32620">Das Königreich</rs> vom <rs type="place" ref="#pmb14">Burgtheater</rs> noch vor <rs type="person" ref="#pmb10815">Bahrs</rs> Amtsantritt zur Uraufführung angenommen worden war, ihm aber statt der
+               vertraglich vereinbarten Aufführung retourniert wurde. Als Grund nennt er den
+               Einfluss des Kardinals <rs type="person" ref="#pmb12417">Piffl</rs> und eine Zensur
+               durch <rs type="person" ref="#pmb10815">Bahr</rs>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb12749">Schönherrs</rs> gegen <rs type="person" ref="#pmb10815">Bahr</rs>;– ev. <rs type="work" ref="#pmb29937">Medardus</rs> Aufführungsmöglichkeiten,– <rs type="place" ref="#pmb14">Burgtheater</rs>zustände, die sich vorläufig unter der Republik nicht geändert haben.) Frau <rs type="person" ref="#pmb10959">Bleibtreu</rs> kam später dazu.</p>
             <p>Indes <rs type="person" ref="#pmb2173">O.</rs> in der Kinderkrankenanstalt, wegen einer Fr. <rs type="person" ref="#pmb27965">Roßmann</rs>, die uns um Vermittlung angeht (Mutter eines unehelichen Kindes, als Bürgerschullehrerin entlassen).</p>

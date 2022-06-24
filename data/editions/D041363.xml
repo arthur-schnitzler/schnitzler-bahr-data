@@ -13,11 +13,11 @@
             <title type="iso-date">1914-09-03</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,10 +79,24 @@
             <p>
                <date when="1914-09-03" n="1">3/9</date> Vm. bei <rs type="person" ref="#pmb2461">Gisa</rs> (<rs type="person" ref="#pmb28004">Margot</rs>s Mann <rs type="person" ref="#pmb26373">Vallo</rs> wieder beim Heer).– In der Bank; mit <rs type="person" ref="#pmb21897">Neuman</rs> und <rs type="person" ref="#pmb3253">Stauber</rs> (– über die Ereignisse – und über den Feuilletonismus (<rs type="person" ref="#pmb10815">Bahr’s</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD363-1">alberner »<rs type="work" ref="#pmb31241">Gruss an <rs type="person" ref="#pmb11740">Hofmannsthal</rs>
-                  </rs>«</anchor>)).– Im <rs type="place" ref="#pmb14">Burgth.</rs>
+               <anchor type="commentary" xml:id="KD363-1"/>alberner »<rs type="work" ref="#pmb31241">Gruss an <rs type="person" ref="#pmb11740">Hofmannsthal</rs>
+               </rs>«<note type="commentary" xml:id="KD363-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31241">Gruß an Hofmannsthal</rs>. In: <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, Jg. 43, Nr. 423, Ausgabe für Berlin und Umgegend,
+                  Abend-Ausgabe, <date instant="false">21. 8. 1914</date>, S. 2</bibl>. Mehrfach nachgedruckt, u.
+               a.: <bibl >
+                        <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 22, Nr. 7483,
+                     <date instant="false">26. 8. 1914</date>, S. 6</bibl>.</p>
+               </note>)).– Im <rs type="place" ref="#pmb14">Burgth.</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb12556">Rosenbaum</rs> erzählt von seiner und seiner <rs type="person" subtype="implied" ref="#pmb23560">Gattin</rs> Flucht aus dem bombardirten <rs type="place" ref="#pmb272">Lüttich</rs>. <rs type="person" ref="#pmb12948">Thimig</rs> über seine <rs type="person" subtype="implied" ref="#pmb12945 #pmb28005">Söhne</rs>, der <anchor type="commentary" xml:id="KD363-2">eine einberufen</anchor>, der <anchor type="commentary" xml:id="KD363-3">andre</anchor> krank zurückgeschickt. Absicht der Hofbühnen 3–4mal wöchentlich zu spielen. (Der <rs type="person" subtype="implied" ref="#pmb2513">Kaiser</rs> wollte gar nicht.)</p>
+               <rs type="person" ref="#pmb12556">Rosenbaum</rs> erzählt von seiner und seiner <rs type="person" subtype="implied" ref="#pmb23560">Gattin</rs> Flucht aus dem bombardirten <rs type="place" ref="#pmb272">Lüttich</rs>. <rs type="person" ref="#pmb12948">Thimig</rs> über seine <rs type="person" subtype="implied" ref="#pmb12945 #pmb28005">Söhne</rs>, der <anchor type="commentary" xml:id="KD363-2"/>eine einberufen<note type="commentary" xml:id="KD363-2h">
+                  <p>
+                     <rs type="person" ref="#pmb12945">Hermann Thimig</rs>.</p>
+               </note>, der <anchor type="commentary" xml:id="KD363-3"/>andre<note type="commentary" xml:id="KD363-3h">
+                  <p>
+                     <rs type="person" ref="#pmb28005">Fritz Thimig</rs>.</p>
+               </note> krank zurückgeschickt. Absicht der Hofbühnen 3–4mal wöchentlich zu spielen. (Der <rs type="person" subtype="implied" ref="#pmb2513">Kaiser</rs> wollte gar nicht.)</p>
             <p>Nm. Briefe.– <rs type="person" ref="#pmb2461">Gisa</rs> und <rs type="person" ref="#pmb2284">Hajek</rs> kamen; später die Hofrätin <rs type="person" ref="#pmb2312">Zuckerkandl</rs>.–</p>
          </div>
       </body>

@@ -13,11 +13,11 @@
             <title type="iso-date">1910-11-06</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,9 +81,13 @@
             <p>
                <rs type="person" subtype="implied" ref="#pmb12701">Mama</rs> zu Tisch. Nm. mit ihr das <rs type="work" ref="#pmb30323">Trio</rs> des 13j. <rs type="person" ref="#pmb11969">Korngold</rs>. Außerordentlich.– </p>
             <p>Frau <rs type="person" ref="#pmb13970">Benedict</rs> mit <rs type="person" ref="#pmb24033">Minnie</rs> erscheinen, sehn sich das Haus an, nehmen Thee mit uns. <rs type="person" ref="#pmb24033">Minnie</rs> erledigt nur einige wenige Taktlosigkeiten (zu <rs type="person" ref="#pmb2173">O.</rs>: Sie können auch ohne Ihren Mann zu uns kommen – Sie sehen, wir sind nicht Streberinnen <c rendition="#dots" n="3" place="center"/> Ich darauf. Vielleicht erst recht.– Zu mir: »Auf Ihren Bildern sehn Sie immer aus wie ein schlechter Charakter.«) war aber sonst resignirt; will ein Gut kaufen bei <rs type="place" ref="#pmb49201">Großreifling</rs> sich aufs Land zurückziehn. Die <rs type="person" subtype="implied" ref="#pmb13970">Mutter</rs> sehr sympathisch.</p>
-            <p>– Später Dr. <rs type="person" ref="#pmb2496">Kaufmann</rs>. Viel über das Problem <rs type="person" ref="#pmb2167">Salten</rs>; über ihn, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb10883">Berger</rs> – die Feuilletonisten Naturen. (Der <anchor type="commentary" xml:id="KD061-1">
-                  <rs type="work" ref="#pmb30321">Wurstl Roman</rs>
-               </anchor> wieder nahe, durch die Figur <rs type="person" ref="#pmb2167">Saltens</rs>, der da nicht zu entbehren sein wird.) – </p>
+            <p>– Später Dr. <rs type="person" ref="#pmb2496">Kaufmann</rs>. Viel über das Problem <rs type="person" ref="#pmb2167">Salten</rs>; über ihn, <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb10883">Berger</rs> – die Feuilletonisten Naturen. (Der <anchor type="commentary" xml:id="KD061-1"/>
+               <rs type="work" ref="#pmb30321">Wurstl Roman</rs>
+               <note type="commentary" xml:id="KD061-1h">
+                  <p>Fragment. Veröffentlicht aus dem Nachlass: <bibl >
+                        <rs type="work" ref="#pmb30321">Theaterroman</rs>. In: <rs type="org">Literatur
+                     und Kritik</rs>, H. 13, <date instant="false">April 1967</date>, S. 135–183, teilweise A S. <rs type="work">EV</rs> 469–474</bibl>.</p>
+               </note> wieder nahe, durch die Figur <rs type="person" ref="#pmb2167">Saltens</rs>, der da nicht zu entbehren sein wird.) – </p>
             <p>Frl. <rs type="person" ref="#pmb13701">Vilma Balogh</rs>, <rs type="place" ref="#pmb43471">Budapest</rs>; wegen Aufführung »<rs type="work" ref="#pmb29935">Anatol</rs>« in den dortigen <rs type="place" ref="#pmb87">Kammerspielen</rs>, Übersetzung »<rs type="work" ref="#pmb29923">Weg ins freie</rs>«; wie sich herausstellte, hatte sie mich bei dieser Gelegenheit auch interviewt.– </p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs> nach dem Nachtmahl <rs type="person" ref="#pmb2674">Pfitzner</rs>, <rs type="person" ref="#pmb12729">Schubert</rs>.</p>
          </div>

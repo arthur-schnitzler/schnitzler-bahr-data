@@ -13,11 +13,11 @@
             <title type="iso-date">1897-10-31</title>
             <author ref="pmb16560">Freudenthal, Rosa</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -142,21 +142,31 @@
             <p>Soeben habe ich Ihre beiden Briefe erhalten, und mich zu Bett gelegt, da ich erkältet bin, von wo aus ich Ihnen schreibe.</p>
             <p>Uebrigens so wie Sie schreiben, können Sie mir direkt schreiben, – wenn ich Ihren Brief schon gestern gehabt hätte, wäre ich heut gar nicht aufgestanden. Der Brief vom <date when="1897-10-23">23.</date> lag wo anders und hab ich denselben auch eben erst geholt. Als ich den letzten Brief, <rs type="place" ref="#pmb823">Taubenstr</rs>. holte, fühlte ich durch das geschlossene <hi rend="latintype">Couvert</hi> nur nach dem Bilde – ich fühlte es war nicht darin, <add place="inline">(</add>merkte wie ich doch an dem Bilde hänge) glaubte Sie belieben zu grollen, beeilte mich in Folge dessen absolut nicht den Brief zu öffnen, sondern ging mit demselben in der Tasche spazieren, und<pb/> beschloß, mich mit <rs type="person" ref="#pmb11391">
                   <hi rend="latintype">Fulda</hi>
-               </rs> als moderner Mensch auf den festen Boden der Thatsachen zu stellen und achselzuckend zu verzichten! So las ich schließlich und endlich Ihren Brief und freute mich sehr über den warmen, milden Hauch der mir entgegen wehte und bereute meine häßlichen Gedanken von vorher. Ich wünschte sehr, daß es Ihnen so gut ginge daß Ihr <rs type="work" subtype="implied" ref="#pmb30219">Stück</rs> bald fertig wird und schön soll es werden. Wie brauchen notwendig ein gutes Stück hier, nachdem doch <anchor type="commentary" xml:id="KL625-3">
-                  <rs type="work" ref="#pmb30474">Agnes <hi rend="latintype">Jordan</hi>
-                  </rs>
-               </anchor> wie es scheint<pb/> nichts war? Auch war ich zur <hi rend="latintype">Première</hi> von <rs type="person" ref="#pmb11391">
+               </rs> als moderner Mensch auf den festen Boden der Thatsachen zu stellen und achselzuckend zu verzichten! So las ich schließlich und endlich Ihren Brief und freute mich sehr über den warmen, milden Hauch der mir entgegen wehte und bereute meine häßlichen Gedanken von vorher. Ich wünschte sehr, daß es Ihnen so gut ginge daß Ihr <rs type="work" subtype="implied" ref="#pmb30219">Stück</rs> bald fertig wird und schön soll es werden. Wie brauchen notwendig ein gutes Stück hier, nachdem doch <anchor type="commentary" xml:id="KL625-3"/>
+               <rs type="work" ref="#pmb30474">Agnes <hi rend="latintype">Jordan</hi>
+               </rs>
+               <note type="commentary" xml:id="KL625-3h">
+                  <p>Nachdem es am <rs type="place" ref="#pmb14">Burgtheater</rs> nicht gegeben wurde
+                  (<ptr target="KL216-1"/>), feierte das <rs type="work" subtype="implied" ref="#pmb30474">Stück</rs> von <rs type="person" ref="#pmb11701">Georg
+                  Hirschfeld</rs> am <date instant="false">9. 10. 1897</date> am <rs type="place" ref="#pmb3">Berliner Deutschen Theater</rs> seine Uraufführung.</p>
+               </note> wie es scheint<pb/> nichts war? Auch war ich zur <hi rend="latintype">Première</hi> von <rs type="person" ref="#pmb11391">
                   <hi rend="latintype">Fulda</hi>
                </rs>’s <rs type="work" ref="#pmb32554">Jugendfreunde</rs>, welches ich eckelhaft fand, dagegen gefiel mir <rs type="work" ref="#pmb29829">
                   <hi rend="latintype">Tschaperl</hi>
                </rs> von <rs type="person" ref="#pmb10815">
                   <hi rend="latintype">Bahr</hi>
-               </rs> nicht ganz schlecht, und <anchor type="commentary" xml:id="KL625-4">
-                  <rs type="work" ref="#pmb31735">versunkene Glocke</rs>
-               </anchor> gefiel mir riesig, aber wir müssen doch etwas Neues haben. Neulich ging ich bei <hi rend="latintype">
-                  <anchor type="commentary" xml:id="KL625-2">
-                     <rs type="place" ref="#pmb743">Lazarus</rs>
-                  </anchor>
+               </rs> nicht ganz schlecht, und <anchor type="commentary" xml:id="KL625-4"/>
+               <rs type="work" ref="#pmb31735">versunkene Glocke</rs>
+               <note type="commentary" xml:id="KL625-4h">
+                  <p>
+                     <rs type="person" ref="#pmb11617">Hauptmann</rs>s <rs type="work" subtype="implied" ref="#pmb31735">Stück</rs> erlebte am <date instant="false">2. 12. 1896</date> seine Uraufführung
+               und war eines der erfolgreichsten Stücke der damaligen Zeit.</p>
+               </note> gefiel mir riesig, aber wir müssen doch etwas Neues haben. Neulich ging ich bei <hi rend="latintype">
+                  <anchor type="commentary" xml:id="KL625-2"/>
+                  <rs type="place" ref="#pmb743">Lazarus</rs>
+                  <note type="commentary" xml:id="KL625-2h">
+                     <p>Buchhandlung.</p>
+                  </note>
                </hi> vorbei und ihr Bild war nicht im Fenster, ich war wüthend über die Vernachlässigung ging hinein und sagte, »Weshalb ist das Bild von Schnitzler nicht im Fenster?« Er sagte mir, »wir haben<pb/>
                <space unit="chars" quantity="1"/>nichts Neues von Schnitzler für’s Fenster« – so sag ich »Dann stellen Sie nur die <hi rend="latintype">
                   <rs type="work" ref="#pmb29917">Libelei</rs>
@@ -164,7 +174,13 @@
                   <hi rend="latintype">Tschaperl</hi>
                </rs>« – und – als ich heut vorbei kam steht mein Schnitzler mit seiner <hi rend="latintype">
                   <rs type="work" ref="#pmb29917">Libelei</rs>
-               </hi> wieder drin! Ein großes Bild, aber nicht das meine, so seitwärts, – ganz artig sieht’s aus! Wenn <anchor type="commentary" xml:id="KL625-1">unser neues Stück</anchor> gut wird, lassen wir uns photographiren und denk dabei an ein gewisses Lied von <rs type="person" ref="#pmb10989">
+               </hi> wieder drin! Ein großes Bild, aber nicht das meine, so seitwärts, – ganz artig sieht’s aus! Wenn <anchor type="commentary" xml:id="KL625-1"/>unser neues Stück<note type="commentary" xml:id="KL625-1h">
+                  <p>Der Brief von <rs type="person" ref="#pmb16560">Freudenthal</rs> vom [<date when="1897-10-04" instant="false">4. 10. 1897</date>] enthält einen Stoffentwurf, worin sie reale
+               Züge aus <rs type="person" ref="#pmb2121">Schnitzlers</rs> Leben fiktionalisiert: Ein
+               Mann mit schwangerer Freundin, das Kind kommt tot zur Welt, liebt in Wirklichkeit
+               eine verheiratete Frau. Inwieweit die Idee eines gemeinsamen Schauspiels von beiden
+               verfolgt wurde, ist nicht geklärt.</p>
+               </note> gut wird, lassen wir uns photographiren und denk dabei an ein gewisses Lied von <rs type="person" ref="#pmb10989">
                   <hi rend="latintype">Brahms</hi>
                </rs>, oder an die<pb/> schwarzweiße Bluse mit dem rothen Gürtel, oder an den schönen Schinken in <hi rend="latintype">
                   <rs type="place" ref="#pmb30">Salzburg</rs>

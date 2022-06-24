@@ -13,11 +13,11 @@
             <title type="iso-date">1892-02-01</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -115,11 +115,27 @@
             <opener>
                <salute>Lieber Freund.</salute>
             </opener>
-            <p>Ich bitte um die <anchor type="commentary" xml:id="KL410-3">gestern</anchor> vergessenen <anchor type="commentary" xml:id="KL410-1">
-                  <rs type="work" ref="#pmb31837">
-                     <hi rend="latintype">Aveugles</hi>
-                  </rs>
-               </anchor>
+            <p>Ich bitte um die <anchor type="commentary" xml:id="KL410-3"/>gestern<note type="commentary" xml:id="KL410-3h">
+                  <p>Vgl. <bibl >A. S. <rs type="work">Tb</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">31. 1. 1892</date>
+                     </bibl>: »<quote>
+                        <rs type="person" ref="#pmb14756">Bératon</rs> kam mit der Idee einer Aufführung
+                  der <rs type="work" ref="#pmb31837">Aveugles</rs>. Damit zusammen eine Pantomime
+                  und <rs type="work" ref="#pmb30005">Abschiedsouper</rs> mit womöglich <rs type="person" ref="#pmb2362">Palmay</rs>, <rs type="person" ref="#pmb2446">Devrient</rs>, <rs type="person" ref="#pmb12948">Thimig</rs>.</quote>«</p>
+               </note> vergessenen <anchor type="commentary" xml:id="KL410-1"/>
+               <rs type="work" ref="#pmb31837">
+                  <hi rend="latintype">Aveugles</hi>
+               </rs>
+               <note type="commentary" xml:id="KL410-1h">
+                  <p>Ausschließlich diesen Einakter von <rs type="person" ref="#pmb12156">Maeterlinck</rs>
+               übersetzte <rs type="person" ref="#pmb11740">Hofmannsthal</rs> in der Folge
+                  (<bibl >vgl. Brief an <rs type="person" ref="#pmb11666">Marie Herzfeld</rs>,
+                     <date instant="false">9. 3. 1892</date>, in: <rs type="person" ref="#pmb11740">Hugo von
+                     Hofmannsthal</rs>: <rs type="work">Briefe an Marie Herzfeld</rs>. Hg. Horst
+                  Weber. <rs type="place" ref="">Heidelberg</rs>: <rs type="org">Stiehm</rs> 1967,
+                  S. 23</bibl>).</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs subtype="local" type="work" ref="#pmb31951">
                   <hi rend="latintype">Bérénice</hi>
@@ -131,9 +147,16 @@
                <signed>Loris.</signed>
             </closer>
             <postscript>
-               <p>Die <anchor type="commentary" xml:id="KL410-2">
-                     <rs type="work" ref="#pmb31945">Überwindung</rs>
-                  </anchor> habe ich zuhause</p>
+               <p>Die <anchor type="commentary" xml:id="KL410-2"/>
+                  <rs type="work" ref="#pmb31945">Überwindung</rs>
+                  <note type="commentary" xml:id="KL410-2h">
+                     <p>Wohl wegen des Artikels <rs type="work" ref="#pmb32616">Maurice Maeterlinck</rs>. In:
+                  <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31945">Die Überwindung des Naturalismus</rs>. <bibl >Dresden, Leipzig: <rs type="org" ref="#pmb29771">E. Pierson</rs>
+                           <space unit="chars" quantity="1"/>
+                           <date instant="false">1891</date>, S. 189–198 (Als zweite Reihe von »Zur Kritik der
+                  Moderne«)</bibl>. <bibl >Erstdruck: <rs type="org" ref="#pmb29625">Magazin für
+                     Litteratur</rs>, Jg. 60, Nr. 2, <date instant="false">10. 1. 1891</date>, S. 25–27</bibl>.</p>
+                  </note> habe ich zuhause</p>
             </postscript>
          </div>
       </body>

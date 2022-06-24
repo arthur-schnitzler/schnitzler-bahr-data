@@ -13,11 +13,11 @@
             <title type="iso-date">1896-11-11</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,11 +107,17 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich werde mich sehr freuen, Dich bei mir zu sehen. Donnerstag, Freitag, Samstag bin ich zur angegebenen Zeit, von 11–1, meistens nicht daheim. An den anderen Tagen<pb/> ist es ziemlich sicher, daß Du mich triffst, am Sichersten natürlich, wenn Du noch so freundlich bist zu telephonieren. Ich <anchor type="commentary" xml:id="KL191-1">wohne jetzt</anchor>
+            <p>Ich werde mich sehr freuen, Dich bei mir zu sehen. Donnerstag, Freitag, Samstag bin ich zur angegebenen Zeit, von 11–1, meistens nicht daheim. An den anderen Tagen<pb/> ist es ziemlich sicher, daß Du mich triffst, am Sichersten natürlich, wenn Du noch so freundlich bist zu telephonieren. Ich <anchor type="commentary" xml:id="KL191-1"/>wohne jetzt<note type="commentary" xml:id="KL191-1h">
+                  <p>Übersiedlung am <date instant="false">4./5. 11.</date>
+                  </p>
+               </note>
                <space unit="chars" quantity="1"/>
-               <rs type="place" ref="#pmb436">IX Porzellangasse 37</rs> 4. St., mit Aufzug. Komm bald; ich laß Dich dann nicht mehr fort, bis Du mir die neue <anchor type="commentary" xml:id="KL191-2">
-                  <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs>
-               </anchor> zugeschworen hast.</p>
+               <rs type="place" ref="#pmb436">IX Porzellangasse 37</rs> 4. St., mit Aufzug. Komm bald; ich laß Dich dann nicht mehr fort, bis Du mir die neue <anchor type="commentary" xml:id="KL191-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs>
+               <note type="commentary" xml:id="KL191-2h">
+                  <p>
+                     <rs type="work" ref="#pmb30075">Die Frau des Weisen</rs>.</p>
+               </note> zugeschworen hast.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>hr</signed>
             </closer>

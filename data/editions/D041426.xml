@@ -13,11 +13,11 @@
             <title type="iso-date">1903-03-17</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -110,10 +110,16 @@
             <p>Gelesen <rs type="work" ref="#pmb31025 #pmb31027">
                   <rs type="person" ref="#pmb12654">Schiller</rs> – <rs type="person" ref="#pmb3460">Körner</rs>
                </rs> und den köstlichen <rs type="person" ref="#pmb3463">Hansjakob</rs>.</p>
-            <p>Heute <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> da. Nachmittag <anchor type="commentary" xml:id="KD426-1">
-                  <rs type="person" ref="#pmb3467">
-                     <rs type="work" subtype="implied" ref="#pmb31029">Duncan</rs>
-                  </rs> dictiert</anchor>.</p>
+            <p>Heute <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> da. Nachmittag <anchor type="commentary" xml:id="KD426-1"/>
+               <rs type="person" ref="#pmb3467">
+                  <rs type="work" subtype="implied" ref="#pmb31029">Duncan</rs>
+               </rs> dictiert<note type="commentary" xml:id="KD426-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31029">Isadora Duncan. Als Gast im Carltheater vom 21. bis 28. März
+                     1903</rs>. In: <rs type="org" ref="#pmb29414">Neues Wiener Tagblatt</rs>,
+                  Jg. 37, Nr. 80, <date instant="false">22. 3. 1903</date>, S. 3–4</bibl>.</p>
+               </note>.</p>
             <p>Angefangen <rs type="work" subtype="implied" ref="#pmb31031">
                   <rs type="person" ref="#pmb3471">Lassalle</rs> über <rs type="person" ref="#pmb28117">Heraklit</rs>
                </rs>.</p>

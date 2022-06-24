@@ -13,11 +13,11 @@
             <title type="iso-date">1921-05-11</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,9 +99,14 @@
                   <hi rend="underline" n="1">r</hi>
                </hi>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL195-1">
-                  <rs type="person" ref="#pmb2331">Knappe</rs>
-               </anchor>, was für <anchor type="commentary" xml:id="KL195-2">schreckliche Wochen</anchor> Sie hatten, – ich hatte ja keine Ahnung! Ich war selbst krank und hab mich vor lauter Kummer ganz in meine vier Wände verkrochen,– nun war <rs type="person" ref="#pmb2121">Arthur</rs> eine Woche bei mir, er ist heute früh abgereist, und ich glaube, an freundlichere Zeiten und besseres Verstehen zwischen uns.</p>
+               <anchor type="commentary" xml:id="KL195-1"/>
+               <rs type="person" ref="#pmb2331">Knappe</rs>
+               <note type="commentary" xml:id="KL195-1h">
+                  <p>Korrepetitor von <rs type="person" ref="#pmb10818">Anna Bahr-Mildenburg</rs>.</p>
+               </note>, was für <anchor type="commentary" xml:id="KL195-2"/>schreckliche Wochen<note type="commentary" xml:id="KL195-2h">
+                  <p>Am <date instant="false">17. 4. 1921</date> starb ihre Mutter <rs type="person" ref="#pmb28842">Anna
+                  Bellschan von Mildenburg</rs> in <rs type="place" ref="#pmb875">Klagenfurt</rs>.</p>
+               </note> Sie hatten, – ich hatte ja keine Ahnung! Ich war selbst krank und hab mich vor lauter Kummer ganz in meine vier Wände verkrochen,– nun war <rs type="person" ref="#pmb2121">Arthur</rs> eine Woche bei mir, er ist heute früh abgereist, und ich glaube, an freundlichere Zeiten und besseres Verstehen zwischen uns.</p>
             <p>Nehmen Sie diese Blumen, liebe gnädige Frau, als ein Zeichen meiner innigsten Verehrung für Sie entgegen,– und glauben Sie an die herzlichste Anteilnahme<pb/>
             </p>
             <closer>Ihrer aufrichtig ergebenen<lb/>

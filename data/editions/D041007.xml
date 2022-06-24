@@ -13,11 +13,11 @@
             <title type="iso-date">1891-11-29</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,7 +78,12 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1891-11-29" n="01">29/XI Sonntag.</date> Vm. mit <rs type="person" ref="#pmb14953">Mz.</rs>– Nm. <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb10863">B.-H.</rs>, <rs type="person" ref="#pmb11740">Loris</rs>, <rs type="person" ref="#pmb2167">Salten</rs>.– <rs type="person" ref="#pmb10815">B.</rs> äußert sich höchst entzückt über das <rs type="work" ref="#pmb29823">Märchen</rs>.– Besprechung einer Aufführung.– <rs type="person" ref="#pmb12491">Reicher</rs> hats ihm in <rs type="place" ref="#pmb332">Linz</rs>
-               <space unit="chars" quantity="1"/>im <anchor type="commentary" xml:id="KD007-1">Hotel</anchor> vordeclamirt.– <rs type="person" ref="#pmb10815">B.</rs> wills durch Dilettanten (<rs type="work" subtype="implied" ref="#pmb29823">Fedor</rs> – <rs type="person" ref="#pmb12491">Reicher</rs>) aufführen lassen. Las das <rs type="work" ref="#pmb30005">Absch.s.</rs> vor, das viel Heiterkeit erregte.– Dann bei <rs type="person" ref="#pmb14953">Mz.</rs>, mit der es wieder Stunden unendlicher Liebesstimmung gibt.</p>
+               <space unit="chars" quantity="1"/>im <anchor type="commentary" xml:id="KD007-1"/>Hotel<note type="commentary" xml:id="KD007-1h">
+                  <p>
+                     <rs type="person" ref="#pmb12491">Reicher</rs> hielt sich am <date instant="false">21. 11.
+                  1891</date> für einen Tag in <rs type="place" ref="#pmb332">Linz</rs> auf (<bibl >
+                        <rs type="work">Bw</rs> Hofmannsthal/Bahr 28</bibl>).</p>
+               </note> vordeclamirt.– <rs type="person" ref="#pmb10815">B.</rs> wills durch Dilettanten (<rs type="work" subtype="implied" ref="#pmb29823">Fedor</rs> – <rs type="person" ref="#pmb12491">Reicher</rs>) aufführen lassen. Las das <rs type="work" ref="#pmb30005">Absch.s.</rs> vor, das viel Heiterkeit erregte.– Dann bei <rs type="person" ref="#pmb14953">Mz.</rs>, mit der es wieder Stunden unendlicher Liebesstimmung gibt.</p>
             <p>Zu Haus Gesellschaft. <rs type="person" ref="#pmb2430">Neuwirth</rs>, <rs type="person" ref="#pmb27770">Klein</rs>, <rs type="person" ref="#pmb2434">Hammerschlag</rs>.– Corrigirte dann die letzten Bogen <rs type="work" ref="#pmb29823">Mährchen</rs> – bekam einen rechten Katzenjammer.</p>
          </div>
       </body>

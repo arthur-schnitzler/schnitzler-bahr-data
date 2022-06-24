@@ -13,11 +13,11 @@
             <title type="iso-date">1928-03-21</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,7 +77,10 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1928-03-21" n="1">21/3</date> Vm. Besorgungen. Begegnung <rs type="person" ref="#pmb10788">Raoul Auernheimer</rs>;– mit ihm über <rs type="person" ref="#pmb13055">Jakob</rs> und über <rs type="person" ref="#pmb10815">Bahr</rs> (der ihm sein Streben gerecht zu sein (als Kritiker) vorgeworfen: »<anchor type="commentary" xml:id="KD384-1">Gerechtigkeit ist nur eine Sache Gottes</anchor>«).–</p>
+               <date when="1928-03-21" n="1">21/3</date> Vm. Besorgungen. Begegnung <rs type="person" ref="#pmb10788">Raoul Auernheimer</rs>;– mit ihm über <rs type="person" ref="#pmb13055">Jakob</rs> und über <rs type="person" ref="#pmb10815">Bahr</rs> (der ihm sein Streben gerecht zu sein (als Kritiker) vorgeworfen: »<anchor type="commentary" xml:id="KD384-1"/>Gerechtigkeit ist nur eine Sache Gottes<note type="commentary" xml:id="KD384-1h">
+                  <p>Es dürfte sich um eine privat getätigte Aussage handeln. Die beiden standen in
+               Kontakt.</p>
+               </note>«).–</p>
             <p>Zu Tisch bei <rs type="person" ref="#pmb12698">Julius’</rs>.–</p>
             <p>Nm. am <rs type="work" ref="#pmb30299">Abenteurer</rs>.–</p>
             <p>Mit <rs type="person" ref="#pmb12435">C. P.</rs>

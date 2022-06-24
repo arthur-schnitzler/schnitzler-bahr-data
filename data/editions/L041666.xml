@@ -13,11 +13,11 @@
             <title type="iso-date">1919-09-23</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -109,7 +109,10 @@
                <rs type="work" subtype="implied" ref="#pmb32856">schrieb</rs>. Das ist hier der erste gestrenge Kritiker, ein <rs type="place" ref="#pmb50">Wien</rs>er, – über mich schreibt er ganz richtig,– nur gegen <rs type="person" ref="#pmb13514">Aranyi</rs> ist er zu streng, der war genau so wie ich durch die wahnsinnige Hitze und verbrauchte Luft gehindert, spielte aber doch ganz schön und hatte Beifall, ebenso wie ich. Ich wurde dreimal herausgerufen.</p>
             <p>Über den kleinen 17jähr. <rs type="person" subtype="implied" ref="#pmb27734">Lausbuben</rs>, der in der »<rs type="org" ref="#pmb29688">Wacht</rs>« <rs type="work" subtype="implied" ref="#pmb32862">schrieb</rs>, und mich am nächsten Tag tötlich verlegen und angstvoll, zu meiner Erheiterung, grüsste, werd ich Dir und <rs type="person" ref="#pmb12692">Heini</rs> selbst erzälen.</p>
             <p>Ja, aber das Unangenehme ist, dass seit einigen Tagen hier ein furchtbarer Wettersturz ist,– nach drückend heisser Zeit, eine so plötzliche Eiseskälte, der Schnee liegt bis auf 600 Meter herunter,– dass alle Welt verschnupft und ich heiser bin. Gestern Vorm. versuchte ich zu üben und<pb/> musste es sein lassen, bin Nachm. nicht zur <rs type="person" ref="#pmb10818">Mildenburg</rs>, sondern hab mir in meinem eisigen Zimmer alles Mögliche angezogen und mich in’s Bett gelegt. Das Zimmer ist jetzt eine trostlose Eisgrube, ich sitze eben mit 2 Jacken angetan in der Halle, wo’s doch ein bissel wärmer ist, weil ein Gaskamin brennt. Die wenigen Zimmer mit Öfen sind besetzt,– ich hab es immer gesagt,– so ein Haus mit Centralheizung ist eine herzlose Sache. Am 30. soll also mein Abend stattfinden, früher gehts leider nicht,– ich hoffe, dass ich bis dahin wieder unheiser und disponiert bin,– stell Dir meine Hyppochrondrie beiläufig vor. Heut ein klarer, kalter Tag, ich hab mich <add place="above">früh</add> rasch angezogen und mich im <rs type="place" ref="#pmb180">Mirabellgarten</rs> in die köstliche Sonne gesetzt, in <rs type="place" ref="#pmb49756">Morzg</rs> im geheizten Stübel gegessen, zu Fuss in der Sonne zurück, auf einer Bank bis 4 Sonne geschluckt,– ja, aber das Zimmer zuhause ist halt alleweil das gleiche.</p>
-            <p>Heut hätt ich bei der <rs type="person" ref="#pmb10818">Mildenburg</rs> meine Lieder singen sollen,– ich sing vor <anchor type="commentary" xml:id="KL666-1">Samstag–Sonntag</anchor> keinen Ton! Ich war vielleicht zu fleissig.<pb/>
+            <p>Heut hätt ich bei der <rs type="person" ref="#pmb10818">Mildenburg</rs> meine Lieder singen sollen,– ich sing vor <anchor type="commentary" xml:id="KL666-1"/>Samstag–Sonntag<note type="commentary" xml:id="KL666-1h">
+                  <p>
+                     <date instant="false">27.</date>/<date instant="false">28. 9. 1919</date>.</p>
+               </note> keinen Ton! Ich war vielleicht zu fleissig.<pb/>
             </p>
             <p>Begegnungen mit Menschen: gestern Mittag in der Halle, nach meiner Besprechung mit <rs type="person" ref="#pmb12402">Paumgartner</rs>, der noch zugegen war,– kommt <rs type="person" ref="#pmb22855">Prechnerle</rs> daher, als ob nichts gewesen wär! Na Du glaubst es nicht, wie ich ihn, mit <rs type="person" ref="#pmb3112">Groszens</rs> Hilfe, beschimpft hab,– auch wegen der <rs type="person" ref="#pmb2167">Salten</rs>-Vorlesung,– er fing mit seinem Idealismus an,– da war’s <hi rend="underline" n="1">ganz</hi> aus! Zum Schluss sagt ich ihm meine ganze Meinung à propos Volk und Kunst und Partei und Stagelgrün! und seinen Herrn <rs type="person" subtype="implied" ref="#pmb28851">Nachfolger</rs>, der es nicht einmal der Mühe wert findet, mir ein Wort der Entschuldigung zu sagen. Er will nun durchaus den Abend am <date>30.</date> noch für seine Arbeiter haben, da hat er noch irgend ein Amt,– sowol ich als <rs type="person" ref="#pmb3112">Grosz</rs> haben schroff abgewiesen,– <rs type="person" ref="#pmb12402">Paumgartner</rs> macht den Abend für die Schülerlade des <rs type="place" ref="#pmb798">Mozarteums</rs>. <rs type="person" ref="#pmb22855">Prechner</rs> will heut Abend nochmal mit mir sprechen.– aber es wird nichts dabei herauskommen. Er ist ein <rs type="work" subtype="implied" ref="#pmb29971">Hjalmar</rs> mit Deklamationsthema (en miniature) und lügt offenbar ein bischen.</p>
             <p>Abends an meinem Tisch Herr <rs type="person" ref="#pmb21365">Metzl</rs>, Frl. <rs type="person" ref="#pmb28815">Zotos</rs>, Frl. <rs type="person" ref="#pmb28830">Kowo</rs>,– brr! <add place="below">später <rs type="person" ref="#pmb12402">Paumgartner</rs> u. <rs type="person" ref="#pmb3112">Grosz</rs>
@@ -126,7 +129,9 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL666-1">Hier gibts eine gute <rs type="place" ref="#pmb40306">ital.</rs> Veilchenreife à 10<hi rend="superscript">.</hi>80, soll ich welche mitbringen?</anchor>
+                  <anchor type="textConst" xml:id="TL666-1"/>Hier gibts eine gute <rs type="place" ref="#pmb40306">ital.</rs> Veilchenreife à 10<hi rend="superscript">.</hi>80, soll ich welche mitbringen?<note type="textConst" xml:id="TL666-1h">
+                     <p>Quer zum Text auf der ersten Seite.</p>
+                  </note>
                </p>
             </postscript>
          </div>

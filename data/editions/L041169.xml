@@ -13,11 +13,11 @@
             <title type="iso-date">1894-07-17</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -101,7 +101,11 @@
    <text type="letter">
       <body>
          <div type="writingSession" n="1">
-            <p>Die Fahrt nach <rs type="place" ref="#pmb30">Salzburg</rs> werde ich wol <anchor type="commentary" xml:id="KL169-1">nicht mitmachen können</anchor>. Möchte aber gern in <rs type="place" ref="#pmb213">Ischl</rs> mit Dir zusammen sein. Paßt Dir<del rend="strikethrough">s</del>, wenn ich <date when="1894-07-21">Samstag den 21.</date> in der Früh komme u. bis Abends bleibe?</p>
+            <p>Die Fahrt nach <rs type="place" ref="#pmb30">Salzburg</rs> werde ich wol <anchor type="commentary" xml:id="KL169-1"/>nicht mitmachen können<note type="commentary" xml:id="KL169-1h">
+                  <p>Auch <rs type="person" ref="#pmb11740">Hofmannsthal</rs> reagiert am <date instant="false">18.
+                  7.</date> auf ein nicht erhalten gebliebenes Schreiben, in dem ihm <rs type="person" ref="#pmb10815">Bahr</rs> mitteilte, ihn nicht in <rs type="place" ref="#pmb30">Salzburg</rs> zu treffen (<bibl >
+                        <rs type="work">Bw</rs> Bahr/Hofmannsthal 52–53)</bibl>.</p>
+               </note>. Möchte aber gern in <rs type="place" ref="#pmb213">Ischl</rs> mit Dir zusammen sein. Paßt Dir<del rend="strikethrough">s</del>, wenn ich <date when="1894-07-21">Samstag den 21.</date> in der Früh komme u. bis Abends bleibe?</p>
             <closer>Herzlichst grüßt<lb/>
                <signed>Hermann</signed>
             </closer>

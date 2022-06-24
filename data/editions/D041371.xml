@@ -13,11 +13,11 @@
             <title type="iso-date">1916-03-24</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,11 +77,21 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1916-03-24" n="1">24/3</date> Mit <rs type="person" ref="#pmb2173">O.</rs> bei <rs type="person" ref="#pmb2135">Popper</rs>. Über die <rs type="place" ref="#pmb647">Skodawerke</rs>.– Sein Pessimismus wegen des Kriegsendes.– Über <rs type="person" ref="#pmb10815">Bahrs</rs> dummen <anchor type="commentary" xml:id="KD371-1">
-                  <rs type="work" ref="#pmb30895">Böhmenaufsatz</rs>
-               </anchor> in der <rs type="org" ref="#pmb29212">N. R.</rs> und die <rs type="person" ref="#pmb12408">Pernerstorfersche</rs> ganz kluge <anchor type="commentary" xml:id="KD371-2">
-                  <rs type="work" ref="#pmb30915">Erwidrung</rs>
-               </anchor>.– <rs type="person" ref="#pmb2135">Poppers</rs> Wirkung fast klimatisch wohlthuend.</p>
+               <date when="1916-03-24" n="1">24/3</date> Mit <rs type="person" ref="#pmb2173">O.</rs> bei <rs type="person" ref="#pmb2135">Popper</rs>. Über die <rs type="place" ref="#pmb647">Skodawerke</rs>.– Sein Pessimismus wegen des Kriegsendes.– Über <rs type="person" ref="#pmb10815">Bahrs</rs> dummen <anchor type="commentary" xml:id="KD371-1"/>
+               <rs type="work" ref="#pmb30895">Böhmenaufsatz</rs>
+               <note type="commentary" xml:id="KD371-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30895">Böhmen</rs>. In: <rs type="org" ref="#pmb29212">Neue
+                     Rundschau</rs>, Jg. 27, H. 1, <date instant="false">1. 1. 1916</date>, S. 36–49</bibl>.</p>
+               </note> in der <rs type="org" ref="#pmb29212">N. R.</rs> und die <rs type="person" ref="#pmb12408">Pernerstorfersche</rs> ganz kluge <anchor type="commentary" xml:id="KD371-2"/>
+               <rs type="work" ref="#pmb30915">Erwidrung</rs>
+               <note type="commentary" xml:id="KD371-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12408">Engelbert Pernerstorfer</rs>: <rs type="work" ref="#pmb30915">Offener Brief an Hermann Bahr</rs>. In: <rs type="org" ref="#pmb29212">Neue Rundschau</rs>, Jg. 27, H. 3, <date instant="false">1. 3. 1916</date>,
+                  S. 335–350</bibl>.</p>
+               </note>.– <rs type="person" ref="#pmb2135">Poppers</rs> Wirkung fast klimatisch wohlthuend.</p>
             <p>Nm. am <rs type="work" ref="#pmb30881">Fldb.</rs>–</p>
             <p>Mit <rs type="person" ref="#pmb2173">O.</rs> Concert <rs type="person" ref="#pmb25405">Steiner</rs>.–</p>
             <p>Brief <rs type="person" ref="#pmb2315">Liesl</rs>s, der <rs type="person" ref="#pmb2173">O.</rs> zu Thränen der Wuth bringt; sie liest ihn mir vor; es ist eine Entgegnung auf <rs type="person" ref="#pmb2173">O.</rs>s letzten, in dem diese von unsern Differenzen und Auseinandersetzungen spricht. Vorwürfe an <rs type="person" ref="#pmb2173">O.</rs>; auch einige zum Theil etwas gehässige Bemerkungen über <rs type="person" ref="#pmb2173">O.</rs>s künstlerische Carrière etc.– Schuld <rs type="person" ref="#pmb2173">O.</rs>’s Mangel an Discretion; jetzt umso taktloser – als auch Censurbeamte diese Briefe lesen. Ich sagt es <rs type="person" ref="#pmb2173">O.</rs> in ziemlich harter Weise; sie fühlt dass ich recht habe.</p>

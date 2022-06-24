@@ -13,11 +13,11 @@
             <title type="iso-date">1918-09-18</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,18 +80,27 @@
                <date when="1918-09-18" n="1">18/9</date> Schlimmer Morgen.– </p>
             <p>Zur Schule; wo <rs type="person" ref="#pmb12692">Heini</rs> Mathematische Nachprüfung hatte.– Die kleinen und großen Mädchen vor dem Lyceum.– <rs type="person" ref="#pmb2167">Felix S.</rs> der seinen <rs type="person" subtype="implied" ref="#pmb2922">Sohn</rs> von der geschichtl. Nachprüfung abholt.– Er erzählt mir, von seinem Besuch bei <rs type="person" ref="#pmb10815">Bahr</rs> in <rs type="place" ref="#pmb30">Salzburg</rs>. <rs type="person" ref="#pmb10815">B.</rs> hat ihm genau dasselbe von <rs type="person" ref="#pmb10765">Poldi</rs> erzählt – wie mir – (Ich blieb stumm.) <c rendition="#dots" n="3" place="center"/> Nur ein kleiner Unterschied – aber ungemein charakteristisch <c rendition="#dots" n="3" place="center"/>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb10815">Bahr</rs> frägt (mit Hinblick auf den <rs type="person" subtype="implied" ref="#pmb12417">Cardinal</rs>!): Wie werden Sie sich <rs type="person" ref="#pmb2167">Salten</rs> gegenüber verhalten? Worauf <rs type="person" ref="#pmb10765">Andrian</rs>: Wenn das Stück so gut ist wie sein letzter <anchor type="commentary" xml:id="KD552-1">
-                  <rs type="work" subtype="implied" ref="#pmb32380">Cyclus</rs>
-               </anchor>, so führen wirs natürlich auf <c rendition="#dots" n="3" place="center"/>
+               <rs type="person" ref="#pmb10815">Bahr</rs> frägt (mit Hinblick auf den <rs type="person" subtype="implied" ref="#pmb12417">Cardinal</rs>!): Wie werden Sie sich <rs type="person" ref="#pmb2167">Salten</rs> gegenüber verhalten? Worauf <rs type="person" ref="#pmb10765">Andrian</rs>: Wenn das Stück so gut ist wie sein letzter <anchor type="commentary" xml:id="KD552-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32380">Cyclus</rs>
+               <note type="commentary" xml:id="KD552-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb32380">Kinder der Freude. Drei Einakter</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1917</date>
+                     </bibl>.</p>
+               </note>, so führen wirs natürlich auf <c rendition="#dots" n="3" place="center"/>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb10815">Bahr</rs>: Und Schn.–? Darauf mein Freund <rs type="person" ref="#pmb10765">Poldi</rs>: Wenn<rs type="work" subtype="implied" ref="#pmb30819">’s</rs> Ihnen gefällt, so werden Sies annehmen – aber ich glaube nicht, daß Ihnen noch ein Stück von Sch. gefallen wird.– Mich amüsirts – ich hab eine fast aesthetische Freude, an diesem Jesuitenspiel – und keinerlei Rancune gegen <rs type="person" ref="#pmb10765">Andrian</rs>.– Dann mit <rs type="person" ref="#pmb2167">F. S.</rs> über politisches. Er freut sich fast auf den vermutlichen Zusammenbruch. Thöricht;– nur, fast nur die Unschuldigen werden darunter leiden.– »Wir müssen uns öfter sehen <c rendition="#dots" n="3" place="center"/> Gerade jetzt <c rendition="#dots" n="3" place="center"/> Ich sehne mich nach Ihnen.« – Er war sehr warm und ich hatte ein gutes Gefühl für ihn. Mit all seinen kleinen Filouterien, Hochstapeleien, Unaufrichtigkeiten doch ein Mensch – zu dem eine Brücke führt.– </p>
             <p>Heini bestand die Prüfung, mit dem kleinen <rs type="person" ref="#pmb4039">Schw.</rs>, der mit mir gewartet, nach Hause.</p>
             <p>
                <rs type="person" ref="#pmb22728">Kolap</rs>. Erzählte ihr und <rs type="person" ref="#pmb2173">O.</rs> die <rs type="person" ref="#pmb10815">Bahr</rs>-Sachen, woraus sich ein allgemeines Gespräch über <rs type="place" ref="#pmb41240">Oesterreich</rs> und meine liter. Stellung hier, meine <rs type="place" ref="#pmb14">Burgtheater</rs>schicksale entwickelte.</p>
             <p>Nm. begann ich <rs type="work" ref="#pmb31377">Nachklg.</rs> durchzusehen.– </p>
-            <p>Prof. <rs type="person" ref="#pmb9449">Reich</rs>,– wegen Vorlesung im <rs type="place" ref="#pmb599">Volksheim</rs> und Gesang <rs type="person" ref="#pmb2173">Olga</rs>;– wichtigthuerisch enervant, wie immer;– <rs type="person" ref="#pmb12711">Schott</rs> – sein Gespräch mit <rs type="person" ref="#pmb10815">Bahr</rs> (<anchor type="commentary" xml:id="KD552-2">
-                  <rs type="work" ref="#pmb31585">Natürl. Tochter</rs>
-               </anchor>);– <rs type="person" ref="#pmb3159">Hugo Schmidl</rs>.– </p>
+            <p>Prof. <rs type="person" ref="#pmb9449">Reich</rs>,– wegen Vorlesung im <rs type="place" ref="#pmb599">Volksheim</rs> und Gesang <rs type="person" ref="#pmb2173">Olga</rs>;– wichtigthuerisch enervant, wie immer;– <rs type="person" ref="#pmb12711">Schott</rs> – sein Gespräch mit <rs type="person" ref="#pmb10815">Bahr</rs> (<anchor type="commentary" xml:id="KD552-2"/>
+               <rs type="work" ref="#pmb31585">Natürl. Tochter</rs>
+               <note type="commentary" xml:id="KD552-2h">
+                  <p>Von <rs type="person" ref="#pmb11461">Goethe</rs>.</p>
+               </note>);– <rs type="person" ref="#pmb3159">Hugo Schmidl</rs>.– </p>
             <p>Mit <rs type="person" ref="#pmb12692">Heini</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb12733">Schumann</rs>

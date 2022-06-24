@@ -13,11 +13,11 @@
             <title type="iso-date">1899-07-06</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,7 +127,10 @@
                   <rs type="person" ref="#pmb11036">Burckhard</rs>
                </hi>, mich, – event. <rs type="person" ref="#pmb11617">
                   <hi rend="latintype">Hauptmann</hi>
-               </rs> (<anchor type="commentary" xml:id="KL438-1">an den ich mich über <rs type="person" ref="#pmb10986">Brahm</rs> wende</anchor>.) Sie können natürlich ohne weiters zusagen. Für die Herausgeber scheint mir die Sache allerdings überflüssig: sie brauchten Arbeitskräfte, nicht Namen.–</p>
+               </rs> (<anchor type="commentary" xml:id="KL438-1"/>an den ich mich über <rs type="person" ref="#pmb10986">Brahm</rs> wende<note type="commentary" xml:id="KL438-1h">
+                  <p>Die Übermittlung nicht im <bibl >
+                        <rs type="work">Bw</rs> Schnitzler/Brahm</bibl>.</p>
+               </note>.) Sie können natürlich ohne weiters zusagen. Für die Herausgeber scheint mir die Sache allerdings überflüssig: sie brauchten Arbeitskräfte, nicht Namen.–</p>
             <p>Ich bin noch hier; und will über meine<pb/> Stimmung nichts sagen, da nichts neues u nicht erfreuliches vorliegt. Gerade dss sich das Leben da und dort wieder zu melden anfängt, ist das traurige; es ist ein Leben dritter Ordnung, das beste ist vorbei.</p>
             <p>Das Wetter ist schändlich. <date>Mitte Juli</date> reise ich nach <rs type="place" ref="#pmb651">Kärnthen</rs>; zuerst <rs type="place" ref="#pmb909">Velden</rs>, dann zu <rs type="person" ref="#pmb10863">Richard</rs>, von dem ich eine kurze Karte habe. – Hat sich in den Chancen für Mitte August (<rs type="place" ref="#pmb432">Thü<pb/>ringen</rs> etc) was geändert? – Arbeiten Sie? Sehn Sie <rs type="person" ref="#pmb24033">Minnie</rs>?–</p>
             <closer>Leben Sie wohl. Von Herzen Ihr <signed>Arthur Sch</signed>

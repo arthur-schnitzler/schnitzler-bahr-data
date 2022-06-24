@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-13</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -128,7 +128,10 @@
                </dateline>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Danke sehr. Ich freue mich sehr, wenn Du wieder einmal heraus kommst – nur bitte diesen Sonntag und Montag nicht, weil ich <anchor type="commentary" xml:id="KL264-1">nicht hier</anchor> bin. Und bitte schick mir den <rs type="work" subtype="implied" ref="#pmb29855">Rekurs</rs> gelegentlich zurück.</p>
+            <p>Danke sehr. Ich freue mich sehr, wenn Du wieder einmal heraus kommst – nur bitte diesen Sonntag und Montag nicht, weil ich <anchor type="commentary" xml:id="KL264-1"/>nicht hier<note type="commentary" xml:id="KL264-1h">
+                  <p>Am Sonntag, <date instant="false">15. 11.</date>, besuchte er in <rs type="place" ref="#pmb30">Salzburg</rs> das Grab seiner <rs type="person" subtype="implied" ref="#pmb2132 #pmb27667">Eltern</rs> (<bibl >H. B. <rs type="work">TSN</rs>
+                  III,406</bibl>).</p>
+               </note> bin. Und bitte schick mir den <rs type="work" subtype="implied" ref="#pmb29855">Rekurs</rs> gelegentlich zurück.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

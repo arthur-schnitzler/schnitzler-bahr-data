@@ -13,11 +13,11 @@
             <title type="iso-date">1897-02-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,13 +99,26 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1897-02-01" n="01"/>Meine »<rs type="work" ref="#pmb30383">Renaissance</rs>« erscheint; <rs type="person" ref="#pmb2121">Schnitzler</rs>, <anchor type="commentary" xml:id="KD397-1">
-                  <rs type="person" ref="#pmb11673">Herzl</rs>
-               </anchor>, <rs type="person" ref="#pmb14971">Christomanos</rs>, <anchor type="commentary" xml:id="KD397-2">
-                  <rs type="person" ref="#pmb10765">Poldi</rs>
-               </anchor> u <anchor type="commentary" xml:id="KD397-3">
-                  <rs type="person" ref="#pmb11740">Hugo</rs>
-               </anchor> danken mir in warmen Briefen</p>
+               <date when="1897-02-01" n="01"/>Meine »<rs type="work" ref="#pmb30383">Renaissance</rs>« erscheint; <rs type="person" ref="#pmb2121">Schnitzler</rs>, <anchor type="commentary" xml:id="KD397-1"/>
+               <rs type="person" ref="#pmb11673">Herzl</rs>
+               <note type="commentary" xml:id="KD397-1h">
+                  <p>
+                     <bibl >
+                        <date instant="false">18. 1. 1897</date>, <rs type="org">TMW</rs>, HS AM 18730 Ba</bibl>.</p>
+               </note>, <rs type="person" ref="#pmb14971">Christomanos</rs>, <anchor type="commentary" xml:id="KD397-2"/>
+               <rs type="person" ref="#pmb10765">Poldi</rs>
+               <note type="commentary" xml:id="KD397-2h">
+                  <p>
+                     <bibl >
+                        <date instant="false">16. 1. 1897</date>, <rs type="org">TMW</rs>, HS AM 15196 Ba</bibl>.</p>
+               </note> u <anchor type="commentary" xml:id="KD397-3"/>
+               <rs type="person" ref="#pmb11740">Hugo</rs>
+               <note type="commentary" xml:id="KD397-3h">
+                  <p>
+                     <bibl >
+                        <date instant="false">30. 1. 1897</date>, <rs type="work">Bw</rs> Hofmannsthal/Bahr
+               83–84</bibl>.</p>
+               </note> danken mir in warmen Briefen</p>
             <p>Vortrag in <rs type="place" ref="#pmb833">Brünn</rs>, für den <rs type="org" ref="#pmb29813">Volksbildungsverein</rs> im <rs type="place" ref="#pmb437">Deutschen Haus</rs>, über das Junge <rs type="place" ref="#pmb50">Wien</rs> mit sehr großem Erfolg.</p>
          </div>
       </body>

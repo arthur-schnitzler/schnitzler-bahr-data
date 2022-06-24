@@ -13,11 +13,11 @@
             <title type="iso-date">1898-12-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,11 +107,25 @@
                </dateline>
                <salute rend="center">Lieber Freund!</salute>
             </opener>
-            <p>Nimm meinen herzlichsten Glückwunsch zu Deinem großen <anchor type="commentary" xml:id="KL222-1">
-                  <rs type="work" subtype="implied" ref="#pmb30219">Erfolg</rs>
-               </anchor>, ich hab mich riesig gefreut!</p>
-            <p>Nun noch etwas. Ich möchte den <anchor type="commentary" xml:id="KL222-2">verbotenen »<rs type="work" ref="#pmb29843">Kakadu</rs>«</anchor> gern für die »<rs type="org" ref="#pmb29209">Zeit</rs>« haben. Stell Deine <anchor type="commentary" xml:id="KL222-3">
-                  <rs type="org" ref="#pmb29206">Kosmopolis</rs>-Honorarforderungen</anchor>, ich hoffe sie durchzusetzen. Darf ich mir<pb/> das <rs type="work" subtype="implied" ref="#pmb29843">Manuscript</rs> holen?</p>
+            <p>Nimm meinen herzlichsten Glückwunsch zu Deinem großen <anchor type="commentary" xml:id="KL222-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30219">Erfolg</rs>
+               <note type="commentary" xml:id="KL222-1h">
+                  <p>Am <date instant="false">30. 11. 1898</date> hatte <rs type="work" ref="#pmb30219">Das
+                  Vermächtnis</rs> am <rs type="place" ref="#pmb14">Burgtheater</rs> Premiere.</p>
+               </note>, ich hab mich riesig gefreut!</p>
+            <p>Nun noch etwas. Ich möchte den <anchor type="commentary" xml:id="KL222-2"/>verbotenen »<rs type="work" ref="#pmb29843">Kakadu</rs>«<note type="commentary" xml:id="KL222-2h">
+                  <p>
+                     <rs type="work" ref="#pmb29843">Der grüne Kakadu</rs> wurde Ende November von der
+               Zensur in <rs type="place" ref="#pmb168">Berlin</rs> verboten, die Polizei halte es
+                  »<quote>seinem ganzen Inhalte nach zur Aufführung nicht geeignet</quote>« (<bibl >
+                        <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>, Nr. 12311, <date when="1898-11-30" instant="false">30. 11. 1898</date>, Morgenblatt, S. 8</bibl>).</p>
+               </note> gern für die »<rs type="org" ref="#pmb29209">Zeit</rs>« haben. Stell Deine <anchor type="commentary" xml:id="KL222-3"/>
+               <rs type="org" ref="#pmb29206">Kosmopolis</rs>-Honorarforderungen<note type="commentary" xml:id="KL222-3h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> bietet an, dasselbe Honorar wie die
+               »internationale Revue« <rs type="org" ref="#pmb29206">Cosmopolis</rs> zahlen zu
+               wollen.</p>
+               </note>, ich hoffe sie durchzusetzen. Darf ich mir<pb/> das <rs type="work" subtype="implied" ref="#pmb29843">Manuscript</rs> holen?</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

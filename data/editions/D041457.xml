@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-01</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,7 +102,9 @@
                <date when="1904-02-01" n="01">1.</date> Wunderschöner warmer Morgen. Frühlingsstimmung. Der Schnee zergeht, die braune Erde zeigt sich, die Fichten grünen. Überm See erscheint alles merkwürdig nah und ich sehe das nette Städtchen <rs type="place" ref="#pmb977">Steckborn</rs> gegenüber zum ersten Mal deutlich.</p>
             <p>Böse Nacht, schlaflos, mit Beklemmungen, Hitze in den Adern.</p>
             <p>–</p>
-            <p>In <rs type="person" ref="#pmb2121">Schnitzlers</rs> »<rs type="work" ref="#pmb29985">Einsamem Weg</rs>« wird von einem Künstler gesagt, es sei sein Unglück, daß »<anchor type="commentary" xml:id="KD457-1">er sich auch in seinen Arbeiten sozusagen nur vorübergehend aufhielt</anchor>«. Gilt von mir.</p>
+            <p>In <rs type="person" ref="#pmb2121">Schnitzlers</rs> »<rs type="work" ref="#pmb29985">Einsamem Weg</rs>« wird von einem Künstler gesagt, es sei sein Unglück, daß »<anchor type="commentary" xml:id="KD457-1"/>er sich auch in seinen Arbeiten sozusagen nur vorübergehend aufhielt<note type="commentary" xml:id="KD457-1h">
+                  <p>1. Akt, 5. Szene. <ptr target="KL270-1"/> und <ptr target="KT004-23"/>.</p>
+               </note>«. Gilt von mir.</p>
             <p>Im Februarheft der <rs type="org" ref="#pmb29212">Neuen Rundschau</rs> spricht <rs type="person" ref="#pmb11910">Kerr</rs> über den »<rs type="work" ref="#pmb29983">Meister</rs>«. Ihn ärgert an mir (worin er recht hat), daß meine plastische Kraft meinen geistigen Intentionen nicht gewachsen ist. Er sagt das nie ausdrücklich gegen mich, auch hier nicht, er weiß vielleicht selbst gar nicht, daß es im Grunde nur dies ist, was er gegen mich hat.<pb/>
             </p>
             <p>Dazu kommt freilich noch (worin er nun gar nicht recht hat), daß er alles im <rs type="place" ref="#pmb168">Berliner</rs> Ton vorgetragen wünscht und mir meinen <rs type="place" ref="#pmb41240">östreichischen</rs> so wenig verzeihen kann als den <rs type="place" ref="#pmb166">Franzosen</rs> ihren. Er gilt mir viel, weil er, für seinen <rs type="place" ref="#pmb168">Berliner</rs> Kreis, ganz gut weiß, alle Gegensätze der einzelnen Individuen zusammen machen erst das Ganze der Cultur aus, welche keinen entbehren mag, in welcher vielmehr jeder, um überhaupt selbst recht sein zu können, den anderen braucht. Dazu aber, dies nun auch im höheren europäischen Kreise einzusehen, für den diese neue <rs type="place" ref="#pmb168">Berliner</rs> Cultur schließlich doch wieder nur eine einzelne Farbe im ganzen Gemälde ist, dazu ist er vorderhand noch nicht gekommen. Recht hat er aber unbedingt in der Forderung, sich nicht viel abzuquälen, was etwas bedeute, wenn es nur etwas <hi rend="underline" n="1">sei</hi>.<pb/>

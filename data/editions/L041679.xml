@@ -13,11 +13,11 @@
             <title type="iso-date">1897-05-15</title>
             <author ref="pmb2128">Plessner, Elsa</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -100,14 +100,27 @@
                <salute rend="center">Verehrter Herr Doctor!</salute>
             </opener>
             <p>Besten Dank für Ihre liebenswürdigen Zeilen aus <rs type="place" ref="#pmb182">Paris</rs>, von wo ich Sie wieder zurückgekehrt glaube. Da Ihre dortige Adresse mir – zu Ihrem Besten – unbekannt war, sparte ich mir den allerherzlichsten Dank für Ihre gütige Intervention bei <rs type="person" ref="#pmb10815">H. Bahr</rs> – bis jetzt auf. Es ist Ihnen sicherlich schon sehr langweilig, dass ich mich in jedem Brief an Sie bedanke – aber wenn Sie mir immer Grund dazu geben? – –</p>
-            <p>Ich war in großer Angst und<pb/> Aufregung, als ich von der <rs type="place" ref="#pmb182">Paris</rs>er <anchor type="commentary" xml:id="KL679-1">Unglücksgeschichte hörte, Sie in dem verbrannten Gebäude</anchor> fürchtend – – – na – andere Leute, die mich interessieren kenne ich in <rs type="place" ref="#pmb182">Paris</rs> nicht. Hoffentlich sind Sie heil und wohl wieder hier eingetroffen – – – Ich sitze – – bei <anchor type="commentary" xml:id="KL679-2">
-                  <unclear>0</unclear>° R.</anchor> und unendlichem Regen in der »Sommerfrische« – – alle gerechten Menschen seien davor behütet!! Bedauern Sie mich, verehrter Herr Doctor! Ich bin einmal ein unglückliches Geschöpf. Schreiben thue ich <hi rend="underline" n="1">jetzt</hi>
+            <p>Ich war in großer Angst und<pb/> Aufregung, als ich von der <rs type="place" ref="#pmb182">Paris</rs>er <anchor type="commentary" xml:id="KL679-1"/>Unglücksgeschichte hörte, Sie in dem verbrannten Gebäude<note type="commentary" xml:id="KL679-1h">
+                  <p>Am <date when="1897-05-04" instant="false">4. 5. 1897</date> brannte der <rs type="org" ref="#pmb29248">Bazar de la Charité</rs>, eine Wohltätigkeitseinrichtung, ab.
+               Dabei kamen über 120 Menschen ums Leben.</p>
+               </note> fürchtend – – – na – andere Leute, die mich interessieren kenne ich in <rs type="place" ref="#pmb182">Paris</rs> nicht. Hoffentlich sind Sie heil und wohl wieder hier eingetroffen – – – Ich sitze – – bei <anchor type="commentary" xml:id="KL679-2"/>
+               <unclear>0</unclear>° R.<note type="commentary" xml:id="KL679-2h">
+                  <p>Wie die Celsius-Skala setzt die Réaumur-Skala den Nullwert beim Taupunkt von
+               Wasser.</p>
+               </note> und unendlichem Regen in der »Sommerfrische« – – alle gerechten Menschen seien davor behütet!! Bedauern Sie mich, verehrter Herr Doctor! Ich bin einmal ein unglückliches Geschöpf. Schreiben thue ich <hi rend="underline" n="1">jetzt</hi>
                <space unit="chars" quantity="1"/>
                <hi rend="underline" n="1">gar nichts!!</hi> – Kann nicht!! – Malheur oder Glück!?<pb/>
             </p>
-            <p>Beiliegend ein kleiner Einfall! – Habe mir Mühe gegeben, nicht »schlampig« zu arbeiten. Ich hoffe auf Ihren Beifall! – Bin neugierig, wann und ob ich einmal eine Arbeit zu Ihrer rückhaltlosen Anerkennung bringen werde. »<anchor type="commentary" xml:id="KL679-3">
-                  <rs type="work" ref="#pmb32161">Meine Freundin Clotilde</rs>
-               </anchor>« vermeidet alle wissentliche Affectation – – – negativer Vorzug – Positiv? – Bilanz!? – – Ich bin jetzt furchtbar ängstlich in der Arbeit – darum geringe Lust dazu! Ist ja doch Stroh!! – Außer mir hat Keiner Freude davon und in fünfzig Jahren? – – –. Grau – grau – aber keine Theorie – leider die Praxis!– – – Doch Sie kommen aus <rs type="place" ref="#pmb182">Paris</rs>! und haben wahrscheinlich keine mitschwingende Saite für die Klage aus dem <rs type="place" ref="#pmb288">Sievringer</rs> Wald. – Ich brauchte ein bisschen moralisches »<rs type="place" ref="#pmb182">Paris</rs>«–! d. h. um- und aufgekrempelt zu werden. Weinen Sie, wenn Sie wollen und lachen Sie, wenn Sie können über Ihre</p>
+            <p>Beiliegend ein kleiner Einfall! – Habe mir Mühe gegeben, nicht »schlampig« zu arbeiten. Ich hoffe auf Ihren Beifall! – Bin neugierig, wann und ob ich einmal eine Arbeit zu Ihrer rückhaltlosen Anerkennung bringen werde. »<anchor type="commentary" xml:id="KL679-3"/>
+               <rs type="work" ref="#pmb32161">Meine Freundin Clotilde</rs>
+               <note type="commentary" xml:id="KL679-3h">
+                  <p>
+                     <bibl >Erstausgabe in: <rs type="work" ref="#pmb32230">Der gläserne Käfig. Skizzen und
+                     Novellen</rs>. <rs type="place" ref="#pmb50">Wien</rs>, <rs type="place" ref="#pmb864">Leipzig</rs>: <rs type="org" ref="#pmb29220">Leopold Weiss</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1901</date>
+                     </bibl>.</p>
+               </note>« vermeidet alle wissentliche Affectation – – – negativer Vorzug – Positiv? – Bilanz!? – – Ich bin jetzt furchtbar ängstlich in der Arbeit – darum geringe Lust dazu! Ist ja doch Stroh!! – Außer mir hat Keiner Freude davon und in fünfzig Jahren? – – –. Grau – grau – aber keine Theorie – leider die Praxis!– – – Doch Sie kommen aus <rs type="place" ref="#pmb182">Paris</rs>! und haben wahrscheinlich keine mitschwingende Saite für die Klage aus dem <rs type="place" ref="#pmb288">Sievringer</rs> Wald. – Ich brauchte ein bisschen moralisches »<rs type="place" ref="#pmb182">Paris</rs>«–! d. h. um- und aufgekrempelt zu werden. Weinen Sie, wenn Sie wollen und lachen Sie, wenn Sie können über Ihre</p>
             <closer>
                <signed>ElsaPlessner</signed>
             </closer>

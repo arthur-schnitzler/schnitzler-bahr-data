@@ -13,11 +13,11 @@
             <title type="iso-date">1902-06-29</title>
             <author ref="pmb2161">Bukovics, Emerich von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,14 +103,22 @@
                <dateline rend="right">
                   <rs type="place" ref="#pmb842">Karlsbad</rs>
                   <space unit="chars" quantity="1"/>
-                  <date>29. <anchor type="textConst" xml:id="TL629-1">Juli</anchor> 1902</date>
+                  <date>29. <anchor type="textConst" xml:id="TL629-1"/>Juli<note type="textConst" xml:id="TL629-1h">
+                        <p>Vermutlich Schreibirrtum. In der Folge ist von einer Heimkehr am <date instant="false">9. 7.</date>
+               die Rede. Dass der Brief hingegen im Juli geschrieben wurde und die zweite Stelle auf
+               August zu ändern ist, ist durch ihren Inhalt unwahrscheinlich, da <rs type="person" ref="#pmb10815">Bahr</rs> Mitte <date instant="false">Juli</date> eine länger geplante Reise
+               antrat und ein Treffen vorher gar nicht möglich gewesen wäre.</p>
+                     </note> 1902</date>
                   <lb/>
                   <rs type="place" ref="#pmb749">Villa Schäffler</rs>.</dateline>
                <salute>Lieber Freund!</salute>
             </opener>
             <p>In Bestätigung Deines freundlichen Schreibens vom <date>27. d. M.</date> theile ich Dir mit, daß ich unter Einem an <rs type="person" ref="#pmb26880">Weisse</rs> schreibe und Dich bitte noch ein paar Tage zu gedulden. Ich hoffe die Ebnung der Angelegenheit <hi rend="latintype">
                   <rs type="work" ref="#pmb29829">Tschaperl</rs>
-               </hi> doch zu erreichen. Ich kann Dir, von Deinem Standpunkt aus nur vollkommen Recht geben. Unrecht aber hast Du Deinen <anchor type="commentary" xml:id="KL629-1">Fall mit dem <rs type="person" ref="#pmb2121">Schnitzler</rs>’s</anchor> zu vergleichen, denn bezüglich der<pb/>
+               </hi> doch zu erreichen. Ich kann Dir, von Deinem Standpunkt aus nur vollkommen Recht geben. Unrecht aber hast Du Deinen <anchor type="commentary" xml:id="KL629-1"/>Fall mit dem <rs type="person" ref="#pmb2121">Schnitzler</rs>’s<note type="commentary" xml:id="KL629-1h">
+                  <p>
+                     <ptr target="L041651"/>.</p>
+               </note> zu vergleichen, denn bezüglich der<pb/>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb29863">Einakter</rs> war Alles abgemacht und die Forderung der Garantie von 3000 Kronen kam plötzlich, während ich in <rs type="place" ref="#pmb182">Paris</rs> war und nur gestützt darauf, daß <rs type="person" ref="#pmb11308">Fellner</rs> die Ausfertigung der Verträge verhandelt hatte, <hi rend="underline" n="1">mündlich</hi> war <hi rend="underline" n="1">abgeschlossen</hi>, die Bedingung war <hi rend="underline" n="1">
                   <unclear>neu</unclear>

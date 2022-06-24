@@ -13,11 +13,11 @@
             <title type="iso-date">1904-08-05</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,10 +107,16 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Mir war furchtbar leid, Dich verfehlt zu haben. Paßt es Dir, wenn ich Dich <anchor type="commentary" xml:id="KL281-1">Sonntag</anchor> gegen sieben abhole? Ich will Nachmittag zu <rs type="person" ref="#pmb2167">Salten</rs> u. wir könnten dann zusammen, wo Du willst, soupieren.</p>
-            <p>Anbei send ich Dir den Abzug einer <anchor type="commentary" xml:id="KL281-2">
-                  <rs type="work" subtype="implied" ref="#pmb30065">Arbeit</rs>
-               </anchor>, die erst im September oder October erscheint. Hast Du Zeit und siehst sie Dir gelegentlich an, so möchte ich gern später einmal Dein Urteil darüber haben. Es ist möglich, daß ich den Abzug noch einmal, etwa in zwölf Tagen, brauchen werde.</p>
+            <p>Mir war furchtbar leid, Dich verfehlt zu haben. Paßt es Dir, wenn ich Dich <anchor type="commentary" xml:id="KL281-1"/>Sonntag<note type="commentary" xml:id="KL281-1h">
+                  <p>
+                     <date instant="false">7. 8. 1904</date>.</p>
+               </note> gegen sieben abhole? Ich will Nachmittag zu <rs type="person" ref="#pmb2167">Salten</rs> u. wir könnten dann zusammen, wo Du willst, soupieren.</p>
+            <p>Anbei send ich Dir den Abzug einer <anchor type="commentary" xml:id="KL281-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30065">Arbeit</rs>
+               <note type="commentary" xml:id="KL281-2h">
+                  <p>
+                     <rs type="work" ref="#pmb30065">Dialog vom Marsyas</rs>, vgl. <ptr target="T030025"/>.</p>
+               </note>, die erst im September oder October erscheint. Hast Du Zeit und siehst sie Dir gelegentlich an, so möchte ich gern später einmal Dein Urteil darüber haben. Es ist möglich, daß ich den Abzug noch einmal, etwa in zwölf Tagen, brauchen werde.</p>
             <p>Verzeih die Hast, mir gehts gar nicht sehr gut.</p>
             <closer>Herzlichst<lb/>mit vielen Grüßen an Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>
                <lb/>

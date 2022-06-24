@@ -13,11 +13,11 @@
             <title type="iso-date">1901-02-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -114,8 +114,17 @@
                      <unclear>mi</unclear>
                   </del>
                   <add place="inline">zu</add>
-               </subst> sprechen und bitte Dich deshalb, mich morgen, so bald Du aufgestanden bist, telephonisch (an <rs type="person" ref="#pmb2161">Bukovics</rs>, <anchor type="commentary" xml:id="KL235-1">
-                  <rs type="place" ref="#pmb165">Ober St. Veiter</rs> Wohnung</anchor>) wissen zu lassen, wann und wo ich Dich treffen kann. Ich bin auf Dein Aviso parat, sofort <anchor type="commentary" xml:id="KL235-2">nach <rs type="place" ref="#pmb50">Wien</rs> zu fahren</anchor> u. eine Stunde später überall zu sein, wo es Dir paßt. Nur bitte, bestimmt vor vier<pb/> Uhr und, wenn es irgendwie früher angeht, je früher, desto besser.</p>
+               </subst> sprechen und bitte Dich deshalb, mich morgen, so bald Du aufgestanden bist, telephonisch (an <rs type="person" ref="#pmb2161">Bukovics</rs>, <anchor type="commentary" xml:id="KL235-1"/>
+               <rs type="place" ref="#pmb165">Ober St. Veiter</rs> Wohnung<note type="commentary" xml:id="KL235-1h">
+                  <p>Eigentlich ein Haus. Auf einem ursprünglich zu diesem Haus gehörenden Grundstück
+               hatte <rs type="person" ref="#pmb10815">Bahr</rs> das seine errichtet.</p>
+               </note>) wissen zu lassen, wann und wo ich Dich treffen kann. Ich bin auf Dein Aviso parat, sofort <anchor type="commentary" xml:id="KL235-2"/>nach <rs type="place" ref="#pmb50">Wien</rs> zu fahren<note type="commentary" xml:id="KL235-2h">
+                  <p>
+                     <rs type="place" ref="#pmb165">Ober Sankt Veit</rs> war bis zur Eingliederung in <rs type="place" ref="#pmb50">Wien</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">1892</date> eine eigenständige Gemeinde, was sich in dieser Aussage
+               offensichtlich tradiert.</p>
+               </note> u. eine Stunde später überall zu sein, wo es Dir paßt. Nur bitte, bestimmt vor vier<pb/> Uhr und, wenn es irgendwie früher angeht, je früher, desto besser.</p>
             <closer>Verzeih die Störung<lb/>Deinem<lb/>herzlich grüßenden<lb/>
                <signed>HermannBahr</signed>
             </closer>

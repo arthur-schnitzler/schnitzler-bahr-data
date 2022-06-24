@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-22</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,14 +127,27 @@
                </dateline>
             </opener>
             <p>
-               <salute>mein lieber Hermann, </salute>wir waren eben in <rs type="place" ref="#pmb63">Hietzing</rs>, mit <rs type="person" ref="#pmb2292 #pmb11740">Hugo’s</rs> u <rs type="person" ref="#pmb10860 #pmb10863">Richards</rs> u <rs type="person" ref="#pmb2219">Karg</rs> zusammen, u da hab ich mit großer Freude gehört, dass du dich viel wohler befindest. Nun möchte ich aber gern recht bald ein Wort von dir selbst vernehmen, und wissen, wie es mit deinen Plänen für die nächste Zeit steht. Ich bin seit <anchor type="commentary" xml:id="KL071-3">Freitag Abend</anchor> wieder in <rs type="place" ref="#pmb50">Wien</rs>; wir (<rs type="person" ref="#pmb2173">Olga</rs> u ich) waren<pb/> auf der Rückreise einen Tag in <rs type="place" ref="#pmb866">Dresden</rs> und haben allzukurze Stunden in der <rs type="place" ref="#pmb5">Galerie</rs> verbracht. Über den <rs type="work" ref="#pmb29985">Einsamen Weg</rs> hast du wohl, soweit es sich um den äußerlichen Verlauf des ersten Abends handelt, das wesentliche gelesen. Es war ein leidlicher Abfall, Husten und Unruhe von Anbeginn, matter Beifall nach 2. u 3. Akt mit Widerspruch; Gelächter und starker Beifall nach dem 4. Akt, viel Applaus und viel Zischen am<pb/> Schluss. Der 2. Abend, ausverkauft, ging beträchtlich besser – und nun scheint sich, wie ich aus <rs type="place" ref="#pmb168">Berlin</rs> höre, das Stück, das bei einem Theil der Kritik sehr lebhafte Anerkennung fand, doch einige Zeit halten zu wollen. In <rs type="place" ref="#pmb50">Wien</rs> war eigentlich nur das <rs type="person" ref="#pmb11485">Goldmann</rs>’sche <anchor type="commentary" xml:id="KL071-1">
-                  <rs type="work" subtype="implied" ref="#pmb31277">Telegramm</rs>
-               </anchor> wirklich schlecht – was er mir persönlich über das <rs type="work" subtype="implied" ref="#pmb29985">Stück</rs> zu sagen wußte, waren nur die folgenden Worte, als ich ihn ein paar Tage nach der Première zum Abschied<pb/> besuchte<subst>
+               <salute>mein lieber Hermann, </salute>wir waren eben in <rs type="place" ref="#pmb63">Hietzing</rs>, mit <rs type="person" ref="#pmb2292 #pmb11740">Hugo’s</rs> u <rs type="person" ref="#pmb10860 #pmb10863">Richards</rs> u <rs type="person" ref="#pmb2219">Karg</rs> zusammen, u da hab ich mit großer Freude gehört, dass du dich viel wohler befindest. Nun möchte ich aber gern recht bald ein Wort von dir selbst vernehmen, und wissen, wie es mit deinen Plänen für die nächste Zeit steht. Ich bin seit <anchor type="commentary" xml:id="KL071-3"/>Freitag Abend<note type="commentary" xml:id="KL071-3h">
+                  <p>Eigentlich schon seit dem <date instant="false">19. 2.</date> abends (einem Donnerstag).</p>
+               </note> wieder in <rs type="place" ref="#pmb50">Wien</rs>; wir (<rs type="person" ref="#pmb2173">Olga</rs> u ich) waren<pb/> auf der Rückreise einen Tag in <rs type="place" ref="#pmb866">Dresden</rs> und haben allzukurze Stunden in der <rs type="place" ref="#pmb5">Galerie</rs> verbracht. Über den <rs type="work" ref="#pmb29985">Einsamen Weg</rs> hast du wohl, soweit es sich um den äußerlichen Verlauf des ersten Abends handelt, das wesentliche gelesen. Es war ein leidlicher Abfall, Husten und Unruhe von Anbeginn, matter Beifall nach 2. u 3. Akt mit Widerspruch; Gelächter und starker Beifall nach dem 4. Akt, viel Applaus und viel Zischen am<pb/> Schluss. Der 2. Abend, ausverkauft, ging beträchtlich besser – und nun scheint sich, wie ich aus <rs type="place" ref="#pmb168">Berlin</rs> höre, das Stück, das bei einem Theil der Kritik sehr lebhafte Anerkennung fand, doch einige Zeit halten zu wollen. In <rs type="place" ref="#pmb50">Wien</rs> war eigentlich nur das <rs type="person" ref="#pmb11485">Goldmann</rs>’sche <anchor type="commentary" xml:id="KL071-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31277">Telegramm</rs>
+               <note type="commentary" xml:id="KL071-1h">
+                  <p>
+                     <bibl >[O. V.:] <rs type="work" ref="#pmb31277">Schnitzlers »Einsamer Weg« (Telegramm
+                     der »Neuen Freien Presse«)</rs>. In: <rs type="org" ref="#pmb29351">Neue Freie
+                     Presse</rs>, Nr. 14178, <date instant="false">14. 2. 1904</date>, S. 12</bibl>.</p>
+               </note> wirklich schlecht – was er mir persönlich über das <rs type="work" subtype="implied" ref="#pmb29985">Stück</rs> zu sagen wußte, waren nur die folgenden Worte, als ich ihn ein paar Tage nach der Première zum Abschied<pb/> besuchte<subst>
                   <del rend="overwritten">,</del>
                   <add place="inline">:</add>
-               </subst> »Ich schreibe eben das <anchor type="commentary" xml:id="KL071-2">
-                  <rs type="work" subtype="implied" ref="#pmb31281">Feuillet</rs>
-               </anchor> über den <rs type="work" ref="#pmb29985">E. W.</rs> – Du wirst keine Freude daran haben.« – Die Fehler des <rs type="work" subtype="implied" ref="#pmb29985">Stücks</rs> spür ich jetzt wie mir vorkommt sehr genau: Das Verhältnis zwischen <rs type="work" subtype="implied" ref="#pmb29985">Sala</rs> u <hi rend="latintype">Johann<unclear>a</unclear>
+               </subst> »Ich schreibe eben das <anchor type="commentary" xml:id="KL071-2"/>
+               <rs type="work" subtype="implied" ref="#pmb31281">Feuillet</rs>
+               <note type="commentary" xml:id="KL071-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11485">Paul Goldmann</rs>: <rs type="work" ref="#pmb31281">Berliner Theater. »Der einsame Weg«. Von Arthur
+                  Schnitzler</rs>. In: <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>,
+                  Nr. 14187, <date instant="false">23. 2. 1904</date>, S. 1–3</bibl>.</p>
+               </note> über den <rs type="work" ref="#pmb29985">E. W.</rs> – Du wirst keine Freude daran haben.« – Die Fehler des <rs type="work" subtype="implied" ref="#pmb29985">Stücks</rs> spür ich jetzt wie mir vorkommt sehr genau: Das Verhältnis zwischen <rs type="work" subtype="implied" ref="#pmb29985">Sala</rs> u <hi rend="latintype">Johann<unclear>a</unclear>
                </hi> müßte schon zu Beginn völlig declarirt sein – das ist ein technischer Fehler, de<subst>
                   <del rend="overwritten">r</del>
                   <add place="inline">n</add>

@@ -13,11 +13,11 @@
             <title type="iso-date">1903-01-03</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -159,21 +159,27 @@
                </rs> 87)<pb/>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TD421-1">
-                  <rs type="person" ref="#pmb20315">Leonardo</rs>: Maler, Bildhauer, <add place="above">Baumeister, </add>Geometer, <add place="above">Mechaniker, </add>Ingenieur, <add place="above">Maschinist, </add>Artillerist, <add place="above">Optiker, Botaniker, Harfenist </add>Flugtechniker, Musiker, Dichter, <add place="above">Stilist </add>Anatom <add place="above">u. Philosoph</add>. Dazu ein Athlet, als Schütze, Reiter <add place="above">Fechter </add>u. Schwimmer <add place="above">
-                     <hi rend="underline" n="1">Causeur</hi>
-                  </add> berühmt – was nicht? ein liebenswürdiger Mensch von hoher Anmut; der Wissenschaft, der Kunst und dem Leben selbst gleich verbunden. </anchor>
+               <anchor type="textConst" xml:id="TD421-1"/>
+               <rs type="person" ref="#pmb20315">Leonardo</rs>: Maler, Bildhauer, <add place="above">Baumeister, </add>Geometer, <add place="above">Mechaniker, </add>Ingenieur, <add place="above">Maschinist, </add>Artillerist, <add place="above">Optiker, Botaniker, Harfenist </add>Flugtechniker, Musiker, Dichter, <add place="above">Stilist </add>Anatom <add place="above">u. Philosoph</add>. Dazu ein Athlet, als Schütze, Reiter <add place="above">Fechter </add>u. Schwimmer <add place="above">
+                  <hi rend="underline" n="1">Causeur</hi>
+               </add> berühmt – was nicht? ein liebenswürdiger Mensch von hoher Anmut; der Wissenschaft, der Kunst und dem Leben selbst gleich verbunden. <note type="textConst" xml:id="TD421-1h">
+                  <p>Mit Schrägstrich gestrichen.</p>
+               </note>
             </p>
             <p>
-               <anchor type="textConst" xml:id="TD421-2">
-                  <rs type="person" ref="#pmb11036">Burckhard</rs>: »Die ungeheuren Umrisse von <rs type="person" ref="#pmb20315">Leonardos</rs> Wesen wird man ewig nur von Ferne ahnen können.«</anchor>
+               <anchor type="textConst" xml:id="TD421-2"/>
+               <rs type="person" ref="#pmb11036">Burckhard</rs>: »Die ungeheuren Umrisse von <rs type="person" ref="#pmb20315">Leonardos</rs> Wesen wird man ewig nur von Ferne ahnen können.«<note type="textConst" xml:id="TD421-2h">
+                  <p>Mit Schrägstrich gestrichen.</p>
+               </note>
             </p>
             <p>–</p>
             <p>
-               <anchor type="textConst" xml:id="TD421-3">
-                  <del rend="strikethrough">Morgen: <hi rend="underline" n="1">hauptsächlich <rs type="work" ref="#pmb31009">Mereschkowski</rs> noch einmal lesen.</hi>
-                  </del>
-               </anchor>
+               <anchor type="textConst" xml:id="TD421-3"/>
+               <del rend="strikethrough">Morgen: <hi rend="underline" n="1">hauptsächlich <rs type="work" ref="#pmb31009">Mereschkowski</rs> noch einmal lesen.</hi>
+               </del>
+               <note type="textConst" xml:id="TD421-3h">
+                  <p>Mit Schrägstrich gestrichen.</p>
+               </note>
             </p>
             <p>
                <rs type="person" ref="#pmb3368">Olbrich</rs> telegrafieren.</p>

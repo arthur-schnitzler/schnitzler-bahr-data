@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -129,7 +129,9 @@
                   <date>1. 2. 904</date>.</dateline>
             </opener>
             <p>
-               <salute>lieber Hermann, </salute>aus deinen Worten scheint mir eher eine üble Stimmung als ein übles Befinden hervorzugehen – was für den Betroffenen allerdings aufs gleiche herauskommt. Immerhin – ohne Ratschlägen u Entschlüssen vorgreifen zu wollen, deine Idee mit <rs type="place" ref="#pmb906">Taormina</rs> ist mir sehr sympathisch – besonders weil ich große Lust hätte, im <anchor type="commentary" xml:id="KL070-1">April</anchor> nach <rs type="place" ref="#pmb451">Sicilien</rs>
+               <salute>lieber Hermann, </salute>aus deinen Worten scheint mir eher eine üble Stimmung als ein übles Befinden hervorzugehen – was für den Betroffenen allerdings aufs gleiche herauskommt. Immerhin – ohne Ratschlägen u Entschlüssen vorgreifen zu wollen, deine Idee mit <rs type="place" ref="#pmb906">Taormina</rs> ist mir sehr sympathisch – besonders weil ich große Lust hätte, im <anchor type="commentary" xml:id="KL070-1"/>April<note type="commentary" xml:id="KL070-1h">
+                  <p>Die Reise fand erst im Mai statt.</p>
+               </note> nach <rs type="place" ref="#pmb451">Sicilien</rs>
                <pb/>
                <space unit="chars" quantity="1"/>zu fahren und es mir natürlich höchst erfreulich wäre, dich dort zu finden. Wir (meine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> u ich) möchten gern zu Schiff von <hi rend="latintype">
                   <rs type="place" ref="#pmb44246">Fiume</rs>

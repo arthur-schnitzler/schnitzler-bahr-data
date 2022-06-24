@@ -13,11 +13,11 @@
             <title type="iso-date">1897-06-20</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,9 +102,11 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1897-06-20" n="01"/>An <rs type="person" ref="#pmb11324">Fischer</rs>:<lb/>
-               <anchor type="commentary" xml:id="KD399-1">
-                  <rs type="work" ref="#pmb30965">Wie ich es sehe</rs>
-               </anchor>. <lb/>
+               <anchor type="commentary" xml:id="KD399-1"/>
+               <rs type="work" ref="#pmb30965">Wie ich es sehe</rs>
+               <note type="commentary" xml:id="KD399-1h">
+                  <p>Von <rs type="person" ref="#pmb2147">Peter Altenberg</rs>.</p>
+               </note>. <lb/>
                <rs type="work" ref="#pmb29917">Liebelei.</rs>
                <lb/>
                <rs type="work" ref="#pmb30117">Sterben.</rs>

@@ -13,11 +13,11 @@
             <title type="iso-date">1905-02-09</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,7 +106,13 @@
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
             <p>Von den Leuten, bei welchen ich herumgefragt habe, weiß Niemand ein <unclear>deuts</unclear>ches Wort für <unclear>
-                  <anchor type="commentary" xml:id="KL289-1">massier</anchor>
+                  <anchor type="commentary" xml:id="KL289-1"/>massier<note type="commentary" xml:id="KL289-1h">
+                     <p>Unsichere Lesart. Ein ›massier‹ war eine Art Waffenträger, teilweise auch als
+               Leibwächter dienend, der bei Zeremonien bis in die Gegenwart existiert. In einer
+               weiteren Bedeutung handelt es sich in einem Künstleratelier um einen Schüler, der für
+               Assistenzzwecke eingesetzt wurde und der dafür zuständig war, das Lehrgeld
+               einzuheben.</p>
+                  </note>
                </unclear>, schon deshalb nicht, weil wir die Institution gar nicht haben.</p>
             <p>Ich habe mehrere anonyme Briefe bekommen, in welchen ich beschimpft wurde, weil ich »<rs type="work" ref="#pmb29899">Freiwild</rs>«, Dein »bestes Stück«, nicht genug gelobt hätte, denk Dir!</p>
             <closer>Deine liebe <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> und Dich herzlichst grüßend bin ich<lb/>Dein alter<lb/>

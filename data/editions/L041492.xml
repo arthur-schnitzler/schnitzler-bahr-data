@@ -13,11 +13,11 @@
             <title type="iso-date">1904-08-20</title>
             <author ref="pmb2292">Hofmannsthal, Gerty von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,9 +103,14 @@
             <p>Ich fahre fast sicher Donnerstag den 25ten mit den <rs type="person" subtype="implied" ref="#pmb3220 #pmb3244">Kindern</rs> auf ein paar Tage nach <rs type="place" ref="#pmb173">Rodaun</rs> um die Kinder zu installieren und gedenke hauptsächlich die Zeit dazu zu benützen um mit Ihnen wieder einmal Pläne für die nächste Zeit zu machen Sie müssen aber auch brav und nachgiebig sein! </p>
             <p>Also: ich möchte mit den <rs type="person" ref="#pmb2121 #pmb2173">Schnitzler’s</rs>
                <space unit="chars" quantity="1"/>
-               <add place="above">(die auch <anchor type="commentary" xml:id="KL492-1">
-                     <rs type="place" subtype="implied" ref="#pmb415">hierher</rs>
-                  </anchor> wollen)</add> wieder hierher zurück reisen in die Gegend am liebsten möchten wir an den <geogName type="lake" ref="pmb611">Wolfgangsee</geogName>. Wie wär’s wenn Sie da <anchor type="commentary" xml:id="KL492-2">mitthun</anchor> thäten<supplied>?</supplied>
+               <add place="above">(die auch <anchor type="commentary" xml:id="KL492-1"/>
+                  <rs type="place" subtype="implied" ref="#pmb415">hierher</rs>
+                  <note type="commentary" xml:id="KL492-1h">
+                     <p>
+                        <rs type="place" ref="#pmb415">Aussee</rs>.</p>
+                  </note> wollen)</add> wieder hierher zurück reisen in die Gegend am liebsten möchten wir an den <geogName type="lake" ref="pmb611">Wolfgangsee</geogName>. Wie wär’s wenn Sie da <anchor type="commentary" xml:id="KL492-2"/>mitthun<note type="commentary" xml:id="KL492-2h">
+                  <p>Dazu kam es nicht.</p>
+               </note> thäten<supplied>?</supplied>
             </p>
             <p>
                <gap reason="outOfScope"/>

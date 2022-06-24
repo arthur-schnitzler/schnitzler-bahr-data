@@ -13,11 +13,11 @@
             <title type="iso-date">1918-09-21</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -83,11 +83,15 @@
                <date when="1918-09-21" n="1"/>
                <rs type="person" ref="#pmb2249">Korff</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="work" ref="#pmb30207">Weites Land</rs>, <anchor type="commentary" xml:id="KD574-2">
-                  <rs type="work" ref="#pmb31733">Idealer Gatte</rs>
-               </anchor>, <anchor type="commentary" xml:id="KD574-1">
-                  <rs type="work" subtype="implied" ref="#pmb31929">Riccaut</rs>
-               </anchor>
+               <rs type="work" ref="#pmb30207">Weites Land</rs>, <anchor type="commentary" xml:id="KD574-2"/>
+               <rs type="work" ref="#pmb31733">Idealer Gatte</rs>
+               <note type="commentary" xml:id="KD574-2h">
+                  <p>Von <rs type="person" ref="#pmb13115">Oscar Wilde</rs>.</p>
+               </note>, <anchor type="commentary" xml:id="KD574-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31929">Riccaut</rs>
+               <note type="commentary" xml:id="KD574-1h">
+                  <p>Figur aus <rs type="work" ref="#pmb31929">Minna von Barnhelm</rs> von <rs type="person" ref="#pmb12053">Lessing</rs>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb2446">Devrient</rs>
             </p>

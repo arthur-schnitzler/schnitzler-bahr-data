@@ -14,11 +14,11 @@
             <title type="iso-date">1909-10-21</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="027"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A89-C</idno>
          </publicationStmt>
@@ -80,8 +80,16 @@
    <text type="article">
       <body>
          <div>
-            <p part="N">Das Geheimnis der <rs type="place" ref="#pmb45258">Münchner</rs> ist: sie wissen, was den Fremden anzieht, und das bieten sie ihm, manchmal im stillen bei sich ganz verwundert, wie ihm denn »so was« eigentlich gefallen kann.</p>
-            <p part="N">Wir hätten in <rs type="place" ref="#pmb50">Wien</rs> manches in unserer Kunst, um den Fremden anzuziehen. Machen wir doch eine <rs type="person" ref="#pmb12163">Mahler</rs>-Woche zum Beispiel! Machen wir eine <rs type="person" ref="#pmb12749">Schönherr</rs>-Woche! <anchor type="commentary" xml:id="KT027-1">Gebt den Leuten von der <rs type="place" ref="#pmb626">Kunstschau</rs> die Mittel, ein Gartentheater nach ihrem Sinn zu machen! Führt einen Monat lang <hi rend="spaced_out">uns</hi> auf! Den ganzen <rs type="person" ref="#pmb2121">Schnitzler</rs>, den ganzen <rs type="person" ref="#pmb11740">Hofmannsthal</rs>, den ganzen <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> und mich!</anchor> Und statt auf uns zu schimpfen, sagt den Fremden: »Das ist das Beste, was wir haben, und in dieser Art können Sie nirgends was Besseres sehen!« Im Winter, wenn die Fremden wieder fort und wir wieder unter uns sind, könnt Ihr ja wieder auf uns schimpfen!</p>
+            <p>Das Geheimnis der <rs type="place" ref="#pmb45258">Münchner</rs> ist: sie wissen, was den Fremden anzieht, und das bieten sie ihm, manchmal im stillen bei sich ganz verwundert, wie ihm denn »so was« eigentlich gefallen kann.</p>
+            <p>Wir hätten in <rs type="place" ref="#pmb50">Wien</rs> manches in unserer Kunst, um den Fremden anzuziehen. Machen wir doch eine <rs type="person" ref="#pmb12163">Mahler</rs>-Woche zum Beispiel! Machen wir eine <rs type="person" ref="#pmb12749">Schönherr</rs>-Woche! <anchor type="commentary" xml:id="KT027-1"/>Gebt den Leuten von der <rs type="place" ref="#pmb626">Kunstschau</rs> die Mittel, ein Gartentheater nach ihrem Sinn zu machen! Führt einen Monat lang <hi rend="spaced_out">uns</hi> auf! Den ganzen <rs type="person" ref="#pmb2121">Schnitzler</rs>, den ganzen <rs type="person" ref="#pmb11740">Hofmannsthal</rs>, den ganzen <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> und mich!<note type="commentary" xml:id="KT027-1h">
+                  <p>Die Umfragebeantwortung von <rs type="person" ref="#pmb11988">Karl Kraus</rs> als <rs type="work" ref="#pmb31937">Zur Hebung des Fremdenverkehrs</rs> in die <rs type="org" ref="#pmb29308">Fackel</rs> (<bibl >Jg. 11, H. 289, <date instant="false">25. 10.
+                     1909</date>, S. 25–26</bibl>) aufgenommen. Statt des Endes schreibt er:
+                  »<quote>Ein Traum verwirklicht sich, die <rs type="place" ref="#pmb50">Wiener</rs>
+                  kriegen einen Fremdenverkehr. Das Einfachste war zu tun, und nun glückt die<pb/>
+                  Sache. Die <rs type="place" ref="#pmb254">Engländer</rs> strömen massenhaft nach
+                     <rs type="place" ref="#pmb50">Wien</rs>: man bekommt den <hi rend="spaced_out">ganzen </hi>
+                        <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> zu sehen!</quote>«</p>
+               </note> Und statt auf uns zu schimpfen, sagt den Fremden: »Das ist das Beste, was wir haben, und in dieser Art können Sie nirgends was Besseres sehen!« Im Winter, wenn die Fremden wieder fort und wir wieder unter uns sind, könnt Ihr ja wieder auf uns schimpfen!</p>
          </div>
       </body>
    </text>

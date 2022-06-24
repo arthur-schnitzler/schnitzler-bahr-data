@@ -13,11 +13,11 @@
             <title type="iso-date">1918-11-05</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -82,9 +82,13 @@
                <rs type="person" subtype="implied" ref="#pmb2566">Kaiser</rs> noch nicht abdankt, habe darin seinen Grund (erzählt ein von <rs type="place" ref="#pmb168">Berlin</rs> kommender), daß die Generäle ihn für diesen Fall mit dem Tod bedrohen.</p>
             <p>– Die Abreise <rs type="person" ref="#pmb12034 #pmb27809">Landesberger</rs>’s (auch <rs type="person" ref="#pmb2292">Gerty</rs> und <rs type="person" ref="#pmb2238">Lili</rs> mußten nach) scheint in Drohbriefen begründet.– </p>
             <p>Nm. Tgb. 89; Notizen.– </p>
-            <p>Zum Thee <rs type="person" ref="#pmb28366">Frisch</rs>, der nach <rs type="place" ref="#pmb45258">München</rs> zurück fahren dürfte, <rs type="person" ref="#pmb12711">Schott</rs>, der <rs type="work" ref="#pmb31597">Dies irae</rs> bringt (von <rs type="person" ref="#pmb13122">Wildgans</rs>, mit welchem Stück nach <rs type="person" ref="#pmb10815">Bahr</rs> – <rs type="org" ref="#pmb29320">N. W. J.</rs> – »<anchor type="commentary" xml:id="KD556-1">
-                  <rs type="work" subtype="implied" ref="#pmb31549">vielleicht eine neue Epoche der Literatur anhebt</rs>
-               </anchor>«).– </p>
+            <p>Zum Thee <rs type="person" ref="#pmb28366">Frisch</rs>, der nach <rs type="place" ref="#pmb45258">München</rs> zurück fahren dürfte, <rs type="person" ref="#pmb12711">Schott</rs>, der <rs type="work" ref="#pmb31597">Dies irae</rs> bringt (von <rs type="person" ref="#pmb13122">Wildgans</rs>, mit welchem Stück nach <rs type="person" ref="#pmb10815">Bahr</rs> – <rs type="org" ref="#pmb29320">N. W. J.</rs> – »<anchor type="commentary" xml:id="KD556-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31549">vielleicht eine neue Epoche der Literatur anhebt</rs>
+               <note type="commentary" xml:id="KD556-1h">
+                  <p>
+                     <bibl >Vgl. <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31549">Tagebuch. 23. Oktober</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 26, Nr. 8974, <date instant="false">27. 10. 1918</date>,
+                  S. 5</bibl>.</p>
+               </note>«).– </p>
             <p>Ruhe in <rs type="place" ref="#pmb50">Wien</rs>. Beruhigung im <rs type="place" ref="#pmb533">Cottage</rs>.– </p>
             <p>Mit <rs type="person" ref="#pmb12692">Heini</rs>
                <space unit="chars" quantity="1"/>

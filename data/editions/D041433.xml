@@ -13,11 +13,11 @@
             <title type="iso-date">1903-08-05</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -113,9 +113,12 @@
                <rs type="person" ref="#pmb2226">Fred</rs> wird nach dem Essen übel. Fährt nach <rs type="place" ref="#pmb30">Salzburg</rs>.</p>
             <p>Ich plausche abends lang mit Herrn <rs type="person" ref="#pmb28140">Windmann</rs>, Bläser im <rs type="place" subtype="implied" ref="#pmb319">Straßburger Orchester</rs>, und seiner <rs type="person" subtype="implied" ref="#pmb28141">Tochter</rs>, die in <rs type="place" ref="#pmb50">Wien</rs> Sängerin werden will; Erinnerung an <rs type="person" ref="#pmb2121">Schnitzlers</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD433-1">
-                  <rs type="work" subtype="implied" ref="#pmb29917">Weiring</rs>
-               </anchor>.</p>
+               <anchor type="commentary" xml:id="KD433-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29917">Weiring</rs>
+               <note type="commentary" xml:id="KD433-1h">
+                  <p>Christines Vater in der <rs type="work" ref="#pmb29917">Liebelei</rs> arbeitet als
+               Violinspieler in einem Theater.</p>
+               </note>.</p>
          </div>
       </body>
    </text>

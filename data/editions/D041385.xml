@@ -13,11 +13,11 @@
             <title type="iso-date">1929-10-06</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -80,7 +80,18 @@
                <date when="1929-10-06" n="1">6/10</date> S.– Schöner Herbsttag. Mit <rs type="person" ref="#pmb12435">C. P.</rs> Auto. <rs type="place" ref="#pmb288">Sievring</rs> – <rs type="place" ref="#pmb49210">Steinriegl</rs> – <rs type="place" ref="#pmb942">Mauerbach</rs> – <rs type="place" ref="#pmb271">Hütteldorf</rs> – <rs type="place" ref="#pmb169">Pötzleinsdorf</rs> – <rs type="place" ref="#pmb50">Wien</rs>.–</p>
             <p>– Zu Tisch <rs type="person" ref="#pmb2167">F. S.</rs>; nach langer Zeit. Auffallend nervös.– (Sein 60. Geburtstag, <rs type="work" subtype="implied" ref="#pmb30943">Feuill.</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb10815">Bahrs</rs> »<anchor type="commentary" xml:id="KD385-1">Was hat er gegen Sie</anchor>« – – Verlobung seiner Tochter <rs type="person" ref="#pmb23915">Annie</rs>.– Über <rs type="person" ref="#pmb13923">Bubi B.-H.</rs>, von dem <rs type="person" ref="#pmb11816">Jannings</rs> unwahrscheinlich klingende Äußerungen erzählt <c rendition="#dots" n="3" place="center"/> Über die <rs type="person" subtype="implied" ref="#pmb3241 #pmb3244">Söhne</rs>
+               <rs type="person" ref="#pmb10815">Bahrs</rs> »<anchor type="commentary" xml:id="KD385-1"/>Was hat er gegen Sie<note type="commentary" xml:id="KD385-1h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> würdigt in <rs type="work" ref="#pmb30943">Felix Salten zum 60. Geburtstag</rs> (<bibl >
+                        <rs type="org" ref="#pmb29351">Neue Freie Presse</rs>, Nr. 23340, <date instant="false">6. 9.
+                     1929</date>, Morgenblatt, S. 1–2</bibl>) diesen ausschließlich als
+               Feuilletonisten und endet »<quote>Das <rs type="place" ref="#pmb50">Wien</rs>er
+                  Feuilleton ist durch die formende Sprachgewalt <rs type="person" ref="#pmb12816">Speidels</rs>, <rs type="person" ref="#pmb11578">Hanslicks</rs> und <rs type="person" ref="#pmb2739">Wittmans</rs> zu solcher Vollendung gereift, daß
+                  es nicht mehr überboten werden kann. Wir Epigonen, Verweser dieses hohen Reiches
+                  müssen uns mächtig aufrecken, um so ein gewaltiges Erbe zu hüten: keiner trägt es
+                  mit so reiner Zuversicht wie dieser Faustus <rs type="person" ref="#pmb2167">Felix
+                     Salten</rs>.</quote>«</p>
+               </note>« – – Verlobung seiner Tochter <rs type="person" ref="#pmb23915">Annie</rs>.– Über <rs type="person" ref="#pmb13923">Bubi B.-H.</rs>, von dem <rs type="person" ref="#pmb11816">Jannings</rs> unwahrscheinlich klingende Äußerungen erzählt <c rendition="#dots" n="3" place="center"/> Über die <rs type="person" subtype="implied" ref="#pmb3241 #pmb3244">Söhne</rs>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11740">Hugo</rs>s »die ihm das Grab gegraben haben«.– Er will einen »Moses« schreiben.– <rs type="org" ref="#pmb29351">N. Fr. Pr.</rs> und <rs type="org" ref="#pmb29320">N. W. Journal</rs>;– <rs type="person" ref="#pmb10872">Benedikt</rs>.– Dann die unvermeidlichen Altersgespräche.– Im Lauf des Gesprächs wie immer wachsende Herzlichkeit.–)</p>
             <p>Am <rs type="work" ref="#pmb30615">Wort</rs>. Las 1. Akt <c rendition="#dots" n="3" place="center"/> Entschloss mich endgiltig die Sache aufzugeben.–</p>

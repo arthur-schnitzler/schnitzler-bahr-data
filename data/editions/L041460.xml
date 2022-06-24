@@ -13,11 +13,11 @@
             <title type="iso-date">1928-01-11</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -132,9 +132,19 @@
                   <rs type="work" ref="#pmb32091">Kirbisch</rs>
                </hi>« von <rs type="person" ref="#pmb13122">Wildgans</rs> mit sehr viel Interesse gelesen; ich glaube niemand hat in deutscher Sprache solche Hexameter geschrieben – auch <rs type="person" ref="#pmb11461">Goethe</rs> und <rs type="person" ref="#pmb11617">Hauptmann</rs> nicht – soweit es eben auf die Hexameter ankommt. Sehr viel schönes in dem Epos, auch von dem überraschend gelungnen Versmass abgesehn. – </p>
             <p>Hingegen ein <hi rend="underline" n="1">Roman von <rs type="person" ref="#pmb10815">Bahr</rs>
-               </hi> – »<anchor type="commentary" xml:id="KL460-2">
-                  <rs type="work" ref="#pmb31887">der inwendige Garten</rs>
-               </anchor>« – – zur Erklärung dieser widerlich-pfäffisch-schlampigen <anchor type="commentary" xml:id="KL460-1">Thadädelei</anchor> m<subst>
+               </hi> – »<anchor type="commentary" xml:id="KL460-2"/>
+               <rs type="work" ref="#pmb31887">der inwendige Garten</rs>
+               <note type="commentary" xml:id="KL460-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31887">Der inwendige Garten. Roman</rs>. Hildesheim: <rs type="org" ref="#pmb29340">Franz Borgmeyer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1927</date>
+                     </bibl> (erschienen im <date instant="false">Oktober 1927</date>).</p>
+               </note>« – – zur Erklärung dieser widerlich-pfäffisch-schlampigen <anchor type="commentary" xml:id="KL460-1"/>Thadädelei<note type="commentary" xml:id="KL460-1h">
+                  <p>Thaddädl: eine dümmliche Figur des <rs type="place" ref="#pmb50">Wien</rs>er
+               Volkstheaters.</p>
+               </note> m<subst>
                   <del rend="overwritten">uss</del>
                   <add place="inline">üss</add>
                </subst>t ich mich wieder ins pathologische begeben; – denn so dumm und verlogen kann ein immerhin außerordentliches – auch schriftstellerisches – Talent normaler Weise nicht sein, wie <rs type="person" ref="#pmb10815">Hermann</rs> der Barocke in diesem Roman herauskommt. – </p>

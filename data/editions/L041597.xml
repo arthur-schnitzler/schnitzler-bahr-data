@@ -13,11 +13,11 @@
             <title type="iso-date">1894-04-08</title>
             <author ref="pmb12618">Sandrock, Adele</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,14 +105,21 @@
                   <supplied>cht</supplied>
                </damage> ist die Witteru<damage agent="hole">
                   <supplied>n</supplied>
-               </damage>g, ich habe mich danach erkundigt. – Es wird mich riesig freuen Dich bald bei mir zu seh’n – aber ich beschwöre Dich Kind – sprich nicht vom Theater. – Daß macht mich krank. Wie geht es Dir? Was machen die Nerven? – Was macht <anchor type="commentary" xml:id="KL597-1">Wächter</anchor> und <rs type="person" ref="#pmb11740">Loris</rs>? Alles Fragen – die Du mir am besten selbst beantworten kannst.<pb/>
+               </damage>g, ich habe mich danach erkundigt. – Es wird mich riesig freuen Dich bald bei mir zu seh’n – aber ich beschwöre Dich Kind – sprich nicht vom Theater. – Daß macht mich krank. Wie geht es Dir? Was machen die Nerven? – Was macht <anchor type="commentary" xml:id="KL597-1"/>Wächter<note type="commentary" xml:id="KL597-1h">
+                  <p>Auch: Wächterl; Bahrs Hund.</p>
+               </note> und <rs type="person" ref="#pmb11740">Loris</rs>? Alles Fragen – die Du mir am besten selbst beantworten kannst.<pb/>
             </p>
-            <p>Meinen guten <rs type="place" ref="#pmb50">Wien</rs>ern habe ich heute zur <anchor type="commentary" xml:id="KL597-3">Jause</anchor> die <rs type="work" ref="#pmb30081">Stu<damage agent="hole">
+            <p>Meinen guten <rs type="place" ref="#pmb50">Wien</rs>ern habe ich heute zur <anchor type="commentary" xml:id="KL597-3"/>Jause<note type="commentary" xml:id="KL597-3h">
+                  <p>Zwischenmahlzeit am Nachmittag. Hier im übertragenen Sinne für
+               ›Nachmittagsvorstellung‹.</p>
+               </note> die <rs type="work" ref="#pmb30081">Stu<damage agent="hole">
                      <supplied>a</supplied>
                   </damage>rt</rs> versetzt – ich war <subst>
                   <del rend="overwritten">go</del>
                   <add place="inline">gi</add>
-               </subst>gantisch. Wenn du einen wahren Genuß dem Leben abringen willst, dann gehe zum Theater und spiele nur an den Nachmittagen. Du hast dem kleinen <rs type="person" ref="#pmb2121">Schnitzler</rs> gratuliert zu meiner Verlobung – du <anchor type="commentary" xml:id="KL597-2">Schpazzerl</anchor> – es war ja – höre und staune, der <rs type="person" ref="#pmb13856">Theo Baumgarten</rs>, aber tröste Dich – die Parthie ist bereits gelößt – ich habe noch rechtzeitig meinen Irrthum eingeseh’n! Also – Du hast wieder Chance. Dein Bild steht vor mir am Schreibtitsch<!-- sic! --> mein Kind – Du wärst mir<pb/> doch zu wüst und verwegen! Also <damage agent="hole">
+               </subst>gantisch. Wenn du einen wahren Genuß dem Leben abringen willst, dann gehe zum Theater und spiele nur an den Nachmittagen. Du hast dem kleinen <rs type="person" ref="#pmb2121">Schnitzler</rs> gratuliert zu meiner Verlobung – du <anchor type="commentary" xml:id="KL597-2"/>Schpazzerl<note type="commentary" xml:id="KL597-2h">
+                  <p>(öst. dialektal) kleiner Spatz, hier als Kosename.</p>
+               </note> – es war ja – höre und staune, der <rs type="person" ref="#pmb13856">Theo Baumgarten</rs>, aber tröste Dich – die Parthie ist bereits gelößt – ich habe noch rechtzeitig meinen Irrthum eingeseh’n! Also – Du hast wieder Chance. Dein Bild steht vor mir am Schreibtitsch<!-- sic! --> mein Kind – Du wärst mir<pb/> doch zu wüst und verwegen! Also <damage agent="hole">
                   <supplied>m</supplied>
                </damage>ein lieber Hermann ich grüße Dich in Ehrfurcht sende Dir wilde stürmische Grüße – soeben kommt der <rs type="person" ref="#pmb2121">Arthur</rs> – er grüßt Dich ebenfalls.</p>
             <closer>Auf Wiederseh’n<lb/>Dein<lb/>

@@ -14,11 +14,11 @@
             <title type="iso-date">1931-11-06</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="034"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8A90-3</idno>
          </publicationStmt>
@@ -79,10 +79,19 @@
       <body>
          <div>
             <head>Persönliche Erinnerungen an <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>.</head>
-            <p part="N">
-               <anchor type="commentary" xml:id="KT034-1">
-                  <rs type="person" ref="#pmb2771">Egon Friedell</rs> rühmt an <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>
-               </anchor>, er habe das Sittenstück auf eine menschliche und künstlerische Höhe gehoben, die die Franzosen niemals erreichten; seine Wesen bestünden nicht mehr aus einer oder zwei Seelen, sondern aus einem ganzen <rs type="work" subtype="implied" ref="#pmb32624">Gesellschaftsstaat von Seelen</rs>. Das trifft zu, doch es erklärt noch nicht den Zauber, in den jedermann verfiel, schon bei der ersten Begegnung, gar bei dauerndem Verkehr mit ihm. Gewöhnlich sind Laien bei persönlicher Begegnung mit von ihnen verehrten und bewunderten Dichtern arg enttäuscht, sie haben sie sich ganz anders vorgestellt. Was das Werk eines Künstlers ihnen zu versprechen scheint, soll seine Person erfüllen. Das gelingt selten, aber <rs type="person" ref="#pmb2121">Arthur</rs> gelang es vortrefflich: er entsprach durchaus der Vorstellung, die der Bürger von einem Dichter hat. Dabei war ihm jede »Pose« durchaus fremd. Die Vorstellung des Bürgers scheint ganz richtig zu sein, er weiß, wem er vertrauen darf. <rs type="person" ref="#pmb2121">Schnitzler</rs>s »<rs type="work" ref="#pmb29905">Der Ruf des Lebens</rs>« erschien 1906, ihn rief immer wieder das Leben. 1926 folgte »<rs type="work" ref="#pmb30775">Der Gang zum Weiher</rs>«, mir das liebste seiner Werke, gleich neben der »<rs type="work" ref="#pmb30863">Flucht in die Finsternis</rs>«. <rs type="place" ref="#pmb41240">Oesterreicher</rs> werden ja sehr selten nach Gebühr geschätzt, sie gehen einen »<rs type="work" ref="#pmb29985">einsamen Weg</rs>«, es ist ja, was wir erleben, alles doch zunächst ein »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«. <signed>Hermann Bahr</signed>
+            <p>
+               <anchor type="commentary" xml:id="KT034-1"/>
+               <rs type="person" ref="#pmb2771">Egon Friedell</rs> rühmt an <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>
+               <note type="commentary" xml:id="KT034-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2771">Egon Friedell</rs>: <rs type="work" ref="#pmb32624">Kulturgeschichte der Neuzeit. Die Krisis der Europäischen Seele
+                     von der Schwarzen Pest bis zum Ersten Weltkrieg. Dritter Band. Romantik und
+                     Liberalismus/Imperialismus und Impressionismus</rs>. München: <rs type="org">C.
+                     H. Beck’sche Verlagsbuchhandlung</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1931</date>, S. 511</bibl>.</p>
+               </note>, er habe das Sittenstück auf eine menschliche und künstlerische Höhe gehoben, die die Franzosen niemals erreichten; seine Wesen bestünden nicht mehr aus einer oder zwei Seelen, sondern aus einem ganzen <rs type="work" subtype="implied" ref="#pmb32624">Gesellschaftsstaat von Seelen</rs>. Das trifft zu, doch es erklärt noch nicht den Zauber, in den jedermann verfiel, schon bei der ersten Begegnung, gar bei dauerndem Verkehr mit ihm. Gewöhnlich sind Laien bei persönlicher Begegnung mit von ihnen verehrten und bewunderten Dichtern arg enttäuscht, sie haben sie sich ganz anders vorgestellt. Was das Werk eines Künstlers ihnen zu versprechen scheint, soll seine Person erfüllen. Das gelingt selten, aber <rs type="person" ref="#pmb2121">Arthur</rs> gelang es vortrefflich: er entsprach durchaus der Vorstellung, die der Bürger von einem Dichter hat. Dabei war ihm jede »Pose« durchaus fremd. Die Vorstellung des Bürgers scheint ganz richtig zu sein, er weiß, wem er vertrauen darf. <rs type="person" ref="#pmb2121">Schnitzler</rs>s »<rs type="work" ref="#pmb29905">Der Ruf des Lebens</rs>« erschien 1906, ihn rief immer wieder das Leben. 1926 folgte »<rs type="work" ref="#pmb30775">Der Gang zum Weiher</rs>«, mir das liebste seiner Werke, gleich neben der »<rs type="work" ref="#pmb30863">Flucht in die Finsternis</rs>«. <rs type="place" ref="#pmb41240">Oesterreicher</rs> werden ja sehr selten nach Gebühr geschätzt, sie gehen einen »<rs type="work" ref="#pmb29985">einsamen Weg</rs>«, es ist ja, was wir erleben, alles doch zunächst ein »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«. <signed>Hermann Bahr</signed>
             </p>
          </div>
       </body>

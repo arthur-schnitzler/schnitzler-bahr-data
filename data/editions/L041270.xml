@@ -13,11 +13,11 @@
             <title type="iso-date">1904-02-05</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -104,14 +104,22 @@
                <salute>Lieber Arthur!</salute>
             </opener>
             <p>
-               <anchor type="commentary" xml:id="KL270-1">Mich berührt natürlich der <rs type="work" subtype="implied" ref="#pmb29985">Fichtner</rs> am meisten, in welchem ich unheimlich viel von mir finde (meine Sachen ließen sich kritisch gar nicht besser bezeichnen als damit daß ich mich leider auch in ihnen sozusagen nur vorübergehend aufhielt).</anchor> Ich verstehe auch das <damage agent="water">
+               <anchor type="commentary" xml:id="KL270-1"/>Mich berührt natürlich der <rs type="work" subtype="implied" ref="#pmb29985">Fichtner</rs> am meisten, in welchem ich unheimlich viel von mir finde (meine Sachen ließen sich kritisch gar nicht besser bezeichnen als damit daß ich mich leider auch in ihnen sozusagen nur vorübergehend aufhielt).<note type="commentary" xml:id="KL270-1h">
+                  <p>
+                     <ptr target="KD457-1"/> und <ptr target="KT004-23"/>.</p>
+               </note> Ich verstehe auch das <damage agent="water">
                   <supplied>Ver</supplied>
                </damage>hältnis <rs type="work" subtype="implied" ref="#pmb29985">Julian – Wegrath</rs>, ebenso das <rs type="work" subtype="implied" ref="#pmb29985">Julian – Felix</rs> so gut, während ich mir das <rs type="work" subtype="implied" ref="#pmb29985">Sala – Johanna</rs> nicht ganz erklären und mich darin nicht zurechtfinden kann. Außerdem mischt sich jetzt bei mir Persönliches in alles, so die Neugierde, die mich plagt, ob <rs type="work" subtype="implied" ref="#pmb29985">Sala</rs> nicht vollkommen meinen Herzzustand hat und wie der Arzt dann <unclear>denn</unclear> doch seinen Tod fast auf den Tag zu wissen glauben kann – was sehr albern von mir ist.<pb/>
             </p>
             <p>Kritisch möcht ich sagen: Daß in dem <rs type="work" subtype="implied" ref="#pmb29985">Stück</rs> viel mehr angeschlagen und aufgeregt als zuletzt ausgelöst wird, was ich weniger problematisch als musikalisch meine. Für mein Gefühl ist das <rs type="work" subtype="implied" ref="#pmb29985">Stück</rs> aus, bevor es seine Stimmungsmotive naturgemäß hat aus- und ablaufen lassen.</p>
             <p>
-               <anchor type="commentary" xml:id="KL270-2">Prachtvoll find ich den <rs type="work" ref="#pmb29985">Cassian</rs>
-               </anchor> und bedaure nur, daß die blöden <rs type="place" ref="#pmb151">Deutschen</rs> für solchen arglosen und rein sinnlichen und darum künstlerisch reinen Humor nun einmal keine Organe habe<supplied>n</supplied>.</p>
+               <anchor type="commentary" xml:id="KL270-2"/>Prachtvoll find ich den <rs type="work" ref="#pmb29985">Cassian</rs>
+               <note type="commentary" xml:id="KL270-2h">
+                  <p>Erstdruck: <bibl >
+                        <rs type="work" ref="#pmb30217">Der tapfere Cassian. Burleske in einem Akt</rs>.
+                  In: <rs type="org" ref="#pmb29212">Neue Rundschau</rs>, Jg. 15, H. 2, <date instant="false">1. 2.
+                     1904</date>, S. 227–247</bibl>.</p>
+               </note> und bedaure nur, daß die blöden <rs type="place" ref="#pmb151">Deutschen</rs> für solchen arglosen und rein sinnlichen und darum künstlerisch reinen Humor nun einmal keine Organe habe<supplied>n</supplied>.</p>
             <p>Da ich mich sehr schlecht fühle, ist es möglich, daß ich schon sehr bald hier weggehe, vielleicht nach <rs type="place" ref="#pmb38096">Abbazia</rs>. Jedenfalls lockt mich der Gedanke, Dich im April in <rs type="place" ref="#pmb906">Taormina</rs> zu finden, sehr. Hoffentlich.</p>
             <p>Grüß Deine <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs>, <rs type="person" ref="#pmb10986">Brahm</rs>, den stark von <rs type="person" ref="#pmb2378">Reinhardt</rs> bekümmerten <rs type="person" ref="#pmb12968">Trebitsch</rs> und – ich wär sehr froh, wenn der »<rs type="work" ref="#pmb29985">einsame Weg</rs>« ein großer Erfolg würde!</p>
             <closer>Herzlichst<lb/>

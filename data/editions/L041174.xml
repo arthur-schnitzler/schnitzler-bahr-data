@@ -13,11 +13,11 @@
             <title type="iso-date">1895-06-13</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -101,7 +101,14 @@
             <opener>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Ich bin von <rs type="person" ref="#pmb11324">Fischer</rs> nie pro Seite, nie pro Werk <anchor type="commentary" xml:id="KL174-1">bezahlt</anchor> worden, sondern er hat mir tausend Mark geliehen, dann habe ich einiges geschrieben, dann hat er mir wieder geliehen und wir waren beide immer überzeugt, daß der andere ein großer Schuft ist. Deshalb kann ich Deine Frage nicht beantworten.</p>
+            <p>Ich bin von <rs type="person" ref="#pmb11324">Fischer</rs> nie pro Seite, nie pro Werk <anchor type="commentary" xml:id="KL174-1"/>bezahlt<note type="commentary" xml:id="KL174-1h">
+                  <p>Vgl. den Brief <rs type="person" ref="#pmb2121">Schnitzler</rs>s an <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>, <date instant="false">15. 6. 1895</date>: »<quote>Für den
+                  Abdruck der <rs type="work" ref="#pmb31975">Kl. Komödie</rs> in der <rs type="org" ref="#pmb29212">Freien Bühne</rs> will <rs type="person" ref="#pmb11324">Fischer</rs> mir 25, bitte, 25 Mark bezahlen. Ich habe ihm einen groben Brief
+                  geschrieben – da mir ja nichts daran liegt.</quote>« (<bibl >
+                        <rs type="work">Bw</rs> Schnitzler/Beer-Hofmann 74</bibl>). Siehe auch die Antwort
+               des Verlegers vom gleichen Tag (<bibl >
+                        <rs type="work">Bw</rs> Fischer 55</bibl>).</p>
+               </note> worden, sondern er hat mir tausend Mark geliehen, dann habe ich einiges geschrieben, dann hat er mir wieder geliehen und wir waren beide immer überzeugt, daß der andere ein großer Schuft ist. Deshalb kann ich Deine Frage nicht beantworten.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

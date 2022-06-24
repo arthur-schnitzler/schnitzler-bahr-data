@@ -13,11 +13,11 @@
             <title type="iso-date">1901-12-30</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -111,27 +111,47 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Danke sehr für Deine liebe Karte. Du könntest mir allerdings in <rs type="place" ref="#pmb168">Berlin</rs> einen sehr, sehr großen Dienst erweisen, wenn Du gelegentlich mit <rs type="person" ref="#pmb10986">Brahm</rs> über mich sprechen und ihm klar machen würdest, daß ich, bei allem, was man gegen mich sagen kann, doch schließlich auch Jemand bin und daß ich gern in ein, wenn auch kühles, doch anständiges Verhältnis gegenseitiger Duldung und beding<pb/>ter Anerkennung <add place="above">zu ihm</add> kommen möchte. Ich leide sehr unter meiner Erfolglosigkeit in <rs type="place" ref="#pmb151">Deutschland</rs> und bin schon so bescheiden geworden, daß ich es als einen großen Erfolg empfinden würde, wenn er sich nur entschließen könnte, ein Stück von mir anzunehmen und aufzuführen, meinetwegen in der schlechtesten Zeit, weil es mir dabei gar nicht auf die Tantièmen ankommt, sondern auf den »literarischen Stempel«,<pb/> den nun das <rs type="place" ref="#pmb3">Deutsche Theater</rs> einmal seinen Autoren gibt und der mir noch immer fehlt, und darauf, von seiner »Clique« ernst genommen zu werden. Er hat mir über den »<anchor type="commentary" xml:id="KL244-4">
-                  <rs type="work" ref="#pmb29881">Krampus</rs>
-               </anchor>« sehr anerkennend gesprochen, ihn aber schließlich leider doch abgelehnt; ich werde ihn nun einladen, der <rs type="place" ref="#pmb506">Hamburger</rs>
+            <p>Danke sehr für Deine liebe Karte. Du könntest mir allerdings in <rs type="place" ref="#pmb168">Berlin</rs> einen sehr, sehr großen Dienst erweisen, wenn Du gelegentlich mit <rs type="person" ref="#pmb10986">Brahm</rs> über mich sprechen und ihm klar machen würdest, daß ich, bei allem, was man gegen mich sagen kann, doch schließlich auch Jemand bin und daß ich gern in ein, wenn auch kühles, doch anständiges Verhältnis gegenseitiger Duldung und beding<pb/>ter Anerkennung <add place="above">zu ihm</add> kommen möchte. Ich leide sehr unter meiner Erfolglosigkeit in <rs type="place" ref="#pmb151">Deutschland</rs> und bin schon so bescheiden geworden, daß ich es als einen großen Erfolg empfinden würde, wenn er sich nur entschließen könnte, ein Stück von mir anzunehmen und aufzuführen, meinetwegen in der schlechtesten Zeit, weil es mir dabei gar nicht auf die Tantièmen ankommt, sondern auf den »literarischen Stempel«,<pb/> den nun das <rs type="place" ref="#pmb3">Deutsche Theater</rs> einmal seinen Autoren gibt und der mir noch immer fehlt, und darauf, von seiner »Clique« ernst genommen zu werden. Er hat mir über den »<anchor type="commentary" xml:id="KL244-4"/>
+               <rs type="work" ref="#pmb29881">Krampus</rs>
+               <note type="commentary" xml:id="KL244-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb29881">Der Krampus. Lustspiel in drei Aufzügen</rs>. München: <rs type="org" ref="#pmb29654">Albert Langen</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1902</date> (vordatiert von <date instant="false">Dezember 1901</date>)</bibl>.</p>
+               </note>« sehr anerkennend gesprochen, ihn aber schließlich leider doch abgelehnt; ich werde ihn nun einladen, der <rs type="place" ref="#pmb506">Hamburger</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL244-1">Première</anchor> (am 12 oder 13 Januar) beizuwohnen; freilich ohne viel Hoffnung, <del rend="strikethrough">
+               <anchor type="commentary" xml:id="KL244-1"/>Première<note type="commentary" xml:id="KL244-1h">
+                  <p>Letztlich erfolgte die Aufführung in <rs type="place" ref="#pmb506">Hamburg</rs> am
+                  <date instant="false">14. 1. 1902</date> unter dem Titel <rs type="work" ref="#pmb29881">Der Herr
+                  Hofrat</rs>.</p>
+               </note> (am 12 oder 13 Januar) beizuwohnen; freilich ohne viel Hoffnung, <del rend="strikethrough">
                   <unclear>ohne</unclear>
                </del> ihn noch<pb/> umzustimmen. Aber vielleicht bringst Du ihn doch so weit, daß er sich, wenn ich ihm wieder ein Stück schicke, es wenigstens mit nicht im Vorhinein feindlichen Augen ansieht.</p>
             <p>Aber bitte, thu das nur, wenn es sich leicht machen läßt, ohne Dir unbequem zu sein.</p>
-            <p>Ich bin riesig neugierig auf <anchor type="commentary" xml:id="KL244-2">Samstag</anchor>; mehr auszusprechen verbietet mir mein Aberglaube.</p>
+            <p>Ich bin riesig neugierig auf <anchor type="commentary" xml:id="KL244-2"/>Samstag<note type="commentary" xml:id="KL244-2h">
+                  <p>Die Uraufführung von <rs type="work" ref="#pmb29863">Lebendige Stunden</rs> am <date when="1902-01-04" instant="false">4. 1. 1902</date> am <rs type="place" ref="#pmb18">Lessingtheater</rs> in <rs type="place" ref="#pmb168">Berlin</rs>.</p>
+               </note>; mehr auszusprechen verbietet mir mein Aberglaube.</p>
             <closer>Herzlichst<lb/>Dein alter<lb/>
                <signed>HermannB</signed>
             </closer>
             <postscript>
                <p>Prost Neujahr!</p>
                <p>
-                  <anchor type="textConst" xml:id="TL244-1">
-                     <anchor type="commentary" xml:id="KL244-3">Den <rs type="person" ref="#pmb2189">Novelli</rs>, der über den »<rs type="work" ref="#pmb29843">Kakadu</rs>« noch immer nichts hören ließ, habe ich gestern <subst>
-                           <del rend="overwritten">d</del>
-                           <add place="inline">D</add>
-                        </subst>ringend gemahnt.</anchor>
-                  </anchor>
+                  <anchor type="textConst" xml:id="TL244-1"/>
+                  <anchor type="commentary" xml:id="KL244-3"/>Den <rs type="person" ref="#pmb2189">Novelli</rs>, der über den »<rs type="work" ref="#pmb29843">Kakadu</rs>« noch immer nichts hören ließ, habe ich gestern <subst>
+                     <del rend="overwritten">d</del>
+                     <add place="inline">D</add>
+                  </subst>ringend gemahnt.<note type="commentary" xml:id="KL244-3h">
+                     <seg type="lemma">Den Novelli {\dots} gemahnt.</seg>
+                     <p>In den Korrespondenzstücken, die von <rs type="person" ref="#pmb2189">Novelli</rs> im
+               Nachlass <rs type="person" ref="#pmb10815">Bahrs</rs> überliefert sind, findet sich
+               darüber kein näherer Aufschluss.</p>
+                  </note>
+                  <note type="textConst" xml:id="TL244-1h">
+                     <seg type="lemma">Den Novelli {\dots} gemahnt.</seg>
+                     <p>Vertikal am rechten Rand.</p>
+                  </note>
                </p>
             </postscript>
          </div>

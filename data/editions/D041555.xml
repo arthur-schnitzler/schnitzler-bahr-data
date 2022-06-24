@@ -13,11 +13,11 @@
             <title type="iso-date">1918-09-26</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,8 +77,12 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1918-09-26" n="1">26/9</date> Vm. <rs type="place" subtype="implied" ref="#pmb14">Intendanz</rs> bei Dr. <rs type="person" ref="#pmb27211">Winter</rs>, auf seine Bitte. Er wollte meine Fürsprache bei <rs type="person" ref="#pmb10765">Andrian</rs>, da man ihn versetzen will!– Mein Einfluß!– <rs type="person" ref="#pmb10815">Bahr</rs> schrieb mir (ließ mir schreiben) – er könne mich zur <anchor type="commentary" xml:id="KD555-1">
-                  <rs type="work" ref="#pmb31593">Antigone</rs> Generalprobe</anchor> nicht zulassen – weil er – ohne <rs type="person" ref="#pmb10765">Andrian</rs> und <rs type="person" ref="#pmb12254">Michel</rs> (die verreist) keine Entscheidung treffen könne –! Dann einige Liebenswürdigkeiten. Afferei!– </p>
+               <date when="1918-09-26" n="1">26/9</date> Vm. <rs type="place" subtype="implied" ref="#pmb14">Intendanz</rs> bei Dr. <rs type="person" ref="#pmb27211">Winter</rs>, auf seine Bitte. Er wollte meine Fürsprache bei <rs type="person" ref="#pmb10765">Andrian</rs>, da man ihn versetzen will!– Mein Einfluß!– <rs type="person" ref="#pmb10815">Bahr</rs> schrieb mir (ließ mir schreiben) – er könne mich zur <anchor type="commentary" xml:id="KD555-1"/>
+               <rs type="work" ref="#pmb31593">Antigone</rs> Generalprobe<note type="commentary" xml:id="KD555-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2693">Sophokles</rs>’ <rs type="work" subtype="implied" ref="#pmb31593">Schauspiel</rs> hatte am <date instant="false">28. 9. 1918</date> Premiere, die
+               Generalprobe fand am Vortag statt.</p>
+               </note> nicht zulassen – weil er – ohne <rs type="person" ref="#pmb10765">Andrian</rs> und <rs type="person" ref="#pmb12254">Michel</rs> (die verreist) keine Entscheidung treffen könne –! Dann einige Liebenswürdigkeiten. Afferei!– </p>
             <p>Bei <rs type="person" ref="#pmb2135">Popper</rs>. Wir sprachen fast nur über <rs type="person" ref="#pmb11933">Kleist</rs>, <rs type="person" ref="#pmb11458">Goethe</rs>, <rs type="person" ref="#pmb12654">Schiller</rs>. – </p>
             <p>Nm. <rs type="work" subtype="implied" ref="#pmb31377">Nachklg.</rs> weiter gelesen.– </p>
             <p>Bei <rs type="person" ref="#pmb10863">Richard</rs>, der dieser Tage nach <rs type="place" ref="#pmb168">Berlin</rs> reist; Proben zu <rs type="work" ref="#pmb31595">Jakobs Traum</rs> beginnen 11. October.– </p>

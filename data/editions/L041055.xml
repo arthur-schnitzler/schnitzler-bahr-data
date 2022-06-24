@@ -13,11 +13,11 @@
             <title type="iso-date">1903-04-06</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -173,10 +173,20 @@
             <p>
                <damage agent="ink">
                   <supplied>–</supplied>
-               </damage> Wie steht es mit deinen <anchor type="commentary" xml:id="KL055-1">Reise- u Erholungsplänen</anchor>? Ich hoffe dich<pb/> jedenfalls sehr bald zu sehen; immerhin verständige mich; denn ich möchte wenn’s dir nicht unangenehm ist, auch ganz gern ein paar Tage in die <rs type="place" ref="#pmb483">Reichenauer Gegend</rs>.</p>
-            <p>Zum Cap. <rs type="work" ref="#pmb29855">Reigen</rs>: <rs type="person" ref="#pmb2167">Salten</rs> hat sein Feuill. vorläufig in der <rs type="org" ref="#pmb29626">Zeit</rs> auch noch nicht unterbringen können. Warum?<c rendition="#dots" n="2"/> Mein – <rs type="person" subtype="implied" ref="#pmb2284">Schwager</rs> war entsetzt, als er durch <anchor type="commentary" xml:id="KL055-2">
-                  <rs type="person" ref="#pmb12790">Singer</rs>
-               </anchor> erfuhr, dass von diesem verderblichen Buch an her<pb/>vorragender Stelle Notiz genommen werden solle u rieth ihm dringend ab. <rs type="person" ref="#pmb12790">Singer</rs>: »Sehn Sie, sogar der <rs type="person" subtype="implied" ref="#pmb2284">Schwager</rs>
+               </damage> Wie steht es mit deinen <anchor type="commentary" xml:id="KL055-1"/>Reise- u Erholungsplänen<note type="commentary" xml:id="KL055-1h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> hielt sich vom <date instant="false">18.</date> bis
+                  <date instant="false">25. 5.</date> in der <rs type="place" ref="#pmb80">Kuranstalt Konried in
+                  Reichenau an der Rax</rs> auf, <rs type="person" ref="#pmb2121">Schnitzler</rs>
+               war zu der Zeit vor allem in <rs type="place" ref="#pmb50">Wien</rs>.</p>
+               </note>? Ich hoffe dich<pb/> jedenfalls sehr bald zu sehen; immerhin verständige mich; denn ich möchte wenn’s dir nicht unangenehm ist, auch ganz gern ein paar Tage in die <rs type="place" ref="#pmb483">Reichenauer Gegend</rs>.</p>
+            <p>Zum Cap. <rs type="work" ref="#pmb29855">Reigen</rs>: <rs type="person" ref="#pmb2167">Salten</rs> hat sein Feuill. vorläufig in der <rs type="org" ref="#pmb29626">Zeit</rs> auch noch nicht unterbringen können. Warum?<c rendition="#dots" n="2"/> Mein – <rs type="person" subtype="implied" ref="#pmb2284">Schwager</rs> war entsetzt, als er durch <anchor type="commentary" xml:id="KL055-2"/>
+               <rs type="person" ref="#pmb12790">Singer</rs>
+               <note type="commentary" xml:id="KL055-2h">
+                  <p>
+                     <rs type="person" ref="#pmb12790">Isidor Singer</rs>, der Herausgeber der
+               Wochenschrift und der gleichnamigen Tageszeitung <rs type="org" ref="#pmb29209 #pmb29626">Die Zeit</rs>.</p>
+               </note> erfuhr, dass von diesem verderblichen Buch an her<pb/>vorragender Stelle Notiz genommen werden solle u rieth ihm dringend ab. <rs type="person" ref="#pmb12790">Singer</rs>: »Sehn Sie, sogar der <rs type="person" subtype="implied" ref="#pmb2284">Schwager</rs>
                <c rendition="#dots" n="3"/>«</p>
             <p>Man ernenne doch endlich den Storch zum Ehrenbürger der Menschheit.</p>
             <closer>herzlichen Gruss<lb/>dein getreuer<lb/>

@@ -13,11 +13,11 @@
             <title type="iso-date">1892-03-11</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -157,9 +157,14 @@
                <salute>Lieber Richard,</salute>
             </opener>
             <p>
-               <rs type="person" ref="#pmb2563">Kafka</rs> habe ich die letzten Tage nicht gesehn. Das letzte Mal an unserm <rs type="org" subtype="implied" ref="#pmb29781">Vereinsabend</rs>, der nur einen Lichtpunkt hatte: <rs type="person" ref="#pmb10815">Bahr’s</rs> »<anchor type="commentary" xml:id="KL377-1">
-                  <rs type="work" ref="#pmb30187">treue Adele</rs>
-               </anchor>« von <rs type="person" ref="#pmb10815">Bahr</rs> vorgelesen. Er las entzückend. <rs type="person" ref="#pmb4127">
+               <rs type="person" ref="#pmb2563">Kafka</rs> habe ich die letzten Tage nicht gesehn. Das letzte Mal an unserm <rs type="org" subtype="implied" ref="#pmb29781">Vereinsabend</rs>, der nur einen Lichtpunkt hatte: <rs type="person" ref="#pmb10815">Bahr’s</rs> »<anchor type="commentary" xml:id="KL377-1"/>
+               <rs type="work" ref="#pmb30187">treue Adele</rs>
+               <note type="commentary" xml:id="KL377-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30187">Die treue Adele. Eine vergeßliche Geschichte</rs>. In: <rs type="org" ref="#pmb29440">Die Gesellschaft</rs>, Jg. 5, Nr. 11, <date instant="false">November
+                     1889</date>, S. 1556–1564</bibl> (Erstausgabe in <rs type="work" ref="#pmb32246">Fin de Siècle</rs>, S. 71–88).</p>
+               </note>« von <rs type="person" ref="#pmb10815">Bahr</rs> vorgelesen. Er las entzückend. <rs type="person" ref="#pmb4127">
                   <hi rend="latintype">Meixner</hi>
                </rs> las Parabeln von <rs type="person" ref="#pmb2563">Kafka</rs> und ein Gedicht <rs type="person" ref="#pmb12071">
                   <hi rend="latintype">Liliencron</hi>

@@ -13,11 +13,11 @@
             <title type="iso-date">1896-05-25</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,11 +79,41 @@
             <p>
                <date when="1896-05-25" n="1">25/5</date> Pfingstmontag. Mit <rs type="person" ref="#pmb10986">Brahm</rs>, <rs type="person" ref="#pmb10863">Rich.</rs>, <rs type="person" ref="#pmb10860">Paula</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="place" ref="#pmb662">Baden</rs> – <rs type="place" ref="#pmb939">Heiligenkreuz</rs> – <rs type="place" ref="#pmb957 #pmb75">Brühl</rs> – <rs type="place" ref="#pmb50">Wien</rs>.– Zur Geschichte der Verlogenheit in unsern »jungen Kreisen«.– <rs type="person" ref="#pmb2147">Rich. Engländer</rs> (der ein <anchor type="commentary" xml:id="KD162-4">
-                  <rs type="work" subtype="implied" ref="#pmb30965">Buch</rs>
-               </anchor> herausgegeben unter <rs type="person" ref="#pmb2147">Peter Altenberg</rs>, sehr hübsche, eigne Stimmungsbilder enthaltend – der selbe <rs type="person" ref="#pmb2147">Rich. E.</rs>, <anchor type="commentary" xml:id="KD162-1">dem man früher Aehnlichkeit</anchor> mit mir zuschrieb – derselbe, der <rs type="person" ref="#pmb2453">Olga</rs>s erste Liebe war – vor 13, 14 Jahren!) verkehrt meist in Hurenkaffeehäusern, Neigung – Pose – Gewohnheit, fast schon echt – verliebt sich meistens in Dirnen (à 3 fl.). (»In einem solchen Weib die Seele finden – gerade das ist das höchste –«) Dem Weib das man liebt, muss man den Mann bringen, den sie haben will.– Von diesem Standpunkt ausgehend hat er u. a. seine »Geliebte« <anchor type="commentary" xml:id="KD162-3">
-                  <rs type="person" ref="#pmb27839">Anna</rs>
-               </anchor> einem von den papierenen jungen Menschen, die sich um <rs type="person" ref="#pmb10815">Bahr</rs> sammeln, seinen Stil äffen und für die die Welt im Jahr 1889 (frühestens!) angefangen hat, einem gewissen <rs type="person" ref="#pmb2885">Messer</rs> zugeführt. Dieser <rs type="person" ref="#pmb2885">Messer</rs>, ist nun der Geliebte <rs type="person" ref="#pmb27839">Annas</rs> geworden (ich habe sie im vorigen Jahr einmal gesehen im K. <rs type="place" ref="#pmb421">Stuckart</rs>, <anchor type="label" xml:id="LD162-1">Typus der Prostituirten, welche vom Stubenmädchen auf gedient hat</anchor>) – und schreibt ihr tiefsinnige Briefe.– Sie beantwortet sie, gleichfalls tiefsinnig und <rs type="person" ref="#pmb2885">Messer</rs> ist entzückt – Aber <rs type="person" ref="#pmb2147">Rich. Engl.</rs> – ist es, <anchor type="commentary" xml:id="KD162-2">der ihr diese Briefe dictirt</anchor> – dies vertheidigt er (wenn man ihm vorwirft (<rs type="person" ref="#pmb2167">Salten</rs>), dass er ja eigentlich das Leben <rs type="person" ref="#pmb2885">Messer’s</rs> fälsche): »ja, ich dictir ihr ja nur, was sie ihm schreiben wollte, wenn sie es könnte! Das ist ja in ihrer Seele–« – Es hat sich jetzt heraus gestellt dass ein Liebesbrief dieser <rs type="person" ref="#pmb27839">Anna</rs>, den <rs type="person" ref="#pmb10863">Rich. B.-H.</rs> im vorigen Jahr erhielt – auch von <rs type="person" ref="#pmb2147">Rich. E.</rs> inspirirt d. h. verfasst war!– – Ein andrer von diesen papierenen Menschen, namens <rs type="person" ref="#pmb2888">Paul Wertheimer</rs>, hat sich dieser <rs type="person" ref="#pmb27839">Anna</rs> auf der Straße vorgestellt, erklärt dass er uns alle kenne, ging zu ihr, hat ihr seine Gedichte vorgelesen, dann von ihrem Beruf Gebrauch gemacht, und ihr schließlich 1 fl. 50 gegeben – worüber sie wüthend war, besonders dass er auch die Gedichte vorgelesen.–</p>
+               <rs type="place" ref="#pmb662">Baden</rs> – <rs type="place" ref="#pmb939">Heiligenkreuz</rs> – <rs type="place" ref="#pmb957 #pmb75">Brühl</rs> – <rs type="place" ref="#pmb50">Wien</rs>.– Zur Geschichte der Verlogenheit in unsern »jungen Kreisen«.– <rs type="person" ref="#pmb2147">Rich. Engländer</rs> (der ein <anchor type="commentary" xml:id="KD162-4"/>
+               <rs type="work" subtype="implied" ref="#pmb30965">Buch</rs>
+               <note type="commentary" xml:id="KD162-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2147">Peter Altenberg</rs>: <rs type="work" ref="#pmb30965">Wie ich es sehe</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1896</date>
+                     </bibl>.</p>
+               </note> herausgegeben unter <rs type="person" ref="#pmb2147">Peter Altenberg</rs>, sehr hübsche, eigne Stimmungsbilder enthaltend – der selbe <rs type="person" ref="#pmb2147">Rich. E.</rs>, <anchor type="commentary" xml:id="KD162-1"/>dem man früher Aehnlichkeit<note type="commentary" xml:id="KD162-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2121">Schnitzler</rs> bildete daraus eine Stoffnotiz:
+                  »<quote>Richard ist dem Arthur so ähnlich. Man quält ihn mit dieser Aehnlichkeit.
+                  Zwei Frauen, die Jenen geliebt, lieben ihn. Jener erschiesst sich; bald darauf der
+                  Andere.</quote>« Diesen Stoff datierte er handschriftlich »<quote>80er?</quote>«
+               und fügte hinzu: »<quote>(Der Einfall beruht darauf, daß man mich mit <rs type="person" ref="#pmb2147">R. E.</rs>, – dem späteren <rs type="person" ref="#pmb2147">P. A.</rs> ähnlich fand – eh wir beide als Dichter bekannt
+                  wurden. Die uns so ähnlich fanden, waren <rs type="person" ref="#pmb4854">Annie
+                     H.</rs> und <rs type="person" ref="#pmb2453">Olga W.</rs>) <date instant="false">7/1
+                     1919</date>
+                     </quote>« (<bibl >Typoskript, <rs type="org">DLA</rs>, A:Schnitzler, 85.1.97</bibl>),
+               vgl. auch <rs type="work" ref="#pmb31377">JiW</rs> 212 und 219.</p>
+               </note> mit mir zuschrieb – derselbe, der <rs type="person" ref="#pmb2453">Olga</rs>s erste Liebe war – vor 13, 14 Jahren!) verkehrt meist in Hurenkaffeehäusern, Neigung – Pose – Gewohnheit, fast schon echt – verliebt sich meistens in Dirnen (à 3 fl.). (»In einem solchen Weib die Seele finden – gerade das ist das höchste –«) Dem Weib das man liebt, muss man den Mann bringen, den sie haben will.– Von diesem Standpunkt ausgehend hat er u. a. seine »Geliebte« <anchor type="commentary" xml:id="KD162-3"/>
+               <rs type="person" ref="#pmb27839">Anna</rs>
+               <note type="commentary" xml:id="KD162-3h">
+                  <p>
+                     <ptr target="LE002-2"/>.</p>
+               </note> einem von den papierenen jungen Menschen, die sich um <rs type="person" ref="#pmb10815">Bahr</rs> sammeln, seinen Stil äffen und für die die Welt im Jahr 1889 (frühestens!) angefangen hat, einem gewissen <rs type="person" ref="#pmb2885">Messer</rs> zugeführt. Dieser <rs type="person" ref="#pmb2885">Messer</rs>, ist nun der Geliebte <rs type="person" ref="#pmb27839">Annas</rs> geworden (ich habe sie im vorigen Jahr einmal gesehen im K. <rs type="place" ref="#pmb421">Stuckart</rs>, <anchor type="label" xml:id="LD162-1">Typus der Prostituirten, welche vom Stubenmädchen auf gedient hat</anchor>) – und schreibt ihr tiefsinnige Briefe.– Sie beantwortet sie, gleichfalls tiefsinnig und <rs type="person" ref="#pmb2885">Messer</rs> ist entzückt – Aber <rs type="person" ref="#pmb2147">Rich. Engl.</rs> – ist es, <anchor type="commentary" xml:id="KD162-2"/>der ihr diese Briefe dictirt<note type="commentary" xml:id="KD162-2h">
+                  <p>Das findet sich noch im Fragment <rs type="work" ref="#pmb30615">Das Wort</rs>. Eine
+               Skizze dazu, datiert <date instant="false">1904</date>, lautet: »<quote>Der selbe Literat, der für
+                  eine Strassendirne Briefe an einen Freund schreibt, in den sie sich verliebt hat.
+                  Der liest sie ihm entzückt vor, ohne zu ahnen, wer sie geschrieben hat.« (<bibl >
+                           <rs type="org">CUL</rs>, Schnitzler, A 196,1)</bibl>
+                     </quote>
+                  </p>
+               </note> – dies vertheidigt er (wenn man ihm vorwirft (<rs type="person" ref="#pmb2167">Salten</rs>), dass er ja eigentlich das Leben <rs type="person" ref="#pmb2885">Messer’s</rs> fälsche): »ja, ich dictir ihr ja nur, was sie ihm schreiben wollte, wenn sie es könnte! Das ist ja in ihrer Seele–« – Es hat sich jetzt heraus gestellt dass ein Liebesbrief dieser <rs type="person" ref="#pmb27839">Anna</rs>, den <rs type="person" ref="#pmb10863">Rich. B.-H.</rs> im vorigen Jahr erhielt – auch von <rs type="person" ref="#pmb2147">Rich. E.</rs> inspirirt d. h. verfasst war!– – Ein andrer von diesen papierenen Menschen, namens <rs type="person" ref="#pmb2888">Paul Wertheimer</rs>, hat sich dieser <rs type="person" ref="#pmb27839">Anna</rs> auf der Straße vorgestellt, erklärt dass er uns alle kenne, ging zu ihr, hat ihr seine Gedichte vorgelesen, dann von ihrem Beruf Gebrauch gemacht, und ihr schließlich 1 fl. 50 gegeben – worüber sie wüthend war, besonders dass er auch die Gedichte vorgelesen.–</p>
          </div>
       </body>
    </text>

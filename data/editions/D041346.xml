@@ -13,11 +13,11 @@
             <title type="iso-date">1922-06-02</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -84,9 +84,11 @@
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb30837">Buch</rs> zu Ende. Viel Überschätzung im Einzelnen. Der principielle Einwand gegen die »werthlosen Menschen« die ich mit »Vorliebe« schildre – beruht auf aesthetischen und ethischen Mißverständnissen – und gewiß auf der Befürchtung,– »zu enthusiastisch« zu sein. An thatsächlichen Unrichtigkeiten (<rs type="work" ref="#pmb29853">Ltnt. Gustl</rs> Affaire u. dgl.), Schlampereien,– und kleinen Taktlosigkeiten fehlt es nicht. Ich schrieb ihm, er solle die Stelle am Schluss, wo von unverwindbaren Lebensdingen, die mich betroffen, noch streichen –</p>
             <p>
-               <rs type="person" ref="#pmb13212">Stefan Zweig</rs> (der <anchor type="commentary" xml:id="KD346-1">hübsch in der <rs type="org" ref="#pmb29212">N. R.</rs>
-                  <space unit="chars" quantity="1"/>über mich <rs type="work" subtype="implied" ref="#pmb31483">geschrieben</rs>
-               </anchor>) – ich versuche ihm den Irrtum von der »versunknen Welt«, dem auch er – feuilletonistisch unterliegt aufzuklären.– Über <rs type="person" ref="#pmb10815">Bahr</rs> (der von <rs type="place" ref="#pmb30">Salzburg</rs> nach <rs type="place" ref="#pmb45258">München</rs> übersiedelt), <rs type="person" ref="#pmb11740">Hugo</rs> und seine unleidlichen Machenschaften in <rs type="place" ref="#pmb30">Salzburg</rs> (nun widmet er die Tantiemen des »<rs type="work" ref="#pmb30839">Großen Welttheaters</rs>« – der Restauration der Kirche – damit er sie kriegt u. s. w.),– über die <rs type="person" ref="#pmb13173">Wyneken</rs> Bewegung,– Homosexualität etc.–</p>
+               <rs type="person" ref="#pmb13212">Stefan Zweig</rs> (der <anchor type="commentary" xml:id="KD346-1"/>hübsch in der <rs type="org" ref="#pmb29212">N. R.</rs>
+               <space unit="chars" quantity="1"/>über mich <rs type="work" subtype="implied" ref="#pmb31483">geschrieben</rs>
+               <note type="commentary" xml:id="KD346-1h">
+                  <p>Vgl. Kommentar zum Tagebucheintrag Schnitzlers, <date instant="false">9. 5. 1922</date>, <ptr target="LKommKD345-3"/>.</p>
+               </note>) – ich versuche ihm den Irrtum von der »versunknen Welt«, dem auch er – feuilletonistisch unterliegt aufzuklären.– Über <rs type="person" ref="#pmb10815">Bahr</rs> (der von <rs type="place" ref="#pmb30">Salzburg</rs> nach <rs type="place" ref="#pmb45258">München</rs> übersiedelt), <rs type="person" ref="#pmb11740">Hugo</rs> und seine unleidlichen Machenschaften in <rs type="place" ref="#pmb30">Salzburg</rs> (nun widmet er die Tantiemen des »<rs type="work" ref="#pmb30839">Großen Welttheaters</rs>« – der Restauration der Kirche – damit er sie kriegt u. s. w.),– über die <rs type="person" ref="#pmb13173">Wyneken</rs> Bewegung,– Homosexualität etc.–</p>
             <p>Mit <rs type="person" ref="#pmb19262">H. K.</rs> spät Abends unterm Sternenhimmel auf der Wiese hinter dem <rs type="place" ref="#pmb169">Pötzleinsdorfer</rs> Friedhof gelegen ober dem <rs type="place" ref="#pmb243">Sommerhaidenweg</rs>. Es hätt eine andre – oder ein andrer sein müssen. Nachtm. beim »<rs type="place" ref="#pmb248">Kratzer</rs>«. Nach zwei Stunden werden wir meist ganz freundschaftlich mit einander.</p>
             <p>Las zu Hause noch ein läppisches Stück (Mscrpt.) eines <rs type="place" ref="#pmb249">bulg.</rs> Arztes <rs type="person" ref="#pmb19642">Kosaroff</rs>.–</p>
          </div>

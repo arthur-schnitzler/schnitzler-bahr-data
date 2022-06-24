@@ -13,11 +13,11 @@
             <title type="iso-date">1891-11-23</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -78,9 +78,18 @@
          <div type="writingSession" n="1">
             <p>
                <date when="1891-11-23" n="01">23/XI</date> Mit <rs type="person" ref="#pmb14953">Mz.</rs> Vorm., dann Abd. spazieren. Besorgung.– Wie die ersten Tage der Liebe, so süss und keusch. Das <rs type="work" ref="#pmb30005">letzte Souper</rs> vollendet.– </p>
-            <p>Im »<anchor type="commentary" xml:id="KD005-1">
-                  <rs type="org" ref="#pmb29429">Matin</rs>
-               </anchor>« <rs type="work" subtype="implied" ref="#pmb31267">stehn</rs> als die begabtesten Vertreter Jung Oest.: <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2425">Doermann</rs>, <rs type="person" ref="#pmb2416">David</rs>, ich.– </p>
+            <p>Im »<anchor type="commentary" xml:id="KD005-1"/>
+               <rs type="org" ref="#pmb29429">Matin</rs>
+               <note type="commentary" xml:id="KD005-1h">
+                  <p>
+                     <anchor type="label" xml:id="LKommKD005-1">
+                        <bibl >[O. V.:] <rs type="work" ref="#pmb31267">La jeune école littéraire</rs>. In:
+                        <rs type="org" ref="#pmb29429">Le Matin</rs>, Jg. 8, Nr. 2810, <date when="1891-11-09" instant="false">9. 11. 1891</date>, S. 2</bibl> steht, in <rs type="place" ref="#pmb41240">Österreich</rs> habe sich eine literarische Gesellschaft
+                  gegründet. »<quote>La jeune cercle <rs type="place" ref="#pmb41240">autrichien</rs> compte déjà nombre d’écrivains de talent et pleins
+                     d’avenir, comme MM. <rs type="person" ref="#pmb10815">Hermann Bahr</rs>, <rs type="person" ref="#pmb2425">Félix Boermann</rs>
+                           <!-- sic! -->, <rs type="person" ref="#pmb2416">J.-J. David</rs>, <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs> etc.</quote>«</anchor>
+                  </p>
+               </note>« <rs type="work" subtype="implied" ref="#pmb31267">stehn</rs> als die begabtesten Vertreter Jung Oest.: <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2425">Doermann</rs>, <rs type="person" ref="#pmb2416">David</rs>, ich.– </p>
          </div>
       </body>
    </text>

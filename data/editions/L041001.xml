@@ -13,11 +13,11 @@
             <title type="iso-date">1893-11-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,10 +124,16 @@
             <opener>
                <salute>Lieber Freund,</salute>
             </opener>
-            <p>hier ist also etwas, was sich möglicherweise als Eingangsfeuilleton eignet. Ich habe ihm vorläufig keinen Namen gegeben – eventuell könnte man das Ding »<anchor type="commentary" xml:id="KL001-3">
-                  <rs type="work" ref="#pmb29819">Abendspaziergang</rs>
-               </anchor>« heißen. Vortheilhaft erscheint mir, dass in den vier Freunden <anchor type="label" xml:id="LL001-2">Typen</anchor> angedeutet sind, die sich vielleicht<pb/> weiterhin für die Reihe noch irgendwie werden verwenden lassen.–</p>
-            <p>Ich schicke Ihnen da gleich auch eine andre kleine <anchor type="commentary" xml:id="KL001-1">Geschichte</anchor> mit, die, wenn sie nicht am Ende zu »frivol« ist, ganz ohne Praetension gelegentlich unter den Skizzen gebracht werden könnte.</p>
+            <p>hier ist also etwas, was sich möglicherweise als Eingangsfeuilleton eignet. Ich habe ihm vorläufig keinen Namen gegeben – eventuell könnte man das Ding »<anchor type="commentary" xml:id="KL001-3"/>
+               <rs type="work" ref="#pmb29819">Abendspaziergang</rs>
+               <note type="commentary" xml:id="KL001-3h">
+                  <p>Am Vortag hat er den Text vollendet, am <date instant="false">15. 11.</date> liest er ihn <rs type="person" ref="#pmb10863">Beer-Hofmann</rs> und <rs type="person" ref="#pmb11740">Hofmannsthal</rs> vor, »<quote>der viel getadelt wurde</quote>«.
+               Am selben Tag korrigierte er ihn noch (<bibl >A. S. <rs type="work">Tb</rs>
+                     </bibl>). Am <date instant="false">6. 12.</date> erscheint er als <rs type="work" ref="#pmb29819">Spaziergang</rs>.</p>
+               </note>« heißen. Vortheilhaft erscheint mir, dass in den vier Freunden <anchor type="label" xml:id="LL001-2">Typen</anchor> angedeutet sind, die sich vielleicht<pb/> weiterhin für die Reihe noch irgendwie werden verwenden lassen.–</p>
+            <p>Ich schicke Ihnen da gleich auch eine andre kleine <anchor type="commentary" xml:id="KL001-1"/>Geschichte<note type="commentary" xml:id="KL001-1h">
+                  <p>Eventuell <rs type="work" ref="#pmb30165">Die Braut</rs>.</p>
+               </note> mit, die, wenn sie nicht am Ende zu »frivol« ist, ganz ohne Praetension gelegentlich unter den Skizzen gebracht werden könnte.</p>
             <p>Ich hoffe Ihnen nun aber bald was vernünftiges schicken<pb/> zu können. <anchor type="label" xml:id="LL001-1">Schließlich werde ich doch wohl auch das Feuilleton schreiben lernen­ – vorläufig fehlt mir noch manches dazu</anchor>.</p>
             <closer>– Mit herzlichen Grüßen<lb/>Ihr sehr ergebner<lb/>
                <signed>Arthur Schnitzler</signed>

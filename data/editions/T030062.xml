@@ -14,11 +14,11 @@
             <title type="iso-date">1905-12-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="062"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AAB-6</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>HS VM 3675 Ba</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">In: Abreißblock, Bleistift, 12 Bl. in Umschlag, von Bahr eh. beschriftet: »<quote>
+                        <p>In: Abreißblock, Bleistift, 12 Bl. in Umschlag, von Bahr eh. beschriftet: »<quote>
                               <placeName ref="pmb9">Münchner Hoftheater</placeName> Pläne. / <date>Dezember 1905</date>
                            </quote>«, unpag., [S. 13].</p>
                      </physDesc>
@@ -78,24 +78,30 @@
    <text type="note">
       <body>
          <div>
-            <p part="N">
+            <p>
                <table>
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1">1.</cell>
                      <cell role="data" rows="1" cols="1">
-                        <anchor type="commentary" xml:id="KT062-2">
-                           <rs type="work" ref="#pmb32111">Bakchen</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT062-2"/>
+                        <rs type="work" ref="#pmb32111">Bakchen</rs>
+                        <note type="commentary" xml:id="KT062-2h">
+                           <p>Von <rs type="person" ref="#pmb4107">Euripides</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1">2.</cell>
                      <cell role="data" rows="1" cols="1">
-                        <anchor type="commentary" xml:id="KT062-1">
-                           <rs type="work" subtype="implied" ref="#pmb32029">
-                              <rs type="person" ref="#pmb12605">Hans Sachs</rs>
-                           </rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT062-1"/>
+                        <rs type="work" subtype="implied" ref="#pmb32029">
+                           <rs type="person" ref="#pmb12605">Hans Sachs</rs>
+                        </rs>
+                        <note type="commentary" xml:id="KT062-1h">
+                           <p>In <rs type="person" ref="#pmb10815">Bahrs</rs>
+                              <space unit="chars" quantity="1"/>Aufzeichnungen (<bibl >
+                                 <rs type="work">Tb</rs> IV,461</bibl>) als <rs type="work" ref="#pmb32029">Lisabetha</rs> näher bestimmt.</p>
+                        </note>
                      </cell>
                   </row>
                   <row role="data" rows="1" cols="1">
@@ -113,9 +119,11 @@
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1">5.</cell>
                      <cell role="data" rows="1" cols="1">
-                        <anchor type="commentary" xml:id="KT062-4">
-                           <rs type="work" ref="#pmb32045">Der reiche Jüngling</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT062-4"/>
+                        <rs type="work" ref="#pmb32045">Der reiche Jüngling</rs>
+                        <note type="commentary" xml:id="KT062-4h">
+                           <p>Von <rs type="person" ref="#pmb4858">Carl Rössler</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                   <row role="data" rows="1" cols="1">
@@ -124,9 +132,11 @@
                   </row>
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1"/>
-                     <cell role="data" rows="1" cols="1">(<rs type="person" ref="#pmb12311">Musset</rs>. <anchor type="commentary" xml:id="KT062-5">
-                           <rs type="work" ref="#pmb31955">Der Bär</rs>
-                        </anchor>. <rs type="person" ref="#pmb13107">Wied</rs>s <rs type="work" ref="#pmb31969">Abrechnung</rs>.)</cell>
+                     <cell role="data" rows="1" cols="1">(<rs type="person" ref="#pmb12311">Musset</rs>. <anchor type="commentary" xml:id="KT062-5"/>
+                        <rs type="work" ref="#pmb31955">Der Bär</rs>
+                        <note type="commentary" xml:id="KT062-5h">
+                           <p>Von <rs type="person" ref="#pmb3603">Čechov</rs>.</p>
+                        </note>. <rs type="person" ref="#pmb13107">Wied</rs>s <rs type="work" ref="#pmb31969">Abrechnung</rs>.)</cell>
                   </row>
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1">7.</cell>
@@ -139,9 +149,11 @@
                   <row role="data" rows="1" cols="1">
                      <cell role="data" rows="1" cols="1">8.</cell>
                      <cell role="data" rows="1" cols="1">
-                        <anchor type="commentary" xml:id="KT062-3">
-                           <rs type="work" ref="#pmb30221">Penthesilea</rs>
-                        </anchor>
+                        <anchor type="commentary" xml:id="KT062-3"/>
+                        <rs type="work" ref="#pmb30221">Penthesilea</rs>
+                        <note type="commentary" xml:id="KT062-3h">
+                           <p>Von <rs type="person" ref="#pmb11933">Kleist</rs>.</p>
+                        </note>
                      </cell>
                   </row>
                </table>

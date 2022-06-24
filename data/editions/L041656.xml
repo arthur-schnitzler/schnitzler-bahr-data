@@ -13,11 +13,11 @@
             <title type="iso-date">1923-01-03</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -117,24 +117,42 @@
          <div type="writingSession" n="1">
             <opener>
                <dateline rend="right">
-                  <rs type="place" ref="#pmb50">Wien</rs>, <date>3. 1. <anchor type="commentary" xml:id="KL656-1">1922</anchor>
+                  <rs type="place" ref="#pmb50">Wien</rs>, <date>3. 1. <anchor type="commentary" xml:id="KL656-1"/>1922<note type="commentary" xml:id="KL656-1h">
+                        <p>Schreibirrtum.</p>
+                     </note>
                   </date>
                </dateline>
             </opener>
             <p>
-               <salute>liebe, </salute>am Sylvesterabend war ich mit <rs type="person" ref="#pmb2238">Lili</rs> beim <rs type="work" ref="#pmb29983">Meister</rs>; <rs type="person" ref="#pmb12692">Heini</rs> spielte den Balsam, in sehr guter Haltung, aber er war diesmal (was nicht nur ich fand) viel zu leise – diese Art Rollen sind gewiß nichts für ihn – und vor allem kann ein 20jähriger alles eher spielen als einen 28jährigen. Im »<rs type="work" ref="#pmb32019">Schweiger</rs>« soll er, u zw. auf <rs type="person" ref="#pmb13094">Werfel</rs>s Wunsch, einen jüdischen Journalisten spielen; – den dritten Juden innerhalb weniger Wochen; er wird (womit ich sehr einverstanden bin) Dir. <rs type="person" ref="#pmb13920">Beer</rs> ersuchen, ihm die Rolle abzunehmen. – Nach der Vorstellung nachtmahlten wir zu Hause, verfügten uns dann zu <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs>. Punsch, Faschingskrapfen, die <rs type="place" ref="#pmb533">Cottage</rs>leute, etwa 40 Personen; sprach mit <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb12971">Treßler</rs> und andern – sah <rs type="person" ref="#pmb2238">Lili</rs> tanzen zu – um ½ 2 fort, – die Kinder blieben bis sieben Uhr früh. Der Neujahrstag war vernebelt und verregnet, eine Stunde im freien war übergenug; – Nachmittag spielte ich mit <rs type="person" ref="#pmb12692">Heini</rs> der <rs type="person" ref="#pmb2238">Lili</rs> die <rs type="person" ref="#pmb4816">Dvorak</rs> Symphonie »<rs type="work" ref="#pmb32009">Aus der neuen Welt</rs>« vor; dann zerstreuten sich die Kinder in alle, oder wenigstens zwei Winde, und ich verbrachte den Rest des Tags mit Arbeit und Bilanzirungen. – Von der »<anchor type="commentary" xml:id="KL656-2">Volksausgabe« des <rs type="work" ref="#pmb30971">
-                     <rs type="person" ref="#pmb3145">Casanova</rs>
-                  </rs>
-               </anchor> hat mir <rs type="person" ref="#pmb24825">Seltzer</rs> schon im Sommer geschrieben – <subst>
+               <salute>liebe, </salute>am Sylvesterabend war ich mit <rs type="person" ref="#pmb2238">Lili</rs> beim <rs type="work" ref="#pmb29983">Meister</rs>; <rs type="person" ref="#pmb12692">Heini</rs> spielte den Balsam, in sehr guter Haltung, aber er war diesmal (was nicht nur ich fand) viel zu leise – diese Art Rollen sind gewiß nichts für ihn – und vor allem kann ein 20jähriger alles eher spielen als einen 28jährigen. Im »<rs type="work" ref="#pmb32019">Schweiger</rs>« soll er, u zw. auf <rs type="person" ref="#pmb13094">Werfel</rs>s Wunsch, einen jüdischen Journalisten spielen; – den dritten Juden innerhalb weniger Wochen; er wird (womit ich sehr einverstanden bin) Dir. <rs type="person" ref="#pmb13920">Beer</rs> ersuchen, ihm die Rolle abzunehmen. – Nach der Vorstellung nachtmahlten wir zu Hause, verfügten uns dann zu <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs>. Punsch, Faschingskrapfen, die <rs type="place" ref="#pmb533">Cottage</rs>leute, etwa 40 Personen; sprach mit <rs type="person" ref="#pmb12749">Schönherr</rs>, <rs type="person" ref="#pmb12971">Treßler</rs> und andern – sah <rs type="person" ref="#pmb2238">Lili</rs> tanzen zu – um ½ 2 fort, – die Kinder blieben bis sieben Uhr früh. Der Neujahrstag war vernebelt und verregnet, eine Stunde im freien war übergenug; – Nachmittag spielte ich mit <rs type="person" ref="#pmb12692">Heini</rs> der <rs type="person" ref="#pmb2238">Lili</rs> die <rs type="person" ref="#pmb4816">Dvorak</rs> Symphonie »<rs type="work" ref="#pmb32009">Aus der neuen Welt</rs>« vor; dann zerstreuten sich die Kinder in alle, oder wenigstens zwei Winde, und ich verbrachte den Rest des Tags mit Arbeit und Bilanzirungen. – Von der »<anchor type="commentary" xml:id="KL656-2"/>Volksausgabe« des <rs type="work" ref="#pmb30971">
+                  <rs type="person" ref="#pmb3145">Casanova</rs>
+               </rs>
+               <note type="commentary" xml:id="KL656-2h">
+                  <p>Zuerst erschienen <date instant="false">1921</date> als Privatdruck für Abonnenten. Dann im
+                  <date instant="false">November 1922</date> die ersten beiden öffentlichen Auflagen: <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb30971">Casanova’s Homecoming</rs>. New York: <rs type="org" ref="#pmb29336">Thomas Seltzer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1922</date> (Übersetzung von <rs type="person" ref="#pmb5027">Eden</rs> und
+                     <rs type="person" ref="#pmb5030">Cedar Paul</rs>)</bibl>.</p>
+               </note> hat mir <rs type="person" ref="#pmb24825">Seltzer</rs> schon im Sommer geschrieben – <subst>
                   <del rend="overwritten">zuerst</del>
                   <add place="inline">vor</add>
-               </subst> einigen Tagen erhielt ich die Freiex. der zweiten Auflage <add place="inline">(</add>theuern<add place="inline">)</add> zu zahlen entschließt er sich nicht – trotz meiner Briefe<pb/> – hingegen telegrafirt er frech, warum ich <anchor type="commentary" xml:id="KL656-3">»<rs type="work" ref="#pmb29923">den Weg ins freie</rs>« für <rs type="place" ref="#pmb175">Amerika</rs>
-               </anchor> jemandem andern überlassen – als wenn er ein Recht darauf hätte – dabei hab ich ja niemanden andern autorisirt – wahrscheinlich hats wer gestohlen.– Ebensolche finanzielle Aergerlichkeiten mit <rs type="person" ref="#pmb11324">Fischer</rs>, <rs type="person" ref="#pmb17899">Harz</rs>, <rs type="person" ref="#pmb10833">Barnowsky</rs> (er schickt mir die <rs type="work" ref="#pmb29917">Liebelei</rs> Tantiemen nicht –) – du hörst von diesen Dingen nicht gern – und ich erlebe sie nicht gern; – aber glaube mir, es ist mehr als widerlich, daß man nur um zu seinem guten Recht – oder zu einem Theil desselben zu kommen, aufpassen und Briefe schreiben <del rend="strikethrough">
+               </subst> einigen Tagen erhielt ich die Freiex. der zweiten Auflage <add place="inline">(</add>theuern<add place="inline">)</add> zu zahlen entschließt er sich nicht – trotz meiner Briefe<pb/> – hingegen telegrafirt er frech, warum ich <anchor type="commentary" xml:id="KL656-3"/>»<rs type="work" ref="#pmb29923">den Weg ins freie</rs>« für <rs type="place" ref="#pmb175">Amerika</rs>
+               <note type="commentary" xml:id="KL656-3h">
+                  <p>Es handelt sich um die amerikanische Ausgabe der britischen Übersetzung
+                  (<date instant="false">1913</date>), <bibl >
+                        <rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb29923">The Road to the Open</rs>. Authorised translation by <rs type="person" ref="#pmb5031">Horace Samuel</rs>. New York: <rs type="org">Alfred A. Knopf</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1923</date>
+                     </bibl>.</p>
+               </note> jemandem andern überlassen – als wenn er ein Recht darauf hätte – dabei hab ich ja niemanden andern autorisirt – wahrscheinlich hats wer gestohlen.– Ebensolche finanzielle Aergerlichkeiten mit <rs type="person" ref="#pmb11324">Fischer</rs>, <rs type="person" ref="#pmb17899">Harz</rs>, <rs type="person" ref="#pmb10833">Barnowsky</rs> (er schickt mir die <rs type="work" ref="#pmb29917">Liebelei</rs> Tantiemen nicht –) – du hörst von diesen Dingen nicht gern – und ich erlebe sie nicht gern; – aber glaube mir, es ist mehr als widerlich, daß man nur um zu seinem guten Recht – oder zu einem Theil desselben zu kommen, aufpassen und Briefe schreiben <del rend="strikethrough">
                   <gap quantity="4" reason="illegible" unit="chars"/>
                </del> und einen Theil seiner Zeit, seiner Nerven, seiner Geistesintensität auf dergleichen inferiore Angelegenheiten verschwenden muss.– Erfreulich war mir dagegen das Eintreffen dreier Bände meiner Werke in <rs type="place" ref="#pmb318">japanisch</rs>er Sprache (wenn der materielle »Ertrag<supplied>«</supplied> nach dem heutigen Curs auch – fünf Dollars nicht überstieg!) –</p>
             <p>Wie lange du in <rs type="place" ref="#pmb50">Wien</rs> bleiben willst, hängt ganz von dir ab – <rs type="person" ref="#pmb12160">Alma</rs> dürfte ja bis Ende März hier sein; sie fährt im Jänner (vor Mitte glaube ich) nur auf einige Tage nach<pb/>
                <space unit="chars" quantity="1"/>
-               <rs type="place" ref="#pmb462">Venedig</rs> – und wird wohl um den 20. wieder hier sein<supplied>;</supplied> am Freitag geh ich zu ihr, und hoffe all das so genau zu erfahren, als man derlei concrete Dinge von ihr überhaupt erfahren kann; sie hat dir vielleicht indess schon selbst geschrieben. Wo hält sich Frau <rs type="person" ref="#pmb19609">v. Korff</rs> auf, die du auf der Herreise besuchen willst? Deine <rs type="place" ref="#pmb228">Baden Badner</rs> Zimmer behältst du natürlich während deiner Abwesenheit? Über das »<anchor type="commentary" xml:id="KL656-4">Hexenhäusl</anchor>« erzählst du mir wohl noch näheres. Ist es möblirt? –</p>
+               <rs type="place" ref="#pmb462">Venedig</rs> – und wird wohl um den 20. wieder hier sein<supplied>;</supplied> am Freitag geh ich zu ihr, und hoffe all das so genau zu erfahren, als man derlei concrete Dinge von ihr überhaupt erfahren kann; sie hat dir vielleicht indess schon selbst geschrieben. Wo hält sich Frau <rs type="person" ref="#pmb19609">v. Korff</rs> auf, die du auf der Herreise besuchen willst? Deine <rs type="place" ref="#pmb228">Baden Badner</rs> Zimmer behältst du natürlich während deiner Abwesenheit? Über das »<anchor type="commentary" xml:id="KL656-4"/>Hexenhäusl<note type="commentary" xml:id="KL656-4h">
+                  <p>Sie plante den Erwerb eines Hauses in <rs type="place" ref="#pmb228">Baden-Baden</rs>.</p>
+               </note>« erzählst du mir wohl noch näheres. Ist es möblirt? –</p>
             <p>– Seit gestern haben wir ein trügerisches Frühlingswetter – nie glaub ich hab ich mich so nach Sonne gesehnt wie in diesem Jahr. Sie scheint mir auf dieses Blatt, während ich dir schreibe – aber es ist noch nicht die, die ich meine. Gleich nachdem ich <rs type="person" ref="#pmb12160">Alma</rs> gesprochen, schreib ich dir wieder.</p>
             <closer>Sei von Herzen gegrüßt!<lb/>
                <signed>Arth</signed>

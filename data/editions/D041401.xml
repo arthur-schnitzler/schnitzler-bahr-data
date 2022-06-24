@@ -13,11 +13,11 @@
             <title type="iso-date">1897-11-15</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -138,7 +138,10 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>2) <anchor type="commentary" xml:id="KD401-1">Photogr. von Band</anchor>.</cell>
+                     <cell>2) <anchor type="commentary" xml:id="KD401-1"/>Photogr. von Band<note type="commentary" xml:id="KD401-1h">
+                           <p>Es dürfte sich um das den <rs type="work" ref="#pmb31275">Studien zur Kritik der
+                  Moderne</rs> vorangestellte Foto handeln.</p>
+                        </note>.</cell>
                   </row>
                </table>
             </p>

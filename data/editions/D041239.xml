@@ -13,11 +13,11 @@
             <title type="iso-date">1904-09-25</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,13 +79,29 @@
             <p>
                <date when="1904-09-25" n="2">25/9</date> S. <rs type="place" ref="#pmb173">Rodaun</rs>, z. Th. mit <rs type="person" ref="#pmb2167">Salten</rs>, <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#pmb26392">Leo</rs> hinaus.– Außerdem <rs type="person" ref="#pmb12740">Gustav</rs>.– Auch <rs type="person" ref="#pmb11740">Hugo</rs> war aus <rs type="place" ref="#pmb462">Venedig</rs> da, früher als er sich vorgenommen, worüber <rs type="person" ref="#pmb10863">Richard</rs> in seiner Gereiztheit gegen <rs type="person" ref="#pmb11740">Hugo</rs> erbittert war.– <rs type="person" ref="#pmb2167">Salten</rs> erzählte von seiner <anchor type="commentary" xml:id="KD239-1">
-                  <rs type="place" ref="#pmb182">Pariser</rs> Reise</anchor>. Die <rs type="person" ref="#pmb27933">Coburg</rs> »Saujuden«.– Wie <rs type="person" ref="#pmb2167">S.</rs> ihr sagte: Und Ihr <rs type="person" subtype="implied" ref="#pmb27936">Mann</rs>?, <rs type="person" ref="#pmb3007">Feistmantel</rs>
-               <c rendition="#dots" n="3"/> etc. – Warum sagen Sie nicht Sauchristen?– »Da haben S recht <c rendition="#dots" n="3" place="center"/> das is sehr gut <c rendition="#dots" n="3"/>« Und wie sie dann gleich wieder von Saujuden sprach.– <anchor type="commentary" xml:id="KD239-2">
-                  <rs type="person" ref="#pmb12909">Südekum</rs>
-               </anchor> und <anchor type="commentary" xml:id="KD239-3">
-                  <rs type="person" ref="#pmb26891">Weitzer</rs>
-               </anchor> in ihrer wahren Gestalt!–</p>
+               <rs type="person" ref="#pmb26392">Leo</rs> hinaus.– Außerdem <rs type="person" ref="#pmb12740">Gustav</rs>.– Auch <rs type="person" ref="#pmb11740">Hugo</rs> war aus <rs type="place" ref="#pmb462">Venedig</rs> da, früher als er sich vorgenommen, worüber <rs type="person" ref="#pmb10863">Richard</rs> in seiner Gereiztheit gegen <rs type="person" ref="#pmb11740">Hugo</rs> erbittert war.– <rs type="person" ref="#pmb2167">Salten</rs> erzählte von seiner <anchor type="commentary" xml:id="KD239-1"/>
+               <rs type="place" ref="#pmb182">Pariser</rs> Reise<note type="commentary" xml:id="KD239-1h">
+                  <p>
+                     <rs type="person" ref="#pmb2167">Salten</rs> hatte als »Spezialkorrespondent« die am
+                  <date instant="false">31. 8.</date> nach <rs type="place" ref="#pmb182">Paris</rs> geflohene <rs type="person" ref="#pmb27933">Louise von Sachsen-Coburg</rs> für <rs type="org" ref="#pmb29626">Die Zeit</rs> interviewt. Sie war nach einer Liebesaffäre auf
+               Betreiben ihres Ehemanns <rs type="person" ref="#pmb27936">Philipp</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date instant="false">1899</date> für geisteskrank erklärt und eingesperrt worden. Beim
+               angesprochenen <rs type="person" ref="#pmb3007">Karl Feistmantel</rs> handelte es
+               sich um ihren Kurator.</p>
+               </note>. Die <rs type="person" ref="#pmb27933">Coburg</rs> »Saujuden«.– Wie <rs type="person" ref="#pmb2167">S.</rs> ihr sagte: Und Ihr <rs type="person" subtype="implied" ref="#pmb27936">Mann</rs>?, <rs type="person" ref="#pmb3007">Feistmantel</rs>
+               <c rendition="#dots" n="3"/> etc. – Warum sagen Sie nicht Sauchristen?– »Da haben S recht <c rendition="#dots" n="3" place="center"/> das is sehr gut <c rendition="#dots" n="3"/>« Und wie sie dann gleich wieder von Saujuden sprach.– <anchor type="commentary" xml:id="KD239-2"/>
+               <rs type="person" ref="#pmb12909">Südekum</rs>
+               <note type="commentary" xml:id="KD239-2h">
+                  <p>Der <rs type="person" subtype="implied" ref="#pmb12909">Abgeordnete</rs> stellte bei
+               der Flucht seine Wohnung in <rs type="place" ref="#pmb168">Berlin</rs> zur
+               Verfügung.</p>
+               </note> und <anchor type="commentary" xml:id="KD239-3"/>
+               <rs type="person" ref="#pmb26891">Weitzer</rs>
+               <note type="commentary" xml:id="KD239-3h">
+                  <p>
+                     <rs type="person" subtype="implied" ref="#pmb26891">Fluchthelfer</rs>.</p>
+               </note> in ihrer wahren Gestalt!–</p>
             <p>
                <rs type="person" ref="#pmb10863">Richard</rs> las <rs type="work" ref="#pmb30233">Graf von Charolais</rs>, den er nach 4 Jahren beendet. Nach dem 3. Akt war der Erfolg außerordentlich; der 4. und 5. (bei gleicher gedanklicher und sprachl. Höhe) erweckt schwere Bedenken.–</p>
          </div>

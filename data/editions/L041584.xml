@@ -13,11 +13,11 @@
             <title type="iso-date">1897-06-25</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,8 +102,10 @@
                   <date>25. 6. 97</date>.</dateline>
             </opener>
             <p>
-               <salute>Mein geliebter Schatz, </salute>noch bevor ich einpacke, will ich dir aus <rs type="place" ref="#pmb50">Wien</rs> tausend Grüße u Küsse senden. Ich will auch noch erwähnen, dass ich gestern Abend in <rs type="place" ref="#pmb678">Döbling, Pyrkergasse</rs> war <add place="above">(mit <anchor type="commentary" xml:id="KL584-1">Frau <rs type="person" ref="#pmb19337">K.</rs>
-                  </anchor>)</add>, ein angeblich allein stehendes Häuschen zum Allein<pb/> bewohnen ansehen – Es wimmelte von Menschen; neben dem alleinstehend Häuschen im Garten steht ein großes Haus, wo Leute wohnen, die Jahrelang im selben Haus mit uns (<rs type="place" ref="#pmb274">Burgring</rs>) gewohnt; im Garten traf ich sofort einen Bekannten! (<rs type="person" subtype="implied" ref="#pmb4599">Bru<pb/>der</rs> des verstorbnen Prof <rs type="person" ref="#pmb10792">Auspitz</rs>) – Ich war sehr verstimmt über die Schwierigkeiten; ging dann gegen <rs type="place" ref="#pmb159">Heiligenstad<unclear>t</unclear>
+               <salute>Mein geliebter Schatz, </salute>noch bevor ich einpacke, will ich dir aus <rs type="place" ref="#pmb50">Wien</rs> tausend Grüße u Küsse senden. Ich will auch noch erwähnen, dass ich gestern Abend in <rs type="place" ref="#pmb678">Döbling, Pyrkergasse</rs> war <add place="above">(mit <anchor type="commentary" xml:id="KL584-1"/>Frau <rs type="person" ref="#pmb19337">K.</rs>
+                  <note type="commentary" xml:id="KL584-1h">
+                     <p>Vgl. Kommentar zu <ptr target="KL585-2"/>.</p>
+                  </note>)</add>, ein angeblich allein stehendes Häuschen zum Allein<pb/> bewohnen ansehen – Es wimmelte von Menschen; neben dem alleinstehend Häuschen im Garten steht ein großes Haus, wo Leute wohnen, die Jahrelang im selben Haus mit uns (<rs type="place" ref="#pmb274">Burgring</rs>) gewohnt; im Garten traf ich sofort einen Bekannten! (<rs type="person" subtype="implied" ref="#pmb4599">Bru<pb/>der</rs> des verstorbnen Prof <rs type="person" ref="#pmb10792">Auspitz</rs>) – Ich war sehr verstimmt über die Schwierigkeiten; ging dann gegen <rs type="place" ref="#pmb159">Heiligenstad<unclear>t</unclear>
                </rs> zu spazieren, zu Fuss nach <rs type="place" ref="#pmb50">Wien</rs>; früh nach haus, das <rs type="work" subtype="implied" ref="#pmb30474">Stück</rs> von <rs type="person" ref="#pmb11701">
                   <hi rend="latintype">G. Hirschf.</hi>
                </rs> lesen; Das wirklich schön ist. <rs type="person" ref="#pmb10815">Bahr</rs> ist einfach ein Esel; man kann<pb/> nichts Dümmeres über das Stück sagen, als er mir vorgestern <subst>

@@ -13,11 +13,11 @@
             <title type="iso-date">1904-09-03</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -98,7 +98,11 @@
             <p>
                <gap reason="outOfScope"/>
             </p>
-            <p>Ich schreib grad an einem <anchor type="commentary" xml:id="KL493-1">langen Brief</anchor> über das »<rs type="work" ref="#pmb31091">ger. Ven.</rs>« für <rs type="person" ref="#pmb11740">Hugo</rs>, was mir nicht leicht wird, weil ich ihm doch auch meine Bedenken sagen muß, was mündlich viel besser geht, weil da der andere an unserem Ton, an unserem Blick doch immer merkt, wie gern wir ihn haben und daß uns vielleicht gerade deshalb auch sein Werk gar nicht vollkommen genug sein kann. Und während ich mich also plag, seh ich zufällig auf die Uhr und mir fällt ein, daß Sie jetzt gerade in <rs type="place" ref="#pmb332">Linz</rs> sein müssen, in meiner dummen kleinen Heimatstadt. Und ich stelle mir vor, wie Sie die ganze Zeit mit der <rs type="person" ref="#pmb2173">Olga</rs> getratscht haben und manchmal der <rs type="person" ref="#pmb2121">Arthur</rs> in seinem komisch ruhigen, jugendlich gesetzten Ton eine lustige Geschichte erzählt und Sie sich wieder so ausgezeichnet unterhalten wie neulich im <rs type="place" ref="#pmb304">Ottakringer</rs>, worauf ich ein bischen neidisch wurde, wütend bin, daß ich hier allein sitze, und doch, bei dem Gedanken an Sie, gleich wieder froh werde: denn diese wunderbare Woche hat mir ein so stilles Glück dankbaren Frohseins zurückgelassen, daß mir nun ist, als könnte ich nie mehr im Leben, was auch Böses noch mit mir geschehen mag, ganz traurig sein.</p>
+            <p>Ich schreib grad an einem <anchor type="commentary" xml:id="KL493-1"/>langen Brief<note type="commentary" xml:id="KL493-1h">
+                  <p>
+                     <bibl >
+                        <rs type="work">Bw</rs> Hofmannsthal/Bahr 275–279</bibl>.</p>
+               </note> über das »<rs type="work" ref="#pmb31091">ger. Ven.</rs>« für <rs type="person" ref="#pmb11740">Hugo</rs>, was mir nicht leicht wird, weil ich ihm doch auch meine Bedenken sagen muß, was mündlich viel besser geht, weil da der andere an unserem Ton, an unserem Blick doch immer merkt, wie gern wir ihn haben und daß uns vielleicht gerade deshalb auch sein Werk gar nicht vollkommen genug sein kann. Und während ich mich also plag, seh ich zufällig auf die Uhr und mir fällt ein, daß Sie jetzt gerade in <rs type="place" ref="#pmb332">Linz</rs> sein müssen, in meiner dummen kleinen Heimatstadt. Und ich stelle mir vor, wie Sie die ganze Zeit mit der <rs type="person" ref="#pmb2173">Olga</rs> getratscht haben und manchmal der <rs type="person" ref="#pmb2121">Arthur</rs> in seinem komisch ruhigen, jugendlich gesetzten Ton eine lustige Geschichte erzählt und Sie sich wieder so ausgezeichnet unterhalten wie neulich im <rs type="place" ref="#pmb304">Ottakringer</rs>, worauf ich ein bischen neidisch wurde, wütend bin, daß ich hier allein sitze, und doch, bei dem Gedanken an Sie, gleich wieder froh werde: denn diese wunderbare Woche hat mir ein so stilles Glück dankbaren Frohseins zurückgelassen, daß mir nun ist, als könnte ich nie mehr im Leben, was auch Böses noch mit mir geschehen mag, ganz traurig sein.</p>
             <p>
                <gap reason="outOfScope"/>
             </p>

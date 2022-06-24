@@ -13,11 +13,11 @@
             <title type="iso-date">1904-01-22</title>
             <author ref="pmb12968">Trebitsch, Siegfried</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -112,9 +112,18 @@
             </opener>
             <p>Also jetzt wirds Ernst. Sonntag Abends reise ich nach <hi rend="underline" n="1">
                   <rs type="place" ref="#pmb768">Berlin W. Rankestrasse 20 Pension Westpalast</rs>
-               </hi>. Am <date when="1904-01-30">30.</date> dies od <date when="1904-02-02">2. Feber</date> ist die <anchor type="commentary" xml:id="KL638-6">Première</anchor>: <rs type="work" ref="#pmb29841">Schlachtenl.</rs> und <rs type="work" ref="#pmb32288">Schwester B.</rs> Besetzung: <rs type="person" ref="#pmb2299">Sorma</rs>, <rs type="person" ref="#pmb12504">Reinhardt</rs>, <rs type="person" ref="#pmb13061">Wassmann</rs>, <rs type="person" ref="#pmb2859">Arnold</rs>. 14 Tage (ungefähr) später »<anchor type="commentary" xml:id="KL638-5">
-                  <rs type="work" ref="#pmb30645">Candida</rs>
-               </anchor>«.</p>
+               </hi>. Am <date when="1904-01-30">30.</date> dies od <date when="1904-02-02">2. Feber</date> ist die <anchor type="commentary" xml:id="KL638-6"/>Première<note type="commentary" xml:id="KL638-6h">
+                  <p>
+                     <rs type="work" ref="#pmb29841">Der Schlachtenlenker</rs> von <rs type="person" ref="#pmb2381">G. B. Shaw</rs>, übersetzt von <rs type="person" ref="#pmb12968">Trebitsch</rs>, und <rs type="work" ref="#pmb32288">Schwester Beatrix</rs> von
+                  <rs type="person" ref="#pmb12156">M. Maeterlinck</rs> wurden gemeinsam erstmals am
+                  <date instant="false">10. 2. 1904</date> im <rs type="place" ref="#pmb720">Neuen Theater in
+                  Berlin</rs> gegeben.</p>
+               </note>: <rs type="work" ref="#pmb29841">Schlachtenl.</rs> und <rs type="work" ref="#pmb32288">Schwester B.</rs> Besetzung: <rs type="person" ref="#pmb2299">Sorma</rs>, <rs type="person" ref="#pmb12504">Reinhardt</rs>, <rs type="person" ref="#pmb13061">Wassmann</rs>, <rs type="person" ref="#pmb2859">Arnold</rs>. 14 Tage (ungefähr) später »<anchor type="commentary" xml:id="KL638-5"/>
+               <rs type="work" ref="#pmb30645">Candida</rs>
+               <note type="commentary" xml:id="KL638-5h">
+                  <p>Die Aufführung von <rs type="work" ref="#pmb30645">Candida</rs> von <rs type="person" ref="#pmb2381">Shaw</rs> in der Übersetzung von <rs type="person" ref="#pmb12968">Trebitsch</rs> am <rs type="place" ref="#pmb720">Neuen Theater</rs> verzögerte
+               sich letztlich bis zum <date instant="false">3. 3. 1904</date>.</p>
+               </note>«.</p>
             <p>Gleichzeitig erhielt ich einen Brief aus dem <rs type="place" ref="#pmb738">Berliner Th.</rs>, dass dort Mitte Feber der »<rs type="work" ref="#pmb29961">Teufelskerl</rs>« herauskommen soll. Ihre Aufträge für <rs type="place" ref="#pmb168">Berlin</rs> werde ich nicht vergessen, seien Sie davon fest überzeugt. ich <subst>
                   <del rend="overwritten">
                      <unclear>bin</unclear>
@@ -129,13 +138,29 @@
                   <del rend="overwritten">I</del>
                   <add place="inline">i</add>
                </subst>hr gemacht haben und ist von Ihrer baldigsten vollständigen »Genesung« <hi rend="underline" n="1">fest</hi>
-               <pb/> überzeugt. ich gratulire Ihnen zum großen <rs type="place" ref="#pmb506">Ha mburg</rs>er <anchor type="commentary" xml:id="KL638-1">»<rs type="work" ref="#pmb29983">Meister</rs>«-Erfolg</anchor>. Unlängst sprach ich <rs type="person" ref="#pmb2601">Jarno</rs>, der Sie auf seiner nächsten Reise nach <rs type="place" ref="#pmb182">Paris</rs> auch besuchen will; es verstimmt mich dass er mit den »<anchor type="commentary" xml:id="KL638-4">
-                  <rs type="work" ref="#pmb29963">Helden</rs>
-               </anchor>« so lange und so gerne zögert. ich war sehr fleißig, der <anchor type="commentary" xml:id="KL638-2">
-                  <rs type="work" cert="low" subtype="implied" ref="#pmb30153">Roman</rs>
-               </anchor> ist bis zur Hälfte gediehen und das <anchor type="commentary" xml:id="KL638-3">
-                  <rs type="work" cert="low" subtype="implied" ref="#pmb32079">Stück</rs>
-               </anchor> möchte ich in <rs type="place" ref="#pmb168">Berlin</rs> zuende führen, d. h. Durchsieben und Feilen. Bitte fragen Sie nicht »was noch«? ich weiß wirklich nichts mehr als die Frage: wie geht es Ihnen????</p>
+               <pb/> überzeugt. ich gratulire Ihnen zum großen <rs type="place" ref="#pmb506">Ha mburg</rs>er <anchor type="commentary" xml:id="KL638-1"/>»<rs type="work" ref="#pmb29983">Meister</rs>«-Erfolg<note type="commentary" xml:id="KL638-1h">
+                  <p>Erstmals am <date instant="false">19. 1. 1904</date> im <rs type="place" ref="#pmb645">Deutschen
+                  Schauspielhaus</rs>, fünf Aufführungen.</p>
+               </note>. Unlängst sprach ich <rs type="person" ref="#pmb2601">Jarno</rs>, der Sie auf seiner nächsten Reise nach <rs type="place" ref="#pmb182">Paris</rs> auch besuchen will; es verstimmt mich dass er mit den »<anchor type="commentary" xml:id="KL638-4"/>
+               <rs type="work" ref="#pmb29963">Helden</rs>
+               <note type="commentary" xml:id="KL638-4h">
+                  <p>
+                     <rs type="work" ref="#pmb29963">Arms and the Man</rs> von <rs type="person" ref="#pmb2381">Shaw</rs>.</p>
+               </note>« so lange und so gerne zögert. ich war sehr fleißig, der <anchor type="commentary" xml:id="KL638-2"/>
+               <rs type="work" cert="low" subtype="implied" ref="#pmb30153">Roman</rs>
+               <note type="commentary" xml:id="KL638-2h">
+                  <p>Eventuell: <bibl >
+                        <rs type="person" ref="#pmb12968"/>
+                        <rs type="work" ref="#pmb30153">Das Haus am Abhang. Roman</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1906</date>
+                     </bibl>.</p>
+               </note> ist bis zur Hälfte gediehen und das <anchor type="commentary" xml:id="KL638-3"/>
+               <rs type="work" cert="low" subtype="implied" ref="#pmb32079">Stück</rs>
+               <note type="commentary" xml:id="KL638-3h">
+                  <p>Eventuell: <rs type="work" ref="#pmb32079">Ein letzter Wille. Schauspiel in drei
+                  Akten</rs> (<date instant="false">1907</date>).</p>
+               </note> möchte ich in <rs type="place" ref="#pmb168">Berlin</rs> zuende führen, d. h. Durchsieben und Feilen. Bitte fragen Sie nicht »was noch«? ich weiß wirklich nichts mehr als die Frage: wie geht es Ihnen????</p>
             <closer>Mit den herzlichsten Grüßen und Wünschen, bin ich<lb/>Ihr sehr aufrichtig getreuer<lb/>
                <signed>Siegfr. Trebitsch</signed>
             </closer>

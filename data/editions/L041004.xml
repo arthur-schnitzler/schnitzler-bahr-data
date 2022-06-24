@@ -13,11 +13,11 @@
             <title type="iso-date">1895-07-17</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -125,11 +125,16 @@
             <opener>
                <salute>Lieber Hermann, </salute>
             </opener>
-            <p>hier ist also die <rs type="work" subtype="implied" ref="#pmb30073">Novelle</rs>. Ich habe viel gestrichen, fürchte aber noch immer dss sie zu lang ist. In diesem Falle hätte ich nichts dagegen, dass sie in kleinerm Drucke erscheint. (Wie s. Z. <anchor type="commentary" xml:id="KL004-1">
-                  <rs type="work" subtype="implied" ref="#pmb32322">
-                     <rs type="person" ref="#pmb12602">Saar</rs>
-                  </rs>
-               </anchor>.) Findest Du noch Stellen, die Du für entbehrlich hältst, so gib sie mir vielleicht an, streiche aber keinesfalls selbst.<pb/> Auch wenn dir ein wirksamerer Titel einfiele, so wäre mir das sehr willkommen. –</p>
+            <p>hier ist also die <rs type="work" subtype="implied" ref="#pmb30073">Novelle</rs>. Ich habe viel gestrichen, fürchte aber noch immer dss sie zu lang ist. In diesem Falle hätte ich nichts dagegen, dass sie in kleinerm Drucke erscheint. (Wie s. Z. <anchor type="commentary" xml:id="KL004-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32322">
+                  <rs type="person" ref="#pmb12602">Saar</rs>
+               </rs>
+               <note type="commentary" xml:id="KL004-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb12602">Ferdinand von Saar</rs>: <rs type="work" ref="#pmb32322">Herr Fridolin und sein Glück</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 1, Nr. 1, <date instant="false">6. 10. 1894</date> – Nr. 5,
+                     <date instant="false">3. 11. 1894</date> (5 Teile)</bibl>.</p>
+               </note>.) Findest Du noch Stellen, die Du für entbehrlich hältst, so gib sie mir vielleicht an, streiche aber keinesfalls selbst.<pb/> Auch wenn dir ein wirksamerer Titel einfiele, so wäre mir das sehr willkommen. –</p>
             <p>Kannst Du die Geschichte nicht brauchen, so behalte das Manuscr. jedenfalls freundlichst bei Dir, bis ich nach <rs type="place" ref="#pmb50">Wien</rs> zurückkehre. Nachrichten erbitte ich mir an untenstehende Adresse. <rs type="person" ref="#pmb10863">Richard</rs> sagt mir übrigens, dß Du bald<pb/> wieder her kommst, da sprechen wir uns wohl, was mich sehr freuen wird.</p>
             <closer>Herzliche Grüße von Deinem ergeb <signed>ArthSch</signed>
             </closer>

@@ -13,11 +13,11 @@
             <title type="iso-date">1897-10-24</title>
             <author ref="pmb2292">Schlesinger, Gerty</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -100,13 +100,23 @@
                   <date>Sonntag</date>.</dateline>
                <salute>Lieber Herr Bahr</salute>
             </opener>
-            <p>Bitte sind Sie nicht bös wenn ich Sie mit einer grossen Bitte belästige. Ein junger <rs type="person" subtype="implied" ref="#pmb11740">Schriftsteller</rs> dessen ganze Zukunft von Ihrer Protection abhängt hat mir das beiliegende <anchor type="commentary" xml:id="KL473-1">
-                  <rs type="work" cert="low" subtype="implied" ref="#pmb32069">Stück</rs>
-               </anchor> gegeben weil er überzeugt ist, dass es der einzige Weg ist, dass Sie es lesen.</p>
+            <p>Bitte sind Sie nicht bös wenn ich Sie mit einer grossen Bitte belästige. Ein junger <rs type="person" subtype="implied" ref="#pmb11740">Schriftsteller</rs> dessen ganze Zukunft von Ihrer Protection abhängt hat mir das beiliegende <anchor type="commentary" xml:id="KL473-1"/>
+               <rs type="work" cert="low" subtype="implied" ref="#pmb32069">Stück</rs>
+               <note type="commentary" xml:id="KL473-1h">
+                  <p>Es dürfte sich um die in scherzhaftem Ton verfasste Einreichung von <rs type="person" ref="#pmb11740">Hofmannsthals</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" ref="#pmb32069">Der weiße Fächer</rs> handeln, die am <date instant="false">29.
+                  1.</date> und am <date instant="false">5. 2. 1898</date> (<bibl >Bd. 14, H. 174, S. 78–80 und
+                  H. 175, S. 94–96</bibl>) in der <rs type="org" ref="#pmb29209">Zeit</rs>
+               erschien.</p>
+               </note> gegeben weil er überzeugt ist, dass es der einzige Weg ist, dass Sie es lesen.</p>
             <p>Ich selbst finde, dass durch solche Stücke wirklich das Niveau gehoben wird. Und darauf kommt es doch an. Wenn es einmal dahin kommt dass der Herr <rs type="person" ref="#pmb27829">Fiala</rs> solche Stücke schreibt – und dahin wird es kommen – wenn unser <rs type="person" ref="#pmb13082">Karlweiss</rs> diese gelbe Venus noch oft herrlich aufgeht, dann werden unsere Schreibtische dem <geogName type="mountain">Hermannskogel</geogName> ähnlich schauen, die Frau <rs type="person" ref="#pmb28506">Charas</rs> wird schöner lächeln und die Einbände unserer Küchenbücher werden etwas Unvergängliches haben.</p>
-            <p>Das <rs type="work" subtype="implied" ref="#pmb32069">Stück</rs> selbst ist natürlich vollkommen werthlos, die Charactere sind von <rs type="person" ref="#pmb2570">Rudolf Lothar</rs> der Dialog von <rs type="person" ref="#pmb2121">Schnitzler</rs>, die Interpunktion von <rs type="person" ref="#pmb2147">Peter Altenberg</rs>. Beim 270ten Verse hab ich lange an Ihren <anchor type="commentary" xml:id="KL473-2">
-                  <rs type="work" subtype="implied" ref="#pmb30137">Napoleon</rs>
-               </anchor> denken müssen. Wer aber solche Töne der hellsten Unnatur anzuschlagen weiss, der soll unserem Theater erhalten bleiben.</p>
+            <p>Das <rs type="work" subtype="implied" ref="#pmb32069">Stück</rs> selbst ist natürlich vollkommen werthlos, die Charactere sind von <rs type="person" ref="#pmb2570">Rudolf Lothar</rs> der Dialog von <rs type="person" ref="#pmb2121">Schnitzler</rs>, die Interpunktion von <rs type="person" ref="#pmb2147">Peter Altenberg</rs>. Beim 270ten Verse hab ich lange an Ihren <anchor type="commentary" xml:id="KL473-2"/>
+               <rs type="work" subtype="implied" ref="#pmb30137">Napoleon</rs>
+               <note type="commentary" xml:id="KL473-2h">
+                  <p>
+                     <rs type="work" ref="#pmb30137">Josephine</rs>, das in der ersten Fassung <rs type="work" ref="#pmb30135">Bonaparte</rs> hieß. </p>
+               </note> denken müssen. Wer aber solche Töne der hellsten Unnatur anzuschlagen weiss, der soll unserem Theater erhalten bleiben.</p>
          </div>
       </body>
    </text>

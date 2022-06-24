@@ -13,11 +13,11 @@
             <title type="iso-date">1903-02-07</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,7 +77,9 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1903-02-07" n="2">7/2</date> Bei <rs type="person" ref="#pmb14707">Lola B.</rs>, dann bei Frau <rs type="person" ref="#pmb2292">v. Hofmannsthal</rs> (seit ihrer <anchor type="commentary" xml:id="KD210-1">Genesung</anchor> das 1. Mal), bei <rs type="person" ref="#pmb10815">Bahr</rs>, woselbst <rs type="person" ref="#pmb11036">Burckhard</rs>, <rs type="person" ref="#pmb24575">Mizi Schuster</rs>, <rs type="person" ref="#pmb12573">Roth</rs>, <rs type="person" ref="#pmb2161">Bukovics</rs>.–</p>
+               <date when="1903-02-07" n="2">7/2</date> Bei <rs type="person" ref="#pmb14707">Lola B.</rs>, dann bei Frau <rs type="person" ref="#pmb2292">v. Hofmannsthal</rs> (seit ihrer <anchor type="commentary" xml:id="KD210-1"/>Genesung<note type="commentary" xml:id="KD210-1h">
+                  <p>Von der Operation einer Dermoidzyste am <date instant="false">24. 10. 1902</date> (<bibl >A. S. <rs type="work">Tb</rs>)</bibl>. </p>
+               </note> das 1. Mal), bei <rs type="person" ref="#pmb10815">Bahr</rs>, woselbst <rs type="person" ref="#pmb11036">Burckhard</rs>, <rs type="person" ref="#pmb24575">Mizi Schuster</rs>, <rs type="person" ref="#pmb12573">Roth</rs>, <rs type="person" ref="#pmb2161">Bukovics</rs>.–</p>
             <p>Nm. <rs type="work" subtype="implied" ref="#pmb29985">5. Akt</rs>.– Bei <rs type="person" ref="#pmb2173">O.</rs> wo <rs type="person" ref="#pmb2461">Gisa</rs>, dann Dr. <rs type="person" ref="#pmb22733">P.</rs>–</p>
             <p>Wieder düstre Stunden, durch meine Schuld, quälend, selbstquälerisch u. s. w. »Auch jetzt, während du ruhig scheinst, bist du’s ja nicht; bist im innersten mißtrauisch – weißt nichts von mir.« – Es ging vielleicht weiter als je;– löste sich wohl in verzweiflungsvollen Thränen, machte uns aber doch beide immer hoffnungsloser.– Als Arzt könnt ich sagen: Chronische psych. Depression; auf erblicher Grundlage, gefördert durch ein störendes als unheilbar erkanntes Ohrenleiden, mit intercurrenten sehr häufigen mäßigern bis krampfartigen Anfällen von Kleinheits-, Verfolgungs-, Eifersuchtswahn; mit Erhaltung des Bewußtseins aber gelegentlichem Verlust der Correctionsfähigkeit.–</p>
          </div>

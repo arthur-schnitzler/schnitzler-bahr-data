@@ -13,11 +13,11 @@
             <title type="iso-date">1895-06-19</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,14 +105,23 @@
             <opener>
                <salute>Lieber Arthur!</salute>
             </opener>
-            <p>Ich möchte sehr, sehr gern etwas von Dir für die »<rs type="org" ref="#pmb29209">Zeit</rs>« haben. Lieber wäre mir eine kurze Geschichte, nicht über 8 Spalten des Blattes. Faute de mieux, nehme ich auch eine lange, obwohl ich an <anchor type="commentary" xml:id="KL175-1">
-                  <rs type="work" subtype="implied" ref="#pmb32320">
-                     <rs type="person" ref="#pmb2142">d’Annunzio</rs>
-                  </rs>
-               </anchor> erfahren habe, daß das Zerreißen in Fortsetzungen auch die stärksten Sachen umbringt.</p>
+            <p>Ich möchte sehr, sehr gern etwas von Dir für die »<rs type="org" ref="#pmb29209">Zeit</rs>« haben. Lieber wäre mir eine kurze Geschichte, nicht über 8 Spalten des Blattes. Faute de mieux, nehme ich auch eine lange, obwohl ich an <anchor type="commentary" xml:id="KL175-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32320">
+                  <rs type="person" ref="#pmb2142">d’Annunzio</rs>
+               </rs>
+               <note type="commentary" xml:id="KL175-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2142">Gabriele d’Annunzio</rs>: <rs type="work" ref="#pmb32320">Giovanni Episcopo</rs>. In: <rs type="org" ref="#pmb29209">Die
+                     Zeit</rs>, Bd. 1, Nr. 9, <date instant="false">1. 12. 1894</date> – Bd. 2, Nr. 16, <date instant="false">19. 1.
+                     1895</date> (8 Teile)</bibl>.</p>
+               </note> erfahren habe, daß das Zerreißen in Fortsetzungen auch die stärksten Sachen umbringt.</p>
             <p>Deine <rs type="work" subtype="implied" ref="#pmb30073">Novelle</rs> könnte im Oktober er<pb/>scheinen.</p>
             <p>
-               <anchor type="commentary" xml:id="KL175-2">Ich fahre heute Abend</anchor> nach <rs type="place" ref="#pmb45258">München</rs> und dann auf drei Wochen ins <geogName type="mountain" ref="pmb314">bairische Gebirg</geogName>.</p>
+               <anchor type="commentary" xml:id="KL175-2"/>Ich fahre heute Abend<note type="commentary" xml:id="KL175-2h">
+                  <p>Vom <date instant="false">19. 6.</date> bis zum <date instant="false">12. 7.</date> machte <rs type="person" ref="#pmb10815">Bahr</rs> Sommerurlaub. Er besuchte drei Tage <rs type="place" ref="#pmb45258">München</rs>, dann <rs type="place" ref="#pmb936">Schliersee</rs>
+               und den <geogName type="lake" instant="false">Starnberger See</geogName> sowie <rs type="place" ref="#pmb867">Innsbruck</rs> und die Gegend von <rs type="place" ref="#pmb1012">Kufstein</rs>.</p>
+               </note> nach <rs type="place" ref="#pmb45258">München</rs> und dann auf drei Wochen ins <geogName type="mountain" ref="pmb314">bairische Gebirg</geogName>.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

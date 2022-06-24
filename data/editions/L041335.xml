@@ -13,11 +13,11 @@
             <title type="iso-date">1912-09-28</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,9 +127,19 @@
                   <date>28. 9. 12</date>
                </dateline>
             </opener>
-            <p>Herzlichen Dank, <salute>lieber Artur, </salute>für Deine Karte und die eben einlangenden <anchor type="commentary" xml:id="KL335-1">
-                  <rs type="work" subtype="implied" ref="#pmb30313">vier Bände Theater</rs>
-               </anchor>. Ich <anchor type="commentary" xml:id="KL335-2">vagabundiere durch die Welt</anchor> (zunächst von hier nach <rs type="place" ref="#pmb151">Deutschland</rs>, sechs Wochen Vorlesungen, dann nach <rs type="place" ref="#pmb445">Rom</rs>, Januar und Februar wieder Vorlesungen), bis ich am <date rend="19130301">1. März</date> in <rs type="place" ref="#pmb160">Salzburg Arenbergschloß</rs> zu landen hoffe.</p>
+            <p>Herzlichen Dank, <salute>lieber Artur, </salute>für Deine Karte und die eben einlangenden <anchor type="commentary" xml:id="KL335-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30313">vier Bände Theater</rs>
+               <note type="commentary" xml:id="KL335-1h">
+                  <p>Die <rs type="work" ref="#pmb30313">Gesammelten Werke</rs> erschienen
+                  <date instant="false">1912</date> bei <rs type="org" ref="#pmb29639">S. Fischer</rs> in sieben
+               Bänden, vier enthielten die »Theaterstücke«, drei die »Erzählenden Schriften«.</p>
+               </note>. Ich <anchor type="commentary" xml:id="KL335-2"/>vagabundiere durch die Welt<note type="commentary" xml:id="KL335-2h">
+                  <p>Die Vortragstourneen in <rs type="place" ref="#pmb151">Deutschland</rs> fanden vom
+                  <date instant="false">4.</date> bis zum <date instant="false">27. 11. 1912</date> und vom <date instant="false">13.</date> bis zum
+                  <date instant="false">30. 1. 1913</date> statt. Ob er den für <date instant="false">Dezember</date> geplanten
+               Aufenthalt in <rs type="place" ref="#pmb445">Rom</rs> verwirklichte, ist nicht
+               geklärt.</p>
+               </note> (zunächst von hier nach <rs type="place" ref="#pmb151">Deutschland</rs>, sechs Wochen Vorlesungen, dann nach <rs type="place" ref="#pmb445">Rom</rs>, Januar und Februar wieder Vorlesungen), bis ich am <date rend="19130301">1. März</date> in <rs type="place" ref="#pmb160">Salzburg Arenbergschloß</rs> zu landen hoffe.</p>
             <closer>Herzlichst immer Dein<lb/>
                <signed>Hermann</signed>
             </closer>

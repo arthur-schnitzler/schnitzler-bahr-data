@@ -13,11 +13,11 @@
             <title type="iso-date">1907-04-20</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,7 +81,10 @@
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb10815">Bahr</rs>, der über Tisch war. Er hält daran fest, sich in <rs type="place" ref="#pmb168">Berlin</rs> wohl zu fühlen (was aber nur körperlich zu nehmen ist) – <rs type="work" ref="#pmb29917">Lbl.</rs> in den <rs type="place" ref="#pmb12">Kammerspielen</rs> aufzuführen war <rs type="person" ref="#pmb12504">Reinhardt</rs> entschlossen; <rs type="person" ref="#pmb11752">Holländer</rs> war dagegen.– Nun schlug <rs type="person" ref="#pmb10815">Bahr</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD286-1">auf meinen Wunsch</anchor> »<rs type="work" ref="#pmb29823">Märchen</rs>« vor (das außer in <rs type="place" ref="#pmb50">Wien</rs> deutsch nie gegeben und in <rs type="place" ref="#pmb34438">Rußland</rs> Rep. Stück) – keiner hat es bis heute nur gelesen. So sieht es mit meiner »Stellung« aus.– – Ich constatirte die halb unbewußte Hetze gegen <rs type="place" ref="#pmb41240">Oesterreichertum</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, wovon <rs type="person" ref="#pmb10815">B.</rs> nichts sehen will.– U. a. sagt er <c rendition="#dots" n="3" place="center"/> »Treue hab ich nur im <rs type="work" ref="#pmb30709">Nibelungenlied</rs> gefunden und bei einigen Juden.« –</p>
+               <anchor type="commentary" xml:id="KD286-1"/>auf meinen Wunsch<note type="commentary" xml:id="KD286-1h">
+                  <p>
+                     <ptr target="LL097-1"/>.</p>
+               </note> »<rs type="work" ref="#pmb29823">Märchen</rs>« vor (das außer in <rs type="place" ref="#pmb50">Wien</rs> deutsch nie gegeben und in <rs type="place" ref="#pmb34438">Rußland</rs> Rep. Stück) – keiner hat es bis heute nur gelesen. So sieht es mit meiner »Stellung« aus.– – Ich constatirte die halb unbewußte Hetze gegen <rs type="place" ref="#pmb41240">Oesterreichertum</rs> in <rs type="place" ref="#pmb168">Berlin</rs>, wovon <rs type="person" ref="#pmb10815">B.</rs> nichts sehen will.– U. a. sagt er <c rendition="#dots" n="3" place="center"/> »Treue hab ich nur im <rs type="work" ref="#pmb30709">Nibelungenlied</rs> gefunden und bei einigen Juden.« –</p>
             <p>
                <rs type="person" ref="#pmb2549">Mirjam Horwitz</rs> (mit dem <rs type="place" ref="#pmb208">Kl. Th.</rs> hier) und später die Pianistin Frl. <rs type="person" ref="#pmb25275">Springer</rs> (die einiges vorspielte).–</p>
             <p>

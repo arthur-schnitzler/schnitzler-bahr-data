@@ -13,11 +13,11 @@
             <title type="iso-date">1894-07-18</title>
             <author ref="pmb10863">Beer-Hofmann, Richard</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,7 +99,10 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Arthur! </salute>Habe den Brief irrthümlich geöffnet <del rend="strikethrough">B</del> Sie <del rend="strikethrough">A</del> antworten wol <rs type="person" ref="#pmb10815">Bahr</rs> dass er Samstag hieher kommen soll? Mit <rs type="place" ref="#pmb30">Salzburg</rs> wird es vorläufig nichts sein: <rs type="person" ref="#pmb11740">Hugo</rs> wird <anchor type="commentary" xml:id="KL695-1">auch nicht</anchor> von <rs type="place" ref="#pmb573">Fusch</rs> wo er seit ein paar Tagen ist kommen wollen. Verschieben wir also die Sache</p>
+               <salute>Lieber Arthur! </salute>Habe den Brief irrthümlich geöffnet <del rend="strikethrough">B</del> Sie <del rend="strikethrough">A</del> antworten wol <rs type="person" ref="#pmb10815">Bahr</rs> dass er Samstag hieher kommen soll? Mit <rs type="place" ref="#pmb30">Salzburg</rs> wird es vorläufig nichts sein: <rs type="person" ref="#pmb11740">Hugo</rs> wird <anchor type="commentary" xml:id="KL695-1"/>auch nicht<note type="commentary" xml:id="KL695-1h">
+                  <p>Er trauerte um <rs type="person" ref="#pmb4980">Josefine Wertheimstein</rs>, die am
+                  <date instant="false">16. 7.</date> gestorben war.</p>
+               </note> von <rs type="place" ref="#pmb573">Fusch</rs> wo er seit ein paar Tagen ist kommen wollen. Verschieben wir also die Sache</p>
             <p>Was ist Nachmittag? Ich bin jedenfalls bis circa ½ 5 zu Hause</p>
             <closer>Herzlich <signed>Richard</signed>
             </closer>

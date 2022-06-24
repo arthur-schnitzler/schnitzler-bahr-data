@@ -13,11 +13,11 @@
             <title type="iso-date">1898-12-12</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,7 +77,9 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1898-12-12" n="1">12/12</date> Vorm. bei <rs type="person" ref="#pmb14953">Mz. I</rs>.– Nm. <rs type="person" ref="#pmb2378">Mz. Rh.</rs> bei mir; <rs type="person" ref="#pmb11673">Herzl</rs> bei mir, mit ihm bei seinem <rs type="person" subtype="implied" ref="#pmb21804">Schwager</rs>, dem Zionsgigerl <rs type="person" ref="#pmb21804">Paul N.</rs>– <rs type="person" ref="#pmb11673">H.</rs> gab zu, über mich »<anchor type="commentary" xml:id="KD184-1">aegrirt</anchor>« gewesen zu sein – u. zw. angeblich, weil er mich für einen gehalten, der sich da und dort, z. B. – <rs type="person" ref="#pmb10986">Brahm</rs> – und <rs type="person" ref="#pmb10815">Bahr</rs> – verhielte.– Merkwürdige Menschenunkenntnis.</p>
+               <date when="1898-12-12" n="1">12/12</date> Vorm. bei <rs type="person" ref="#pmb14953">Mz. I</rs>.– Nm. <rs type="person" ref="#pmb2378">Mz. Rh.</rs> bei mir; <rs type="person" ref="#pmb11673">Herzl</rs> bei mir, mit ihm bei seinem <rs type="person" subtype="implied" ref="#pmb21804">Schwager</rs>, dem Zionsgigerl <rs type="person" ref="#pmb21804">Paul N.</rs>– <rs type="person" ref="#pmb11673">H.</rs> gab zu, über mich »<anchor type="commentary" xml:id="KD184-1"/>aegrirt<note type="commentary" xml:id="KD184-1h">
+                  <p>Verbittert.</p>
+               </note>« gewesen zu sein – u. zw. angeblich, weil er mich für einen gehalten, der sich da und dort, z. B. – <rs type="person" ref="#pmb10986">Brahm</rs> – und <rs type="person" ref="#pmb10815">Bahr</rs> – verhielte.– Merkwürdige Menschenunkenntnis.</p>
          </div>
       </body>
    </text>

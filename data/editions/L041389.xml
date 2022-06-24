@@ -13,11 +13,11 @@
             <title type="iso-date">1897-10-04</title>
             <author ref="pmb16560">Freudenthal, Rosa</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -133,9 +133,13 @@
             <p>Er streift mit vieler Weihe</p>
             <p>Die letzte Fessel ab –? sucht die Frau auf – von der er glaubt, daß sie auf ihn wartet – und erfährt daß sie sich vergiftet hat? – ?? weil – na – also – der Vorhang fällt und <rs type="person" ref="#pmb12530">Rittner</rs> fährt sich entsetzt durch die Haare? – wie er das ja so elegant macht!<pb/>
             </p>
-            <p>Ich war nämlich gestern in <anchor type="commentary" xml:id="KL389-1">
-                  <rs type="work" ref="#pmb31755">Mutter Erde</rs>
-               </anchor> – hat mir sehr gefallen – sehr! Von <rs type="work" ref="#pmb30474">Agnes Jordan</rs> will ich Ihnen schreiben, wenn ich es gesehen hab! Arbeiten Sie bald, daß wir Sie hier auch schnell aufführen können.</p>
+            <p>Ich war nämlich gestern in <anchor type="commentary" xml:id="KL389-1"/>
+               <rs type="work" ref="#pmb31755">Mutter Erde</rs>
+               <note type="commentary" xml:id="KL389-1h">
+                  <p>
+                     <rs type="work" ref="#pmb31755"/>Von <rs type="person" ref="#pmb27766">Max
+               Halbe</rs>.</p>
+               </note> – hat mir sehr gefallen – sehr! Von <rs type="work" ref="#pmb30474">Agnes Jordan</rs> will ich Ihnen schreiben, wenn ich es gesehen hab! Arbeiten Sie bald, daß wir Sie hier auch schnell aufführen können.</p>
             <p>Wie könnte das Stück heißen?</p>
             <p rend="center">
                <hi rend="underline" n="1">Zu Spät</hi> (Bischen <subst>

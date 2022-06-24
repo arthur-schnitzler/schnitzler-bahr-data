@@ -13,11 +13,11 @@
             <title type="iso-date">1894-10-17</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -77,12 +77,21 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1894-10-17" n="01">17/10</date> Bei der <anchor type="commentary" xml:id="KD118-2">
-                  <rs type="work" ref="#pmb30397">Schmetterlingsschlacht</rs>
-               </anchor>.– Schlechtes Stück. <rs type="person" ref="#pmb10815">Bahr</rs> ist ein unehrlicher Kritiker.– Die heutigen Kritiken über <anchor type="commentary" xml:id="KD118-1">
-                  <rs type="work" subtype="implied" ref="#pmb30405">
-                     <rs type="person" ref="#pmb12974">Triesch</rs>
-                  </rs> Skandal</anchor>.</p>
+               <date when="1894-10-17" n="01">17/10</date> Bei der <anchor type="commentary" xml:id="KD118-2"/>
+               <rs type="work" ref="#pmb30397">Schmetterlingsschlacht</rs>
+               <note type="commentary" xml:id="KD118-2h">
+                  <p>
+                     <rs type="person" ref="#pmb12899">Sudermanns</rs>
+                     <space unit="chars" quantity="1"/>
+                     <rs type="work" subtype="implied" ref="#pmb30397">Stück</rs> hatte bereits am
+                  <date instant="false">6. 10. 1894</date> Premiere im <rs type="place" ref="#pmb14">Burgtheater</rs> gehabt.</p>
+               </note>.– Schlechtes Stück. <rs type="person" ref="#pmb10815">Bahr</rs> ist ein unehrlicher Kritiker.– Die heutigen Kritiken über <anchor type="commentary" xml:id="KD118-1"/>
+               <rs type="work" subtype="implied" ref="#pmb30405">
+                  <rs type="person" ref="#pmb12974">Triesch</rs>
+               </rs> Skandal<note type="commentary" xml:id="KD118-1h">
+                  <p>Am <date instant="false">16. 10. 1894</date> Premiere von <rs type="person" ref="#pmb12974">Friedrich
+                  Gustav Triesch</rs>s <rs type="work" ref="#pmb30405">Ottilie</rs> am <rs type="place" ref="#pmb77">Raimund-Theater</rs>.</p>
+               </note>.</p>
          </div>
       </body>
    </text>

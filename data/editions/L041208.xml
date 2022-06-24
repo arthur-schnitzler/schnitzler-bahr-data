@@ -13,11 +13,11 @@
             <title type="iso-date">1897-03-22</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -109,9 +109,18 @@
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
             <p>
-               <anchor type="commentary" xml:id="KL208-1">
-                  <rs type="person" ref="#pmb2147">Altenberg</rs>
-               </anchor> nicht, wenn es nicht sein muß – bei aller Verehrung seiner schönen Begabung. Aus »Opportunität« nicht. – Ich komme also Mittwoch um 10 zu Dir. Ich muß aber bis <hi rend="underline" n="1">morgen Dienstag Abend</hi> die Titel haben, damit Donnerstag (<anchor type="commentary" xml:id="KL208-2">Feiertag</anchor>) die Ankündigung in den Blättern sein kann. Schreibe<pb/> mir also den Titel von <rs type="person" ref="#pmb11701">Hirschfelds</rs>
+               <anchor type="commentary" xml:id="KL208-1"/>
+               <rs type="person" ref="#pmb2147">Altenberg</rs>
+               <note type="commentary" xml:id="KL208-1h">
+                  <p>
+                     <rs type="person" ref="#pmb11988">Kraus</rs> nannte das Fehlen von <rs type="person" ref="#pmb2147">Altenberg</rs> den größten Mangel des Abends (<bibl >
+                        <rs type="person" ref="#pmb11988">Karl Kraus</rs>: <rs type="work" ref="#pmb32614">Wiener Premièren</rs>. In: <rs type="org" ref="#pmb29283">Breslauer
+                     Zeitung</rs>, Jg. 79, Nr. 255, Abend-Ausgabe, <date instant="false">10. 4. 1897</date>,
+                  S. 2</bibl>).</p>
+               </note> nicht, wenn es nicht sein muß – bei aller Verehrung seiner schönen Begabung. Aus »Opportunität« nicht. – Ich komme also Mittwoch um 10 zu Dir. Ich muß aber bis <hi rend="underline" n="1">morgen Dienstag Abend</hi> die Titel haben, damit Donnerstag (<anchor type="commentary" xml:id="KL208-2"/>Feiertag<note type="commentary" xml:id="KL208-2h">
+                  <p>
+                     <date instant="false">25. 3.</date>: Mariä Verkündigung.</p>
+               </note>) die Ankündigung in den Blättern sein kann. Schreibe<pb/> mir also den Titel von <rs type="person" ref="#pmb11701">Hirschfelds</rs>
                <space unit="chars" quantity="1"/>
                <rs type="work" subtype="implied" ref="#pmb29835">Geschichte</rs> sowie von <rs type="work" subtype="implied" ref="#pmb29831">Deine<damage agent="ink">
                      <supplied>r</supplied>

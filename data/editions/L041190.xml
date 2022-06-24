@@ -13,11 +13,11 @@
             <title type="iso-date">1896-11-05</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,7 +107,10 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Von ganzem Herzen gratuliere ich Dir zu dem großen <anchor type="commentary" xml:id="KL190-1">Erfolge von »<rs type="work" ref="#pmb29899">Freiwild</rs>«</anchor>, der mir eine außerordentliche Freude gemacht hat. Nun möchte ich, sobald Du zurück bist, mit Dir sprechen, was man denn thun kann und soll, um eine <rs type="place" ref="#pmb50">Wiener</rs> Aufführung durchzusetzen. Ich glaube, mit einiger Schlauheit wird das möglich sein. Bitte, telephoniere mir also, wann ich Dich<pb/> treffen kann.</p>
+            <p>Von ganzem Herzen gratuliere ich Dir zu dem großen <anchor type="commentary" xml:id="KL190-1"/>Erfolge von »<rs type="work" ref="#pmb29899">Freiwild</rs>«<note type="commentary" xml:id="KL190-1h">
+                  <p>Uraufführung <rs type="work" ref="#pmb29899">Freiwild</rs> am <date instant="false">3. 11.
+                  1896</date> im <rs type="place" ref="#pmb3">Berliner Deutschen Theater</rs>.</p>
+               </note>, der mir eine außerordentliche Freude gemacht hat. Nun möchte ich, sobald Du zurück bist, mit Dir sprechen, was man denn thun kann und soll, um eine <rs type="place" ref="#pmb50">Wiener</rs> Aufführung durchzusetzen. Ich glaube, mit einiger Schlauheit wird das möglich sein. Bitte, telephoniere mir also, wann ich Dich<pb/> treffen kann.</p>
             <p>Dann möchte ich aber auch wissen, was mit Deiner <rs type="work" subtype="implied" ref="#pmb30075">Novelle</rs> ist. Es wäre mir sehr wichtig, Sie so zu bekommen, daß ich mit ihr im Januar beginnen kann. Das ist die beste Zeit und es soll auch sonst alles geschehen, um Dir den »Aufenthalt« in <rs type="org" subtype="implied" ref="#pmb29209">meinem Blatte</rs> angenehm und behaglich zu machen.</p>
             <p>Über das alles möchte ich recht bald mit Dir sprechen.</p>
             <closer>Herzlichst<lb/>Dein<lb/>

@@ -13,11 +13,11 @@
             <title type="iso-date">1905-09-18</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -162,7 +162,10 @@
                   <supplied>Ob</supplied>
                </damage>erst am stärksten gewirkt. Nun ja, gewirkt.)</p>
             <p>
-               <anchor type="commentary" xml:id="KL081-1">Freitag fahr ich vielleicht auf 3–6 Tage fort</anchor>; aber dann muss man sich doch wirklich endlich, endlich sehn. Das <hi rend="latintype">
+               <anchor type="commentary" xml:id="KL081-1"/>Freitag fahr ich vielleicht auf 3–6 Tage fort<note type="commentary" xml:id="KL081-1h">
+                  <p>Er fuhr tatsächlich am Freitag, den <date instant="false">22.</date>, auf den <rs type="place" ref="#pmb189">Semmering</rs> und kehrte am Donnerstag, den <date instant="false">26.</date>,
+               zurück.</p>
+               </note>; aber dann muss man sich doch wirklich endlich, endlich sehn. Das <hi rend="latintype">
                   <rs type="work" subtype="implied" ref="#pmb29905">Mscrpt</rs>
                </hi> schicke mir gelegentlich, da ich nur 1 Ex. daheim habe, u das wieder fortschicken muss. – </p>
             <closer>Herzlichst dein<lb/>

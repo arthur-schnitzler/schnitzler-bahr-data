@@ -13,11 +13,11 @@
             <title type="iso-date">1903-01-02</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -149,7 +149,9 @@
                      <cell role="data" rows="1" cols="1">Einnahmen</cell>
                      <cell role="data" rows="1" cols="1">Von oder für</cell>
                      <cell role="data" rows="1" cols="1">
-                        <anchor type="textConst" xml:id="TD450-1">Ausgaben</anchor>
+                        <anchor type="textConst" xml:id="TD450-1"/>Ausgaben<note type="textConst" xml:id="TD450-1h">
+                           <p>Zeile am Papier vorgedruckt.</p>
+                        </note>
                      </cell>
                   </row>
                   <row role="data" rows="1" cols="1">

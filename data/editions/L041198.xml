@@ -13,11 +13,11 @@
             <title type="iso-date">1934-01-24</title>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -142,10 +142,21 @@
                   <rs type="place" ref="#pmb150">XIII Sternwartestrasse 71.</rs>
                </dateline>
             </opener>
-            <p>Erst heute kann ich Ihnen, liebe verehrte gnädige Frau, sagen, wie tief mich der <anchor type="commentary" xml:id="KL198-3">Tod <rs type="person" ref="#pmb10815">Hermann Bahr</rs>’s</anchor> berührt hat und Ihnen ein Zeichen meiner innigsten Teilnahme senden. So viel stieg auf aus vergangener Zeit, heitere und schöne Zusammenkünfte des entschwundenen Freundeskreises, – das alles wandelte wieder an mir vorüber, – bis zu jenen Spaziergängen in <rs type="place" ref="#pmb30">Salzburg</rs>, im Jahre 21, wo er mich, gütig und ritterlich, aus meiner Einsamkeit zuweilen zu Spaziergängen holte und unter tausend heitern und weisen Worten auch von seinem Tode sprach, – der ihm oft so nah erschienen war.</p>
-            <p>In diesen letzten Tagen habe ich, ihm zu stiller Gedenkfeier, alles durchgelesen, was von ihm und über ihn hier vorhanden ist. Wie sprüht das alles von seltener Erlebniskraft von Humor, Generosität des Herzens, Bereitschaft für den Andern,<pb/> wie will er Jeden zu seiner höchsten Leistung aufstacheln! und so sagt er auch einmal: »<anchor type="commentary" xml:id="KL198-2">Mir scheint, ich bin der Ehrgeiz meiner Freunde<c rendition="#dots" n="2"/>
-               </anchor>«</p>
-            <p>In welch wunderbar gesteigerten Zustand gerät er im Jahre <date>1904</date> – wo er sich »<anchor type="commentary" xml:id="KL198-4">mit Leidenschaft auf das Hören von Musik geworfen</anchor>« – wie schöne spontane Dinge schreibt er damals an Arthur über den <rs type="work" ref="#pmb29897">Tristan</rs>, die <rs type="work" ref="#pmb30063">Walküre</rs>, – »<anchor type="commentary" xml:id="KL198-1">vielleicht wird man so ganz transparenter Seligkeiten erst im Angesicht des Todes fähig.</anchor>«</p>
+            <p>Erst heute kann ich Ihnen, liebe verehrte gnädige Frau, sagen, wie tief mich der <anchor type="commentary" xml:id="KL198-3"/>Tod <rs type="person" ref="#pmb10815">Hermann Bahr</rs>’s<note type="commentary" xml:id="KL198-3h">
+                  <p>Am <date instant="false">15. 1. 1934</date>.</p>
+               </note> berührt hat und Ihnen ein Zeichen meiner innigsten Teilnahme senden. So viel stieg auf aus vergangener Zeit, heitere und schöne Zusammenkünfte des entschwundenen Freundeskreises, – das alles wandelte wieder an mir vorüber, – bis zu jenen Spaziergängen in <rs type="place" ref="#pmb30">Salzburg</rs>, im Jahre 21, wo er mich, gütig und ritterlich, aus meiner Einsamkeit zuweilen zu Spaziergängen holte und unter tausend heitern und weisen Worten auch von seinem Tode sprach, – der ihm oft so nah erschienen war.</p>
+            <p>In diesen letzten Tagen habe ich, ihm zu stiller Gedenkfeier, alles durchgelesen, was von ihm und über ihn hier vorhanden ist. Wie sprüht das alles von seltener Erlebniskraft von Humor, Generosität des Herzens, Bereitschaft für den Andern,<pb/> wie will er Jeden zu seiner höchsten Leistung aufstacheln! und so sagt er auch einmal: »<anchor type="commentary" xml:id="KL198-2"/>Mir scheint, ich bin der Ehrgeiz meiner Freunde<c rendition="#dots" n="2"/>
+               <note type="commentary" xml:id="KL198-2h">
+                  <p>
+                     <ptr target="LL248-1"/>.</p>
+               </note>«</p>
+            <p>In welch wunderbar gesteigerten Zustand gerät er im Jahre <date>1904</date> – wo er sich »<anchor type="commentary" xml:id="KL198-4"/>mit Leidenschaft auf das Hören von Musik geworfen<note type="commentary" xml:id="KL198-4h">
+                  <p>
+                     <ptr target="KL286-2"/>.</p>
+               </note>« – wie schöne spontane Dinge schreibt er damals an Arthur über den <rs type="work" ref="#pmb29897">Tristan</rs>, die <rs type="work" ref="#pmb30063">Walküre</rs>, – »<anchor type="commentary" xml:id="KL198-1"/>vielleicht wird man so ganz transparenter Seligkeiten erst im Angesicht des Todes fähig.<note type="commentary" xml:id="KL198-1h">
+                  <p>
+                     <ptr target="LL286-1"/>.</p>
+               </note>«</p>
             <p>Welche magische Wirkung haben Ihre Gestalten damals, – und nicht auf ihn allein, – ausgeübt.</p>
             <p>Verehrte wunderbare Frau, wie reich ist alles Vergangene in Ihrer Beider Leben,– so überreich, dass es – sind einmal die ersten schweren Schatten gewichen, – Trost und Stab und Besitz sein wird.</p>
             <closer>Ich wünsche mir sehr, Ihnen wieder einmal zu begegnen und Ihnen zu sagen, wie sehr ich Sie verehre, bewundere und liebe.<lb/>Ihre <signed>Olga Schnitzler</signed>

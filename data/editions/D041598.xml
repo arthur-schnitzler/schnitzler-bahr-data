@@ -13,11 +13,11 @@
             <title type="iso-date">1922-05-30</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -82,19 +82,32 @@
                <date when="1922-05-30" n="01">30.</date> K. – Sehr schön; kühl, Nordwind. – <rs type="work" ref="#pmb30339">German letter</rs>
                <space unit="chars" quantity="1"/>
                <add place="above">
-                  <anchor type="commentary" xml:id="KD598-1">
-                     <rs type="person" ref="#pmb2121">Schnitzler</rs> u <rs type="person" ref="#pmb3715">Sitte</rs>
-                  </anchor>
+                  <anchor type="commentary" xml:id="KD598-1"/>
+                  <rs type="person" ref="#pmb2121">Schnitzler</rs> u <rs type="person" ref="#pmb3715">Sitte</rs>
+                  <note type="commentary" xml:id="KD598-1h">
+                     <p>
+                        <ptr target="T030038"/>.</p>
+                  </note>
                </add> geht morgen an <rs type="org" ref="#pmb29705">Mercury</rs>. – <rs type="org" ref="#pmb29286">Neue Secession</rs>: Inten<pb/>sität, echte nie gekünstelte, Drang nach der Urform (die ja doch, sobald sie erscheint, auch schon wieder Parodie der Idee wird), Steigerung des Weglassens um jeden Preis, dabei Angst zurückzubleiben, unverkennbar hoher Ernst (gerade dann fängt das Publicum zu lachen an); <rs type="person" ref="#pmb4772">Großmann</rs> (<rs type="person" subtype="implied" ref="#pmb28781">
                   <unclear>Fornier</unclear>
-               </rs>, <rs type="person" ref="#pmb11137">Daumier</rs>!), <rs type="person" ref="#pmb4755">Heckel</rs>, <rs type="person" ref="#pmb4752">Beckmann</rs>, <rs type="person" ref="#pmb4740">Edwin Scharff</rs>. – Dann <anchor type="commentary" xml:id="KD598-2">
-                  <rs type="org" ref="#pmb29223">Theatinerverlag</rs>; weder D<hi rend="superscript">r</hi>
-                  <space unit="chars" quantity="1"/>
-                  <rs type="person" ref="#pmb11863">Kamnitzer</rs> noch <rs type="person" ref="#pmb4732">Hildebrand</rs>
-               </anchor> da. – <rs type="work" ref="#pmb30047">Tagebuch</rs> geordnet bis inclusive <date when="1922-05-28">28. 5. 1922</date>. – Ausschnitte an <rs type="person" ref="#pmb3844">Steed</rs>, <rs type="person" ref="#pmb3912">Baring</rs> und <rs type="person" ref="#pmb12804">Smyth</rs>. – <anchor type="commentary" xml:id="KD598-3">
-                  <rs type="work" subtype="implied" ref="#pmb31797">Correctur für <date>4. 6.</date>
-                  </rs>
-               </anchor> an <rs type="org" ref="#pmb29320">Neues Wr J.</rs> – <rs type="person" ref="#pmb11602">Harta</rs>s <rs type="work" subtype="implied" ref="#pmb30017">Radierungen</rs> signiert. – <rs type="place" ref="#pmb754">Bonifaz</rs>maiandacht.</p>
+               </rs>, <rs type="person" ref="#pmb11137">Daumier</rs>!), <rs type="person" ref="#pmb4755">Heckel</rs>, <rs type="person" ref="#pmb4752">Beckmann</rs>, <rs type="person" ref="#pmb4740">Edwin Scharff</rs>. – Dann <anchor type="commentary" xml:id="KD598-2"/>
+               <rs type="org" ref="#pmb29223">Theatinerverlag</rs>; weder D<hi rend="superscript">r</hi>
+               <space unit="chars" quantity="1"/>
+               <rs type="person" ref="#pmb11863">Kamnitzer</rs> noch <rs type="person" ref="#pmb4732">Hildebrand</rs>
+               <note type="commentary" xml:id="KD598-2h">
+                  <seg type="lemma">Theatinerverlag; weder D\textsuperscript{r} Kamnitzer noch
+               Hildebrand</seg>
+                  <p>Von der geplanten zehnbändigen Werkausgabe <rs type="person" ref="#pmb5024">Alessandro Manzonis</rs>, herausgegeben von <rs type="person" ref="#pmb10815">Bahr</rs> und <rs type="person" ref="#pmb11863">Kamnitzer</rs> im von <rs type="person" ref="#pmb4732">Dietrich von Hildebrand</rs> geleiteten <rs type="org" ref="#pmb29223">Theatiner-Verlag</rs>, erschienen <date instant="false">1923</date>
+               drei Bände.</p>
+               </note> da. – <rs type="work" ref="#pmb30047">Tagebuch</rs> geordnet bis inclusive <date when="1922-05-28">28. 5. 1922</date>. – Ausschnitte an <rs type="person" ref="#pmb3844">Steed</rs>, <rs type="person" ref="#pmb3912">Baring</rs> und <rs type="person" ref="#pmb12804">Smyth</rs>. – <anchor type="commentary" xml:id="KD598-3"/>
+               <rs type="work" subtype="implied" ref="#pmb31797">Correctur für <date>4. 6.</date>
+               </rs>
+               <note type="commentary" xml:id="KD598-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31797">Tagebuch. 20. Mai</rs>. In: <rs type="org" ref="#pmb29320">Neues Wiener Journal</rs>, Jg. 30, Nr. 10263, <date instant="false">4. 6. 1922</date>,
+                  S. 8</bibl>.</p>
+               </note> an <rs type="org" ref="#pmb29320">Neues Wr J.</rs> – <rs type="person" ref="#pmb11602">Harta</rs>s <rs type="work" subtype="implied" ref="#pmb30017">Radierungen</rs> signiert. – <rs type="place" ref="#pmb754">Bonifaz</rs>maiandacht.</p>
          </div>
       </body>
    </text>

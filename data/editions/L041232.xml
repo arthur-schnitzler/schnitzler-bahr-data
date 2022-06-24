@@ -13,11 +13,11 @@
             <title type="iso-date">1901-01-23</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -107,9 +107,18 @@
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>
             </opener>
-            <p>Ich habe die »<anchor type="commentary" xml:id="KL232-1">
-                  <rs type="work" ref="#pmb29951">Marionetten</rs>
-               </anchor>« gestern nachts sogleich gelesen und mich diebisch amüsiert. Sie sind einfach großartig. Bei einer Vorlesung oder in einem kleinen Theater bürge ich für einen sehr starken Erfolg. Im <rs type="place" ref="#pmb20">Volkstheater</rs> ist allerdings der Raum dafür sehr ekelhaft und noch ekelhafter ja unsere <anchor type="commentary" xml:id="KL232-2">Premièrenjuden</anchor> – aber man muß es halt wagen. Manuscript in ein paar Tagen.</p>
+            <p>Ich habe die »<anchor type="commentary" xml:id="KL232-1"/>
+               <rs type="work" ref="#pmb29951">Marionetten</rs>
+               <note type="commentary" xml:id="KL232-1h">
+                  <p>Erste Fassung von <rs type="work" ref="#pmb29951">Zum großen Wurstel</rs>, die am
+                  <date instant="false">8. 3. 1901</date> von <rs type="person" ref="#pmb13169">Wolzogen</rs>s <rs type="place" ref="#pmb830">Überbrettl</rs> aufgeführt wurde. Erst in die
+               Umarbeitung von <date instant="false">1905</date>, die vor allem eine Erweiterung der
+               illusionsbrechenden Figuren vornahm, wurde die Hauptfigur von <rs type="person" ref="#pmb10815">Bahr</rs>s <rs type="work" ref="#pmb29983">Der Meister</rs>
+               eingearbeitet.</p>
+               </note>« gestern nachts sogleich gelesen und mich diebisch amüsiert. Sie sind einfach großartig. Bei einer Vorlesung oder in einem kleinen Theater bürge ich für einen sehr starken Erfolg. Im <rs type="place" ref="#pmb20">Volkstheater</rs> ist allerdings der Raum dafür sehr ekelhaft und noch ekelhafter ja unsere <anchor type="commentary" xml:id="KL232-2"/>Premièrenjuden<note type="commentary" xml:id="KL232-2h">
+                  <p>
+                     <ptr target="T030082"/>.</p>
+               </note> – aber man muß es halt wagen. Manuscript in ein paar Tagen.</p>
             <closer>Herzlichst<lb/>Dein<lb/>
                <signed>Hermann</signed>
             </closer>

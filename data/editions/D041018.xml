@@ -13,11 +13,11 @@
             <title type="iso-date">1892-01-04</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -82,8 +82,26 @@
             <p>Von <rs type="place" ref="#pmb652">Prag</rs> Telegr. an <rs type="person" subtype="implied" ref="#pmb12695">Papa</rs>: »Mit Freuden acceptire das <rs type="work" ref="#pmb29823">Märchen</rs>, beglückwünsche Sie zu ihrem Sohne.«</p>
             <p>Von <rs type="org" ref="#pmb29771">Pierson</rs>
                <space unit="chars" quantity="1"/>
-               <rs type="work" ref="#pmb29935">A. Cyclus</rs> zurück; Angst vor <anchor type="commentary" xml:id="KD018-1">Confiscation (wie <rs type="work" ref="#pmb30175">russ. Reise</rs>
-               </anchor> von <rs type="person" ref="#pmb10815">Bahr</rs>).–</p>
+               <rs type="work" ref="#pmb29935">A. Cyclus</rs> zurück; Angst vor <anchor type="commentary" xml:id="KD018-1"/>Confiscation (wie <rs type="work" ref="#pmb30175">russ. Reise</rs>
+               <note type="commentary" xml:id="KD018-1h">
+                  <p>Die Gerichtsverhandlung erst zu Jahresende. <bibl >
+                        <rs type="org" ref="#pmb29329">Berliner Tageblatt</rs>, Jg. 21, Nr. 636, <date instant="false">14.
+                     12. 1892</date>, Abend-Ausgabe, S. 3</bibl>: »<quote>Aus <rs type="place" ref="#pmb866">Dresden</rs> schreibt unser Korrespondent unterm <date instant="false">13.
+                     Dezember</date>: Das hiesige <rs type="place" ref="#pmb878">Landgericht</rs>
+                  verhandelte gestern in sechsstündiger Sitzung über die Frage, ob das in dem
+                  bekannten Verlage von <rs type="org" ref="#pmb29771">Edgar Pierson</rs>
+                  erschienene Werk ›<rs type="work" ref="#pmb30175">
+                           <hi rend="spaced_out">Russische Reise</hi>
+                        </rs>‹<hi rend="spaced_out"> von </hi>
+                        <rs type="person" ref="#pmb10815">
+                           <hi rend="spaced_out">Hermann Bahr</hi>
+                        </rs>, das seiner Zeit in unserem Feuilleton besprochen wurde, das
+                  Sittlichkeitsgefühl verletze. <rs type="person" ref="#pmb10815">Bahr</rs>
+                  behandelt in dem Werk <rs type="place" ref="#pmb34438">russische</rs> Theater- und
+                  Kunstverhältnisse. Der Gerichtshof erkannte auf Grund von § 184 des
+                  Reichsstrafgesetzbuchs auf theilweise Unbrauchbarmachung des Buches, d. h. der
+                  Seiten 135 bis 140, sprach aber Autor und Verleger im Uebrigen frei.</quote>«</p>
+               </note> von <rs type="person" ref="#pmb10815">Bahr</rs>).–</p>
          </div>
       </body>
    </text>

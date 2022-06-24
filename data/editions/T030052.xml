@@ -14,11 +14,11 @@
             <title type="iso-date">1905-03-01</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="052"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AA2-F</idno>
          </publicationStmt>
@@ -57,7 +57,7 @@
                         <idno>Schnitzler, A 178</idno>
                      </msIdentifier>
                      <physDesc>
-                        <p part="N">ms. mit hs. Ergänzung</p>
+                        <p>ms. mit hs. Ergänzung</p>
                      </physDesc>
                   </msDesc>
                </witness>
@@ -91,26 +91,56 @@
    <text type="manuscript">
       <body>
          <div>
-            <p part="N">
-               <rs type="person" ref="#pmb10815">Bahr</rs> – <rs type="work" ref="#pmb31707">Die neuen Menschen</rs> / <rs type="work" ref="#pmb31991">Gute Schule</rs> / <anchor type="commentary" xml:id="KT052-3">
-                  <rs type="work" ref="#pmb32244">Grosse Sünde</rs>
-               </anchor> /<lb/>
-               <rs type="work" ref="#pmb30963">Mutter</rs> / <rs type="work" ref="#pmb30175">Russische Reise</rs> / <anchor type="commentary" xml:id="KT052-4">
-                  <rs type="work" cert="low" subtype="implied" ref="#pmb31275">
-                     <rs type="work" cert="low" subtype="implied" ref="#pmb32440">Moderne</rs>
-                  </rs>
-               </anchor> / <rs type="work" ref="#pmb31945">Ueberwindung des Natur.</rs>
+            <p>
+               <rs type="person" ref="#pmb10815">Bahr</rs> – <rs type="work" ref="#pmb31707">Die neuen Menschen</rs> / <rs type="work" ref="#pmb31991">Gute Schule</rs> / <anchor type="commentary" xml:id="KT052-3"/>
+               <rs type="work" ref="#pmb32244">Grosse Sünde</rs>
+               <note type="commentary" xml:id="KT052-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32244">Die große Sünde. Ein bürgerliches Trauerspiel</rs>. Zürich: <rs type="org" ref="#pmb29367">Verlags-Magazin (J. Schabelitz)</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1889</date>
+                     </bibl>.</p>
+               </note> /<lb/>
+               <rs type="work" ref="#pmb30963">Mutter</rs> / <rs type="work" ref="#pmb30175">Russische Reise</rs> / <anchor type="commentary" xml:id="KT052-4"/>
+               <rs type="work" cert="low" subtype="implied" ref="#pmb31275">
+                  <rs type="work" cert="low" subtype="implied" ref="#pmb32440">Moderne</rs>
+               </rs>
+               <note type="commentary" xml:id="KT052-4h">
+                  <p>Wohl <rs type="work" ref="#pmb32440">Zur Kritik der Moderne</rs> (<bibl >Zürich: <rs type="org" ref="#pmb29367">Verlags-Magazin (J. Schabelitz)</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1890</date> (erschienen <date instant="false">Oktober 1889</date>)</bibl> und <rs type="work" ref="#pmb31275">Studien zur Kritik der Moderne</rs> (<bibl >Mit dem
+                  Porträt des Verfassers in Lichtdruck. Frankfurt am Main: <rs type="org" ref="#pmb29309">Rütten <c rendition="#kaufmannsund"/> Loening</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1894</date>
+                     </bibl>).</p>
+               </note> / <rs type="work" ref="#pmb31945">Ueberwindung des Natur.</rs>
                <lb/>
-               <anchor type="commentary" xml:id="KT052-2">
-                  <rs type="work" ref="#pmb32246">Fin de<c rendition="#dots" n="2"/>
-                  </rs>
-               </anchor>
+               <anchor type="commentary" xml:id="KT052-2"/>
+               <rs type="work" ref="#pmb32246">Fin de<c rendition="#dots" n="2"/>
+               </rs>
+               <note type="commentary" xml:id="KT052-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32246">Fin de Siècle</rs>. Berlin: <rs type="org" ref="#pmb29368">Adolf Zoberbier</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1891</date> (erschienen <date instant="false">Herbst 1890</date>)</bibl>.</p>
+               </note>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KT052-1">
-                  <rs type="work" ref="#pmb32248">neben der Liebe</rs>
-               </anchor> / <anchor type="commentary" xml:id="KT052-5">
-                  <rs type="work" ref="#pmb31999">Theater</rs>
-               </anchor> / <rs type="work" ref="#pmb29947">Wirkung in die Ferne</rs>
+               <anchor type="commentary" xml:id="KT052-1"/>
+               <rs type="work" ref="#pmb32248">neben der Liebe</rs>
+               <note type="commentary" xml:id="KT052-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb32248">Neben der Liebe. Wiener Roman</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1893</date>
+                     </bibl>.</p>
+               </note> / <anchor type="commentary" xml:id="KT052-5"/>
+               <rs type="work" ref="#pmb31999">Theater</rs>
+               <note type="commentary" xml:id="KT052-5h">
+                  <p>Der »Wiener Roman« <rs type="work" ref="#pmb31999">Theater</rs>, <ptr target="L041498"/>.</p>
+               </note> / <rs type="work" ref="#pmb29947">Wirkung in die Ferne</rs>
                <lb/>
                <rs type="work" ref="#pmb29881">Krampus</rs> / <rs type="work" ref="#pmb29851">Franzl</rs> / <rs type="work" ref="#pmb29901">Sanna</rs> / <handShift/>etc.– etc<c rendition="#dots" n="3"/>
             </p>

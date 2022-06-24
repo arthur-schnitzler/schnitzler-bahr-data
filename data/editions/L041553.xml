@@ -13,11 +13,11 @@
             <title type="iso-date">1909-12-28</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -105,8 +105,10 @@
             <p>grade gestern schrieb ich Ihnen. <rs type="person" ref="#pmb12671">Schlenthers</rs> Brief ist allerdings im Ausdruck schwankender als das, was er mir mündlich sagte. Ich würde aber für das Praktischste halten, daß Sie ihn zunächst beim Wort nehmen – und dann, wenn der Nachfolger gefunden und bereit ist, Sie im Herbst zu spielen, sich mit <rs type="person" ref="#pmb12671">Schlenther</rs> entsprechend arrangieren. Auf diese Weise bekommen Sie wenigstens nach dem langen Warten etwas in die Hand, einen Spatz freilich. Aber der scheint mir wertvoller als eine Debatte mit <rs type="person" ref="#pmb12671">Schlenther</rs> auf Grund jener Wirtshausäußerung, die ja, eben des Ortes wegen, wo sie fiel, nichts Verbindliches im strengeren Sinne haben kann.</p>
             <p>Danke schön für Ihre Worte über <rs type="work" ref="#pmb29933">
                   <hi rend="italic">Das Konzert</hi>
-               </rs>. Den <anchor type="commentary" xml:id="KL553-1">Brief an <rs type="person" ref="#pmb12504">Reinhardt</rs>
-               </anchor> hätt ich gern gelesen: als document humain, als literaturgeschichtliche Abrechnung im Schnitzler-Stil, und so denke ich ihn mir höchst remarkabel.</p>
+               </rs>. Den <anchor type="commentary" xml:id="KL553-1"/>Brief an <rs type="person" ref="#pmb12504">Reinhardt</rs>
+               <note type="commentary" xml:id="KL553-1h">
+                  <p>Jener vom <date when="1909-12-24" instant="false">24. 12. 1909</date>, <ptr target="L041397"/>.</p>
+               </note> hätt ich gern gelesen: als document humain, als literaturgeschichtliche Abrechnung im Schnitzler-Stil, und so denke ich ihn mir höchst remarkabel.</p>
             <closer>Ihrigst <signed>O. B.</signed>
             </closer>
          </div>

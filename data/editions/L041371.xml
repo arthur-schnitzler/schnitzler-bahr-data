@@ -13,11 +13,11 @@
             <title type="iso-date">1895-03-25</title>
             <author ref="pmb2167">Salten, Felix</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -99,9 +99,11 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>L. A. </salute>Ich weiss nicht, ob ich Ihnen neulich sagte, dass die Mittheilungen über <anchor type="commentary" xml:id="KL371-1">
-                  <rs type="person" ref="#pmb10815">Bahr</rs> u. die <rs type="org" ref="#pmb29670">W. All. Ztg</rs>
-               </anchor> vertraulich seien. Ich bitte Sie also zu <hi rend="underline" n="1">
+               <salute>L. A. </salute>Ich weiss nicht, ob ich Ihnen neulich sagte, dass die Mittheilungen über <anchor type="commentary" xml:id="KL371-1"/>
+               <rs type="person" ref="#pmb10815">Bahr</rs> u. die <rs type="org" ref="#pmb29670">W. All. Ztg</rs>
+               <note type="commentary" xml:id="KL371-1h">
+                  <p>Nicht ermittelt.</p>
+               </note> vertraulich seien. Ich bitte Sie also zu <hi rend="underline" n="1">
                   <subst>
                      <del rend="overwritten">
                         <gap quantity="2" unit="chars" reason="illegible"/>

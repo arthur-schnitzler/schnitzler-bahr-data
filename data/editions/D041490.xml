@@ -13,11 +13,11 @@
             <title type="iso-date">1906-05-19</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,13 +106,20 @@
             </p>
             <p>Ein paar Mal bei <rs type="person" ref="#pmb11851">Kainz</rs>.</p>
             <p>Ein Mal mit <rs type="person" ref="#pmb10844">Bassermann</rs>.</p>
-            <p>Nach <anchor type="commentary" xml:id="KD490-3">
-                  <rs type="work" ref="#pmb30693">Elga</rs>
-               </anchor> und <rs type="work" ref="#pmb29985">Einsamem Weg</rs> mit <rs type="person" ref="#pmb10986">Brahm</rs> und <rs type="person" ref="#pmb2121 #pmb2173">Schnitzlers</rs>.</p>
+            <p>Nach <anchor type="commentary" xml:id="KD490-3"/>
+               <rs type="work" ref="#pmb30693">Elga</rs>
+               <note type="commentary" xml:id="KD490-3h">
+                  <p>Von <rs type="person" ref="#pmb11617">Gerhart Hauptmann</rs>.</p>
+               </note> und <rs type="work" ref="#pmb29985">Einsamem Weg</rs> mit <rs type="person" ref="#pmb10986">Brahm</rs> und <rs type="person" ref="#pmb2121 #pmb2173">Schnitzlers</rs>.</p>
             <p>Öfter bei <rs type="person" ref="#pmb2226">Fred</rs> im Sanatorium.</p>
-            <p>Mit <rs type="person" ref="#pmb10818">M.</rs> in <anchor type="commentary" xml:id="KD490-4">
-                  <rs type="work" ref="#pmb29955">Rosmersholm</rs>
-               </anchor>.</p>
+            <p>Mit <rs type="person" ref="#pmb10818">M.</rs> in <anchor type="commentary" xml:id="KD490-4"/>
+               <rs type="work" ref="#pmb29955">Rosmersholm</rs>
+               <note type="commentary" xml:id="KD490-4h">
+                  <p>
+                     <rs type="person" ref="#pmb11798">Ibsens</rs> Stück wurde in diesem Monat im Zuge
+               eines Gastspiels des <rs type="place" ref="#pmb18">Lessingtheaters</rs> drei Mal
+               gegeben.</p>
+               </note>.</p>
             <p>
                <date>8.</date>
                <space unit="chars" quantity="1"/>
@@ -120,11 +127,17 @@
             <p>
                <date>17</date>, <date>18</date>, <date>19</date>. In <rs type="place" ref="#pmb652">Prag</rs>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD490-2">bei <rs type="person" ref="#pmb12504">Reinhardt</rs>
-               </anchor>. Viel mit <rs type="person" ref="#pmb11284">Eysoldt</rs> und <rs type="person" ref="#pmb11791">Lucie Höflich</rs>.</p>
-            <p>Im <rs type="place" ref="#pmb92">böhmischen Nationaltheater</rs>: <anchor type="commentary" xml:id="KD490-1">
-                  <rs type="work" ref="#pmb31417">Julius Caesar</rs>
-               </anchor>. Mit dem Regisseur <rs type="person" ref="#pmb12011">Kvapil</rs>.</p>
+               <anchor type="commentary" xml:id="KD490-2"/>bei <rs type="person" ref="#pmb12504">Reinhardt</rs>
+               <note type="commentary" xml:id="KD490-2h">
+                  <p>
+                     <rs type="person" ref="#pmb10815">Bahr</rs> besuchte ein Gastspiel der Truppe <rs type="person" ref="#pmb12504">Reinhardts</rs> und verhandelte Einzelheiten seines
+               Engagements.</p>
+               </note>. Viel mit <rs type="person" ref="#pmb11284">Eysoldt</rs> und <rs type="person" ref="#pmb11791">Lucie Höflich</rs>.</p>
+            <p>Im <rs type="place" ref="#pmb92">böhmischen Nationaltheater</rs>: <anchor type="commentary" xml:id="KD490-1"/>
+               <rs type="work" ref="#pmb31417">Julius Caesar</rs>
+               <note type="commentary" xml:id="KD490-1h">
+                  <p>Von <rs type="person" ref="#pmb2412">Shakespeare</rs>.</p>
+               </note>. Mit dem Regisseur <rs type="person" ref="#pmb12011">Kvapil</rs>.</p>
          </div>
       </body>
    </text>

@@ -13,11 +13,11 @@
             <title type="iso-date">1900-10-11</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -124,9 +124,14 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <salute>Lieber Hermann, </salute>ich danke dir vielmals für den »<anchor type="commentary" xml:id="KL030-1">
-                  <rs type="work" ref="#pmb29851">Franzl</rs>
-               </anchor>«, den ich mir auf einen kurzen Landaufenthalt mitnehme, um ihn mit Muße u Vergnügen zu lesen. Ich will dich gleich was fragen. Im Sommer hab ich eine mäßig<pb/> lange <rs type="work" subtype="implied" ref="#pmb29853">Geschichte</rs> geschrieben, die sich ausnehmend zum Vorlesen eignet, und die niemand besser vorlesen könnte als du. Bevor ich dir das <hi rend="latintype">
+               <salute>Lieber Hermann, </salute>ich danke dir vielmals für den »<anchor type="commentary" xml:id="KL030-1"/>
+               <rs type="work" ref="#pmb29851">Franzl</rs>
+               <note type="commentary" xml:id="KL030-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb29851">Der Franzl. Fünf Bilder eines guten Mannes</rs>
+                     </bibl>.</p>
+               </note>«, den ich mir auf einen kurzen Landaufenthalt mitnehme, um ihn mit Muße u Vergnügen zu lesen. Ich will dich gleich was fragen. Im Sommer hab ich eine mäßig<pb/> lange <rs type="work" subtype="implied" ref="#pmb29853">Geschichte</rs> geschrieben, die sich ausnehmend zum Vorlesen eignet, und die niemand besser vorlesen könnte als du. Bevor ich dir das <hi rend="latintype">
                   <rs type="work" subtype="implied" ref="#pmb29853">Mscrpt</rs>
                </hi> schicke (<hi rend="latintype">typewritten</hi>) möchte ich nur dein <hi rend="underline" n="1">principielles</hi> Einverständnis haben. Herzlichen Gruß. Dein <signed>Arthur Schnitzler</signed>
             </p>

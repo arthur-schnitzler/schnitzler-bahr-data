@@ -13,11 +13,11 @@
             <title type="iso-date">1891-12-15</title>
             <author ref="pmb12491">Reicher, Emanuel</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -115,7 +115,10 @@
                <salute>Lieber Freund,</salute>
             </opener>
             <p>mit Director <rs type="person" ref="#pmb14328">Blumenthal</rs> habe ich schon s. Zeit über <rs type="person" ref="#pmb2121">Schnitzler</rs>s <rs type="work" ref="#pmb29823">Märchen</rs> gesprochen und auch gestern wieder mit ihm darüber conferirt. Er hat es gelesen und es muß ihm wohl sehr gefallen haben, denn seinen Äußerungen entnahm ich, daß er es wohl annehmen wird. Er sprach auch noch von einigen unwesentlichen Änderungen die er dem Verfasser vorzuschlagen gedenkt aber, <hi rend="latintype">enfin</hi>, die Sache dürfte sich machen.</p>
-            <p>Dir. <rs type="person" ref="#pmb2598">Lautenburg</rs> ist nicht in <rs type="place" ref="#pmb168">Berlin</rs>, ich will mit ihm <anchor type="commentary" xml:id="KL683-1">reden</anchor>, sobald er wiederkommt.</p>
+            <p>Dir. <rs type="person" ref="#pmb2598">Lautenburg</rs> ist nicht in <rs type="place" ref="#pmb168">Berlin</rs>, ich will mit ihm <anchor type="commentary" xml:id="KL683-1"/>reden<note type="commentary" xml:id="KL683-1h">
+                  <p>Geplant war eine Inszenierung von <rs type="work" ref="#pmb32147">Die häusliche
+                  Frau</rs>.</p>
+               </note>, sobald er wiederkommt.</p>
             <closer>Mit herzlichem Gruß<lb/>
                <signed>Em Reicher</signed>
             </closer>

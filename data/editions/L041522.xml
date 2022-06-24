@@ -13,11 +13,11 @@
             <title type="iso-date">1893-01-22</title>
             <author ref="pmb11988">Kraus, Karl</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -121,18 +121,40 @@
             <p>Also ich bin in der angenehmen Lage, Ihnen einen Ausschnitt bereits heute verschaffen zu können. Anbei ist er.<pb/>
             </p>
             <p>Haben Sie zufällig <rs type="org" ref="#pmb29212">Fr. Bühne</rs> Januarheft in die Hand bekommen?</p>
-            <p>Lesen Sie den <anchor type="commentary" xml:id="KL522-3">
-                  <rs type="work" subtype="implied" ref="#pmb32222">Artikel</rs>
-               </anchor> von <add place="inline">F.</add>
+            <p>Lesen Sie den <anchor type="commentary" xml:id="KL522-3"/>
+               <rs type="work" subtype="implied" ref="#pmb32222">Artikel</rs>
+               <note type="commentary" xml:id="KL522-3h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11752">Felix Hollaender</rs>: <rs type="work" ref="#pmb32222">Von Hermann Bahr und seiner Bücherei</rs>. In: <rs type="org" ref="#pmb29212">Freie Bühne</rs>, Jg. 4, Nr. 1, <date instant="false">1. 1. 1893</date>,
+                  S. 82–89</bibl>.</p>
+               </note> von <add place="inline">F.</add>
                <space unit="chars" quantity="1"/>
                <rs type="person" ref="#pmb11752">Holländer</rs> über <rs type="person" ref="#pmb10815">
                   <hi rend="underline" n="1">Hermann Bahr</hi>
-               </rs>, den er in geradezu dummer Weise in den Himmel hebt. Dort finden Sie bei der Stelle über <rs type="person" ref="#pmb10815">Bahr</rs>’s <anchor type="commentary" xml:id="KL522-4">
-                  <rs type="work" ref="#pmb31989">Dora</rs>-Schmarren</anchor>, den <rs type="person" ref="#pmb11752">Holl.</rs> für das größte psycholog. Kunstwerk hält (!!!!), eine <hi rend="underline" n="1">sehr, sehr</hi>
+               </rs>, den er in geradezu dummer Weise in den Himmel hebt. Dort finden Sie bei der Stelle über <rs type="person" ref="#pmb10815">Bahr</rs>’s <anchor type="commentary" xml:id="KL522-4"/>
+               <rs type="work" ref="#pmb31989">Dora</rs>-Schmarren<note type="commentary" xml:id="KL522-4h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31989">Dora</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1893</date> (erschienen <date instant="false">November 1892</date>)</bibl>. Schmarren, hier:
+               Unsinn.</p>
+               </note>, den <rs type="person" ref="#pmb11752">Holl.</rs> für das größte psycholog. Kunstwerk hält (!!!!), eine <hi rend="underline" n="1">sehr, sehr</hi>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL522-2">schmeichelhafte Bemerkung</anchor> über einen gewissen Arthur Schnitzler. Verzeihen Sie mir, Liebster, den <anchor type="commentary" xml:id="KL522-1">
-                  <rs type="work" subtype="implied" ref="#pmb31431">Franz Moor</rs>
-               </anchor>. Soll gewiss nimmer vorkommen! Bitte, bitte! Viele Grüße Ihr sehr ergeb. <signed>Karl Kraus</signed>.</p>
+               <anchor type="commentary" xml:id="KL522-2"/>schmeichelhafte Bemerkung<note type="commentary" xml:id="KL522-2h">
+                  <p>S. 88: »<quote>Ich weiß bei uns Niemanden, der nach diesem <rs type="work" subtype="implied" ref="#pmb31989">Büchlein</rs> sich mit <rs type="person" ref="#pmb10815">Bahr</rs> messen könnte; in <rs type="place" ref="#pmb41240">Oesterreich</rs> käme nur noch <rs type="person" ref="#pmb2121">Arthur
+                     Schnitzler</rs> in Betracht.</quote>«</p>
+               </note> über einen gewissen Arthur Schnitzler. Verzeihen Sie mir, Liebster, den <anchor type="commentary" xml:id="KL522-1"/>
+               <rs type="work" subtype="implied" ref="#pmb31431">Franz Moor</rs>
+               <note type="commentary" xml:id="KL522-1h">
+                  <p>
+                     <bibl >A. S. <rs type="work">Tb</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">14. 1. 1893</date>
+                     </bibl>: »<quote>
+                        <rs type="place" ref="#pmb39">Rudolfsheimer Vorstellung</rs> (der kleine <rs type="person" ref="#pmb11988">Kraus</rs> fürchterlich als <rs type="work" subtype="implied" ref="#pmb31431">Franz Moor</rs>)</quote>«.</p>
+               </note>. Soll gewiss nimmer vorkommen! Bitte, bitte! Viele Grüße Ihr sehr ergeb. <signed>Karl Kraus</signed>.</p>
          </div>
       </body>
    </text>

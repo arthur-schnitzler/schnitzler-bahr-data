@@ -13,11 +13,11 @@
             <title type="iso-date">1903-11-08</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -101,9 +101,16 @@
             <p>
                <date when="1903-11-08" n="01">8.</date> Lese im <rs type="place" ref="#pmb4">Bösendorfer Saal</rs> »<rs type="work" ref="#pmb29949">Wirkung in die Ferne</rs>«, <rs type="person" ref="#pmb11036">Burckhards</rs> »<rs type="work" ref="#pmb31079">
                   <rs type="person" subtype="implied" ref="#pmb3511">Cicero</rs> und <rs type="person" subtype="implied" ref="#pmb3516">Horaz</rs>
-               </rs>«, <anchor type="commentary" xml:id="KD442-1">
-                  <rs type="work" ref="#pmb31399">Halkyonier</rs>
-               </anchor>. <rs type="person" ref="#pmb13082">Karlweis</rs>’ »<rs type="work" ref="#pmb31081">Die Packerln</rs>« und <rs type="person" ref="#pmb2121">Schnitzlers</rs> »<rs type="work" ref="#pmb29893">Excentric</rs>«. Nachher mit <rs type="person" ref="#pmb27882">Wärndorfer</rs> bei <rs type="place" ref="#pmb29">Sacher</rs>.</p>
+               </rs>«, <anchor type="commentary" xml:id="KD442-1"/>
+               <rs type="work" ref="#pmb31399">Halkyonier</rs>
+               <note type="commentary" xml:id="KD442-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb11605">Otto Erich Hartleben</rs>: <rs type="work" ref="#pmb31399">Der Halkyonier. Ein Buch Schlußreime</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1904</date>
+                     </bibl>.</p>
+               </note>. <rs type="person" ref="#pmb13082">Karlweis</rs>’ »<rs type="work" ref="#pmb31081">Die Packerln</rs>« und <rs type="person" ref="#pmb2121">Schnitzlers</rs> »<rs type="work" ref="#pmb29893">Excentric</rs>«. Nachher mit <rs type="person" ref="#pmb27882">Wärndorfer</rs> bei <rs type="place" ref="#pmb29">Sacher</rs>.</p>
          </div>
       </body>
    </text>

@@ -14,11 +14,11 @@
             <title type="iso-date">1921-01-16</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -41,7 +41,7 @@
             <publisher>Theatermuseum, Wien</publisher>
             <idno type="HBAS-T" n="083"/>
             <availability status="free">
-               <p part="N">Copyright © 2017</p>
+               <p>Copyright © 2017</p>
             </availability>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AC0-D</idno>
          </publicationStmt>
@@ -95,23 +95,48 @@
    <text type="article">
       <body>
          <div>
-            <p part="N">
+            <p>
                <rs type="place" ref="#pmb797">Berchtesgaden</rs>
                <hi rend="spaced_out">, <date>1. Januar.</date>
-               </hi> Heuer werden’s vierzig Jahre, seit ich <anchor type="commentary" xml:id="KT083-2">maturierte</anchor>, vierzig Jahre, daß ich für Zeitungen schreib’ (in den »<anchor type="commentary" xml:id="KT083-3">
-                  <rs type="org" ref="#pmb29298">Salzburger Nachrichten</rs>
-               </anchor>« begann ich, fuhr im »<anchor type="commentary" xml:id="KT083-4">
-                  <rs type="org" ref="#pmb29686">Salzburger Volksblatt</rs>
-               </anchor>« fort und geriet dann in die »<anchor type="commentary" xml:id="KT083-5">
-                  <rs type="org" ref="#pmb29424">Deutsche Zeitung</rs>
-               </anchor>«, deren Feuilleton damals <rs type="person" ref="#pmb4986">Mamroth</rs> redigierte), vierzig Jahre, daß ich nach <rs type="place" ref="#pmb50">Wien</rs> an die <rs type="place" ref="#pmb386">Universität</rs> kam, von der ich dann im dritten Semester schon <anchor type="commentary" xml:id="KT083-6">relegiert</anchor> wurde, »für immer verwiesen«, wie der akademische Senat damals etwas pathetisch erklärte; wenn der akademische Senat jetzt etwas Humor hätte, wäre der ewige Verweis längst aufgehoben. Und dreißig Jahre werden’s heuer, daß ich, nachdem ich inzwischen in <rs type="place" ref="#pmb168">Berlin</rs>, <rs type="place" ref="#pmb182">Paris</rs>, <rs type="place" ref="#pmb914">Madrid</rs>, <rs type="place" ref="#pmb951">Tanger</rs>, wieder <rs type="place" ref="#pmb182">Paris</rs>, wieder <rs type="place" ref="#pmb168">Berlin</rs> und schließlich noch in <rs type="place" ref="#pmb433">Petersburg</rs> herumvagabundiert, zurück nach <rs type="place" ref="#pmb50">Wien</rs> kam, von einem jungen <rs type="place" ref="#pmb833">Brünner</rs>, <rs type="person" ref="#pmb2563">E. M. Kafka</rs>, dem Herausgeber der »<rs type="org" ref="#pmb29417">Modernen Dichtung</rs>«, dringend eingeladen, das »junge <rs type="place" ref="#pmb50">Wien</rs>« zu »gründen«, das Material sei schon vorhanden: ein junger Arzt<supplied>,</supplied> Dr. <rs type="person" ref="#pmb2121">Artur Schnitzler</rs>, der durch die Pracht seiner Krawatten schon stadtberühmte Dr. <rs type="person" ref="#pmb10863">Richard Beer-Hofmann</rs> und ein Gymnasiast, der unter dem Namen <rs type="person" ref="#pmb11740">Loris</rs> schrieb: <rs type="person" ref="#pmb10863">Hugo v. Hofmannsthal</rs>. Ich sah sie mir an, wagte die »Gründung« und nahm seitdem auch sonst dreißig Jahre lang jede Gelegenheit wahr, den <rs type="place" ref="#pmb50">Wien</rs>ern Aergernis zu geben. Auch ist es heuer dreißig Jahre her, daß zum erstenmal ein Stück von mir in <rs type="place" ref="#pmb168">Berlin</rs> gespielt wurde: »<rs type="work" ref="#pmb31707">Die neuen Menschen</rs>« mit <rs type="person" ref="#pmb12491">Emanuel Reicher</rs> und der <rs type="person" ref="#pmb4983">
-                  <anchor type="textConst" xml:id="TT083-1">Conrad-Ramlo</anchor>
-               </rs>. Vorher war ich nur auf der Bühne meiner Vaterstadt losgelassen worden: <rs type="place" ref="#pmb332">Linz</rs> hatte <date>1883</date> mein Lustspiel »<rs type="work" ref="#pmb32686">Die Wunderkur</rs>« aufgeführt. Und dreißig Jahre sind’s, daß ich in <rs type="place" ref="#pmb433">Petersburg</rs> die <anchor type="commentary" xml:id="KT083-7">
-                  <rs type="person" ref="#pmb11201">Duse</rs> zum erstenmal sah</anchor>. <rs type="person" ref="#pmb11851">Kainz</rs> saß neben mir, der auch damals in <rs type="place" ref="#pmb433">Petersburg</rs> gastierte, grad den einen Abend frei war und mir vorschlug, uns die Vorstellung der <rs type="place" ref="#pmb40306">italienischen</rs> Truppe anzusehen, »weil doch <rs type="place" ref="#pmb40306">Italiener</rs>, auch wenn sie schlecht sind, immer noch besser sind«. Denn von der <rs type="person" ref="#pmb11201">Duse</rs> wußten wir beide nichts. Wir waren gar nicht gefaßt auf sie. Sie trat auf und hatte noch keine drei Sätze gesprochen, da wurde <rs type="person" ref="#pmb11851">Kainz</rs> ganz blaß und sein Auge so groß, daß der heiße Blick das ganze Gesicht zu verzehren schien. Im ersten Taumel <anchor type="commentary" xml:id="KT083-8">
-                  <rs type="work" subtype="implied" ref="#pmb31703">schrieb</rs> ich dann in der »<rs type="org" ref="#pmb29442">Frankfurter Zeitung</rs>
-               </anchor>« über sie. Ein <anchor type="commentary" xml:id="KT083-1">
-                  <rs type="person" subtype="implied" ref="#pmb27729">Theateragent</rs>
-               </anchor> fragte darauf bei mir höflich vorsichtig an, ob dies nur so eine »Plauderei« von mir oder ob diese <rs type="person" subtype="implied" ref="#pmb11201">Künstlerin</rs> wirklich vorhanden und es ratsam wäre, sie nach <rs type="place" ref="#pmb50">Wien</rs> zu bringen. Ich riet es.</p>
+               </hi> Heuer werden’s vierzig Jahre, seit ich <anchor type="commentary" xml:id="KT083-2"/>maturierte<note type="commentary" xml:id="KT083-2h">
+                  <p>
+                     <date instant="false">Anfang Juli 1881</date>.</p>
+               </note>, vierzig Jahre, daß ich für Zeitungen schreib’ (in den »<anchor type="commentary" xml:id="KT083-3"/>
+               <rs type="org" ref="#pmb29298">Salzburger Nachrichten</rs>
+               <note type="commentary" xml:id="KT083-3h">
+                  <p>Mitarbeit vom <date instant="false">4. 9.</date> bis zum <date instant="false">9. 11. 1881</date>.</p>
+               </note>« begann ich, fuhr im »<anchor type="commentary" xml:id="KT083-4"/>
+               <rs type="org" ref="#pmb29686">Salzburger Volksblatt</rs>
+               <note type="commentary" xml:id="KT083-4h">
+                  <p>Mitarbeit vom <date instant="false">4. 5.</date> bis zum <date instant="false">26. 8. 1882</date>.</p>
+               </note>« fort und geriet dann in die »<anchor type="commentary" xml:id="KT083-5"/>
+               <rs type="org" ref="#pmb29424">Deutsche Zeitung</rs>
+               <note type="commentary" xml:id="KT083-5h">
+                  <p>Zwei Artikel im <date instant="false">November 1882</date>, dann ab <date instant="false">1888</date> häufiger,
+               Festanstellung vom <date instant="false">September 1892</date> bis zur Kündigung im <date instant="false">Dezember
+                  1893</date>.</p>
+               </note>«, deren Feuilleton damals <rs type="person" ref="#pmb4986">Mamroth</rs> redigierte), vierzig Jahre, daß ich nach <rs type="place" ref="#pmb50">Wien</rs> an die <rs type="place" ref="#pmb386">Universität</rs> kam, von der ich dann im dritten Semester schon <anchor type="commentary" xml:id="KT083-6"/>relegiert<note type="commentary" xml:id="KT083-6h">
+                  <p>Am <date instant="false">5. 4. 1883</date>.</p>
+               </note> wurde, »für immer verwiesen«, wie der akademische Senat damals etwas pathetisch erklärte; wenn der akademische Senat jetzt etwas Humor hätte, wäre der ewige Verweis längst aufgehoben. Und dreißig Jahre werden’s heuer, daß ich, nachdem ich inzwischen in <rs type="place" ref="#pmb168">Berlin</rs>, <rs type="place" ref="#pmb182">Paris</rs>, <rs type="place" ref="#pmb914">Madrid</rs>, <rs type="place" ref="#pmb951">Tanger</rs>, wieder <rs type="place" ref="#pmb182">Paris</rs>, wieder <rs type="place" ref="#pmb168">Berlin</rs> und schließlich noch in <rs type="place" ref="#pmb433">Petersburg</rs> herumvagabundiert, zurück nach <rs type="place" ref="#pmb50">Wien</rs> kam, von einem jungen <rs type="place" ref="#pmb833">Brünner</rs>, <rs type="person" ref="#pmb2563">E. M. Kafka</rs>, dem Herausgeber der »<rs type="org" ref="#pmb29417">Modernen Dichtung</rs>«, dringend eingeladen, das »junge <rs type="place" ref="#pmb50">Wien</rs>« zu »gründen«, das Material sei schon vorhanden: ein junger Arzt<supplied>,</supplied> Dr. <rs type="person" ref="#pmb2121">Artur Schnitzler</rs>, der durch die Pracht seiner Krawatten schon stadtberühmte Dr. <rs type="person" ref="#pmb10863">Richard Beer-Hofmann</rs> und ein Gymnasiast, der unter dem Namen <rs type="person" ref="#pmb11740">Loris</rs> schrieb: <rs type="person" ref="#pmb10863">Hugo v. Hofmannsthal</rs>. Ich sah sie mir an, wagte die »Gründung« und nahm seitdem auch sonst dreißig Jahre lang jede Gelegenheit wahr, den <rs type="place" ref="#pmb50">Wien</rs>ern Aergernis zu geben. Auch ist es heuer dreißig Jahre her, daß zum erstenmal ein Stück von mir in <rs type="place" ref="#pmb168">Berlin</rs> gespielt wurde: »<rs type="work" ref="#pmb31707">Die neuen Menschen</rs>« mit <rs type="person" ref="#pmb12491">Emanuel Reicher</rs> und der <rs type="person" ref="#pmb4983">
+                  <anchor type="textConst" xml:id="TT083-1"/>Conrad-Ramlo<note type="textConst" xml:id="TT083-1h">
+                     <p>Satzfehler: »Conrad-Ramb«.</p>
+                  </note>
+               </rs>. Vorher war ich nur auf der Bühne meiner Vaterstadt losgelassen worden: <rs type="place" ref="#pmb332">Linz</rs> hatte <date>1883</date> mein Lustspiel »<rs type="work" ref="#pmb32686">Die Wunderkur</rs>« aufgeführt. Und dreißig Jahre sind’s, daß ich in <rs type="place" ref="#pmb433">Petersburg</rs> die <anchor type="commentary" xml:id="KT083-7"/>
+               <rs type="person" ref="#pmb11201">Duse</rs> zum erstenmal sah<note type="commentary" xml:id="KT083-7h">
+                  <p>Am <date instant="false">26. 3. 1891</date>.</p>
+               </note>. <rs type="person" ref="#pmb11851">Kainz</rs> saß neben mir, der auch damals in <rs type="place" ref="#pmb433">Petersburg</rs> gastierte, grad den einen Abend frei war und mir vorschlug, uns die Vorstellung der <rs type="place" ref="#pmb40306">italienischen</rs> Truppe anzusehen, »weil doch <rs type="place" ref="#pmb40306">Italiener</rs>, auch wenn sie schlecht sind, immer noch besser sind«. Denn von der <rs type="person" ref="#pmb11201">Duse</rs> wußten wir beide nichts. Wir waren gar nicht gefaßt auf sie. Sie trat auf und hatte noch keine drei Sätze gesprochen, da wurde <rs type="person" ref="#pmb11851">Kainz</rs> ganz blaß und sein Auge so groß, daß der heiße Blick das ganze Gesicht zu verzehren schien. Im ersten Taumel <anchor type="commentary" xml:id="KT083-8"/>
+               <rs type="work" subtype="implied" ref="#pmb31703">schrieb</rs> ich dann in der »<rs type="org" ref="#pmb29442">Frankfurter Zeitung</rs>
+               <note type="commentary" xml:id="KT083-8h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb31703">Eleonora Duse</rs>. In: <rs type="org" ref="#pmb29442">Frankfurter Zeitung</rs>, Jg. 35, Nr. 129, <date instant="false">9. 5. 1891</date>, 1.
+                  Morgenblatt, S. 1–2</bibl>.</p>
+               </note>« über sie. Ein <anchor type="commentary" xml:id="KT083-1"/>
+               <rs type="person" subtype="implied" ref="#pmb27729">Theateragent</rs>
+               <note type="commentary" xml:id="KT083-1h">
+                  <p>Nicht ermittelt. Das 1. Gastspiel fand vom <date instant="false">21.</date> bis zum <date instant="false">27. 2.
+                  1892</date> am <rs type="place" ref="#pmb118">Carl-Theater</rs> statt.</p>
+               </note> fragte darauf bei mir höflich vorsichtig an, ob dies nur so eine »Plauderei« von mir oder ob diese <rs type="person" subtype="implied" ref="#pmb11201">Künstlerin</rs> wirklich vorhanden und es ratsam wäre, sie nach <rs type="place" ref="#pmb50">Wien</rs> zu bringen. Ich riet es.</p>
          </div>
       </body>
    </text>

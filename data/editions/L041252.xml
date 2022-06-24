@@ -13,11 +13,11 @@
             <title type="iso-date">1902-11-20</title>
             <author ref="#pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -102,8 +102,12 @@
             <opener>
                <dateline rend="right">
                   <date>
-                     <anchor type="commentary" xml:id="KL252-1">20/<unclear>11</unclear>
-                     </anchor>
+                     <anchor type="commentary" xml:id="KL252-1"/>20/<unclear>11</unclear>
+                     <note type="commentary" xml:id="KL252-1h">
+                        <p>Das Jahr ist unklar, als Monatsangabe auch eine lateinische (für Februar) möglich.
+               Das Briefpapier deckt sich mit dem am <date instant="false">15. 3. 1903</date> verwendeten. Wir
+               folgen der Einordnung der Abschrift.</p>
+                     </note>
                   </date>
                </dateline>
                <salute rend="center">Lieber Arthur!</salute>

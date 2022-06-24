@@ -13,11 +13,11 @@
             <title type="iso-date">1911-10-19</title>
             <author ref="pmb10986">Brahm, Otto</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -106,11 +106,16 @@
                </dateline>
                <salute rend="center">Lieber Freund,</salute>
             </opener>
-            <p>Ihr <anchor type="commentary" xml:id="KL626-3">
-                  <rs type="work" subtype="implied" ref="#pmb30375">Stück</rs>
-               </anchor> hat mir recht gut gefallen und ich habe durchaus empfunden, dass es Ihnen näher steht, als die letzten Arbeiten. »Höchst bedenklich« erscheint es mir nicht, wenn ich auch annehme, dass die Sphäre des »<anchor type="commentary" xml:id="KL626-1">
-                  <rs type="work" subtype="implied" ref="#pmb29939">Nussmenschen</rs>
-               </anchor>«, die Sie hier ins Dramatische übertragen, manchem befremdlich und schwer verständlich sein wird. Aber das gilt doch für die ferne Provinz eben so sehr und noch mehr, als für die Grossstädte, und deshalb könnte ich zu einer Uraufführung irgendwo da draussen nicht raten. Für uns<pb/> wäre es freilich schwer möglich<damage agent="hole">
+            <p>Ihr <anchor type="commentary" xml:id="KL626-3"/>
+               <rs type="work" subtype="implied" ref="#pmb30375">Stück</rs>
+               <note type="commentary" xml:id="KL626-3h">
+                  <p>
+                     <rs type="work" ref="#pmb30375">Das Prinzip</rs>.</p>
+               </note> hat mir recht gut gefallen und ich habe durchaus empfunden, dass es Ihnen näher steht, als die letzten Arbeiten. »Höchst bedenklich« erscheint es mir nicht, wenn ich auch annehme, dass die Sphäre des »<anchor type="commentary" xml:id="KL626-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29939">Nussmenschen</rs>
+               <note type="commentary" xml:id="KL626-1h">
+                  <p>Figur aus <rs type="person" ref="#pmb10815">Bahr</rs>s Roman <rs type="work" ref="#pmb29939">O Mensch</rs>.</p>
+               </note>«, die Sie hier ins Dramatische übertragen, manchem befremdlich und schwer verständlich sein wird. Aber das gilt doch für die ferne Provinz eben so sehr und noch mehr, als für die Grossstädte, und deshalb könnte ich zu einer Uraufführung irgendwo da draussen nicht raten. Für uns<pb/> wäre es freilich schwer möglich<damage agent="hole">
                   <supplied>,</supplied>
                </damage> das Stück <add place="above">in <rs type="place" ref="#pmb168">Berlin</rs>
                </add> noch in diesem Spieljahr zu bringen; aber wie dächten Sie darüber, wenn wir es den <rs type="place" ref="#pmb50">Wien</rs>ern zuerst vorführten, im Mai? Besetzen können wir es wol, nur der Hans bietet ein Problem; sonst etwa: Friedrich – <rs type="person" ref="#pmb12491">Reicher</rs>, Gertrud – <rs type="person" ref="#pmb2865">Lehmann</rs> oder <rs type="person" ref="#pmb12111">Lossen</rs>, Luz – <rs type="person" ref="#pmb28757">Somary</rs>, Peter – <rs type="person" ref="#pmb10733">Stieler</rs>, Kreger – <rs type="person" ref="#pmb4431">Forest</rs>, Everbusch – <rs type="person" ref="#pmb12192">Marr</rs>
@@ -130,8 +135,18 @@
             <p>Für das »<rs type="work" ref="#pmb30085">Tänzchen</rs>« möchte ich vorläufig an der Ergänzung durch »<rs type="work" ref="#pmb29931">Mizzi</rs>« festhalten; sollten mich die Proben anders belehren, werd ich es dann machen wie beim »<rs type="work" ref="#pmb29933">Concert</rs>« und Ihre Alleinherrschaft etabliren. Die treffliche <rs type="person" ref="#pmb4693">Herterich</rs>
                <pb/> halte ich für Fr. Heydt wenig geeignet. Die <rs type="person" ref="#pmb28750">Busch</rs> hat sich bei <rs type="work" subtype="implied" ref="#pmb30207">
                   <rs type="person" ref="#pmb2121">Schnitzler</rs>
-               </rs> ganz gut bewährt. <rs type="person" ref="#pmb2865">Lehmann</rs> – Frau Biest wird allerdings nicht zu machen sein, aber die <rs type="person" ref="#pmb12111">Lossen</rs>, unsere <anchor type="commentary" xml:id="KL626-4">Frau <rs type="work" subtype="implied" ref="#pmb31157">Solness</rs>
-               </anchor>, wird die Rolle gut spielen, denke ich. Frl <rs type="person" ref="#pmb12111">Lossen</rs> hoff ich an die Malwine heranzukriegen; wenn sie sich nur nicht auf einen gewissen Hermann Bahr und seinen Schiedsspruch in einer <anchor type="commentary" xml:id="KL626-2">Kleine-Rollen-Affäre</anchor> in <rs type="place" ref="#pmb50">Wien</rs> bezieht!</p>
+               </rs> ganz gut bewährt. <rs type="person" ref="#pmb2865">Lehmann</rs> – Frau Biest wird allerdings nicht zu machen sein, aber die <rs type="person" ref="#pmb12111">Lossen</rs>, unsere <anchor type="commentary" xml:id="KL626-4"/>Frau <rs type="work" subtype="implied" ref="#pmb31157">Solness</rs>
+               <note type="commentary" xml:id="KL626-4h">
+                  <p>Ehefrau der Hauptrolle in <rs type="person" ref="#pmb11798">Ibsen</rs>: <rs type="work" ref="#pmb31157">Baumeister Solness</rs>.</p>
+               </note>, wird die Rolle gut spielen, denke ich. Frl <rs type="person" ref="#pmb12111">Lossen</rs> hoff ich an die Malwine heranzukriegen; wenn sie sich nur nicht auf einen gewissen Hermann Bahr und seinen Schiedsspruch in einer <anchor type="commentary" xml:id="KL626-2"/>Kleine-Rollen-Affäre<note type="commentary" xml:id="KL626-2h">
+                  <p>Die Schauspielerin <rs type="person" ref="#pmb4978">Else von Ruttersheim</rs> hatte
+               sich auf ihr Recht berufen, Rollen abzulehnen, die ihrer Karriere schaden könnten.
+               Für den folgenden Prozess, der am <date instant="false">5. 5. 1911</date> stattfand, verfasste <rs type="person" ref="#pmb10815">Bahr</rs> ein Gutachten, worin er ihr zustimmte.
+               (Sein Text veröffentlicht als <rs type="work" ref="#pmb32558">Das Recht der
+                  Rollenverweigerung</rs>, <bibl >
+                        <rs type="org" ref="#pmb29370">Österreichische Bühnenvereins-Zeitung</rs>, Jg. 18,
+                  H. 17, <date instant="false">10. 6. 1911</date>, S. 1–2</bibl>).</p>
+               </note> in <rs type="place" ref="#pmb50">Wien</rs> bezieht!</p>
             <p>Dass der arme <rs type="person" ref="#pmb11933">Kleist</rs> nun auch das Scheltwort: Revolvermann nachgerufen bekommt, wird ihm sein 100jähriges Totsein hoffentlich nicht stören; auch über dieses Problem spreche ich lieber mündlich mit Ihnen, als auf diesem unvollkommenen Federwege.</p>
             <p>Alles Schöne Ihnen <rs type="person" subtype="implied" ref="#pmb10818">Beiden</rs>!</p>
             <closer>Ihr<lb/>
@@ -139,9 +154,11 @@
             </closer>
             <postscript>
                <p>
-                  <anchor type="textConst" xml:id="TL626-1">
-                     <rs type="person" ref="#pmb2193">Sauer</rs> – Kathen unmöglich wer traut dem Ärmsten das Ballhaus zu? Bin für <rs type="person" ref="#pmb4704">Rickelt</rs>
-                  </anchor>
+                  <anchor type="textConst" xml:id="TL626-1"/>
+                  <rs type="person" ref="#pmb2193">Sauer</rs> – Kathen unmöglich wer traut dem Ärmsten das Ballhaus zu? Bin für <rs type="person" ref="#pmb4704">Rickelt</rs>
+                  <note type="textConst" xml:id="TL626-1h">
+                     <p>Am linken Seitenrand entlang des Textes.</p>
+                  </note>
                </p>
             </postscript>
          </div>

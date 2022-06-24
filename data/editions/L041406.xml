@@ -13,11 +13,11 @@
             <title type="iso-date">1891-12-04</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -130,7 +130,10 @@
          </div>
          <div type="writingSession" n="1">
             <p>
-               <rs type="person" ref="#pmb10815">Bahr</rs> wohnt <rs type="place" ref="#pmb500">Heumarkt 9, 3 Stiege, 3. Stock Thür 37</rs>. Kommt aber, wenn sie ihm nichts anderes schreiben, ebenso wie ich <anchor type="commentary" xml:id="KL406-1">Sonntag</anchor> um 5 zu ihnen.</p>
+               <rs type="person" ref="#pmb10815">Bahr</rs> wohnt <rs type="place" ref="#pmb500">Heumarkt 9, 3 Stiege, 3. Stock Thür 37</rs>. Kommt aber, wenn sie ihm nichts anderes schreiben, ebenso wie ich <anchor type="commentary" xml:id="KL406-1"/>Sonntag<note type="commentary" xml:id="KL406-1h">
+                  <p>
+                     <date instant="false">6. 12. 1891</date>.</p>
+               </note> um 5 zu ihnen.</p>
             <closer>
                <signed>Loris.</signed>
             </closer>

@@ -13,11 +13,11 @@
             <title type="iso-date">1919-07-27</title>
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -79,9 +79,16 @@
             <p>
                <date when="1919-07-27" n="1">27/7</date> S. Vm. bei <rs type="person" ref="#pmb22728">Kolap</rs> im <rs type="place" ref="#pmb522">Kaasgraben</rs>.</p>
             <p>Dann bei <rs type="person" ref="#pmb2456">Rich. Specht</rs>; ihm einiges über den Beginn des <rs type="work" subtype="implied" ref="#pmb30801">Straussbuches</rs> sagen (Correcturbogen).– (Weitschweifig, aber nicht übel.)</p>
-            <p>– Z. T. <rs type="person" subtype="implied" ref="#pmb2312">Hofrätin</rs>. <rs type="person" ref="#pmb3115">Fritz</rs> und <rs type="person" ref="#pmb13197">Trude</rs>. Ganz belebte Unterhaltung, in der ich Philosophie und Politik nach Gebühr behandelte. Las dann einiges aus dem <anchor type="commentary" xml:id="KD330-1">
-                  <rs type="work" ref="#pmb30803">Schwarzgelb Buch</rs>
-               </anchor> von <rs type="person" ref="#pmb10815">Bahr</rs> vor – 1916, allgemeine Heiterkeit – über seine »Wandlungen«.– Wandlungen? Zu gütig. Ein Wortdelirant – manchmal genial –</p>
+            <p>– Z. T. <rs type="person" subtype="implied" ref="#pmb2312">Hofrätin</rs>. <rs type="person" ref="#pmb3115">Fritz</rs> und <rs type="person" ref="#pmb13197">Trude</rs>. Ganz belebte Unterhaltung, in der ich Philosophie und Politik nach Gebühr behandelte. Las dann einiges aus dem <anchor type="commentary" xml:id="KD330-1"/>
+               <rs type="work" ref="#pmb30803">Schwarzgelb Buch</rs>
+               <note type="commentary" xml:id="KD330-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>: <rs type="work" ref="#pmb30803">Schwarzgelb</rs>. Berlin: <rs type="org" ref="#pmb29639">S. Fischer</rs>
+                        <space unit="chars" quantity="1"/>
+                        <date instant="false">1917</date>
+                     </bibl>.</p>
+               </note> von <rs type="person" ref="#pmb10815">Bahr</rs> vor – 1916, allgemeine Heiterkeit – über seine »Wandlungen«.– Wandlungen? Zu gütig. Ein Wortdelirant – manchmal genial –</p>
             <p>Am <rs type="work" ref="#pmb30775">Weiher</rs>.–</p>
             <p>
                <rs type="person" ref="#pmb12374">Rudi Olden</rs>, mit dem ich ein wenig spazierte. Beim <rs type="org" ref="#pmb29640">neuen Tag</rs>, bewährt sich nicht übel als Journalist.–</p>

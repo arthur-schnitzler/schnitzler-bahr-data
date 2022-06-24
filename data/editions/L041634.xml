@@ -13,11 +13,11 @@
             <title type="iso-date">1899-01-27</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -103,13 +103,24 @@
                </dateline>
                <salute rend="center">Lieber Salten!</salute>
             </opener>
-            <p>Ich habe den »<anchor type="commentary" xml:id="KL634-2">
-                  <rs type="work" ref="#pmb29839">Hinterbliebenen</rs>
-               </anchor>« gelesen und freu mich sehr, ihn für die »<rs type="org" ref="#pmb29209">Zeit</rs>« bekommen zu haben. Wann ich ihn bringe? Am liebsten gleich nach dem <anchor type="commentary" xml:id="KL634-1">
-                  <rs type="work" subtype="implied" ref="#pmb29837">
-                     <rs type="person" ref="#pmb4266">Barbey d’Aurevilly</rs>
-                  </rs>
-               </anchor> – wenn mir nicht der <rs type="person" ref="#pmb11740">
+            <p>Ich habe den »<anchor type="commentary" xml:id="KL634-2"/>
+               <rs type="work" ref="#pmb29839">Hinterbliebenen</rs>
+               <note type="commentary" xml:id="KL634-2h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb2167">Felix Salten</rs>: <rs type="work" ref="#pmb29839">Der Hinterbliebene. Monologe</rs>. In: <rs type="org" ref="#pmb29209">Die Zeit</rs>, Bd. 18, Nr. 231, <date instant="false">4. 3. 1899</date>,
+                  S. 143–144, und Nr. 232, <date instant="false">11. 3. 1899</date>, S. 158–160</bibl>.</p>
+               </note>« gelesen und freu mich sehr, ihn für die »<rs type="org" ref="#pmb29209">Zeit</rs>« bekommen zu haben. Wann ich ihn bringe? Am liebsten gleich nach dem <anchor type="commentary" xml:id="KL634-1"/>
+               <rs type="work" subtype="implied" ref="#pmb29837">
+                  <rs type="person" ref="#pmb4266">Barbey d’Aurevilly</rs>
+               </rs>
+               <note type="commentary" xml:id="KL634-1h">
+                  <p>
+                     <bibl >
+                        <rs type="person" ref="#pmb4266">Jules Barbey d’Aurevilly</rs>: <rs type="work" ref="#pmb29837">Der rothe Vorhang</rs>. In: <rs type="org" ref="#pmb29209">Die
+                     Zeit</rs>, Bd. 18, Nr. 225, <date instant="false">21. 1. 1899</date> – Nr. 230, <date instant="false">25. 2.
+                     1899</date> (6 Teile)</bibl>.</p>
+               </note> – wenn mir nicht der <rs type="person" ref="#pmb11740">
                   <rs type="work" subtype="implied" ref="#pmb29849">Hugo</rs>
                </rs> oder der <rs type="person" ref="#pmb2121">
                   <rs type="work" subtype="implied" ref="#pmb29845">Schnitzler</rs>

@@ -13,11 +13,11 @@
             <title type="iso-date">1893-11-03</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -113,7 +113,9 @@
             </opener>
             <p>Wenn Sie mir nichts anderes geben, will ich es versuchen den <hi rend="latintype">
                   <rs type="work" ref="#pmb29821">Artifex</rs>
-               </hi> durchzusetzen. Doch wäre mir aufrichtig gesagt etwas anderes lieber. Aber das Wichtigste bleibt, daß Sie mir endlich etwas für den <rs type="work" subtype="implied" ref="#pmb29819">Wiener Spiegel</rs> senden – nun haben Sie einmal versprochen, nun hilft Ihnen nichts mehr Sie müssen in den sauren Apfel beißen und bitte vergeßen Sie mir auch nicht das <anchor type="commentary" xml:id="KL162-1">Feuilleton</anchor> über <rs type="person" ref="#pmb2138">Schönlein</rs> zu besorgen.</p>
+               </hi> durchzusetzen. Doch wäre mir aufrichtig gesagt etwas anderes lieber. Aber das Wichtigste bleibt, daß Sie mir endlich etwas für den <rs type="work" subtype="implied" ref="#pmb29819">Wiener Spiegel</rs> senden – nun haben Sie einmal versprochen, nun hilft Ihnen nichts mehr Sie müssen in den sauren Apfel beißen und bitte vergeßen Sie mir auch nicht das <anchor type="commentary" xml:id="KL162-1"/>Feuilleton<note type="commentary" xml:id="KL162-1h">
+                  <p>Nicht erschienen.</p>
+               </note> über <rs type="person" ref="#pmb2138">Schönlein</rs> zu besorgen.</p>
             <closer>Mit herzlichen Grüßen Ihr treuer<lb/>
                <signed>
                   <handShift ref="pmb10815"/>Hermann Bahr</signed>

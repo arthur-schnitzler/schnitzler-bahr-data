@@ -13,11 +13,11 @@
             <title type="iso-date">1892-09-07</title>
             <author ref="pmb11740">Hofmannsthal, Hugo von</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -128,31 +128,44 @@
                   <hi rend="latintype">Edouard Rod</hi>
                </rs>.<pb/>
             </p>
-            <p>Gang der Handlung: Ich werde behandelt, wie der <anchor type="commentary" xml:id="KL417-2">
-                  <rs type="person" subtype="implied" ref="#pmb4315">kleine Dauphin</rs> beim bösen Schuster <rs type="person" ref="#pmb4319">Simon</rs>
-               </anchor>. Man giebt mir mehr grüne und gelbe <anchor type="commentary" xml:id="KL417-1">Chartreuse</anchor> zu trinken, als einem Steinklopfer, und dann muss ich Lieder im Patois lernen und singen, z. B.</p>
+            <p>Gang der Handlung: Ich werde behandelt, wie der <anchor type="commentary" xml:id="KL417-2"/>
+               <rs type="person" subtype="implied" ref="#pmb4315">kleine Dauphin</rs> beim bösen Schuster <rs type="person" ref="#pmb4319">Simon</rs>
+               <note type="commentary" xml:id="KL417-2h">
+                  <p>
+                     <date when="1793" instant="false">1793</date> wurde der ehemalige Thronfolger <rs type="person" ref="#pmb4315">Louis Charles de Bourbon</rs> dem Schuster <rs type="person" ref="#pmb4319">Alain Simon</rs> zur ›Erziehung‹ überantwortet.</p>
+               </note>. Man giebt mir mehr grüne und gelbe <anchor type="commentary" xml:id="KL417-1"/>Chartreuse<note type="commentary" xml:id="KL417-1h">
+                  <p>Kräuterlikör.</p>
+               </note> zu trinken, als einem Steinklopfer, und dann muss ich Lieder im Patois lernen und singen, z. B.</p>
             <lg type="poem">
-               <anchor type="commentary" xml:id="KL417-3">
-                  <l>
-                     <hi rend="latintype">Z’ame les bouguettes</hi>
-                  </l>
-                  <l>
-                     <hi rend="latintype">Et les matafans</hi>
-                  </l>
-                  <l>
-                     <hi rend="latintype">Et les dsones feuilles</hi>
-                  </l>
-                  <l>
-                     <hi rend="latintype">Qu’ont lo tétés blancs!</hi>
-                  </l>
-                  <l>– – – – –</l>
-                  <l>
-                     <space unit="chars" quantity="7"/>(unanständig)</l>
-               </anchor>
+               <anchor type="commentary" xml:id="KL417-3"/>
+               <l>
+                  <hi rend="latintype">Z’ame les bouguettes</hi>
+               </l>
+               <l>
+                  <hi rend="latintype">Et les matafans</hi>
+               </l>
+               <l>
+                  <hi rend="latintype">Et les dsones feuilles</hi>
+               </l>
+               <l>
+                  <hi rend="latintype">Qu’ont lo tétés blancs!</hi>
+               </l>
+               <l>– – – – –</l>
+               <l>
+                  <space unit="chars" quantity="7"/>(unanständig)</l>
+               <note type="commentary" xml:id="KL417-3h">
+                  <seg type="lemma">Z’ame les {\dots} (unanständig)</seg>
+                  <p>Es handelt sich um ein Lied, mit dem nach Bougettes (eine herausgebackene Speise aus
+               Ei, Mehl und Kartoffeln) und Matafans (einer dem Crêpe verwandten, herausgebackenen
+               Speise aus Mehl und Kartoffeln) verlangt wurde. Die letzten beiden Verse besagen,
+               dass der Sänger zudem eine Vorliebe für weiße Brüste besitzt.</p>
+               </note>
             </lg>
             <p>
                <hi rend="latintype">
-                  <anchor type="commentary" xml:id="KL417-4">Voilà ce qu’on ap<del rend="strikethrough">p</del>elle se dépayser</anchor>
+                  <anchor type="commentary" xml:id="KL417-4"/>Voilà ce qu’on ap<del rend="strikethrough">p</del>elle se dépayser<note type="commentary" xml:id="KL417-4h">
+                     <p>Sinngemäß: »Das heißt es, sich in ein fremdes Land zu begeben.«</p>
+                  </note>
                </hi>; <anchor type="label" xml:id="LL417-1">siehe <rs type="person" ref="#pmb10815">Hermann Bahr</rs>, ges. Werke, passim</anchor> »über die rechte Art in fremden Ländern zu reisen«. Dienstag beginnt eigentlich meine <rs type="work" subtype="implied" ref="#pmb32117">Reise in die Provinzen des mittäglichen <rs type="place" ref="#pmb166">Frankreich</rs>
                </rs>.</p>
             <p>Schreiben Sie, bitte, zwischen <date>10.</date> und <date>16.</date> nach <rs type="place" ref="#pmb641">

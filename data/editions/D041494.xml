@@ -13,11 +13,11 @@
             <title type="iso-date">1907-09-30</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -111,9 +111,12 @@
             <p>Ich tappte also dann ins Theater, schäkerte im Hof beim schönsten Sonnenschein und einer <rs type="place" ref="#pmb259">Lido</rs>hitze mit allerhand Mimen (aber keinen Miminnen, denn es war gar keine sichtbar) und ging dann zu <rs type="person" ref="#pmb12504">Reinhardt</rs>, der, wie immer, gescheit lieb und herzlich war, während ich den um ihn versammelten Dramaturgen sofort an den tief gekränkten Mienen ansah, daß sie bereits die <rs type="work" ref="#pmb30021">Nachtigall</rs> mit Erfolg gelesen haben müssen; besonders <rs type="person" ref="#pmb11752">Holländer</rs> hatte, als ich ihn fest umarmte, in seinem Lächeln<pb/> was Schnaubendes. Ich stellte mich aber furchtbar dumm, bemerkte gar nichts und war von einer bezaubernden Herzlichkeit.</p>
             <p>Dann mit <rs type="person" ref="#pmb12504">Reinhardt</rs> über <rs type="work" ref="#pmb31215">Genovefa</rs>. Probe kann ich erst Donnerstag in acht Tagen haben. Und bis dahin setz ich ihm schon den Kopf soweit zurecht, daß ich den größten Teil der Skizzen doch retten werde – hoffentlich! </p>
             <p>
-               <note type="introduction">Ankunft am <rs type="place" ref="#pmb3">Deutschen Theater</rs>.</note>Dann schlief ich in meinem unwirtlichen Gemach ein bischen, trank einen Café, sah mir dann abends zwei Akte einer alten <anchor type="commentary" xml:id="KD494-1">
-                  <rs type="work" subtype="implied" ref="#pmb32474">Posse</rs>
-               </anchor>
+               <note type="introduction">Ankunft am <rs type="place" ref="#pmb3">Deutschen Theater</rs>.</note>Dann schlief ich in meinem unwirtlichen Gemach ein bischen, trank einen Café, sah mir dann abends zwei Akte einer alten <anchor type="commentary" xml:id="KD494-1"/>
+               <rs type="work" subtype="implied" ref="#pmb32474">Posse</rs>
+               <note type="commentary" xml:id="KD494-1h">
+                  <p>
+                     <rs type="person" ref="#pmb4934">Gustav Raeder</rs>: <rs type="work" ref="#pmb32474">Robert und Bertram</rs>.</p>
+               </note>
                <pb/> an, wurde auf der Stiege von einem plötzlich über mich sinkenden Busen an der Brust getroffen, es war der von <rs type="person" ref="#pmb11791">Lucie</rs>, die mir aber, weil sie drüben »<rs type="work" ref="#pmb29917">Liebelei</rs>« zu spielen hat, gerade nur zuflüstern konnte, daß sie mich noch immer, hoffnungslos, liebt, und stürzte mich dann in den Rachen des Löwen, nemlich ins Bureau der Dramaturgen – <rs type="person" ref="#pmb11752">Holländer</rs> hat mir eben »bewegt« gestanden, daß alle über die <rs type="work" ref="#pmb30021">Nachtigall</rs> tief gekränkt und beleidigt und schwermütig<pb/> sind, was ich mit einem vortrefflich geheuchelten Erstaunen, innerlich aber mit der größten Wurstigkeit aufnahm. Mir sind alle anderen Menschen auf der Welt, außer <rs type="person" subtype="implied" ref="#pmb10818">Dir</rs>, so gleichgiltig geworden – es ist eigentlich furchtbar.</p>
             <p>Und nun denk ich an <rs type="person" subtype="implied" ref="#pmb10818">Dich</rs>, und daß heute <rs type="work" ref="#pmb31217">Iphigenie</rs> ist und ob Du meine Blumen bekommen hast und daß für mich alles andere versunken ist, was nicht Du bist, und daß ich <rs type="person" subtype="implied" ref="#pmb10818">Dich</rs> lieb hab, lieb lieb.</p>
             <p>Gute Nacht.</p>

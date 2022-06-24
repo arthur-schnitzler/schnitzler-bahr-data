@@ -13,11 +13,11 @@
             <title type="iso-date">1911-09-11</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF - Fonds für Wissenschaft und Forschung</name>
+               <name>FWF - Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -81,8 +81,10 @@
             <p>
                <date when="1911-09-11" n="01">11.</date>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KD503-1">Leiche von <rs type="person" ref="#pmb2121">Schnitzlers</rs> Mutter <rs type="person" ref="#pmb12701">Luise</rs>
-               </anchor>.</p>
+               <anchor type="commentary" xml:id="KD503-1"/>Leiche von <rs type="person" ref="#pmb2121">Schnitzlers</rs> Mutter <rs type="person" ref="#pmb12701">Luise</rs>
+               <note type="commentary" xml:id="KD503-1h">
+                  <p>Sie verstarb am <date instant="false">9. 9. 1911</date>.</p>
+               </note>.</p>
          </div>
       </body>
    </text>

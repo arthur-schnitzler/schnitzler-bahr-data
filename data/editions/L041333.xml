@@ -13,11 +13,11 @@
             <title type="iso-date">1912-04-27</title>
             <author ref="pmb10815">Bahr, Hermann</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -108,7 +108,9 @@
             </opener>
             <p>Meine <rs type="person" subtype="implied" ref="#pmb10818">Frau</rs> dankt Ihnen herzlichst für Ihre liebe Einladung, der sie so gern folgen würde, wenns nur irgend ging! Es geht aber leider nicht, weil sie gerade jetzt von den sämmtlichen Freundinnen oder Bekannten, die sie sich in den <del rend="strikethrough">zwölf</del>
                <space unit="chars" quantity="1"/>
-               <anchor type="commentary" xml:id="KL333-1">vierzehn <rs type="place" ref="#pmb50">Wiener</rs> Jahren</anchor> angesammelt hat, dringend aufgefordert wird, sie müßte nun bevor wir <rs type="place" ref="#pmb50">Wien</rs> verlassen, noch einmal zu ihnen kommen; sie hätte also vierzehn Tage rein mit Besuchen zuzubringen, da sagt sie lieber allen Nein. Nun können Sie sich aber vorstellen, wie eifersüchtig<pb/> diese sämmtlichen Freundinnen darüber wachen, daß sie wenigstens auch bei den anderen nicht erscheint, und Sie können sich den Lärm vorstellen, w<subst>
+               <anchor type="commentary" xml:id="KL333-1"/>vierzehn <rs type="place" ref="#pmb50">Wiener</rs> Jahren<note type="commentary" xml:id="KL333-1h">
+                  <p>Am <date instant="false">1. 6. 1898</date> wurde sie Ensemblemitglied der <rs type="place" ref="#pmb15">Wiener Hofoper</rs>.</p>
+               </note> angesammelt hat, dringend aufgefordert wird, sie müßte nun bevor wir <rs type="place" ref="#pmb50">Wien</rs> verlassen, noch einmal zu ihnen kommen; sie hätte also vierzehn Tage rein mit Besuchen zuzubringen, da sagt sie lieber allen Nein. Nun können Sie sich aber vorstellen, wie eifersüchtig<pb/> diese sämmtlichen Freundinnen darüber wachen, daß sie wenigstens auch bei den anderen nicht erscheint, und Sie können sich den Lärm vorstellen, w<subst>
                   <del rend="overwritten">ie</del>
                   <add place="inline">enn</add>
                </subst>

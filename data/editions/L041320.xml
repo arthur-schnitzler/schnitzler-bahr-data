@@ -14,11 +14,11 @@
             <author ref="pmb10815">Bahr, Hermann</author>
             <author ref="pmb10818">Bahr-Mildenburg, Anna</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -127,7 +127,10 @@
             </opener>
             <p>Dich und Deine liebe <rs type="person" subtype="implied" ref="#pmb2173">Frau</rs> grüßen herzlichst</p>
             <closer>
-               <signed>Hermann und <handShift scribe="pmb10818"/>Anna <anchor type="commentary" xml:id="KL320-1">Bahr-Mildenburg</anchor>
+               <signed>Hermann und <handShift scribe="pmb10818"/>Anna <anchor type="commentary" xml:id="KL320-1"/>Bahr-Mildenburg<note type="commentary" xml:id="KL320-1h">
+                     <p>Die Hochzeit, nach der sie den Doppelnamen führte, hatte am <date when="1909-08-22" instant="false">22. 8. 1909</date> in <rs type="place" ref="#pmb269">Aigen</rs> (heute: Stadtteil
+               von <rs type="place" ref="#pmb30">Salzburg</rs>) stattgefunden.</p>
+                  </note>
                </signed>
             </closer>
          </div>

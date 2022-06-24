@@ -14,11 +14,11 @@
             <author ref="pmb2121">Schnitzler, Arthur</author>
             <author ref="pmb2173">Schnitzler, Olga</author>
             <editor>
-               <name full="yes" instant="false">Ifkovits, Kurt</name>
-               <name full="yes" instant="false">Müller, Martin Anton</name>
+               <name>Ifkovits, Kurt</name>
+               <name>Müller, Martin Anton</name>
             </editor>
             <funder>
-               <name full="yes" instant="false">FWF – Fonds für Wissenschaft und Forschung</name>
+               <name>FWF – Fonds für Wissenschaft und Forschung</name>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -154,8 +154,11 @@
                   <date>6/5 908</date>
                </dateline>
             </opener>
-            <p>herzliche Grüße, in <anchor type="commentary" xml:id="KL106-1">Erinnerung an <date>1894</date>
-               </anchor>
+            <p>herzliche Grüße, in <anchor type="commentary" xml:id="KL106-1"/>Erinnerung an <date>1894</date>
+               <note type="commentary" xml:id="KL106-1h">
+                  <p>
+                     <ptr target="L041533"/>.</p>
+               </note>
             </p>
             <closer>Dein<lb/>
                <signed>Arthur</signed>
