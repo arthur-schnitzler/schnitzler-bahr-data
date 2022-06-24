@@ -58,7 +58,7 @@
                         <repository>Theatermuseum</repository>
                         <idno>HS VM 876 Ba</idno>
                      </msIdentifier>
-                     <physDesc>2. Seite eines »<quote>Skizzen 2</quote>« beschrifteten Hefts. Auf der ersten, der gegenüberliegenden, Seite eine Versandliste von <workName ref="#pmb31839">Wiener Theater</workName> (erschienen <date>Anfang Mai 1899</date>). Es dürfte also die Revue <workName ref="#pmb32582 #pmb32584">Wenn es euch gefällt</workName> gemeint sein, die am <date>24. 3. 1899</date> im <placeName ref="#pmb19">Ronacher</placeName> einmal aufgeführt wurde und die am <date>28. 5. 1899</date> von der <orgName ref="#pmb29351">Neuen Freie Presse</orgName> (<bibl>Nr. 12485, Morgenblatt, S. 8)</bibl>) als als Neuerscheinung angeführt ist. </physDesc>
+                     <physDesc>2. Seite eines »<quote>Skizzen 2</quote>« beschrifteten Hefts. Auf der ersten, der gegenüberliegenden, Seite eine Versandliste von <workName ref="#pmb31839">Wiener Theater</workName> (erschienen <date>Anfang Mai 1899</date>). Es dürfte also die Revue <workName ref="#pmb32582">Wenn es euch gefällt</workName> gemeint sein, die am <date>24. 3. 1899</date> im <placeName ref="#pmb19">Ronacher</placeName> einmal aufgeführt wurde und die am <date>28. 5. 1899</date> von der <orgName ref="#pmb29351">Neuen Freie Presse</orgName> (<bibl>Nr. 12485, Morgenblatt, S. 8)</bibl>) als als Neuerscheinung angeführt ist. </physDesc>
                   </msDesc>
                </witness>
             </listWit>
@@ -78,11 +78,11 @@
          <div type="writingSession" n="1">
             <p>
                <anchor type="commentary" xml:id="KT087-1"/>
-               <rs type="work" subtype="implied" ref="#pmb32582 #pmb32584">Revue</rs>
+               <rs type="work" subtype="implied" ref="#pmb32582">Revue</rs>
                <note type="commentary" xml:id="KT087-1h">
                   <p>
                      <bibl >
-                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>, <rs type="person" ref="#pmb13082">C. Karlweis</rs>: <rs type="work" ref="#pmb32582 #pmb32584">Wenn es euch gefällt. Wiener Revue in drei Bildern und einem Vorspiel</rs>.
+                        <rs type="person" ref="#pmb10815">Hermann Bahr</rs>, <rs type="person" ref="#pmb13082">C. Karlweis</rs>: <rs type="work" ref="#pmb32582">Wenn es euch gefällt. Wiener Revue in drei Bildern und einem Vorspiel</rs>.
                   Wien: <rs type="org" ref="#pmb29296">Carl Konegen</rs>
                         <space unit="chars" quantity="1"/>
                         <date >1899</date>
