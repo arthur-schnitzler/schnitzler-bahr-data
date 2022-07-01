@@ -5,14 +5,21 @@
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:output method="xml" indent="yes"/>
     <xsl:template match="tei:TEI/@next">
-        <xsl:variable name="dateiname" as="xs:string"
-            select="substring-before(ancestor::tei:TEI/@xml:id, '.xml')"/>
-        <xsl:variable name="n-wert" select="parent::tei:TEI/descendant::tei:date[@n][1]/@n"
-            as="xs:int"/>
+        <xsl:variable name="dateiname" as="xs:string">
+            <xsl:choose>
+                <xsl:when test="contains(ancestor::tei:TEI/@xml:id, '.xml')">
+                    <xsl:value-of select="substring-before(ancestor::tei:TEI/@xml:id, '.xml')"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="ancestor::tei:TEI/@xml:id"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         <xsl:variable name="datumswert"
             select="parent::tei:TEI/descendant::tei:titleStmt/tei:title[@type = 'iso-date']"/>
         <xsl:variable name="doccidate" as="node()">
             <docs>
+                <doc id="D041003" sortdate="1891-04-27"/>
                 <doc id="D041004" sortdate="1891-04-28"/>
                 <doc id="T030002" sortdate="1891-05-06"/>
                 <doc id="L041407" sortdate="1891-08-11"/>
@@ -993,7 +1000,6 @@
                 <doc id="L041320" sortdate="1909-08-25"/>
                 <doc id="L041111" sortdate="1909-08-28"/>
                 <doc id="I041001" sortdate="1909-09-02"/>
-                
                 <doc id="L041112" sortdate="1909-09-14"/>
                 <doc id="L041321" sortdate="1909-09-15"/>
                 <doc id="D041051" sortdate="1909-10-15"/>
@@ -1383,18 +1389,26 @@
         </xsl:variable>
         <xsl:attribute name="next">
             <xsl:value-of
-                select="concat($doccidate//tei:doc[@id = $dateiname]/following-sibling::tei:doc[1]/@id, '.html')"/>
+                select="concat($doccidate//tei:doc[@id = $dateiname]/following-sibling::tei:doc[1]/@id, '.html')"
+            />
         </xsl:attribute>
     </xsl:template>
     <xsl:template match="tei:TEI/@prev">
-        <xsl:variable name="dateiname" as="xs:string"
-            select="substring-before(ancestor::tei:TEI/@xml:id, '.xml')"/>
-        <xsl:variable name="n-wert" select="parent::tei:TEI/descendant::tei:date[@n][1]/@n"
-            as="xs:int"/>
+        <xsl:variable name="dateiname" as="xs:string">
+            <xsl:choose>
+                <xsl:when test="contains(ancestor::tei:TEI/@xml:id, '.xml')">
+                    <xsl:value-of select="substring-before(ancestor::tei:TEI/@xml:id, '.xml')"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="ancestor::tei:TEI/@xml:id"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         <xsl:variable name="datumswert"
             select="parent::tei:TEI/descendant::tei:titleStmt/tei:title[@type = 'iso-date']"/>
         <xsl:variable name="doccidate" as="node()">
             <docs>
+                <doc id="D041003" sortdate="1891-04-27"/>
                 <doc id="D041004" sortdate="1891-04-28"/>
                 <doc id="T030002" sortdate="1891-05-06"/>
                 <doc id="L041407" sortdate="1891-08-11"/>
@@ -2375,7 +2389,6 @@
                 <doc id="L041320" sortdate="1909-08-25"/>
                 <doc id="L041111" sortdate="1909-08-28"/>
                 <doc id="I041001" sortdate="1909-09-02"/>
-                
                 <doc id="L041112" sortdate="1909-09-14"/>
                 <doc id="L041321" sortdate="1909-09-15"/>
                 <doc id="D041051" sortdate="1909-10-15"/>
@@ -2765,7 +2778,8 @@
         </xsl:variable>
         <xsl:attribute name="prev">
             <xsl:value-of
-                select="concat($doccidate//tei:doc[@id = $dateiname]/preceding-sibling::tei:doc[1]/@id, '.html')"/>
+                select="concat($doccidate//tei:doc[@id = $dateiname]/preceding-sibling::tei:doc[1]/@id, '.html')"
+            />
         </xsl:attribute>
     </xsl:template>
     <xsl:template match="@full"/>
