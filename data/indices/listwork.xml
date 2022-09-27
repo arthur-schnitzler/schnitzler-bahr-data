@@ -216,7 +216,6 @@
                   <title type="main">Die treue Adele. Eine vergeßliche Geschichte</title>
                   <title type="bibliografische_angabe">Die Gesellschaft, Jg. 5, H. 11, 1. 11. 1889</title>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date>1.11.1889 – 1.11.1889</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30187.html</idno>
                   <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/30187</idno>
@@ -310,7 +309,6 @@
                <bibl xml:id="pmb30407">
                   <title type="main">Der Witwer</title>
                   <title type="bibliografische_angabe">Wiener Allgemeine Zeitung, 25. 12. 1894</title>
-                  <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
                   <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
                   <date when-iso="1894-12-25">25.12.1894</date>
                   <idno type="URL"/>
@@ -565,7 +563,6 @@
               S. 19–26</title>
                   <title type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Tod_des_Junggesellen</title>
                   <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
-                  <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
                   <date when-iso="1908-04-01">1.4.1908</date>
                   <idno type="URL"/>
                   <idno type="wikidata">https://www.wikidata.org/wiki/Q1197440/</idno>
@@ -580,8 +577,6 @@
                   <title type="main">Der rothe Vorhang</title>
                   <title type="bibliografische_angabe">Die Zeit, Bd. 18, Nr. 225, 21. 1. 1899 – Nr.
               230, 25. 2. 1899</title>
-                  <author ref="pmb4266" role="hat-geschaffen">Barbey d’Aurevilly,
-              Jules-Amédée</author>
                   <author ref="pmb4266" role="hat-geschaffen">Barbey d’Aurevilly,
               Jules-Amédée</author>
                   <date>1899.01.21/1899.02.25</date>
@@ -670,7 +665,6 @@
                   <title type="main">Marginal Notes on Civilization in the United States</title>
                   <title type="bibliografische_angabe">The Dial, Jg. 72, June 1922</title>
                   <author ref="pmb3794" role="hat-geschaffen">Santayana, George</author>
-                  <author ref="pmb3794" role="hat-geschaffen">Santayana, George</author>
                   <date>1922.06</date>
                   <idno type="exemplar"/>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30115.html</idno>
@@ -698,7 +692,6 @@
                   <title type="main">Stille Bücher</title>
                   <title type="bibliografische_angabe">Neues Wiener Tagblatt, 17. 6. 1901</title>
                   <author ref="pmb2226" role="hat-geschaffen">W. Fred</author>
-                  <author ref="pmb2226" role="hat-geschaffen">W. Fred</author>
                   <date when-iso="1901-06-17">17.06.1901</date>
                   <idno type="exemplar"/>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30147.html</idno>
@@ -716,7 +709,6 @@
                <bibl xml:id="pmb30153">
                   <title type="main">Das Haus am Abhang</title>
                   <title type="legacy-name-merge">Das Haus am Abhang</title>
-                  <author ref="pmb12968" role="hat-geschaffen">Trebitsch, Siegfried</author>
                   <author ref="pmb12968" role="hat-geschaffen">Trebitsch, Siegfried</author>
                   <date when-iso="1906-01-01">1906</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30153.html</idno>
@@ -783,7 +775,6 @@
                   <title type="main">Erzählende Literatur</title>
                   <title type="bibliografische_angabe">Österreichische Rundschau, Bd. 18, H. 1, 1. 1.
               1909, S. 78–84</title>
-                  <author ref="pmb12858" role="hat-geschaffen">Stoessl, Otto</author>
                   <author ref="pmb12858" role="hat-geschaffen">Stoessl, Otto</author>
                   <date when-iso="1909-01-01">01.01.1909</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30229.html</idno>
@@ -863,7 +854,6 @@
                <bibl xml:id="pmb30273">
                   <title type="main">Saisonbeginn</title>
                   <title type="bibliografische_angabe">Berliner Tageblatt, 26. 9. 1893</title>
-                  <author ref="pmb28517" role="hat-geschaffen">Hermann, Wilhelm</author>
                   <author ref="pmb28517" role="hat-geschaffen">Hermann, Wilhelm</author>
                   <date when-iso="1893-09-26">26.09.1893</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30273.html</idno>
@@ -1119,7 +1109,6 @@
                <bibl xml:id="pmb30459">
                   <title type="main">Der düstere Shakespeare</title>
                   <title type="bibliografische_angabe">Die Zeit, Bd. 8, Nr. 92, 4. 7. 1896</title>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1896-07-04">04.07.1896</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30459.html</idno>
@@ -5066,7 +5055,6 @@
                   <title type="legacy-name-merge">Studien über Hysterie</title>
                   <author ref="pmb3217" role="hat-geschaffen">Breuer, Josef</author>
                   <author ref="pmb11370" role="hat-geschaffen">Freud, Sigmund</author>
-                  <author ref="pmb3217" role="hat-geschaffen">Breuer, Josef</author>
                   <date when-iso="1895-01-01">1895</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32608.html</idno>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32610.html</idno>
@@ -8271,7 +8259,6 @@
                   <title type="main">Zum großen Wurstel</title>
                   <title type="bibliografische_angabe">Die Zeit, Beilage: Oster-Zeit, 23. 4. 1905</title>
                   <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
-                  <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
                   <date when-iso="1905-04-23">23.04.1905</date>
                   <idno type="wikidata">https://www.wikidata.org/wiki/Q29014616/</idno>
                   <idno type="URL"/>
@@ -8303,7 +8290,6 @@
                   <title type="main">Der arme Narr</title>
                   <title type="bibliografische_angabe">Österreichische Rundschau, 28. 9. 1905</title>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1905-09-28">28.09.1905</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30001.html</idno>
                   <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/30001</idno>
@@ -8328,7 +8314,6 @@
                   <title type="main">Die tiefe Natur. Ein Akt</title>
                   <title type="bibliografische_angabe">Österreichische Rundschau, Bd. 9, H. 2, 1. 12.
               1906</title>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1906-12-01">01.12.1906</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30007.html</idno>
@@ -10847,7 +10832,6 @@
                   <title type="legacy-uri-merge">https://www.wikidata.org/wiki/Q18030058</title>
                   <title type="legacy-uri-merge">https://theadok.at/work/38157</title>
                   <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
-                  <author ref="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
                   <date when-iso="1970-01-01">1970</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32049.html</idno>
                   <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/32049</idno>
@@ -11257,7 +11241,6 @@
                   <title type="bibliografische_angabe">Österreichische Volks-Zeitung, 27. 11.
               1904</title>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1904-11-27">27.11.1904</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30045.html</idno>
                   <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/30045</idno>
@@ -11282,8 +11265,6 @@
                   <title type="bibliografische_angabe">Neues Wiener Tagblatt, 4. 10. 1903</title>
                   <author ref="pmb10815" role="hat-unter-pseudonym-geschrieben">Bahr,
               Hermann</author>
-                  <author ref="pmb10815" role="hat-unter-pseudonym-geschrieben">Bahr,
-              Hermann</author>
                   <date when-iso="1903-10-04">04.10.1903</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30099.html</idno>
                   <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/30099</idno>
@@ -11306,7 +11287,6 @@
                   <title type="main">Theater und Kunst. (Burgtheater) [Die Braut von Messina]</title>
                   <title type="bibliografische_angabe">Österreichische Volks-Zeitung, 7. 4.
               1903</title>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1903-04-07">07.04.1903</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30111.html</idno>
@@ -12138,7 +12118,6 @@
                   <title type="bibliografische_angabe">Das Schauspielergesetz. Festschrift. Herausgegeben
               vom Deutschösterreichischen Bühnenverein. Wien, August 1922</title>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1922-08-01">August 1922&lt;1922-08-01&gt;</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30103.html</idno>
                   <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/30103</idno>
@@ -12172,7 +12151,6 @@
                   <title type="main">Moderne Kunst in Österreich</title>
                   <title type="bibliografische_angabe">Moderne Kunst in Meister-Holzschnitten, Bd. 6, Nr.
               12, Dezember 1891</title>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1891-12-01">Dezember 1891&lt;1891-12-01&gt;</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30261.html</idno>
@@ -13889,7 +13867,6 @@
                <bibl xml:id="pmb29959">
                   <title type="main">Erotisch</title>
                   <title type="bibliografische_angabe">Neues Wiener Tagblatt, 22. 6. 1901</title>
-                  <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <author ref="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
                   <date when-iso="1901-06-22">22.06.1901</date>
                   <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29959.html</idno>
