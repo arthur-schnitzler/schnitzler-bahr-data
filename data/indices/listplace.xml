@@ -5067,16 +5067,6 @@
                   </tei:location>
                   <idno subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/85</idno>
                </place>
-               <place xml:id="pmb799">
-                  <placeName>Löwelstraße</placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.209728953541 16.362272930198</tei:geo>
-                  </tei:location>
-                  <idno subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/799</idno>
-               </place>
                <place xml:id="pmb884">
                   <placeName>Lübeck</placeName>
                   <tei:desc>
