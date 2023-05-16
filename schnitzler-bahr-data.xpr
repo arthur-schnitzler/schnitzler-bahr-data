@@ -607,6 +607,5 @@
     </meta>
     <projectTree name="schnitzler-bahr-data.xpr">
         <folder path="."/>
-        <folder path="data/xslts/"/>
     </projectTree>
 </project>
