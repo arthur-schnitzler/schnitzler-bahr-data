@@ -5,10 +5,10 @@
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:output method="xml" indent="yes"/>
     <!-- angewandt auf bestehende listperson.xml etc. -->
-    <xsl:template match="tei:listPlace/tei:place[@xml:id]">
+    <xsl:template match="tei:listPlace/tei:place[starts-with(@xml:id, 'pmb')]">
         <xsl:variable name="nummer" select="replace(@xml:id, 'pmb', '')"/>
         <xsl:variable name="eintrag"
-            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/entities/tei/place/', $nummer))"
+            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/tei/place/', $nummer))"
             as="xs:string"/>
         <xsl:choose>
             <xsl:when test="doc-available($eintrag)">
@@ -24,10 +24,10 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    <xsl:template match="tei:listOrg/tei:org[@xml:id]">
-        <xsl:variable name="nummer" select="replace(@xml:id, 'pmb', '')"/>
+    <xsl:template match="tei:listOrg/tei:org[tei:idno[@subtype='pmb']]">
+        <xsl:variable name="nummer" select="replace(replace(tei:idno[@subtype='pmb'][1]/text(), 'https://pmb.acdh.oeaw.ac.at/entity/', ''), '/', '')"/>
         <xsl:variable name="eintrag"
-            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/entities/tei/org/', $nummer))"
+            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/tei/org/', $nummer))"
             as="xs:string"/>
         <xsl:choose>
             <xsl:when test="doc-available($eintrag)">
@@ -43,10 +43,10 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    <xsl:template match="tei:listBibl/tei:bibl[@xml:id]">
+    <xsl:template match="tei:listBibl/tei:bibl[starts-with(@xml:id, 'pmb')]">
         <xsl:variable name="nummer" select="replace(@xml:id, 'pmb', '')"/>
         <xsl:variable name="eintrag"
-            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/entities/tei/work/', $nummer))"
+            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/tei/work/', $nummer))"
             as="xs:string"/>
         <xsl:choose>
             <xsl:when test="doc-available($eintrag)">
@@ -62,10 +62,13 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    
+    
+    
     <xsl:template match="tei:listPerson/tei:person[@xml:id]">
         <xsl:variable name="nummer" select="replace(@xml:id, 'pmb', '')"/>
         <xsl:variable name="eintrag"
-            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/entities/tei/person/', $nummer))"
+            select="fn:escape-html-uri(concat('https://pmb.acdh.oeaw.ac.at/apis/tei/person/', $nummer))"
             as="xs:string"/>
         <xsl:choose>
             <xsl:when test="doc-available($eintrag)">
