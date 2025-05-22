@@ -7085,7 +7085,7 @@
                   </listBibl>
                </place>
                <place xml:id="pmb400">
-                  <placeName>Hotel Kaiserhof</placeName>
+                  <placeName>Hotel Kaiserhof [Berlin]</placeName>
                   <desc type="entity_type">Hotel (K.HTL)</desc>
                   <desc type="entity_type_id">12</desc>
                   <location type="coords">
@@ -7100,6 +7100,9 @@
                   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q320591</idno>
                   <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hotel_Kaiserhof_(Berlin)</idno>
                   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb400.html</idno>
+                  <listBibl>
+                     <bibl type="collections" n="24">manually created entity</bibl>
+                  </listBibl>
                   <note type="apis_dates">
                      <date from-iso="1875-01-01" to-iso="1943-01-01">1875 – 1943</date>
                   </note>
