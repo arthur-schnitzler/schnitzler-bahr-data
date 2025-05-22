@@ -2576,25 +2576,7 @@
                   </note>
                   <note type="work_kind">Mehraktiges Drama</note>
                </bibl>
-               <bibl xml:id="pmb31221">
-                  <title type="main">Der kritische Tag. Phantastisches Singspiel in fünf Bildern</title>
-                  <title type="legacy-name-merge">Der Kritische Tag</title>
-                  <title type="legacy-name-merge">Der kritische Tag</title>
-                  <author ref="pmb2154" role="hat-geschaffen">Chiavacci, Vincenz</author>
-                  <author ref="pmb11402" role="hat-geschaffen">Ganghofer, Ludwig</author>
-                  <author ref="pmb8348" role="hat-vertont">Kremser, Eduard</author>
-                  <date when-iso="1891-11-28">1891-11-28</date>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31221.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31221/</idno>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31223.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31223/</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77507/</idno>
-                  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77507.html</idno>
-                  <note type="collections">
-                     <bibl type="collections" n="24">manually created entity</bibl>
-                  </note>
-                  <note type="work_kind">Mehraktiges Drama</note>
-               </bibl>
+               
                <bibl xml:id="pmb31227">
                   <title type="main">Die rechte und die linke Hand</title>
                   <author ref="pmb10788" role="hat-geschaffen">Auernheimer, Raoul</author>
@@ -3888,7 +3870,35 @@
                   <note type="work_kind">Mehraktiges Drama</note>
                   <note type="references">None</note>
                </bibl>
-               <error type="bibl">31759</error>
+               <bibl xml:id="pmb31759">
+                  <title type="main">Frou-Frou. Comédie en cinq actes</title>
+                  <title type="legacy-name-merge">Frou-Frou</title>
+                  <title type="legacy-name-merge">Frou-Frou</title>
+                  <title type="legacy-name-merge">Frou-Frou</title>
+                  <author key="person__4197" role="hat-geschaffen">Halévy, Ludovic</author>
+                  <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
+                  <date notBefore-iso="1869-01-01" when-iso="1869-01-01">1869</date>
+                  <idno type="URL" subtype="schnitzler-bahr">
+                     https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31757.html
+                  </idno>
+                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31757/</idno>
+                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163935/</idno>
+                  <idno type="URL" subtype="schnitzler-bahr">
+                     https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31759.html
+                  </idno>
+                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164406/</idno>
+                  <idno type="URL" subtype="bahr-tsn">
+                     https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164406
+                  </idno>
+                  <idno type="URL" subtype="bahr-tsn">
+                     https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163935
+                  </idno>
+                  <note type="collections">
+                     <bibl type="collections" n="24">manually created entity</bibl>
+                  </note>
+                  <note type="work_kind">Mehraktiges Drama</note>
+                  <note type="references">None</note>
+               </bibl>
                <bibl xml:id="pmb31761">
                   <title type="main">Die sieben Todsünden</title>
                   <author ref="pmb11491" role="hat-geschaffen">Goldschmidt, Adalbert von</author>

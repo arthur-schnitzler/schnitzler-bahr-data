@@ -10970,59 +10970,7 @@
                   </location>
                   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51269/</idno>
                </org>
-               <org xml:id="pmb51283">
-                  <orgName>Verein Volksheim</orgName>
-                  <orgName type="institution_namensvariante">Volkshochschule Wien Volksheim</orgName>
-                  <orgName type="legacy-name-merge">Großer Saal des Volksheims</orgName>
-                  <desc type="entity_type">Verein</desc>
-                  <desc type="entity_type_id">974</desc>
-                  <location type="located_in_place">
-                     <placeName ref="pmb183253">Volksheim</placeName>
-                     <geo>48,201152 16,338652</geo>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183253/</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb599">Volkshochschule Ottakring</placeName>
-                     <geo>48,206694 16,333972</geo>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb599.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/599/</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q2531995</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Volkshochschule_Ottakring</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb66">XVI., Ottakring</placeName>
-                     <geo>48,21667 16,3</geo>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2769357/</note>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb66.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/66/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb66</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/98733/</note>
-                     <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4200552-8</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/105570/</note>
-                     <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108810-4</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/117296/</note>
-                     <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4108808-6</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1496772</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q265945</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Ottakring_(Wiener_Bezirksteil)</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1980858</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Ottakring</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Neulerchenfeld</note>
-                     <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb66.html</note>
-                     <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb66.html</note>
-                  </location>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51283/</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37608/</idno>
-                  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37608</idno>
-                  <listBibl>
-                     <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
-                     <bibl type="collections" n="24">manually created entity</bibl>
-                  </listBibl>
-                  <note type="references"> </note>
-                  <note type="apis_dates">
-                     <date notBefore-iso="1901-01-01" when-iso="1901-01-01">1901</date>
-                  </note>
-               </org>
+               
                <org xml:id="pmb53015">
                   <orgName>Schulverein Ortsgruppe „Jugendgruppe“</orgName>
                   <desc type="entity_type">Verein</desc>
@@ -16965,70 +16913,7 @@
                      <date when-iso="1897-04-03">1897-04-03</date>
                   </note>
                </org>
-               <org xml:id="pmb53176">
-                  <orgName>Wiener Secession</orgName>
-                  <orgName type="legacy-name-merge">Wiener Secession</orgName>
-                  <desc type="entity_type">Künstlervereinigung</desc>
-                  <desc type="entity_type_id">983</desc>
-                  <location type="located_in_place">
-                     <placeName ref="pmb7">Secession</placeName>
-                     <geo>48,200364 16,365508</geo>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb7.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7/</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q265129</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Secessionsgeb%C3%A4ude</note>
-                     <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb7.html</note>
-                     <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb7.html</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb50">Wien</placeName>
-                     <geo>48,208333 16,373056</geo>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-                     <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1741</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Wien</note>
-                     <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761333/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33999/</note>
-                     <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     <geo>48,20769 16,37049</geo>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2775259/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
-                     <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb51.html</note>
-                     <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb51.html</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q267329</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Innere_Stadt_(Wien)</note>
-                  </location>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44948/</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53176/</idno>
-                  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb53176</idno>
-                  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/32262-3</idno>
-                  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Secession</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q208208</idno>
-                  <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=15328</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44948.html</idno>
-                  <listBibl>
-                     <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
-                  </listBibl>
-                  <note type="apis_dates">
-                     <date when-iso="1897-04-03">1897-04-03</date>
-                  </note>
-               </org>
+               
                <org xml:id="pmb29234">
                   <orgName>Passamt</orgName>
                   <desc type="entity_type">Amt</desc>
@@ -19897,59 +19782,7 @@
                      <date from-iso="1914-01-01" to-iso="1938-01-01">1914 – 1938</date>
                   </note>
                </org>
-               <org xml:id="pmb29275">
-                  <orgName>Genossenschaft dramatischer Autoren und Komponisten in Österreich</orgName>
-                  <orgName type="namensvariante">Genossenschaft Dramatischer Schriftsteller und Komponisten</orgName>
-                  <orgName type="institution_namensvariante">Autorengesellschaft</orgName>
-                  <orgName type="legacy-name-merge">Gemeinschaft dramatischer Schriftsteller und Komponisten (Österreich)</orgName>
-                  <orgName type="namensvariante">Verband der österreichischen Bühnenschriftsteller</orgName>
-                  <desc type="entity_type">Interessensvertretung</desc>
-                  <desc type="entity_type_id">999</desc>
-                  <location type="located_in_place">
-                     <placeName ref="pmb50">Wien</placeName>
-                     <geo>48,208333 16,373056</geo>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-                     <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1741</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Wien</note>
-                     <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761333/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33999/</note>
-                     <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb57113">Schubertgasse</placeName>
-                     <geo>48,227579161212056 16,353365884715828</geo>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57113/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57113</note>
-                  </location>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29275.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29275/</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29275.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37131/</idno>
-                  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37131</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q130468356</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29594/</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29594.html</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29594.html</idno>
-                  <listBibl>
-                     <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
-                     <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
-                     <bibl type="collections" n="24">manually created entity</bibl>
-                  </listBibl>
-                  <note type="references"> </note>
-                  <note type="apis_dates">
-                     <date when-iso="1919-05-19">1919-05-19</date>
-                  </note>
-               </org>
+               
                <org xml:id="pmb29598">
                   <orgName>Vereinigung der österreichischen Richterinnen und Richter</orgName>
                   <desc type="entity_type">Interessensvertretung</desc>
@@ -25227,26 +25060,7 @@
                      <date from-iso="1877-01-01" to-iso="1944-01-01">1877 – 1944</date>
                   </note>
                </org>
-               <org xml:id="pmb88286">
-                  <orgName>Theater Orange</orgName>
-                  <orgName type="institution_namensvariante">Théâtre Antique</orgName>
-                  <desc type="entity_type">Theater</desc>
-                  <desc type="entity_type_id">1012</desc>
-                  <location type="located_in_place">
-                     <placeName ref="pmb34455">Orange</placeName>
-                     <geo>44,1375 4,80889</geo>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/6451580/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34455/</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q187796</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Orange_(Vaucluse)</note>
-                  </location>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88286/</idno>
-                  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4748977-7</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88286.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88282/</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q958961</idno>
-                  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Theater_von_Orange</idno>
-               </org>
+               
                <org xml:id="pmb88469">
                   <orgName>Komissarževskaja-Theater</orgName>
                   <orgName type="namensvariante">Teatr imeni Komissarževskoj</orgName>
@@ -25364,68 +25178,7 @@
                      <date from-iso="1897-01-01" to-iso="1906-01-01">1897 – 1906</date>
                   </note>
                </org>
-               <org xml:id="pmb88756">
-                  <orgName>Frankfurter Stadttheater</orgName>
-                  <orgName type="institution_namensvariante">Schauspielhaus (Frankfurt, Main)</orgName>
-                  <orgName type="institution_namensvariante">Comoedienhaus</orgName>
-                  <orgName type="institution_namensvariante">Frankfurter Nationaltheater</orgName>
-                  <orgName type="institution_namensvariante">Frankfurter Stadt-Theater</orgName>
-                  <orgName type="legacy-name-merge">Frankfurter Städtisches Schauspielhaus</orgName>
-                  <orgName type="institution_namensvariante">Frankfurter Schauspielhaus</orgName>
-                  <desc type="entity_type">Theater</desc>
-                  <desc type="entity_type_id">1012</desc>
-                  <location type="located_in_place">
-                     <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     <geo>50,11552 8,68417</geo>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2925533/</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1794</note>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb146.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/146/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46955/</note>
-                     <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4018118-2</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64181/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64493/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64501/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64503/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb146</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Frankfurt_am_Main</note>
-                     <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb146.html</note>
-                     <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb146.html</note>
-                     <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb56867">Hochstraße [Frankfurt am Main]</placeName>
-                     <geo>50,11634235574901 8,676255282930587</geo>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56867/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb56867</note>
-                     <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb56867.html</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb199463">Frankfurter Stadttheater</placeName>
-                     <geo>50,1081 8,67417</geo>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199463/</note>
-                  </location>
-                  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/509073-8</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88756/</idno>
-                  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1090613350</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142423/</idno>
-                  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1041343701</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5155182</idno>
-                  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Comoedienhaus_(Frankfurt_am_Main)</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88756.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34987/</idno>
-                  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb34987</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb34987.html</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34987.html</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q568931</idno>
-                  <listBibl>
-                     <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
-                  </listBibl>
-                  <note type="references"> </note>
-                  <note type="apis_dates">
-                     <date to-iso="1902-10-30">1782-09-02 – 1902-10-30</date>
-                  </note>
-               </org>
+               
                <org xml:id="pmb29384">
                   <orgName>B. Firnberg</orgName>
                   <desc type="entity_type">Musikalienverlag</desc>
@@ -25647,59 +25400,7 @@
                      <date notBefore-iso="1777-01-01" when-iso="1777-01-01">1777</date>
                   </note>
                </org>
-               <org xml:id="pmb29275">
-                  <orgName>Genossenschaft dramatischer Autoren und Komponisten in Österreich</orgName>
-                  <orgName type="namensvariante">Genossenschaft Dramatischer Schriftsteller und Komponisten</orgName>
-                  <orgName type="institution_namensvariante">Autorengesellschaft</orgName>
-                  <orgName type="legacy-name-merge">Gemeinschaft dramatischer Schriftsteller und Komponisten (Österreich)</orgName>
-                  <orgName type="namensvariante">Verband der österreichischen Bühnenschriftsteller</orgName>
-                  <desc type="entity_type">Interessensvertretung</desc>
-                  <desc type="entity_type_id">999</desc>
-                  <location type="located_in_place">
-                     <placeName ref="pmb50">Wien</placeName>
-                     <geo>48,208333 16,373056</geo>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
-                     <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
-                     <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
-                     <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1741</note>
-                     <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Wien</note>
-                     <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761333/</note>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33999/</note>
-                     <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
-                     <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</note>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb57113">Schubertgasse</placeName>
-                     <geo>48,227579161212056 16,353365884715828</geo>
-                     <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57113/</note>
-                     <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb57113</note>
-                  </location>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29275.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29275/</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29275.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37131/</idno>
-                  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37131</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q130468356</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29594/</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29594.html</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29594.html</idno>
-                  <listBibl>
-                     <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
-                     <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
-                     <bibl type="collections" n="24">manually created entity</bibl>
-                  </listBibl>
-                  <note type="references"> </note>
-                  <note type="apis_dates">
-                     <date when-iso="1919-05-19">1919-05-19</date>
-                  </note>
-               </org>
+               
                <org xml:id="pmb56870">
                   <orgName>Kartellverband des deutschen Bühnenvereins und der deutschen Verleger</orgName>
                   <desc type="entity_type">Autorenverband</desc>
