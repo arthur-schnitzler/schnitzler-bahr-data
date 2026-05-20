@@ -1,0 +1,46 @@
+{
+  "title": "Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente (1891–1931). Quelldaten",
+  "description": "<p>XML-Dateien mit Korrespondenzstücken, Tagebuchauszügen, Texten und Notizen aus der wissenschaftlichen Edition Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente (1891–1931).</p><p>Online-Edition: <a href=\"https://bahrschnitzler.acdh.oeaw.ac.at\">https://bahrschnitzler.acdh.oeaw.ac.at</a></p><p>Quellcode: <a href=\"https://github.com/arthur-schnitzler/schnitzler-bahr-data\">github.com/arthur-schnitzler/schnitzler-bahr-data</a></p>",
+  "creators": [
+    {
+      "name": "Müller, Martin Anton",
+      "affiliation": "Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische Akademie der Wissenschaften",
+      "orcid": "0000-0002-0127-9109"
+    },
+    {
+      "name": "Ifkovits, Kurt",
+      "affiliation": "Theatermuseum Wien",
+      "orcid": "0000-0002-8085-7439"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Arthur Schnitzler",
+    "Wiener Moderne",
+    "Digital Scholarly Editing",
+    "Digital Humanities",
+    "Hermann Bahr",
+    "Briefedition",
+    "Korrespondenz"
+  ],
+  "communities": [
+    {
+      "identifier": "dh"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://bahrschnitzler.acdh.oeaw.ac.at",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://library.oapen.org/handle/20.500.12657/30272",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-book"
+    }
+  ]
+}
