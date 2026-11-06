@@ -14781,44 +14781,7 @@
                      </figure>
                   </note>
                </place>
-               <place xml:id="pmb176">
-                  <placeName>Schwarzenbergpark</placeName>
-                  <placeName type="ort_namensvariante">Dornbacher Park</placeName>
-                  <placeName type="ort_fruherer-name">Neuwaldegger Schlosspark</placeName>
-                  <placeName type="ort_fruherer-name">Neuwaldegger Park</placeName>
-                  <desc type="entity_type">Park (K.PRK)</desc>
-                  <desc type="entity_type_id">19</desc>
-                  <location type="coords">
-                     <geo>48,241960480337 16,276509500872</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb170">Neuwaldegg</placeName>
-                     <geo>48,233333 16,291944</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb67">XVII., Hernals</placeName>
-                     <geo>48,22707 16,31006</geo>
-                  </location>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb176.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/176/</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/241/</idno>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb241.html</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb176.html</idno>
-                  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb176.html</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2253835</idno>
-                  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schwarzenbergpark</idno>
-                  <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb176.html</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb176.html</idno>
-                  <listBibl>
-                     <bibl type="collections" n="24">manually created entity</bibl>
-                     <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-                  </listBibl>
-                  <note type="image">
-                     <figure>
-                        <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wien-Neuwaldegg_Schwarzenbergpark_Grabmal_31032005.JPG/250px-Wien-Neuwaldegg_Schwarzenbergpark_Grabmal_31032005.JPG"/>
-                     </figure>
-                  </note>
-               </place>
+               
                <place xml:id="pmb111">
                   <placeName>Newaldhof</placeName>
                   <desc type="entity_type">Gebäude (K.GBD)</desc>
@@ -22627,44 +22590,7 @@
                      </figure>
                   </note>
                </place>
-               <place xml:id="pmb28">
-                  <placeName>Volksoper Wien</placeName>
-                  <placeName type="namensvariante">Kaiser-Jubiläums-Stadttheater</placeName>
-                  <placeName type="namensvariante">Jubiläumstheater</placeName>
-                  <placeName type="ort_namensvariante">Neues Wiener Schauspielhaus</placeName>
-                  <desc type="entity_type">Theater (K.THE)</desc>
-                  <desc type="entity_type_id">4</desc>
-                  <location type="coords">
-                     <geo>48,224472 16,350361</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName ref="pmb59">IX., Alsergrund</placeName>
-                     <geo>48,22387 16,35641</geo>
-                  </location>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb28.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28/</idno>
-                  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q694747</idno>
-                  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Volksoper_Wien</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb28.html</idno>
-                  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb618.html</idno>
-                  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/618/</idno>
-                  <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb618.html</idno>
-                  <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb28.html</idno>
-                  <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb28.html</idno>
-                  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb28.html</idno>
-                  <listBibl>
-                     <bibl type="collections" n="24">manually created entity</bibl>
-                     <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-                  </listBibl>
-                  <note type="apis_dates">
-                     <date notBefore-iso="1898-01-01" when-iso="1898-01-01">1898</date>
-                  </note>
-                  <note type="image">
-                     <figure>
-                        <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wien_-_Volksoper.JPG/250px-Wien_-_Volksoper.JPG"/>
-                     </figure>
-                  </note>
-               </place>
+               
                <place xml:id="pmb20">
                   <placeName>Volkstheater</placeName>
                   <placeName type="namensvariante">Deutsches Volkstheater</placeName>
